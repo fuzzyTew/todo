@@ -1039,6 +1039,7 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
 
 - [ ] 2019-05-31 Fri
+	- [ ][ ] 11:00a - Wanda therapy
 	- [ ][ ] 1:00p - Physical therapy
 		SCHEDULE MORE
 
