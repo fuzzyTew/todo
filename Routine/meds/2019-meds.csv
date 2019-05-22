@@ -96,6 +96,8 @@ T5, Extra Strength Tylenol, 2 tablets
 T5, CONTAINS acetaminophen, 500 milligrams
 MP, MegaFood MegaFlora, 1 capsule
 MP, CONTAINS probiotic blend, 20 billion CFU
+RP, Risperidone 1mg, 1 tablet
+RP, CONTAINS risperidone, 1 milligrams
 
 Morning Meds
 B2, Nature's Truth B-12 1000 mcg, 1 tablet
@@ -114,6 +116,7 @@ C12, Rexall Bone Health Calcium 1200, 1 softgels
 C12, Rexall Bone Health Calcium 1200, 1 softgels
 C12, Rexall Bone Health Calcium 1200, 1 softgels
 C12, Rexall Bone Health Calcium 1200, 1 softgels
+RP, Risperidone 1mg, 1 tablet
 
 Antibiotic Meds
 AT, Atovaquone / Mepron, 5 milliliters
@@ -131,6 +134,7 @@ MM, Moss Nutrition Magnesium Glycinate, 1 capsule
 MM, Moss Nutrition Magnesium Glycinate, 1 capsule
 MN, Stress-Relax Melatonin, 1 tablet
 LZ, Lorazepam As Needed, 1 tablet
+RP, Risperidone 1mg, 1 tablet
 
 Time, Med, Dosage, Notes
 2019-01-01T07:15:38-05:00,N4,.19,"aux"
@@ -1545,3 +1549,4 @@ Time, Med, Dosage, Notes
 2019-05-22T09:08:57-04:00,DX,1,
 2019-05-22T09:09:11-04:00,BM,1,
 2019-05-22T09:09:45-04:00,AZ,1,
+2019-05-22T14:10:21-04:00,RP,1,
