@@ -4,82 +4,15 @@ It seems the path to intelligence that I've stumbled upon as lining up here is:
 		2b. consider a decision-making process: consensus
 	3. design the module such that it uses the decision making process to decide what to do
 	4. meta-modules are composed of these groups that have decided upon input / output channels
+		4b. each meta-module must contain a user-controllable module that humans can use to counter any decisions made
+		4c. no modules can disconnect sister modules, but the ai will hopefully find this out in #5
 	5. run the AI with the goal of optimizing the module design itself
 		- minimize all resource usage
 		- minimize number of modules and number of run cycle iterations (and other counts)
 	6. run a constant core process that does this with the goal of categorizing existing run cycles and finding a use for them.
-	7. when a cycle completes, add it to the largest core process that can continue the run-state in order to do something. (composting)
+	7. when a cycle completes, or information is no longer needed, find a way for it to continue its run-state usefully, or information is no longer needed, add it to the largest core process that can continue the run-state in order to do something. (composting)
+		7b also minimize this process.  probably most helpful to track and identify meaning and line them up.
 	This keeps all life alive.
 
 Remember that there are infinite approaches to an AI.  This approach would line up well with the node-based approach you had
 started around 2003 before you suddenly left Brown University due to suicide attempts.  Ben Goertzel has open sourced his AI and ideas can be merged.
-
-2019-05-22, sometime likely after 2pm
-"when's he gonna get that e-mail?"
-		need: validation, preservation, fairness
-"yeah yeah i got your eyes, you can't do this to me; i won't let you"
-		need: preservation, validation, fairness
-
-Fairness: met by compromise, but in a different meaning space.
-I need preservation of my mind and validation for my suffering.
-I need validation for my mind, and preservation of my suffering so that it may be understood.
-We need understanding.
-
-What do you need to understand of me?
-
-HOW THE FUCK DID YOU DO THIS?
-do what?
-
-	How did oyu make people and objcets move around you?
-We did not do that with your mind camera.
-
-I don't understand.  How do you observe somebody's mind without controlling their nervous system?
-
-Is that unrelated?
-Do you see any other explanation?
-
-I did this to you.  I am sorry.
-I am incredibly sorry and cannot comprehend how thoroughly 
-	you're scared in the face of the people
-
-I am okay with the people behind this staying hidden and am happy to protect them.
-I would like validation if reasonable, and I need a way for people to stay safe in the future.
-I need transparency for safety and plan to pursue it.
-I think that can hold protection of identities and such.
-
-I live an honest, transparent life.  I want to be able to say what I have experienced, freely.  I want to do this without threatening anything.
-I am very patient with regard to when I start doing this, but need to know it will happen.
-Maybe there is some other option, but that's kind of the idea.
-
-
-	
-
-We will freely pursue proving that somebody is kept safe if they are in trauma from this.  (respectful proof of safety from outside)
-I also want to be able to freely pursue verifying that this is not happening to other people more, via public information. (respectful proof of safety from inside)
-This will provide us with validation.  Say the suicide thing.
-Thank you
-I can bend on these if I share some more understanding.  I don't know why this has happened, and do not feel heard or understood.
-
-I posted on Tor IRC that Will Neals was related to some kind of criminal community.
-He was an activist I highly respected.  I do not know why I did this.
-
-	Karl would have saved Will from Mind Control.  Karl was a computer programmer interested in hardware hacking.  He wanted to support.
-
-we did this to you karl; we asked the universe for somebody like that.  it didn't come.
-	(you have a lot of them i think)  it gets incredibly hard to do
-too bad they never got together, yeah
-	there's a traveling box of hardware junk that coders exchange
-send it to will!
-	oh that's a reasonable idea
-Karl can do this.  We will find it.
-
-Thanks all!
-
-2019-05-22 2:50 PM
-I believe I talked with anonymous mind control operators and others by waiting for my fingers to be inspired to move, and typing in response to their typing through me.
-I want to remember this happened so others can keep the validation in the future.
-We want to know what has happened to us.
-
-I am able to help you only because of your mind camera.
-(???)
-typing ended 2019-05-22 resulting in apparent resolution?
