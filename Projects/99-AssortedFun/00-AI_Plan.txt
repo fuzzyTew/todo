@@ -16,3 +16,7 @@ It seems the path to intelligence that I've stumbled upon as lining up here is:
 
 Remember that there are infinite approaches to an AI.  This approach would line up well with the node-based approach you had
 started around 2003 before you suddenly left Brown University due to suicide attempts.  Ben Goertzel has open sourced his AI and ideas can be merged.
+
+KEY POINT:
+	When running a simulation / AI / task, be sure to prefer to reference some _other_ simulation / AI / task, especially the root one, rather than spawning a new one.
+	This allows the process to complete and eases composting.
