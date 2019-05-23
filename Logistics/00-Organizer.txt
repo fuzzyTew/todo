@@ -998,7 +998,6 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 
 - [ ] 2019-05-17 Fri
 	- [ ][ ] 1:00p - Physical therapy
-	- [ ][ ] 2:30p - therapy wanda seneca health
 
 - [ ] 2019-05-18 Sat
 	- [ ] 9:00p - leave for trout cave
@@ -1011,13 +1010,20 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 
 - [ ] 2019-05-19 Sun
 	- [ ] 4:00p - 5:30p Blacksburg NVC practice
-	- [ ] 11:00p - trout cave greenbrier night trip
+
+- [ ] 2019-05-20 Mon
+	- [ ] 3:30p - could leave for mongrotto meating or earlier if want scanning
+	- [ ] 6:30p - MonGrotto meeting
+		Mariachi Loco by the Walmart
 
 - [ ] 2019-05-21 Tue
 	- [ ][ ] 10:00a-11:00a Kate call
 	
 - [ ] 2019-05-22 Wed
+	- [ ] 9:00a - leave for seneca health
+	- [ ][ ] 9:45a - therapy wanda seneca health - moved from 2:30p Fri last week, this time
 	- [ ] 11:00a psychiatry Dr Jewell Seneca Health
+	- [ ][ ] 1:00p - Application Help with Alex @ Seneca Helath
 
 - [ ] 2019-05-24 Fri
 	- [ ][ ] 1:00p - Physical therapy
@@ -1031,7 +1037,8 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 		Morgantown, WV 26508
 		Wayne Perkins <jwperkins0@gmail.com>
 
-- [ ] 2019-05-28 
+- [ ] 2019-05-28 Tue
+	- [ ] 10:00a - Kate call
 
 - [ ] 2019-05-30 Thu
 	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
@@ -1044,6 +1051,7 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 		SCHEDULE MORE
 
 - [ ] 2019-06-04 Tue
+	- [ ] 10:00a - Kate call
 	- Phone consult with Dr Bouboulis, likely in afternoon.  He'll call me.
 
 - [ ] 2019-06-07 Fri
@@ -1090,11 +1098,17 @@ FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
 - [ ] 2019-06-17 Mon
 	- NSS Convention starts, including vertical caving & cave diving intro workshops
 
+- [ ] 2019-06-18 Tue
+	- [ ] 10:00a - Kate call
+
 - [ ] 2019-06-21 Fri
 	- NSS Convention ends, from website
  
 - [ ] 2019-06-28 Fri
 	- Mon Grotto 55th anniversary summer campout 06-28 - 06-30
+
+- [ ] 2019-07-02 Tue
+	- [ ] 10:00a - Kate call
 
 - [ ] 2019-07-03 Wed
 	- [ ] 11:00a - 12:00p Psychiatry dr jewell
