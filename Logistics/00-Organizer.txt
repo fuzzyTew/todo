@@ -1141,8 +1141,7 @@ long story:
 - [ ] 2019-05-31 Fri
 	- [ ][ ] 11:00a - Wanda therapy
 		-> canceled due to crisis
-	- [ ][ ] 1:00p - Physical therapy
-		SCHEDULE MORE
+	- [ ][X] 1:00p - Physical therapy
 
 - [ ] 2019-06-02 Sun
 	- [ ] 12:00p - leave for Blacksburg
@@ -1156,6 +1155,7 @@ long story:
 	- [ ][ ] 4:30p - Wanda therapy
 
 - [ ] 2019-06-07 Fri
+	- [ ][ ] 1:00p - Physical therapy
 	- WVACS project weekend thrugh 2019-06-09 Sun
 		I think it starts in the evening.
 		Bring BEDDING, MEDS, EQUIPMENT, CLOTHES and CASH 
