@@ -1140,6 +1140,7 @@ long story:
 
 - [ ] 2019-05-31 Fri
 	- [ ][ ] 11:00a - Wanda therapy
+		-> canceled due to crisis
 	- [ ][ ] 1:00p - Physical therapy
 		SCHEDULE MORE
 
@@ -1150,6 +1151,9 @@ long story:
 - [ ] 2019-06-04 Tue
 	- [ ] 10:00a - Kate call
 	- Phone consult with Dr Bouboulis, likely in afternoon.  He'll call me.
+
+- [ ] 2019-06-06 Thu
+	- [ ][ ] 4:30p - Wanda therapy
 
 - [ ] 2019-06-07 Fri
 	- WVACS project weekend thrugh 2019-06-09 Sun
@@ -1217,7 +1221,7 @@ long story:
 	- [ ] 10:00a - Kate call
 
 - [ ] 2019-07-03 Wed
-	- [ ] 11:00a - 12:00p Psychiatry dr jewell
+	- [ ] 10:00a - 10:10a Psychiatry dr jewell
 
 - 07-03 thru 07-07
 	gwyn on trip thse dates, most comfort around me scheduling things same time
