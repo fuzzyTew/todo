@@ -1143,6 +1143,10 @@ long story:
 	- [ ][ ] 1:00p - Physical therapy
 		SCHEDULE MORE
 
+- [ ] 2019-06-02 Sun
+	- [ ] 12:00p - leave for Blacksburg
+	- [ ] 4:00p - 5:30p - Blacksburg NVC
+
 - [ ] 2019-06-04 Tue
 	- [ ] 10:00a - Kate call
 	- Phone consult with Dr Bouboulis, likely in afternoon.  He'll call me.
