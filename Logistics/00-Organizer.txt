@@ -1583,8 +1583,10 @@ Truck Mechanic
 		(electrical transmission issue is resolved)
 		transmission will be sent back for rebuilding by beginning of next week
 		Tim wants me to call him around the middle of next week.
-	2019-06-03 09:05a Mon
-		
+	2019-06-03 09:10a Mon
+		We're putting the transmission back in it now.
+		It looks brand spanking new, which is surprising.
+		He'll call me tomorrow and provide a quote.
 		
 		
 	- [X] when do you think it'll be finished?
@@ -1611,6 +1613,11 @@ Insurance
 	Uni?care
 	Member: 00505837144
 	Says no primary insurance on file.
+
+	Tufts (moving towards closing for good 2019-06-03)
+	Bill Semich fax # to fax statement to: 617-507-7779
+	Member services: 1-800-462-0224
+	zip: florence is 01062
 
 
 VOICEMAIL NOTES
