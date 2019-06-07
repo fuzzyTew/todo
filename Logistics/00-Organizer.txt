@@ -1180,18 +1180,21 @@ Mark Hodge sent me an e-mail for local caving options
 	Just start showing up, go on trips!
 
 - [ ] 2019-06-07 Fri
-	- [ ] shower
-	- [ ] trip to bank
-	- [ ] packing
-		- [ ] caving equipment
-		- [ ] cash
-		- [ ] clothes
-		- [ ] bedding
+	- [X] shower
+	- [X] packing
+		- [X] normal food
+		- [X] trip food
+		- [X] water
+		- [X] caving equipment
+		- [X] clothes
+		- [X] toothbrush
+		- [X] bedding
 			-> pending laundry, but partly brought
-		- [ ] meds
+		- [X] meds
 			-> pending morning meds w/ gwyn
 	- [ ] laundry
 	- [ ] 12:00p leave for marlinton packed 
+	- [ ] trip to ATM?
 	- [ ][ ] 1:00p - Physical therapy
 	- WVACS project weekend thrugh 2019-06-09 Sun
 		I think it starts in the evening.
@@ -1226,6 +1229,9 @@ Mark Hodge sent me an e-mail for local caving options
 	- [ ] 3:30p - leave for scuba buddys
 		knowledge review secs 4,5 and tests
 	- [ ] 6:00p-9:30p - scuba buddys class
+
+- [ ] 2019-06-14 Fri
+	- [ ][ ] 1:00p - Physical therapy
 
 - [ ] 2019-06-15 Sat
 	- [ ] 10:30a - leave for scuba buddys
