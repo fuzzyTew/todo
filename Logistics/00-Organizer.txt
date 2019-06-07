@@ -1154,6 +1154,8 @@ long story:
 		What is it for?  Is there a cheaper alternative?
 		First prescription did not include atovaquone.  What has changed?
 		Alternatively, can we prescribe through Jennifer Lambert.
+	-> he went home with laryngitis, couldn't talk
+	-> rescheduled to 07-01
 
 When picking truck up, get a new title and registration, and reregister as RV.
 
@@ -1178,6 +1180,18 @@ Mark Hodge sent me an e-mail for local caving options
 	Just start showing up, go on trips!
 
 - [ ] 2019-06-07 Fri
+	- [ ] shower
+	- [ ] trip to bank
+	- [ ] packing
+		- [ ] caving equipment
+		- [ ] cash
+		- [ ] clothes
+		- [ ] bedding
+			-> pending laundry, but partly brought
+		- [ ] meds
+			-> pending morning meds w/ gwyn
+	- [ ] laundry
+	- [ ] 12:00p leave for marlinton packed 
 	- [ ][ ] 1:00p - Physical therapy
 	- WVACS project weekend thrugh 2019-06-09 Sun
 		I think it starts in the evening.
@@ -1237,9 +1251,19 @@ Mark Hodge sent me an e-mail for local caving options
 		Mariachi Loco, across from Walmart
 		Morgantown, WV 26508
 		Wayne Perkins <jwperkins0@gmail.com>
+
+- [ ] 2019-06-25 Tue
+	- [ ] 11:00a - 12:00p Wanda therapy friend
  
 - [ ] 2019-06-28 Fri
 	- Mon Grotto 55th anniversary summer campout 06-28 - 06-30
+
+- [ ] 2109-07-01 Mon
+	- [ ] sometime 10:00a - 3:00p Phone consult with Dr Bouboulis.  He'll call me.
+		ASK RE ATOVAQUONE.  IT IS INCREDIBLY EXPENSIVE.  We're thinking of getting off insurance plan.
+		What is it for?  Is there a cheaper alternative?
+		First prescription did not include atovaquone.  What has changed?
+		Alternatively, can we prescribe through Jennifer Lambert.
 
 - [ ] 2019-07-02 Tue
 	- [ ] 10:00a - Kate call
@@ -1617,6 +1641,14 @@ Truck Mechanic
 		We're putting the transmission back in it now.
 		It looks brand spanking new, which is surprising.
 		He'll call me tomorrow and provide a quote.
+	2019-06-05 11:40a Wed
+		Received call from Deniece.
+		Transmission works, but electrical problems with truck threaten its
+		lifespan.
+		Electrical work will be by the hour.
+		She will check with Ron, who checked the lift gate electrical, and
+		get back to me.  She says she's been out for a while and just got back.
+		
 		
 		
 	- [X] when do you think it'll be finished?
