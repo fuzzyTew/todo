@@ -1180,19 +1180,23 @@ Mark Hodge sent me an e-mail for local caving options
 	Just start showing up, go on trips!
 
 - [ ] 2019-06-07 Fri
-	- [ ] shower
-	- [ ] trip to bank
-	- [ ] packing
-		- [ ] caving equipment
-		- [ ] cash
-		- [ ] clothes
-		- [ ] bedding
+	- [X] shower
+	- [X] packing
+		- [X] normal food
+		- [X] trip food
+		- [X] water
+		- [X] caving equipment
+		- [X] clothes
+		- [X] toothbrush
+		- [X] bedding
 			-> pending laundry, but partly brought
-		- [ ] meds
+		- [X] meds
 			-> pending morning meds w/ gwyn
 	- [ ] laundry
 	- [ ] 12:00p leave for marlinton packed 
+	- [ ] trip to ATM?
 	- [ ][ ] 1:00p - Physical therapy
+		-> missed
 	- WVACS project weekend thrugh 2019-06-09 Sun
 		I think it starts in the evening.
 		Bring BEDDING, MEDS, EQUIPMENT, CLOTHES and CASH 
@@ -1204,6 +1208,11 @@ Mark Hodge sent me an e-mail for local caving options
 - [ ] 2019-06-09 Sun
 	- [ ] afternoon - Greenbrier vertical training
 		gear appreciated
+	- [ ] 7:00p - 8:30p - Street Giraffes
+		(605) 313-4414 access code 330189
+		extra info at https://streeetgiraffes.com/meeting-wall streetcred
+		SEE EMAIL FROM PAMELA for hw prior if you have capacity.
+
 
 - [ ] 2019-06-10 Mon
 	- [ ] 5:30p - 7:00p Fearless Heart  Teleclass with Miki Kashtan
@@ -1219,13 +1228,19 @@ Mark Hodge sent me an e-mail for local caving options
 		bring video back !!!
 	- [ ] 6:00p-9:30p - Scuba Buddys Module 1,2,3 and Quizzes
 
-	- NSS Pre-Convention Cave Trips start
+- [ ] 2019-06-12 Wed
+	- [ ] 7:00p - greenbrier grotto mtg likely
+
+	- NSS Pre-Convention Cave Trips have started
 	Cookeville, Tennessee
 
 - [ ] 2019-06-13 Thu
 	- [ ] 3:30p - leave for scuba buddys
 		knowledge review secs 4,5 and tests
 	- [ ] 6:00p-9:30p - scuba buddys class
+
+- [ ] 2019-06-14 Fri
+	- [ ][ ] 1:00p - Physical therapy
 
 - [ ] 2019-06-15 Sat
 	- [ ] 10:30a - leave for scuba buddys
@@ -1240,6 +1255,9 @@ Mark Hodge sent me an e-mail for local caving options
 
 - [ ] 2019-06-18 Tue
 	- [ ] 10:00a - Kate call
+
+- [ ] 2019-06-19 Wed
+	- Compassion Course begins
 
 - [ ] 2019-06-21 Fri
 	- NSS Convention ends, from website
@@ -1274,7 +1292,6 @@ Mark Hodge sent me an e-mail for local caving options
 
 - [ ] 2019-07-03 Wed
 	- [ ] 10:00a - 10:10a Psychiatry dr jewell
-	- [ ] greenbrier grotto mtg?
 
 - 07-03 thru 07-07
 	gwyn on trip thse dates, most comfort around me scheduling things same time
