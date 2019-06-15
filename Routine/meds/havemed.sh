@@ -31,10 +31,10 @@ do
 	echo ''
 	read med dosage notes
 	time="$(date -Is)"
-	if [ "x$med" == "x,,," ]; then break; fi
+	if [ "x$med" == "x" ]; then break; fi
 	med="$(echo "$med" | tr '[:lower:]' '[:upper:]')"
 	line="$(grep ^"$med", "$csv" | head -n 1)"
-	if [ "x$line" == "x,,," ]
+	if [ "x$line" == "x" ]
 	then
 		echo ''
 		echo "OOPS !! That med doesn't exist!  You should fix the file afterwards!"
