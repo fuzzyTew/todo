@@ -30,8 +30,6 @@ Day	What			Amount
 23	Greenpeace		  $5
 24	Home Depot		 $37
 27	Paypal Credit		$222
-26	iTunes pmt???		  $2.11
-28	Freedom of the Press	  $5
 30	Lakota People's Law	  $1
 28	riseup.net		  $1
 30	Network for Good	  $5
@@ -39,6 +37,10 @@ Day	What			Amount
 07-00 PO Box 117  $36
 12-25	CBS All Access		$100
 12-00	Truck Registration?	$280
+
+CANCELED
+26	iTunes pmt???		  $2.11
+28	Freedom of the Press	  $5
 
 Initiated Finished
 19-01-10  19-01-11 [X] $35.74 pp debcard ebay eye lubricant & osha root for gwyn
