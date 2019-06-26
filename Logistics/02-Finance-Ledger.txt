@@ -17,6 +17,7 @@ Expect debits before income: $199
 
 Autopayments
 Day	What			Amount
+01	Xfinity			 $49.99
 02	PP/Patreon		  $2
 05	Capital One	 	 $50
 08	IPSDC.ORG?               $10
