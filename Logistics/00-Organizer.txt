@@ -1442,7 +1442,14 @@ Be sure to read and understand http://www.butlercave.org/content/expeditions.htm
 - [ ] 2019-07-10 Wed
 
 - [ ] 2019-07-12
-	- WVACS classic thru 2019-07-14
+	- [ ] 3:00p/3:30p - leave for WVACS
+	- [ ] 5:00p - WVACS classic
+	cost: $25 ($10 for dinner, $15 for field station)
+		West Virginia Association of Cave Studies Field Station
+		XJH5+P8 Renick, Eastern, WV
+
+- [ ] 2019-07-14
+	- 2:00p - WVACS classic ends
 
 - [ ] 2019-07-27 Sat
 	Scuba Buddys Lake Phoenix Trip thru Sunday
