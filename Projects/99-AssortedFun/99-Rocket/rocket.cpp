@@ -1,7 +1,10 @@
 #include <iostream>
 
-#include <unistd.h>
+
+#include <stdio.h>
 #include <string.h>
+#include <sys/ioctl.h>
+#include <unistd.h>
 
 using namespace std;
 
@@ -11,11 +14,17 @@ const char* trail = "~~### ";
 const int traillen = strlen(trail);
 
 // - [X] TODO: fix bug with rocket scrolling off right wrongly
-// - [ ] TODO: stop rocket from scrolling in from left; start with landing on ground
+// - [X] TODO: stop rocket from scrolling in from left; start with landing on ground
+// - [ ] TODO: detect width of display
 
 int main()
 {
-	const int width = 100;
+	struct winsize w;
+	int width;
+
+	ioctl(STDOUT_FILENO, TIOCGWINSZ, &w);
+	width = w.ws_col;
+
 	for (int tip_position = namelen; tip_position <= width + namelen + traillen; ++ tip_position)
 	{
 		int a;
@@ -33,11 +42,7 @@ int main()
 			cout << name[namelen + a - tip_position];
 		}
 		cout << flush;
-		//if (tip_position - namelen == 0) {
-		//	usleep(500000);
-		//} else {
-			usleep(1000000 / (tip_position - namelen + 1));
-		//}
+		usleep(2000000 / (tip_position - namelen + 1));
 	}
 	cout << "\n";
 	return 0;
