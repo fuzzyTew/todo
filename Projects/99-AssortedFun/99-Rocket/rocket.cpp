@@ -1,6 +1,6 @@
 #include <iostream>
 
-
+#include <curses.h>
 #include <stdio.h>
 #include <string.h>
 #include <sys/ioctl.h>
@@ -8,42 +8,38 @@
 
 using namespace std;
 
-const char* name = "ROCKET !!!";
+const char* name = "ROCKET";
 const int namelen = strlen(name);
-const char* trail = "~~### ";
+const char* trail = "`!|@@@ ";
 const int traillen = strlen(trail);
 
 // - [X] TODO: fix bug with rocket scrolling off right wrongly
 // - [X] TODO: stop rocket from scrolling in from left; start with landing on ground
-// - [ ] TODO: detect width of display
+// - [X] TODO: detect width of display
+// - [X] TODO: use ncurses to make rocket go upwards
 
 int main()
 {
 	struct winsize w;
-	int width;
+	int launchpad;
 
-	ioctl(STDOUT_FILENO, TIOCGWINSZ, &w);
-	width = w.ws_col;
+	WINDOW* curswin = initscr();
+	cbreak();
+	noecho();
 
-	for (int tip_position = namelen; tip_position <= width + namelen + traillen; ++ tip_position)
+	launchpad = COLS / 2;
+
+	for (int tip_position = namelen; tip_position <= LINES + namelen + traillen; ++ tip_position)
 	{
+		erase();
 		int a;
-		cout << "\r";
-		for (a = 0; a < tip_position - namelen - traillen && a < width; ++ a)
-		{
-			cout << " ";
-		}
-		for (; a < tip_position - namelen && a < width; ++ a)
-		{
-			cout << trail[traillen + a - tip_position + namelen];
-		}
-		for (; a < tip_position && a < width; ++ a)
-		{
-			cout << name[namelen + a - tip_position];
-		}
-		cout << flush;
-		usleep(2000000 / (tip_position - namelen + 1));
+		for (a = tip_position - namelen - traillen; a < tip_position - namelen && a < LINES; ++ a)
+			mvaddch(LINES - 1 - a, launchpad, trail[traillen + a - tip_position + namelen]);
+		for (; a < tip_position && a < LINES; ++ a)
+			mvaddch(LINES - 1 - a, launchpad, name[tip_position - 1 - a]);
+		refresh();
+		usleep(4000000 / (tip_position - namelen + 1));
 	}
-	cout << "\n";
+	endwin();
 	return 0;
 }
