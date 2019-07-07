@@ -15,12 +15,7 @@ using namespace std;
 using namespace arma;
 using namespace std::chrono;
 
-// make rocket move
-// make exhaust less
-
-// rocket currently stays at ground and makes huge cloud of exhaust
-
-// SIMULATED TINY ROCKET
+// ROCKET
 // - [X] TODO: fix bug with rocket scrolling off right wrongly
 // - [X] TODO: stop rocket from scrolling in from left; start with landing on ground
 // - [X] TODO: detect width of display
@@ -289,8 +284,8 @@ public:
 				++ x)
 			{
 				double r = sqrt(clump.radius * clump.radius - x*x);
-				for (int y = clump.position[2] - r + 0.5;
-					y <= clump.position[2] + r + 0.5;
+				for (int y = clump.position[2]/2 - r/2 + 0.5;
+					y <= clump.position[2]/2 + r/2 + 0.5;
 					++ y)
 				{
 					// paint
@@ -308,12 +303,12 @@ public:
 		// paint rocket in front of exhaust
 		for (int rocketBit = 0; rocketBit < rocketName.size(); ++ rocketBit)
 		{
-			auto bitPos = rocketPos + rocketDir * rocketBit;
-			mvaddch(LINES - 1 - bitPos[2] - 0.5, bitPos[0] + 0.5 + COLS/2, rocketName[rocketName.size() - 1 - rocketBit]);
+			auto bitPos = rocketPos + rocketDir * rocketBit * 2;
+			mvaddch(LINES - 1 - bitPos[2]/2 - 0.5, bitPos[0] + 0.5 + COLS/2, rocketName[rocketName.size() - 1 - rocketBit]);
 		}
 
 		// place cursor at butt of rocket
-		move(LINES - 1 - rocketPos[2] + rocketDir[2] - 0.5, rocketPos[0] - rocketDir[0] + 0.5 + COLS/2);
+		move(LINES - 1 - rocketPos[2]/2 + rocketDir[2] - 0.5, rocketPos[0] - rocketDir[0] + 0.5 + COLS/2);
 	}
 };
 
@@ -330,7 +325,7 @@ int main()
 
 	NCursesGraphics graphics;
 	Vector3 simulationMinBounds(0,-LINES,0);
-	Vector3 simulationMaxBounds(COLS,LINES,LINES);
+	Vector3 simulationMaxBounds(COLS,LINES,LINES*2);
 
 	// move code to organization system
 	// rocket is like a module now
