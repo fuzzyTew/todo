@@ -17,6 +17,9 @@ const int traillen = strlen(trail);
 // - [X] TODO: stop rocket from scrolling in from left; start with landing on ground
 // - [X] TODO: detect width of display
 // - [X] TODO: use ncurses to make rocket go upwards
+// - [X] TODO: leave cursor at head or tail of rocket
+// - [ ] TODO: animate exhaust a little
+// - [ ] TODO: simulate subtle error in rocket aiming systems
 
 int main()
 {
@@ -37,6 +40,10 @@ int main()
 			mvaddch(LINES - 1 - a, launchpad, trail[traillen + a - tip_position + namelen]);
 		for (; a < tip_position && a < LINES; ++ a)
 			mvaddch(LINES - 1 - a, launchpad, name[tip_position - 1 - a]);
+		if (tip_position > namelen)
+			move(LINES - 1 - tip_position + traillen, launchpad);
+		else
+			move(LINES - 1, launchpad);
 		refresh();
 		usleep(4000000 / (tip_position - namelen + 1));
 	}
