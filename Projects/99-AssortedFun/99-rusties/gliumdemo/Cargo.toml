@@ -1,0 +1,8 @@
+[package]
+name = "gliumdemo"
+version = "0.1.0"
+authors = ["Karl Semich <fuzzyTew@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+glium = "0.25.1"
