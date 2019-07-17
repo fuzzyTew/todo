@@ -1478,6 +1478,7 @@ BCCS membership appears to provide unrestricted access to caves
 - [ ] 2019-07-03 Wed
 	- [ ] 10:00a - 10:10a Psychiatry dr jewell
 	- [ ] 11:00a - 12:00p Wanda therapy friend
+		-> rescheduled
 
 - 07-03 thru 07-07
 	gwyn on trip thse dates, most comfort around me scheduling things same time
@@ -1545,10 +1546,43 @@ CALL UNICARE TO REOPEN INSURANCE
 ==>	call seneca trails physical therapy to let them bill
 - [ ] 2019-07-17 Wed
 	- Jim visits mid-morning
+	mtg 11a
+		- medical stuff
+			(opthalmologist followup)
+				-> schedule followup with Dr Cox
+			(seneca health)
+				-> get list of upcoming appts from them
+					-> schedule appt for figuring insurance out?
+			(unicare insurance)
+				-> call and renew?
+					talk with care coordinators at seneca health?
+				-> call seneca trails pt when renewed, to get paid
+			-> check voicemails
+		- finances, budget
+			-> followup truck electrical work
+			(pay back father & gwyn)
+			(remove remaining donations)
+			(job opp?)
+			(online work support)
+				-> plan: track notable attributes of assignment (e.g. language)
+					track how long it takes
+		- Calendar 2nd half of july
+		- update on caving & scuba
+		- jim reese status
+		- paper organization
+			-> maybe organization in elkins could help?  they are grant-funded
+			   but don't have funding to travel this far.  maybe we could fund a little
+			   for travel?
+		- truck: repairs and storage plans after fixed
+		- support status, gwyn
 
 - [ ] 2019-07-18 Thu
+	Call Seneca Trails Physical Therapy regarding insurance payment:
+		- unicare plan is still active
+		- last bill they got was in may and they paid it
 	- [ ] 11:00a - Wanda seneca health
-	- [ ] 3:00p - leave for NVC
+	- [ ] 2:00p - leave for NVC
+		-> sign up for lake phoenix trip @ scuba buddys
 	- [ ] 6:15p - 7:45p NVC Community of Practice
 		Our Neighborhood Child Development Center
 		2110 Ivy Rd
@@ -1563,14 +1597,27 @@ CALL UNICARE TO REOPEN INSURANCE
 
 - [ ] 2019-07-22 Mon
 	CHECK SOUND WORKS IN ZOOM FIRST
-	- [ ] 12:00p - 12:30p Newt Baily (9:00a his time)
+	- [ ] 12:00p - 12:30p Newt Bailey (9:00a his time)
 
 - [ ] 2019-07-27 Sat
 	Scuba Buddys Lake Phoenix Trip thru Sunday
 
+- [ ] 2019-07-29 Mon
+	-> could stop and see elkins support service place with Jim T
+	-> work with Cass book @ morgantown library.  back entrance is not closed.
+	- [ ][ ] 6:30 PM food
+		~7:00 PM official meeting
+		Mon Grotto meeting last monday of every month
+		Mariachi Loco, across from Walmart
+		Morgantown, WV 26508
+		Wayne Perkins <jwperkins0@gmail.com>
 
 - [ ] 2019-07-30 Tue
+	COULD RESCHEDULE for ease around jim attending mon grotto meeting
 	- [ ] 10:00a Kate call
+
+- [ ] 2019-07-31 Wed
+	Jim Taggart
 
 ===
 - [ ] 2019-08-04 Sun
@@ -1582,11 +1629,23 @@ CALL UNICARE TO REOPEN INSURANCE
 - [ ] 2019-08-14
 	Greenbrier Mtg, likely
 
+- [ ] 2019-08-23
+	- [ ] 2:15p Opthalmology Surgery Followup Checkup
+		Fax Information from Dr Sivak
+			Mon General Medical Records
+			598 1918
+		Kevin Cox
+		635 Robert E Lee Avemue
+		Elkins, WV
+
+- [ ] 2019-08-27 Tue
+	- [ ] 11:00a Jim calls to collate med data for Dr Jewell appt?
+
 - [ ] 2019-08-28 Wed
 	- [ ] 1:20p Dr Jewel seneca health
 
 - [ ] 2019-08-29 Thu
-	- [ ] 12:00p Alan Carptener from mongrotto can meet me at the OTR to get me in
+	- [ ] 12:00p Alan Carpenter from mongrotto can meet me at the OTR to get me in
 
 - [ ] 2019-08-31
 	BCCS project weekend is Aug 31 - Sep 2
@@ -2017,6 +2076,12 @@ Truck Mechanic
 		call Amanda with any questions.
 		
 		she called back, card was declined
+	2019-07-17 14:53p
+		called Amand back after voicemail (paid with two cards)
+		- put batteries in truck on Sat despite not present for approval
+		will call back today with more information
+
+		
 		
 	- [X] when do you think it'll be finished?
 				could you call me if you learn there will be a delay, so I can plan around it?
@@ -2065,6 +2130,37 @@ VOICEMAIL NOTES
 	7. leave mailbox and log on as another subscriber
 	0. get more help
 	*. exit voicemail
+
+2019-07-17
+844 779 1042
+	Today, 10:04a
+	Hello, this is an important message from Mon Power for Robert
+	C Bold.  Please contact us ....
+304 636 5357
+	Sat, 9:34a
+	Hey Karl, this is Amanda at Elkin's Truck Service.
+	Can you please give me a call as soon as you get this message,
+	in reference to your truck?  My number's 304 636 5330.  I'm
+	in the office until noon today.  Thank you.
+304 591 9429
+	Tue, Jul 9, 6:22p
+	Hi Karl, this is Gwyn.  I have dinner ready; you can come over
+	when you're ready, and bring your medicine please.
+	I fixed ham, green beans, and potatoes, and have pie for desert
+	if you're hungry.  You need to eat dinner, even if you don't
+	feel the best, jhust come over and have a little something so
+	I can get you your medicine.  You can come back home if you like,
+	that's fine.  Just ... can't come to you ... van ... so ... need
+	to come to me ...
+717 602 7447
+	Thu, Jul 4, 9:26p
+	Hi Karl, this is Gwyn, I'm so sorry I didn't call you around
+	6:30, it was a real busy time at my daughter's house.
+	There was a 4th of July party and birthday party and there was
+	a lot going on.  I hope that you ate dinner and took your meds.
+	It's about 9:43 right now.  As I speak to you I'm driving to
+	Pennsylvania to visit with a friend of mine, and you're welcome
+	to call me back.  Okay, bye.
 
 2019-07-02
 844 779 1042
