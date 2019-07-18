@@ -1577,11 +1577,14 @@ CALL UNICARE TO REOPEN INSURANCE
 		- support status, gwyn
 
 - [ ] 2019-07-18 Thu
-	Call Seneca Trails Physical Therapy regarding insurance payment:
-		- unicare plan is still active
-		- last bill they got was in may and they paid it
+	BRING CAR EARLY TO F&F TO CHANGE TIRES
+		pay with amex
+	BRING TUFTS CARD TO SENECA TRAILS PHYSICAL THERAPY
+		8a - 12p
+		or fax to 304 799 4501
 	- [ ] 11:00a - Wanda seneca health
 	- [ ] 2:00p - leave for NVC
+		3:00p or later
 		-> sign up for lake phoenix trip @ scuba buddys
 	- [ ] 6:15p - 7:45p NVC Community of Practice
 		Our Neighborhood Child Development Center
@@ -1657,6 +1660,16 @@ CALL UNICARE TO REOPEN INSURANCE
 		540 396 3570
 	note: in July, mark hodge recommended coming to the _meeting_ in october
 	
+
+- [ ] 2019-09-19
+	last day to reschedule dr bouboulis appt
+- [ ] 2019-09-20 Fri
+	travel to Dr bouboulis
+- [ ] 2019-09-21 Sat
+	- [ ] 10:30a Dr Bouboulis In-Person Appt
+		106 Noroton Ave.
+		Darien, CT
+
 
 - [ ] 2019-10-02
 	Kate's Birthday
@@ -2698,7 +2711,7 @@ Dr Bouboulis
 	Advanced Allergy, Immunology, & Asthma
 	advanced-allergy.com
 	203 655 9904
-    FAX: 203 656 1416
+	FAX: 203 656 1416
 	CLOSED EACH DAY 12:30p - 2:15p
 	M 9:15a - 4:30p
 	Tu 8a - 9:15a - 4p
