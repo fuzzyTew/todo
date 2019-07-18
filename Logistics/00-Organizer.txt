@@ -1602,6 +1602,9 @@ CALL UNICARE TO REOPEN INSURANCE
 	CHECK SOUND WORKS IN ZOOM FIRST
 	- [ ] 12:00p - 12:30p Newt Bailey (9:00a his time)
 
+- [ ] 2019-07-25 Thu
+	- [ ] 12:00p - Wanda Therapy Seneca Health
+
 - [ ] 2019-07-27 Sat
 	Scuba Buddys Lake Phoenix Trip thru Sunday
 
