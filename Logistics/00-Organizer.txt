@@ -1591,6 +1591,8 @@ CALL UNICARE TO REOPEN INSURANCE
 		2110 Ivy Rd
 		Charlottesville, VA 22903
 
+==> GLUE GLASSES FOR SCUBA SAFETY <==
+
 - [ ] 2019-07-19 Fri
 	LOCAL CAVING WEEKEND
 	Potomac Speleological Club Jamboree
@@ -1604,6 +1606,7 @@ CALL UNICARE TO REOPEN INSURANCE
 
 - [ ] 2019-07-25 Thu
 	- [ ] 12:00p - Wanda Therapy Seneca Health
+	- [ ] SCUBA BUDDYS to get equip for dive etc: $320 price
 
 - [ ] 2019-07-27 Sat
 	Scuba Buddys Lake Phoenix Trip thru Sunday

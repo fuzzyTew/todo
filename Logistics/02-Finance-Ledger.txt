@@ -25,7 +25,7 @@ Day	What			Amount
 09	Burning Books           $100
 11	Cascadia Forest Dfndrs   $20
 15	Trust Rental	      -$1305
-16	Frontier Internet/Phone  $72
+16	Frontier Internet/Phone  $81.53
 17	Earth First!		 $20
 21	Nature Conservancy	  $5
 23	Greenpeace		  $5
