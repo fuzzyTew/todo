@@ -1605,6 +1605,19 @@ CALL UNICARE TO REOPEN INSURANCE
 - [ ] 2019-07-23 Tue
 	- [ ] 5:00p - Jim Taggart phone call (gwyn might come)
 		scheduled via call from jim same day
+	.. wanted to follow up on some things ... gwyn might be able to give some support on issues
+	- tires are on car, but turn-left issue: car needs maintenance
+	things: ->lights, turning left<-, check engine light, AC
+	- scheduling phone with bill tomorrow if he chooses time
+	- check phone messages, re: truck situation.  jim will prompt tomorrow
+	- lake phoenix scuba trip scheduled
+	- freelance software search for $100? not yet
+	- unsure if we faxed info to dr cox from dr sivak
+	...
+
+- [ ] 2019-07-24 Wed
+	- get key copy w/for/ gwyn
+	
 
 ==> GLUE GLASSES FOR SCUBA SAFETY <==
 
@@ -1617,13 +1630,19 @@ CALL UNICARE TO REOPEN INSURANCE
 		but can if produces significant ease, this is bad for your budget though
 
 - [ ] 2019-07-26 Fri
+	- [ ] EVENING: call Bob Oehler to discuss WVACS
+		(740) 645 - 8005
+		If you get voicemail, just leave a message and I'll give a shout back.
 	Scuba Buddys Lake Phoenix Trip Sat Morn thru Sunday
-	Leave early on Friday.  Drive is over 6.5 hours long!
+	Leave early on Friday.  Drive is over 4.5 hours long!
 	1 Quarry Ln
 	Rawlings, VA 23876
 
 - [ ] 2019-07-29 Mon
+	- [ ] 10:00a Kate call
+	- [ ] 12:00p Jim Taggart arrives if we visit center for independent living
 	-> could stop and see elkins support service place with Jim T
+		-> jim called them tue 07-23 but hadn't heard back that day
 	-> work with Cass book @ morgantown library.  back entrance is not closed.
 	- [ ][ ] 6:30 PM food
 		~7:00 PM official meeting
@@ -1631,13 +1650,14 @@ CALL UNICARE TO REOPEN INSURANCE
 		Mariachi Loco, across from Walmart
 		Morgantown, WV 26508
 		Wayne Perkins <jwperkins0@gmail.com>
-
-- [ ] 2019-07-30 Tue
-	COULD RESCHEDULE for ease around jim attending mon grotto meeting
-	- [ ] 10:00a Kate call
+	... lost line or formatting error or something
+	leaves this day
+	- [ ] send TRA application if filled out
 
 - [ ] 2019-07-31 Wed
-	Jim Taggart
+
+- [ ] 2019-08-02 Fri
+	meds switches to phone from jim thru 4th
 
 ===
 - [ ] 2019-08-04 Sun
@@ -1651,6 +1671,12 @@ CALL UNICARE TO REOPEN INSURANCE
 
 - [ ] 2019-08-14
 	Greenbrier Mtg, likely
+
+- [ ] 2019-08-15
+	- [ ][ ] 6:15p - 7:45p NVC Community of Practice, third thursday of every month?
+		Our Neighborhood Child Development Center
+		2110 Ivy Rd
+		Charlottesville, VA 22903
 
 - [ ] 2019-08-23
 	- [ ] 2:15p Opthalmology Surgery Followup Checkup
@@ -2109,7 +2135,9 @@ Truck Mechanic
 		call Amanda with any questions.
 		
 		she called back, card was declined
-	2019-07-17 14:53p
+	Sat: batteries were put in according to jim, and was going to find out how far they got and
+		call us back, but did not.
+	2019-07-17 14:53p Wed
 		called Amand back after voicemail (paid with two cards)
 		- put batteries in truck on Sat despite not present for approval
 		will call back today with more information
