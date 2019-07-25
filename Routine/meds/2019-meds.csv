@@ -67,6 +67,8 @@ BM, CONTAINS sulfamethoxazole, 800 milligrams
 BM, CONTAINS trimethoprim, 160 milligrams
 AT, Atovaquone / Mepron, 5 milliliters
 AT, CONTAINS atovaquone, 150 milligrams
+AP, Atovaquone / Malerone, 3 pills
+AP, CONTAINS atovaquone, unknown
 AN, Atovaquone / Mepron with Nicotine, 5 milliliters
 AN, CONTAINS atovaquone, 150 milligrams
 AN, CONTAINS nicotine, <1 milligram
@@ -119,7 +121,7 @@ C12, Rexall Bone Health Calcium 1200, 1 softgels
 RP, Risperidone 1mg, 1 tablet
 
 Antibiotic Meds
-AT, Atovaquone / Mepron, 5 milliliters
+AP, Atovaquone / Mepron, 5 milliliters
 DX, Doxycycline Hyclate, 1 tablet
 BM, Bactrim DS, 1 tablet
 AZ, Azithromycin, 1 tablet
@@ -2029,3 +2031,4 @@ Time, Med, Dosage, Notes
 2019-07-25T07:46:37-0400,DX,1,
 2019-07-25T07:46:52-0400,BM,1,
 2019-07-25T07:48:25-0400,RP,0.1,
+2019-07-25T19:19:00-0400,AP,5,
