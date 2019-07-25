@@ -121,7 +121,7 @@ C12, Rexall Bone Health Calcium 1200, 1 softgels
 RP, Risperidone 1mg, 1 tablet
 
 Antibiotic Meds
-AP, Atovaquone / Mepron, 5 milliliters
+AP, Atovaquone / Mepron, 3 pills
 DX, Doxycycline Hyclate, 1 tablet
 BM, Bactrim DS, 1 tablet
 AZ, Azithromycin, 1 tablet
@@ -2031,4 +2031,5 @@ Time, Med, Dosage, Notes
 2019-07-25T07:46:37-0400,DX,1,
 2019-07-25T07:46:52-0400,BM,1,
 2019-07-25T07:48:25-0400,RP,0.1,
-2019-07-25T19:19:00-0400,AP,5,
+2019-07-25T19:19:00-0400,AP,3,
+2019-07-25T19:19:43-0400,DX,1,
