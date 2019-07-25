@@ -1706,6 +1706,8 @@ CALL UNICARE TO REOPEN INSURANCE
 		540 396 3570
 	note: in July, mark hodge recommended coming to the _meeting_ in october
 	
+- [ ] 2019-09-14
+	last day to preregister for fall VAR
 
 - [ ] 2019-09-19
 	last day to reschedule dr bouboulis appt
@@ -1715,6 +1717,11 @@ CALL UNICARE TO REOPEN INSURANCE
 	- [ ] 10:30a Dr Bouboulis In-Person Appt
 		106 Noroton Ave.
 		Darien, CT
+
+- [ ] 2019-09-26
+	2019 Fall VAR thru 09-29
+	Friars Hole Cave Preserve
+	Lobelia, WV
 
 
 - [ ] 2019-10-02
