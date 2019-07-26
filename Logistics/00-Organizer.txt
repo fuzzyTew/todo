@@ -1702,9 +1702,6 @@ safety, etc.
 
 - [ ] 2019-07-29 Mon
 	- [ ] 10:00a Kate call
-	- [ ] 12:00p Jim Taggart arrives if we visit center for independent living
-	-> could stop and see elkins support service place with Jim T
-		-> jim called them tue 07-23 but hadn't heard back that day
 	-> work with Cass book @ morgantown library.  back entrance is not closed.
 	- [ ][ ] 6:30 PM food
 		~7:00 PM official meeting
@@ -1715,6 +1712,9 @@ safety, etc.
 	... lost line or formatting error or something
 	leaves this day
 	- [ ] send TRA application if filled out
+
+- [ ] 2019-07-30 Tue
+	- [ ] Jim Taggart arrives
 
 - [ ] 2019-07-31 Wed
 
