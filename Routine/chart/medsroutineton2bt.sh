@@ -153,7 +153,7 @@ rowidx=$((rowidx - 1))
 echo "[$((nstartidx)):$((rowidx))]"
 
 cat <<EOF | gnuplot
-set terminal 'png' size 1350, 975
+set terminal 'png' fontscale 2 size 1350, 975
 set output 'Toothbrushing and Nicotine.png'
 set key left autotitle columnhead opaque
 set xtics rotate
@@ -177,7 +177,7 @@ plot 'Toothbrushing and Nicotine.data' using 0:2:xticlabels(1) with lines lw 5 l
   n(x) lw 6 lc rgbcolor "grey50" axes x1y2
 EOF
 cat <<EOF | gnuplot
-set terminal 'png' size 1350, 975
+set terminal 'png' fontscale 2 size 1350, 975
 set output 'Nicotine over Time.png'
 set key left autotitle columnhead opaque
 set xtics rotate
