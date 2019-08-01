@@ -1,0 +1,26 @@
+Ideally I'd like to get data off of the phone via a controlled channel where I can observe what
+goes in and out.
+
+The existing approach is QR codes, but it is laborious for large amounts of data.
+
+I can also insert and remove SD cards, but I would like to do this only in one direction, to
+prevent it being a channel for compromise.
+
+(note: also existing issues of bluetooth radio and no faraday bag; would also like to replace with
+new device)
+--> replacing with a new device happens rarely.  could have the phone only SEND data, but never
+    receive except via keyboard.  sounds reasonable.
+
+I guess for now, I'll put 1 sd card into the phone, and then transfer sd cards _from_ the phone in the future.
+		-> hmm if sd card is previously compromised, this would create strong information flow
+		but i see that if we use new sd cards there's a long delay involved, seems ok
+	maybe useful to have denser data coming off of phone ...  maybe encode to sound file and send via headphone jack.  
+		-> I try to avoid plugging wires into the circuitry of my phone.  they can be used to gain more effect of it.
+	so ... options then include powering the speaker, using a movable object, or using the display
+	i wonder how infeasible it would be to get dense data transfer off the display ...
+		maybe if the phone had a holster it could rest in, in front of a camera
+		then i wouldn't have to hold it perfectly and hit a button.  it could just sit there
+		and transfer.
+		if there's maybe 1k in a screenful, and it took 200 ms to read, then we'd get 5k/sec
+		transferring 5MB would take 1000s, or 16 min.
+		Maybe that's reasonable: the mount.

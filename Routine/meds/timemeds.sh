@@ -9,12 +9,20 @@ year="${today%%-*}"
 ttrackdir="../ttrack"
 ttrackfile="${ttrackdir}/time_details.csv"
 
+git pull
+
 echo "$(date +%s),start,RESPONS,Meds" >> "$ttrackfile"
+
+skipmatch=0
+if [ "Antibiotic" == "$routine" ]
+then
+	skipmatch=-1
+fi
 
 csv="${year}-meds.csv"
 
 {
-	sleep 0.1
+	sleep 0.4
 	echo "I'll fill in values for your $routine meds!" > /dev/tty
 	echo '' > /dev/tty
 	cat "$csv" | {
@@ -38,7 +46,7 @@ csv="${year}-meds.csv"
 			fulldosage="${line%%,*}"
 			dosage="${fulldosage%% *}"
 			notes="${line#*, }"
-			if (( $(shuf -i 0-1 --random-source=/dev/random | head -n 1) == 0 ))
+			if (( $(shuf -i 0-1 --random-source=/dev/random | head -n 1) == skipmatch )) 
 			then
 				echo "I recommend SKIPPING the next med if you want !" > /dev/tty
 			fi

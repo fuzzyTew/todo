@@ -1,0 +1,154 @@
+A CURRENT-CARRYING WIRE produces a CIRCULAR MAGNETIC FIELD.  The direction is by the right-hand rule.
+								(fingers point north, thumb against electrons)
+
+The regularity of the field lines around a coil breaks down very close to the wires, naturally.
+
+The FLUX of an electromagnet is like a bar magnet, and directly proportional to the amount of current.
+
+Magneto Motive Force (m.m.f., ampere turns) = I x N
+	I = current
+	N = turns in coil
+
+The wires in a coil attract and repel each-other due to their aligned (attract) or disaligned (repel) fields.
+
+B = Magnetic Field (flux density, Tesla, T) = mu H
+mu = absolute permeability
+mu_0 = permeability of a vacuum = 4 pi 10^-7 H/m
+mu_r = relative permeability = mu / mu_0 = flux density in material / flux density in vacuum
+	diamagnetic: _less_ permeable than vaccum: water, copper, silver, gold
+	paramagnetic: only _slightly_ more permeable than vacuum: gases, magnesium, tantalum
+	                   _slightly_ attracted to magnets
+       mu_r is equal to the ratio that flux density increases in an electromagnet core of that material
+		but note that materials can be QUICKLY SATURATED: mu_r will change as B changes
+			this can be predited from a B-H curve (magnetisation curve, magnetic hysteresis curve)
+			Steel: good to BM = 1.2, H = 1000 At/m, then slowly rises to BM = 1.5 at 3000 At/m
+			Iron: best to BM = 0.2 but curves to BM = 0.6 at 3000 At/m
+				producing flux density requires aligning domains in the material
+		but air and vacuum have constant mu_r = 1 regardless of B
+	soft iron?: mu = 80 mH/m; mu_r = 64k
+H = Magnetising Force (ampere-turns/meter, At/m)
+B_R = Residual Magnetism (also the max theoretical power of a permanent magnet)
+H_C = Coercive Force
+
+Coil: H = I x N / L
+		L is length of coil in meters
+Line: H = I / (2 pi r)
+		r is distance from line wire
+
+Core Retentivity
+	B-H curve can be used to discern field as a function of H within a core,
+	but when H drops B can stay, held by the core.  This is called Retentivity or Remanence.
+	B_R is still remaining in core.
+	H_C can be applied to return H to zero.
+
+	A Magnetic Hysterisis Loop shows the behavior of a ferromagnetic core undergoing changing current.
+	Since response to H depends on past H, this chart can predict the ratio.
+	Soft Magnetic Materials such as those with silicon added have narrow loops and little retentivity.
+	Hysteresis Loss = work lost to heat from applying H_C to core
+	
+
+At a distance, magnetic field is generally described by a DIPOLE FIELD characterized by total
+	MAGNETIC DIPOLE MOMENT = m (A m^2 or At m^2)
+	Strength falls off inversely with the cube of the distance from the center.
+	m is a vector pointing north
+
+	m = IA  (as A approaches 0 as a limit)
+		I = current through loop (even true in magnetic materials, small loops)
+		A = area of loop
+	Gilbert model:
+	m = q_m d
+		q_m = magnetic charge (equal and opposite on ends of magnet)
+		d = distance between ends
+
+	Force is because of Lorentz forces on current loops.
+	F = gradient (m dot B)
+	    gradient is just rate of change over space
+	    direction is that of maximum increase of m dot B
+	large magnets may need integration
+
+	Gilbert model:
+		F = mu q_m1 q_m2 / (4 pi r^2)
+			q_m = magnitude of pole (A m)
+			mu = permeability of intervening medium
+			r = separation
+
+		Simplifications:
+		Magnetized surfaces, no fringing, air gap smaller than magnet:
+			F = mu_0 H^2 A/2 = B^2 A / (2 mu_0)
+				A = area of each surface
+				H = magnetizing field
+				B = flux density
+		Distant cylinderical bar magnets end-to-end:
+			F = B_0^2 A^2 (L^2 + R^2) / (pi mu_0 L^2) (1/x^2 + 1/(x+2L)^2 - 2/(x + L)^2)
+				B_0 = flux density very close to each pole
+				A = pole area
+				L = magnet length
+				R = magnet radius
+				x = separation
+				note that B_0 = (mu_0/2) M
+					M = magnetization of magnet
+
+	NOTE: nearby magnets affect each other!! they induce current, they magnetise.  see "magnetic circuit" ?
+
+	Ampere:
+		Sufficiently distant magnets to approximate as dipoles:
+			B = (mu_0 / (4 pi r^3)) (3(m dot rhat)rhat - m) + (2 mu_0 / 3) m delta^3(|r|)
+				r = vector from other dipole to measurement location
+				rhat = unit vector
+				m = dipole moment
+				delta^3 = three-dimensional delta function, integral is 1 and is zero everywhere except (0,0,0), so last term falls off
+			This can be simplified by shifting the coordinate system:
+				m_1 is the origin
+				z axis points in the direction of m_1
+				B_z = (mu_0 / 4 pi) m_1 (3 cos^2 theta - 1)/r^3
+				B_x = (mu_0 / 4 pi) m_1 (3 cos theta sin theta ) / r^3
+			F(r, m1, m2) = // force of m1 on m2
+				( 3 mu_0 / (4 pi r^5) ) ( (m1 dot r) m2 + (m2 dot r) m1 + (m1 dot m2) r - 5(m1 dot r)(m2 dot r) r / |r|^2 )
+				r is from m1 to m2
+				force on m1 is in opposite direction
+
+			wikipedia "Force between magnets" has final formulas but they are expressed in
+				terms of angles.
+
+
+For planning of magnets and currents, we'll need a concept of how force relates to distance, moment, flux, and At.
+	We can simplify and assume end-to-end magnets.
+		F = -3 mu_0 m1 m2 / 2 pi r^4
+		F = 3 m^2 mu_0 / 2 pi r^4
+		F = 3 m^2 4 pi 10^-7 H/m / 2 pi r^4
+		F = 6e-7 H/m m^2 / r^4
+
+		it's looking like m _might_ be 1/mu_0 B V
+			B is the flux density
+			V is the volume
+		but for solenoids one usually uses m = NIS
+
+		F = 6e-7 H/m N^2 I^2 S^2 / r^4
+
+- single-core wire carries the highest current
+- wire attributes we care about are current carrying capacity and outer diameter.
+  We want to maximize IN, current * loops, where each loop is outer-diameter thick
+  so total loops = length / diameter
+	IN = I * L / D
+	L is constant
+	maximize I / D
+
+	It really looks like the thicker the wire is, the stronger the magnet is, which doesn't match
+	my experience of seeing electromagnets with very thin wire.
+	This assumes it's still skinny enough to form multiple loops.
+
+	Copper foil can carry a current:
+		I = 0.024 dT^0.44 A^0.725
+			    dT = max rise in temperature in Deg C
+			     A = cross-sectional area in mil^2 (0.001 in)^2
+			     I is in Amp
+
+		It's notable that current is proportional to area^0.725.
+		By factorization, current should be proportional to thickness^0.725 for pcb trace thicknesses.
+		This means MORE WRAPS is better than MORE MATERIAL !! This is the opposite of what's gotten
+		for wires =S
+		
+
+	ALSO NOTE: we can give a core to multiply strength by many magnitudes
+	It looks like it's normal to use AWG 30 magnet wire.
+	You gain a little from making the wire larger, but the current must increase a lot.

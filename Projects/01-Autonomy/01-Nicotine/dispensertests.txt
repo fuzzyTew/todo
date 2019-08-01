@@ -1,0 +1,189 @@
+date 2018-11-25
+time 08:00 ET
+comment unknown start time
+comment dispenser was used only a few times before start of recording, all today I believe
+comment dispenser was opened and worked on likely some weeks ago
+set volsetting 0
+fill 33.8 
+start 1.6
+comment 1.67 
+start 1.67
+2.2 
+2.7 
+3.1 
+3.4 
+4.4 
+5.0 
+5.9 
+6.6 
+
+prefill 48.5
+dofill 8.0
+fill 40.5
+prefill 46
+dofill 10
+fill 76.5
+start 1.6
+2.2
+2.8
+3.4
+4
+4.3
+5.4
+6.2
+7.2
+7.9
+8.7
+9.7
+
+time 12:47 ET
+
+date 2018-11-26
+time 12:57 ET
+fill 0
+prefill 45
+dofill 12
+prefill 42
+dofill 27.5
+start 1.65
+2.2
+2.7
+3.1
+3.75
+4.7
+5.3
+6
+6.6
+7
+7.4
+8
+8.55
+9.5
+
+start 1.2
+1.75
+2.4
+3.35
+4.2
+5.15
+5.8
+6.6
+7.2
+7.75
+8.6
+comment dispensed by accident without measuring here
+
+fill 0
+prefill 44
+dofill 6
+prefill 47.5
+dofill 5
+
+start 1.8
+2.4
+3.4
+4.2
+4.8
+5.4
+6
+6.6
+7.6
+8.5
+9.4
+start 1.4
+2.4
+3
+3.6
+4.2
+4.8
+5.3
+5.8
+6.4
+7
+7.6
+8.6
+9.2
+start 1.2
+2
+2.9
+3.6
+4.2
+5.1
+5.8
+6.4
+7.1
+8.1
+8.9
+9.4
+start 1.2
+2.2
+2.9
+3.4
+4
+4.5
+5
+5.6
+6.2
+6.8
+7.75
+8.4
+9.2
+
+time 13:53 ET
+fill 0
+prefill 48.5
+dofill 6
+prefill 49
+dofill 5.75
+prefill 46.5
+dofill 12.75
+start 1
+1.7
+2.4
+3.4
+4.4
+5.4
+6.2
+7
+7.8
+8.6
+9.4
+10
+start 1.3
+1.95
+2.8
+3.8
+4.4
+5
+5.625
+6.2
+7.05
+8
+8.8
+9.8
+
+prefill 46
+dofill 5.5
+start 1.3
+1.9
+2.6
+3.4
+4.1
+4.8
+5.75
+6.5
+7.3
+7.9
+8.95
+9.85
+start 1.2
+2.4
+3.4
+4.2
+5
+5.95
+6.7
+7.4
+8.15
+8.8
+9.6

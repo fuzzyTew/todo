@@ -1,0 +1,93 @@
+The wiki contains the block implementation manual.  It's in ~/mirror .
+
+- blocks consist of a public .hpp and a private .hpp and .cpp
+- public object has factory make() function to construct private object
+- there is a script to automatically generate stubs: gr_modtool
+
+public.make() // factory function
+
+private.constructor()
+  // must inform gnuradio of # input ports, # output ports, and item size. this is an IO signature.
+  : gr_sync_block("blockanme", gr_make_io_signature(mininputct, maxinputct, sizeof(float)), gr_make_io_signature(minoutputct, maxoutputct, sizeof(float)))
+  // if ports have different datatype sizes, uses gr_make_io_signaturev instead
+{
+  // can call set_history() in sync blocks to retain sample history
+      // k - 1 samples will be kept in the input buffers (noutput_items will be k-1 smaller than allocated)
+  // can call set_output_multiple() to ensure that items are provided in fixed multiple quantities
+  // can call set_msg_handler() to handle messages
+  // can call set_tag_propagation_policy() to change how tags are forwarded
+
+  // block types:
+  // synchronous (1:1) -- each port has same # items per work
+      // sources and syncs are synchronous, they just use gr_make_io_signature(0, 0, 0)
+  // decimation (N:1)
+      // inputs are fixed multiple of outputs (consumes 4 floats on each port for every 1 float out)
+      // this decimation factor is the 4th parameter to the constructor of gr_sync_decimator
+  // interpolation (1:M)
+      // output items fixed multiple of input items (ninput_items = noutput_items / interpolation)
+      // gr_sync_interpolator
+  // general (N:M)
+    // just plain gr_block
+    // instead of work(), use general_work() which has ninput_items giving length of each input buffer
+    // must call consume(port, count) to eat input buffer items
+    // must overload forecast() if noutput_items != number of items in input buffers
+}
+
+private.start / private.stop ()
+{
+  // can overload these functions to save state across object lifetime, or note when streaming starts and stops
+  // it sounds like state saving might be needed to handle flow graph start / stop
+  // but at least start() gives an opportunity to initialize everything after possible thread interruption in
+  //   last run
+}
+
+int private.work(int noutput_items, gr_vector_const_void_star &input_items, gr_vector_void_star &output_items)
+{
+  // input_items and output_items are arrays of buffers
+  // buffers must be cast from void* into usable data type
+  // noutput_items is the length of each output buffer
+  // length of each input buffer can be inferred from output buffer length
+
+  // return value should be number of items produced
+
+  // if a blocking call is included, it must be interruptible by boost threads to handle unlock() or stop()
+  // must be waiting on boost sleep or boost condition variable (which many funcs use internally)
+  // if blocking on something else, just use the a timeout and call boost thread interruption point or check
+  // boost thread interrupted and exit if needed
+}
+
+// other block types:
+// - hierarchical block wraps other blocks; use connect() method to connect sub-blocks
+//        can connect to ports on self to connect innards to outside
+// - top block holds all other blocks
+//    public members to make work:
+//      start(N) start graph with N as max noutput_items
+//      stop() stop
+//      wait() block until finished
+//      run(N) calls start then wait
+//      lock() locks flowgraph to be reconfigured
+//      unlock() unlocks and restarts
+//
+//    N affects latency; has large default value for throughput
+//        can change with set_max_noutput_items(N) after locking
+
+
+
+
+/*** MAKING A MODULE AND BLOCKS ****/
+1. gr_modtool newmod <name> # to create gr-<nme> dir containing module
+  enter this folder
+2. gr_modtool add -t <type:general,sync,hier,interp?,decim?> -l cpp <blockname> # to create block
+  QA code means tests.  Probably good to write this before the actual block.
+  note the useful blocks vector_source_f and vector_sink_f to to work with test data vectors
+  see file:///home/user/mirror/wiki.gnuradio.org/index.php/OutOfTreeModules#Test_Driven_Programming
+  can run tests with 'make test' in cmake build
+    -> if there's an error run manually
+    $ ctest -V -R <regex name match>
+3. gr_modtool makexml <blockname> # overwrite the invalid grc xml file with one generated from the source
+  some editing of the file will likely be needed: this is where input/output types are set
+
+Blocks can be reloaded in GRC at runtime by hitting "Reload Blocks" blue circular arrow in right-hand side of toolbar
+
+I propose making systems entirely C++ (with python bindings for others) so that they may be run with decreased
+  memory usage and dependencies, using GRC for prototyping.

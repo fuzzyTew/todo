@@ -1,0 +1,42 @@
+01-Taxes.txt
+
+2019-04-14
+	IRS tax help for individuals:
+		800-829-1040
+			M-F 7a-7p
+		   1. english
+			1. refund & form 1040-X status
+			2. personal income tax, tax reform law, income tax withholding,
+			   tax forms and transcripts
+			3. answers about business taxes
+			4. prerecorded information & resources about health care law
+			5. personal & business taxes regarding health care
+			9. repeat menu?
+		1600 N. Coalter St.
+		Staunton, VA 24401
+			M-F 8:30a-4:30p (closed lunch 11:30a-12:30p)
+			Please make an appointment:
+				844-545-5640
+			Office number:
+				540-609-6058
+
+2019-04-14
+	The tool I was using for tracking gains/losses was bitcoin.tax .  It costs money but appears to do
+	what is needed.  You need to roughly manually import all your exchanges every year.
+	I got the numbers good enough by importing a lot of exchanges and manual deposits, but not all of them.
+	Turns out I had a net loss in 2018, actually larger than my income of 2017.
+
+2019-03-20
+	I filed taxes for 2017 using turbotax but did not pay them.
+	I think they were around $20,000 .
+	I currently have around $6,000 and make around $1,000 a month.
+	I'll need a payment plan.
+	Taxes for 2018 are coming up.
+	I have a _lot_ of taxable cryptocurrency trades, hundreds or thousands.
+	I received a document in the mail regarding taxes and insurance.
+	In 2018, I used a service that computed my cryptocurrency gains and losses.
+
+	- [ ] find document
+	- [ ] discern what is needed for last year's taxes
+		Keep in mind I can likely pay my taxes but only on an installment basis.
+	- [ ] discern what is needed for this year's taxes

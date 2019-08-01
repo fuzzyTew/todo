@@ -1,0 +1,12 @@
+Techniques for expert sudoku:
+
+	- Exclusive Group: a group of n squares that can only have n unique numbers in them, in 
+	  a column, row, or 3x3 square.  These numbers can be removed from all other members of
+	  the column, row, or 3x3 square, because those n squares would be unsolvable if they
+	  couldn't solely contain those numbers.
+	
+	- When there's an "exclusive group" with more than two members (a triplet or quadruplet),
+          and one of the numbers in it resides entirely in some other group, that number may be
+	  removed from other squares in that other group.
+	  The reason for this is that if it were present in those squares, it would have to be
+	  removed from the triplet or quadruplet, which would make the puzzle unsolvable.

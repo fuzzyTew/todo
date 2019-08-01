@@ -1,0 +1,17 @@
+Goal: nurture nvc, and obtain practice in it
+
+Strategy: competitive mobile phone game
+
+Location: https://github.com/fuzzyTew/giraffes
+	rhel7 bash: src/giraffes
+
+====
+Original Idea:
+	The original idea was an 'empathy game'.  Empathy is one of the core skills of NVC and takes a lot of experience to get right, so a competitive environment can help people gain experience.
+	
+	One approach was to break people into "venters" and "empathizers".  The idea is that "venters" or "jackals" would come online simply because they want somebody to talk to and hear them.
+	The "empathizers" would be rewarded by the game system, and the "venters" would select the person who they appreciated the words of the most.
+		The game would need to arbitrate a little, in order to encourage the things that NVC encourages towards its larger goal of shifting conflict towards compassion.
+	
+	You could expand the approach to mediation, but it might need some thought.
+

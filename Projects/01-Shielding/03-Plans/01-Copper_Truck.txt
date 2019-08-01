@@ -1,0 +1,48 @@
+Truck box inner dimensions:
+	14' 7/8" long
+	7' 8" wide grows .5" wider at back
+	6' 9" tall
+
+Copper is available from:
+	onlinemetals.com	25" x 96"
+	mcmastercarr.com	 6" x 100'
+	basiccopper.com		24" x 192'	$399 from discounted section, unavailable: $675
+	basiccopper.com		18" x 100'
+
+Given that 24" wide copper foil is so expensive, does it produce more seams to use 25"x96" segments, or arbitrarily long 18" segments?
+
+Let's say we run the copper lengthwise from the back.  Top and bottom will wrap around back if possible, making roughly 3 segments: loop around front-back, left side, right side
+front-back loop:
+	92.25" wide
+	498.75" long
+side:
+	80.75" wide
+	168.625" long
+
+Let's say we run the copper circularly around the box.  3 segments: loop around length, back, front
+loop:
+	346" long
+	168.625" wide
+		18" strips?
+			20 count if run lengthwise
+				total seam length: 3372.5"
+			10 count if run circularly
+				total seam length: 3460.0" + 168.625" for ends = 3628.625"
+		25"x96" segments?
+			lengthwise (25" goes around circumference): 
+				14 segs circularly
+				2 segs linearly
+				28 segs total
+				(14 + 1) * 168.625" = 2529.375"
+				2 * 346" = 692"
+				total: 3221.375"
+			circularly (96" goes around circumeference):
+				4 segs circularly
+				7 segs linearly
+				total: 3265.125"
+		The 25"x96" segments have slightly less seams.
+				28 segs total !
+			
+frontorback:
+	92.25" wide
+	80.75" long

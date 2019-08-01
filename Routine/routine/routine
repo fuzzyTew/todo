@@ -5,10 +5,56 @@
 FILE="${1}"
 routine="${FILE%.routine}"
 ttrackdir="../ttrack"
+export NO_SYNC=1
 
-cat "$FILE" | while read code name
+CONTINUE=1
+
+if test "$FILE" == "brushing.routine"
+then
+  if test "$2" != "fromroot" && test "$1" == "brushing.routine"
+  then
+    echo "Script has moved into routine2.C . "
+    CONTINUE=0
+  else
+	echo "=============================================================="
+	echo "  HABIT TRAINING CAN BE ALTERED IN ==> $FILE <==  PLEASE SUPPORT PRODUCTIVE CHANGES WITH COMMUNICATION"
+	echo "=============================================================="
+	echo "= It is HARD to maintain this.  Please implement UPDATED PLAN:"
+	echo "= - [ ] DEPRIORITIZE unlearned tasks when learning is lost on tasks with more value"
+	echo "= - [X] keep SIMPLE, SHORT behaviors around reinforcing behavior for a while"
+	echo "= - [ ] UPGRADE simple behaviors to HARDER behaviors AFTER simple behaviors are learned."
+	echo "=============================================================="
+  	echo "Hey; let's upgrade the script so scores are multiplied by a constant, and having complete success that many times in a row results in the number needed for success rising"
+	echo "More accurately, let's merge the rating stuff in this script into routine2.C"
+  fi
+else
+  echo "HEY HEY! I'm MOVING this concept into ==> routine2.C <== .  use system(3) to reuse script work. YES YES YES !!!!!"
+fi
+
+if (( CONTINUE ))
+then
+cat "$FILE" | {
+
+# let's add a rating to use for dosage suggestions
+# for rating, we'll want to track total time taken, and amount of successes
+read last_successes baseline last_duration < "$routine".laststatus
+rating_trials=$((0))
+rating_successes=$((0))
+rating_startsecs=$(($(date +%s)))
+
+if (( last_successes <= baseline ))
+then
+  baseline=$((last_successes - 1))
+elif (( last_successes > baseline ))
+then
+  baseline=$((baseline + 2))
+fi
+
+echo $((rating_successes)) $((baseline)) > "$routine".laststatus
+
+while read code name
 do
-  ttrackline="$(grep "$name" ${ttrackdir}/routines.csv)"
+  ttrackline="$(grep ,"$name", ${ttrackdir}/routines.csv)"
   if [ "x$ttrackline" != "x" ]
   then
     echo '(connecting with ttrack for this one: '"$ttrackline"')'
@@ -20,9 +66,10 @@ do
   else
     ttrack=0
   fi
+  rating_trials=$((rating_trials + 1))
 	while true
 	do
-		echo " == $name == " | tr a-z A-Z
+		echo " == $name == (last:${last_successes} base:${baseline} cur:${rating_successes})" | tr a-z A-Z
 		echo "Press enter when you start, 'skip' to skip this, or 'already' to indicate it is already done."
 		read skip < /dev/tty
 		start=$(date +%s)
@@ -33,6 +80,7 @@ do
 		then
 			echo "Already completed."
 			echo $code, $routine, , $(date -Is -d @$start), "$name", "finished earlier" >> routinedata.csv
+			rating_successes=$((rating_successes + 1))
       if ((ttrack))
       then
       #  echo "$(date +%s),start,${ttrackgoal},${ttracktask}" >> "$ttrackfile"
@@ -51,15 +99,17 @@ do
       fi
 			while true
 			do
-				echo "Press enter when completed, or 'abort' to give up."
+				randstr="$(tr -cd 'a-zA-Z0-9' < /dev/urandom | head -c 3)"
+				echo "Please type '$randstr' when completed, or 'abort' to give up."
 				read abort < /dev/tty
 				stop=$(date +%s)
 				if [ "x$abort" = "xabort" ]
 				then
 					echo ' ABORTED !'
 					echo $code, $routine, $(date -Is -d @$start), $(date -Is -d @$stop), "$name", UNFINISHED >> routinedata.csv
-				elif [ "x$abort" = "x" ]
+				elif [ "x$abort" = "x$randstr" ]
 				then
+					rating_successes=$((rating_successes + 1))
 					echo $code, $routine, $(date -Is -d @$start), $(date -Is -d @$stop), "$name", >> routinedata.csv
           if ((ttrack))
           then
@@ -69,7 +119,6 @@ do
 				else
 					echo "I couldn't recognize '$abort' ... try again?"
 					continue
-	
 				fi
 				break
 			done
@@ -79,11 +128,23 @@ do
 		fi
 		break
 	done
-	git add routinedata.csv
+  rating_endsecs=$(($(date +%s)))
+  rating_duration=$((rating_endsecs - rating_startsecs))
+  echo $((rating_successes)) $((baseline)) $((rating_duration)) > "$routine".laststatus
+	git add routinedata.csv "$routine".laststatus
   git add "$ttrackdir"
 	git commit -m "$(date -I) $routine $name"
 	{
-		git pull --no-edit &&
-		git push >/dev/null 2>&1
-	} &
+		git pull --no-edit 2>&1 &&
+		git push 2>&1
+	} > /dev/null &
 done
+
+printf "Total Duration=%d:%02d\n" $((rating_duration/60)) $((rating_duration%60))
+
+# TODO: record duration & pct, and output metric to be used to figure n2
+#       metric should foremost value pct, and then only value duration if pct is 100%
+#      could for now just output pct and duration, and my job to note if they have fallen from target; target rises as reached reliably
+#	then either store and just output single metric, or integrate with dosing system later
+}
+fi

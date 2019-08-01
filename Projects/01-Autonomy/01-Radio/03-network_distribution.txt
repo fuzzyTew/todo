@@ -1,0 +1,17 @@
+I think GnuRadio can do network distribution using 'socket pdu' and 'tcp server sink' although I haven't tried this.
+
+SoapyRemote:
+  Each stream is specific to one client, and devices in general don't allow more than one stream on a single channel.
+  Implementing multiple clients reading from the same stream means solving the problem of who defines the buffer format and which channels get bundled into streams.
+  A quick solution might be to provide a way for read-only clients to enumerate streams opened by read-write clients, and to block while waiting for a stream to be opened
+    by a read-write client.
+
+Pothos:
+  Pothos has a 'network' block but it would need to be modified to distribute to multiple clients.  It assumes exactly one client.
+  Alternatively, the network block could be multiply instantiated by the application.
+
+GnuRadio:
+  GnuRadio may be able to do this with the 'socket pdu' and 'tcp server sink' blocks.
+
+  GnuRadio appears to have a 'ControlPort' feature that seems partially intended to provide this, although I'm unsure if it will allow connection to further processing blocks.
+  The 'tune' function is disabled in the example, stating it is unsupported, whereas 'tune' is the functionality I am looking to use.

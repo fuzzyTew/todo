@@ -1,0 +1,98 @@
+Questions:
+	- [ ][X] What is needed to detect accientally held devices?
+			I asked David about interferenc detection, but I can kind of infer that this would be done with a spectrum analyzer in a quiet environment.
+	- [ ][X] How can I learn more?
+			Some astronomers gave me some references of a wide variety, and a link to the radio astronomy hobby groups that has a ton of detail.
+			The tour guides spout information and one can take the tours freely.
+			David is available for email questions, and I asked him about recommended education programs.
+			I'm trying to get involved in internships and classes, which seem like the way to go.
+			It would be useful to form a connection with a local researcher etc, help out with their work or something to get involved.  I could reach out individually to see if this available on a more informal basis.
+			The site seems open to people coming and going, it doesn't seem locked down.
+	- [ ][X] Could you aim scope at object to figure out molecules in it?
+			I asked David through what emissions process interstellar molecules were detected.  If his answer is clear it may answer this, or it may be uncertain if that would work terrestrially.
+			I saw something on the board regarding H2CO spectrum, mentioning wavenumber/cm^-1 ...
+	- [ ] Could you pick up man-made signals from the past, reflected back off an interstellar object?
+	- [ ] Ask Breakthrough Listen workers for access to this year's data
+	- [ ] Review other researchers' projects: most are said to provide access to data, and can always be asked
+	- [ ] Is scope sensitive enough to pick up muscle contractions?  CNS emissions?
+			I'm expecting so.
+	- [ ] Do research if scope is sensitive enough to pick up muscle contractions, and propose a research project to detect them.
+			-> may involve coming up with a shared purpose for doing so; perhaps detecting missing persons, or counting wildlife for ecological studies
+	- [ ] How does a radio telescope interferometer work?
+			I understand that it uses many small, distant telescopes to create the receiving equivalent in some manner of a telescope equal in size to their distance.
+		- [ ] VLBI Very Long Baseline Inerferometry, uses two distant scopes
+	- [ ] What other kinds of radio telescope arrays are there?
+	- [ ] Are there ways interested people could spend time around researchers and get to know there work?
+	- [ ] Are there any options for internship or mentoring if not involved in a degree program?
+		-> perhaps pursue applying for internship first.  
+	- [ ] What construction is used to make use of array receivers when a parabolic dish would focus to a single point?
+		-> I think high tech tour answers this question; just need to pay more attention.
+
+Deduce from notes:
+	- [ ] What is an equatorial mount?
+
+QUIET ZONE LEGISLATION
+	- 1956 10 mi zone under WV Radio Astronomy Zoning Act
+		surveiled and enforced by vehicle
+	- 1958 NRQZ by FCC, 13k mi^2
+	- GBO on-site, microwave etc devices forbidden
+
+SHIELDING
+	- copper mesh is used for basic faraday cage
+	- signals detected in demo with spectrum analyzer
+	- exhibit room is "faraday" cage by tour guide, upon inspection is a more advanced shielded room produced by universal shielding with anechoic absorbers on entryway
+
+ARRAYS
+	- interferometer
+	- other?
+	some have arrays in their pickups
+
+MOUNT/AIM SYSTEMS
+	- equatorial
+	- other?
+
+TELESCOPES AT GREEN BANK:
+	- 3x 85' ?
+	- 1x 45' ?
+	- GBT: 485 ft
+	- 300' 1961
+	- many built
+	- 2700 acre site purchased 1957
+
+ENGINEERING BASICS:
+	- 1 Jansky = 10^-26 W/m^2/Hz
+
+
+GREEN BANK TELESCOPE
+	- 0.001 jansky routine detection
+	- 60% funded by NSF, 20% seti, 20% russian satellite download? also other sources
+	- funders get GUARANTEED TIME; scients APPLY for FREE TIME among remaining available
+	- receivers are supercooled to remove thermal noise
+	- There is an antenna set up to detect local interference.  It was mentioned on a standard tour.
+
+CONSTRUCTION EXAMPLES:
+	- 1/8" paraboloid aluminum reflector focuses parallel wave onto point receiver
+
+SUGAR GROVE:
+	- 2018; STILL OPERATING according to GBO tour
+
+GBO INVOLVEMENT
+	- students (apparently both college and elementary?) hired to paint telescope
+	Volunteer App:
+	- volunteered at Pierce's Store, where I sold to custmoers, performed inventory, and reverse engineered an electronic scale to interconnect it with modern checkout software
+		- [ ] yrs? perhaps supervisor could be good reference (Sally)
+	- farm intern at spring lake ranch
+	- [ ] app to fill application out
+	- truly care about every person I meet
+	- experience in electronics, CS
+	- some college, EE, CS, Math, Botany
+
+Answers
+	- [X] Does air strip commms interfere with telescope?
+			On-site airstrip does not appear to be used.
+			Nearby airstrip is in arborvale and appears private and coordinated with scope.
+	- [X] How to download scope recordings?
+		David e-mailed me link to Breakthrough Listen data.  Employees have offered to 
+	- [X] Does the pickup have an array of sensors like a camera?
+		Some have a handful of sensors, but mostly images are made by slowly changing the aim. 
+

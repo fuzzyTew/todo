@@ -1,0 +1,124 @@
+- [X] I've added support for message commands to gr-osmosdr
+- [ ] Add support for stream tags coming from sources
+- [ ] Add support for stream tag commands?
+  -> it's notable that UHD uses these only for transmitters and not receivers
+
+- gnuradio uses tag streams / stream tags for data synchronous with samples
+- gnuradio uses messages for asynchronous data
+
+We'll want to make sure both of these are implemented for the interfaces we use.
+This appears to be done for uhd/usrp
+
+- there are also tagged stream bocks; tags are use to identify packet boundaries
+  these appear to just be blocks that take special stream tags, but seem to have
+  innate differences too
+  -> there are blocks which convert between messages and tagged stream pdus
+
+- gnuradio uses VOLK for vectorization
+
+- !!! gr-osmosdr already appears to use some messages, but no tags
+
+tags have:
+- offset
+- key, PMT
+- value, PMT
+- srcid, optional PMT identifying producer
+
+int work(int noutput_items, gr_vector_const_void_start &input_items, gr_vector_void_start &output_items)
+{
+  // read tags with get_tags_in_range
+  std::vector tags;
+  const uint64_t nread = this->nitems_read(0); // number of items read on port 0
+  const size_t ninput_items = noutput_items; // assuming this is a sync block
+  
+  // read all tags associated with port 0 for items in this work function
+  this->get_tags_in_range(tags, 0, nread, nread + ninput_items);
+  // or
+  this->get_tags_in_window(tags, 0, 0, ninput_items); // i think
+  // a fifth argument may be passed above to only get tags with a passed key
+
+
+  // write tags with add_item_tag
+  const size_t item_index = ? // which output item gets the tag?
+  const uint64_t offset = this->nitems_writte(0) + item_index;
+  pmt::pmt_t key = pmt::pmt_string_to_symbol("example_key");
+  pmt::pmt_t value = pmt::pmt_string_to_symbol("example_value");
+
+  // write a tag to output port 0 with given absolute item offset
+  this->add_item_tag(0, offset, key, value);
+}
+
+DON'T SEND a lot of tags !! Send them only when they cannot be inferred from previous tags.
+But DO e.g. send a new time tag if data is dropped.
+
+UHD source tags:
+  referenced as TIME_KEY, RATE_KEY, and FREQ_KEY in gnuradio/gr-uhd/lib/usrp_source_impl.cc
+  These are all tuples, with key symbol, and value in parens
+- "rx_time" (pair of uint64 full secs, double frac secs)
+- "rx_rate" (double)
+- "rx_freq" (double)
+
+UHD sink tags:
+  referenced as SOB_KEY, EOB_KEY, TIME_KEY, FREQ_KEY, and COMMAND_KEY in gnuradio/gr-uhd/lib/usrp_sink_impl.cc/h
+- "tx_sob"
+- "tx_eob"
+- "tx_time"
+- "tx_freq"
+- "tx_command"
+
+Metadata information has adopted UHD tags, using rx_rate and rx_time
+
+===
+
+Messages have their own set of ports, which are named by pmt strings rather than numbered.
+Create message ports:
+  message_port_register_in(name)
+  message_port_register_out(name)
+Publish a message:
+  message_port_pub(name, msg)
+Handle messages:
+  set_msg_handler(name, boost::bind(&class::handler, this, _1));
+  // handler is a void method taking a single pmt::pmt_t message
+Connect message ports:
+  topblock.msg_connect(srcblock, srcport, destblock, destport)
+Manually post messages:
+  use block._post(port, msg)
+Format norms:
+  For commands taking a single value, use pmt::cons(KEY, VALUE), where KEY is command and VALUE is param
+  Otherwise, perhaps a pmt::dict((KEY1: VALUE1), (KEY2: VALUE2), ...)
+  KEYs should be pmt::symbols i.e. strings.
+  Please name things using these keys to help further use in the future, and not pass bare values.
+
+UHD command keys:
+  in gnuradio/gr-uhd/lib/usrp_block_impl.cc (affect both sink and source)
+command keys, which may be sent many at once:
+- "freq" (double)
+    tunes to freq
+- "lo_offset" (double)
+    additional tuning parameter
+- "gain" (double)
+    sets gain
+- "antenna" (string)
+    sets antenna
+- "rate" (double)
+    sets samplerate
+- "tune" (pair of double freq, double lo_offset)
+    tunes, same as passing freq and lo_offset separately
+- "bandwidth" (double)
+    sets bandwidth
+- "lo_freq" (double)
+    sets rf freq directly, rather than freq + lo_offset
+    appears to conflict with "freq","lo_offset", and "tune"
+    also sets dsp freq policy to manual, even if "dsp_freq" is unset
+- "dsp_freq"
+    sets manual dsp_req
+parameter keys:
+- "mboard" (converted to long)
+  if not provided all mboards are selected
+- "time" (pair of uint64 full secs, and double frac secs)
+  may be nil to clear command time, otherwise sets command time
+- "chan" (converted to long)
+  if not provided all chans are selected
+
+  These take either pairs or dicts (both for all) as values.  tuples work too but appear deprecated.
+  

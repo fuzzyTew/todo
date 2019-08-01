@@ -1,0 +1,21 @@
+Non-shielding Materials
+	Material		Melting Point C
+	Corrugated Cardboard	258 (fire point, ambient)
+	PETG			210
+	Polystyrene		210
+	Acrylic			160
+	Bamboo			250-300 (ignition)
+	
+Plan for cheap flame-resistant material:
+	Bamboo, 0.035 inches / 0.9 mm +-0.1mm from ponoko.com.  Also available thinner/thicker.
+	$15.00 for 790 mm x 384 mm / 31.102 in x 15.118 in
+	Large templates like this can be slightly warped.  181 mm x 181 mm / 7.126 in x 7.126 in warps less.
+
+Plan for cheaper less flame-resistant structural material:
+	Clear PETG, 1.0 mm (also 0.5 mm) +-0.1 mm
+	$11.00 for 790 mm x 384 mm / 31.102 in x 15.118 in
+	WARNING: description of petg implies low melting point, not high melting point.
+	It bends a little.
+
+average kerf decreases with thickness
+hardboard/plywood have 0.2 mm for 3 mm thick

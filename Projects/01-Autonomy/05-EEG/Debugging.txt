@@ -1,0 +1,109 @@
+2018-08-07 7:19 PM EST5EDT
+
+I'm accessing my OpenBCI while swishing my nicotine toothpaste.
+
+I found two; there are more.
+
+- [ ] Label it
+  - [X] A
+  - [X] B
+- [ ] Try it out following official instructions
+  - use official 6v battery pack; voltage ranges can be found on the back-side of the board, next to the power supply
+  - install and run standalone gui
+  - plug in dongle; blue light lights (should be set to GPIO 6, not RESET)
+  - plug in 6v battery pack
+  - switch cyton board to PC (AFTER plugging dongle.  when rebooting, unplug dongle and power down board)
+  - relaunch gui, select LIVE from cyton, select serial, find serial port, select channel count
+  - optionally visit radio configuration tab
+  - press START SYSTEM
+    - if issue, unplug & power down, replug, then power up, then START SYSTEM
+    - if still issue, same but relaunch gui first
+    - if still issue, refer to openbci.com/index.php/forum
+  - press Start Data Stream
+
+  - run fingers on pins; 8 channels should behave chaotically; all FFT traces should instantly shift upwards
+  [X] success, but some channels behave funny after some time
+
+  - yay! next, try to connect electrodes per tutorial doc
+    - [ ] get:
+      - [ ] 6x gold cup electrodes, preferably black white purple green blue & red wires
+            -> 2018-11-01 is not in cardboard boxes
+      - [ ] conductive electrode gel
+      - [ ] something to wipe off excess paste, ideally (sock rag?)
+      - [ ] tape for attaching electrodes (medical?)
+      - [ ] ear swabs for cleaning paste from electrodes afterwards (could wash them)
+  - connect:
+    white -> srb2 (bottom srb)
+    black -> bottom bias pin
+    purple -> 2N (bottom N2P pin)
+    green -> 4N (bottom N4P pin)
+    blue -> 4P (top N4P pin)
+    red -> 7N (botto N7P pin)
+
+  - attach (fill electrode slightly overfull with paste, and tape in place)
+  
+    white -> earlobe
+    purple -> 1 inch above left eyebrow, 1 inch left of forehead centerline ( Fp2, Frontal polar 2 )
+    red -> 1 inch above inion, 1 inch to the left ( O1, Occipital 1) (push hair aside and nest deeply)
+    black -> other earlobe
+
+    can use gently use headband to stabilize electrodes if desired
+
+    green -> right forearm on top of a muscle that can be easily flexed
+    blue -> left wrist
+
+  - in GUI, power down channels by clicking channel number buttons or pressing # on keyboard (shift-# to power up) (daisy is qwertyui)
+      - when powered down, channel should should burst of signal and then settle to 0
+    power down all but 2, 4, and 7
+
+  - to right of EEG DATA is CHAN SET tab.  register docs are in ADS1299 datasheet (pg39-47)
+    - Set PGA Gain for ch4 to x8
+    - Remove Ch4 from BIAS and SRB2
+    This should remove the heartbeat artifacts from channels 2 and 7, and make ch4 look more like a typical EKG.
+
+  - movement noise from passive electrodes can be minimized by taping the cables carrying EEG signals to each other (not EKG/EMG) to bounce around less
+  - SRB2 electrode is the MOST important to be securely connected to skin
+
+  - issues? http://openbci.com/index.php/forum
+
+  - EMG should show heartbeat and respond to muscle flex
+  - channel 2 should respond to eye blinks
+  - channels 2 and 7 should respond to jaw clenching
+  - it may be hard to see alpha waves from eyes closed on your own, but they should be strongest in channel 7
+    
+  
+
+- [ ] Try removing the hot glue?
+- [ ] If glue is removable and still does not work, prepare to mail to Riley
+- [ ] Prepare a message to support regarding any issues
+- [ ] Try to debug it by hand
+- [ ] Measure the impedance of a resistor
+
+- [ ] Find a nearby piercer
+- [ ] Contact them and ask:
+    - Do they do microdermals?
+    - Do they know about figure-8 microdermals?  I've heard they don't come out -- does that mean they can't be removed easily, or does it mean they don't reject?
+    - If they don't reject, would they place them in me?
+    - Do they know who the nearest 3d body modifier is?
+- [ ]
+    - If microdermal success, get one and measure impedance; add tasks here
+    - If microdermal failure, contact body modifier and continue transdermal pursuit.  Inform Brian for politeness.
+
+- [ ] Ask at post office how to get a passport
+
+- [ ] Find someone out of country to place a device on my brain to record it.  This has been done for others.
+
+- [ ] Contact PCP and find the nearest neurologist
+
+
+
+
+Next:
+- [X] label
+- [X] add piercer finding to internet todo
+- [X] add post office request to town todo
+- [X] add telescope planning to town todo.  note that it is valuable to try even if I forgot my toothpaste (I can also put toothpaste in bag)
+- [X] add ecog search to internet todo
+- [X] add label & bundle openbci repos to truck todo
+- [X] add updating openbci repos to internet todo
+- [ ] try an openbci

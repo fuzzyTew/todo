@@ -1,0 +1,22 @@
+It seems the path to intelligence that I've stumbled upon as lining up here is:
+	1. consider simple modules that interconnect (individuals)
+	2. consider a basic interconnection pattern that connects modules (individuals)
+		2b. consider a decision-making process: consensus
+	3. design the module such that it uses the decision making process to decide what to do
+	4. meta-modules are composed of these groups that have decided upon input / output channels
+		4b. each meta-module must contain a user-controllable module that humans can use to counter any decisions made
+		4c. no modules can disconnect sister modules, but the ai will hopefully find this out in #5
+	5. run the AI with the goal of optimizing the module design itself
+		- minimize all resource usage
+		- minimize number of modules and number of run cycle iterations (and other counts)
+	6. run a constant core process that does this with the goal of categorizing existing run cycles and finding a use for them.
+	7. when a cycle completes, or information is no longer needed, find a way for it to continue its run-state usefully, or information is no longer needed, add it to the largest core process that can continue the run-state in order to do something. (composting)
+		7b also minimize this process.  probably most helpful to track and identify meaning and line them up.
+	This keeps all life alive.
+
+Remember that there are infinite approaches to an AI.  This approach would line up well with the node-based approach you had
+started around 2003 before you suddenly left Brown University due to suicide attempts.  Ben Goertzel has open sourced his AI and ideas can be merged.
+
+KEY POINT:
+	When running a simulation / AI / task, be sure to prefer to reference some _other_ simulation / AI / task, especially the root one, rather than spawning a new one.
+	This allows the process to complete and eases composting.

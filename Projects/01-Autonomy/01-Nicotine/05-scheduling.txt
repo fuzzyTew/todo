@@ -1,0 +1,67 @@
+I started using my existing routine script, made a brushing.routine .
+It doesn't tell me how much nicotine I should have, process the responses I give, or have a timer, all of which could be helpful.
+
+Scripts I have:
+	- tasks: picks random things, apparently; I think there's only 1 of these?
+	- routine: goes through a list, provides for start and end times, allows to abort/skip/already
+	- meds: goes through a list, only does one time, allows for notes
+	- exercise: has a library of functions, and then special scripts for each task.  has a timer, allows media programs
+	  does not record automatically
+
+I guess I'll need a new script.
+A concern is integrating with a daily schedule.
+Another concern is my difficulty thinking.  Clarity and simplicity are helpful.
+	-> idea: advanced academic textbook quizes
+
+Concerns:
+- brushing's a little harder at night, and I do one of the brushes without N2 ...
+	- i'm thinking it's just because it's at night.  it'll happen.
+- I'm doing awareness / nvc a lot throughout the day
+	- it's okay for now ... they really help you i think
+- some irritation at idea of work being interrupted by awareness / nvc
+	- there's some meaning there; work goes well ongoing.  i tihnk it'll be okay though
+- how to combine tasks with n2 dose? will it have effectiveness?
+	--> ongoing. probably will have effectiveness, have to way failures vs intensity.  maybe drop as low as doesnt increase failures much.
+	-> concept: fell off wagon.  drop dose to 'low' level: max with no failures
+	-> concept: achieved rare goal: raise dose to 'high' level ONCE
+	-> concept: contact behaviorist to consult
+
+New script.
+	Language?
+		-> python: hard to debug, really
+		-> node: also hard to debug
+			large library set
+		-> c/c++: small library set, more verbose, but more experience using
+			string parsing hard
+		-> shell: awkward
+		-> java: minimal experience, historical dislike for memory footprint
+		-> rust: minimal experience, but want to learn
+		-> other new languages
+		-> old languages i don't know or aren't used much
+
+		Probably Python or C++: python is easier to debug than node
+			python has more libraries than c++
+		List requirements to finish picking language.
+	Requirements?
+		- time my behavior
+		- ask yes/no questions if i subjectively met a goal
+		- control n2 output, which is likely a behavior 
+		- display a schedule and allow adjustment / priorities / or something (modular ways to adjuts schedule)
+		- provide for randomly chosen tasks
+		- provide for ensuring just enough time spent on a goal that the work it is addressing is, on average, shrinking (where appropriate)
+		- provide for categories that can be treated with their own training data e.g. doing task alone vs with others around, or doing when happy vs doing when depressed
+
+		- adjust behavior from sensors, e.g. video, network, keylog
+
+Request: let's track our daily task time, right now.  I just had a pretty brief work window and I want to spend more time accomplishing my goals.
+	-> I'm thinking I'll start making this system, in C++ (to ease debugging) with a goal of immediately using it to track time.
+		time tracking concepts:
+		- prompt to start random activities?
+		- integrate with csv files
+		- display time spent on activity, downtime, and ratios: see time tracking scripts
+		- report, starting activity now
+			- success % on finish
+			- interruption
+		- long-running system service (just a daemon process)
+		- provide for future multi-device use
+===> OOPS! ttrack already does this ;p <===

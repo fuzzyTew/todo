@@ -1,0 +1,43 @@
+last update: 2018-01-04
+
+- [ ] CUT current box to open it
+- [ ] place EMITTER inside on a battery
+- [ ] RESEAL box, with NEW foil if needed
+- [ ] Measure BY HAND, using FFT prog, to get basic results (WIDEBAND)
+
+
+- [ ] Measurement:
+  Made simple script but results are not what was expected.
+  - [ ] Take a measurement of an emission peak when shielded and unshielded using a normal spectrogram.  Then debug a measurement approach until it can predict the same attenuation.
+	-> orientation, placement, etc matter ... so possibly automate re-checking the comparison measurement to handle changes
+  - [ ] Reuse noiscillate setup with new soapyRTLSDR changes (timing can be fixed).  Resolve misalignment bug and possible other bugs (some assumption of shifted average could be false?)
+  - [ ] Build enclosable emitter / detector setup to measure actual shielded enclosure.
+	Todo items in
+	  - [ ] openemissions/shielding/effectiveness-measurement/noiscillate-data/test.cpp
+      	Current work with more todo in
+	  - [ ] ?-?-*.cpp
+  - [ ] Verify technique for discerning single emitter profile by trying with varying presence of background noise
+  - [ ] Verify technique for discerning S.E. by comparing with conventional equipment
+
+- [ ] Construction:
+	- [X] lasercutting extension is at https://github.com/execuc/LCInterlocking.git
+	- [ ] build living hinges circle for peelable door
+		- [ ] laser width
+		- [ ] material thickness
+		- [ ] space between lines of hinges
+		- [ ] length of cuts, length of material between cuts
+	- [ ] produce design for interlocking box
+	- [ ] cut hole in interlocking box to place door on outside against lip all around
+	- [ ] export and order
+	- [ ] construct, but not with smallest gauge foil due to experience of small rips
+
+Plan to make a completely sealed enclosure and verify effectiveness of 2 thicknesses of foil.
+Would like to videotape construction of enclosure and testing, but note it is easy to repeat testing.
+
+Resources:
+	- basiccopper.com has largest single-area foil available; their largest size is 5 mil.
+	- 1x 3'x8' 5 mil copper foil, boxed, in tiny home
+	- 1x 3'x36' 5 mil copper foil, shipping
+	- 1x 2'x3' 1.35 mil copper foil, opened & slightly used, in tiny home
+	- 1x 2'x3' 0.7 mil copper foil, opened & slightly used, in tiny home
+		first copper test box is made with this.  it can rip easily, but should be safe with a solid backing.

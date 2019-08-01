@@ -1,0 +1,52 @@
+BT10	Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: primary}
+BT2Z	Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}
+
+BTX5	Academic & Career Work: 30 min {VALUE: 0.6; REASON: credentials, contacts, experience; GOAL: 7/w}
+
+BT32	Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}
+
+BTX1	Use /projects/: Shielding Measurement: 30 min {VALUE: 0.5; REASON: personal value; GOAL: 14/w}
+	ahh! shielding!!
+
+BT15	Use /projects/: N2 scheduling (rating/ttrack/goals/tasks) work: 30 min {VALUE: 0.7; REASON: strategy itself; GOAL: 14/w}
+
+BT40	Eye lubricant {VALUE: 2; REASON: severe dry eye & small & easy; GOAL: 6/d}
+	personal maintainence ??? why do you need eye lubricant?
+		my right eyelid is paralyzed, so I have severe dry eye.  i generally forget to put the eye lubricant in
+		okay, so this is HIGH PRIORITY and small and easy !!!
+
+		i see that you have high internal priority around shielding and autonomy (choice, willpower)
+			yeah it was very scary to lose those last few things, so it seems important to pursue solutions
+		also hearing that others have encouraged you to prioritize pursuing those
+			makes sense
+		karl was very intelligent when introduced to this
+			he may have been very good at resisting it at the start
+				i was very confident i could handle any problem
+		i value my attachment to shielding, choice, willpower ... it feels very valid and important to me, logically.
+			I guess I believe that everybody is using their brain naturally to solve the problems of the world as a worldwide species.  i really believe this.
+			i think our conflicts are just us trying to make good decisions together, as a species.
+			etc etc philosophy
+				but in my philosophy our ability to solve the problems of the world breaks down when our minds break down, we can start harming instead of helping this process
+	
+		
+			
+
+
+BT18	Have started current routine or no current routine {VALUE: 0.5; REASON: life maintenance; GOAL: 14/w}
+BTX4	Logistics & Obligations: 30 min {VALUE: 0.4; REASON: life maintenance; GOAL: 7/w}
+BTX3	Use /projects/: Issues/bounties/collaboration/structures: 30 min {VALUE: 0.5; REASON: effectiveness; GOAL: 100%; L: 14/w; GOAL 14/w: }
+BTX2	Use /projects/: Shielding Construction: 30 min {VALUE: 0.5; REASON: personal value; GOAL: 14/w}
+BT19AB	If time, work towards exercise routine & finish if not yet today{VALUE: 0; REASON: ; GOAL: 100%}
+BT-5	Verify finished last run of routine{VALUE: 0; REASON: ; GOAL: 100%}
+BT00	Information task: 1 min{VALUE: 0; REASON: ; GOAL: 100%}
+BT13	Address 1 responsibility; at least communicate with other parties involved (or 2 min EEG if Aux){VALUE: 0; REASON: ; GOAL: 100%}
+BT19B	Dispenser work: 5 min{VALUE: 0; REASON: ; GOAL: 100%}
+BT25	Review list and concept of present concerns (include ref to old concerns){VALUE: 0; REASON: ; GOAL: 100%}
+BT30	Verify Toothpaste / Flossing / Fluoride attempt correct{VALUE: 0; REASON: ; GOAL: 100%}
+BT31	Verify lozenge percent correct{VALUE: 0; REASON: ; GOAL: 100%}
+BT33	Verify correctly evaluated routine{VALUE: 0; REASON: ; GOAL: 100%}
+BT50	Box put away{VALUE: 0; REASON: ; GOAL: 100%}
+BT60	Sensory awareness (or Aux){VALUE: 0; REASON: ; GOAL: 100%}
+BT70	NVC Practice (or Aux){VALUE: 0; REASON: ; GOAL: 100%}
+BT80	Accomplishment Log{VALUE: 0; REASON: ; GOAL: 100%}
+BT90	Task (1 hr){VALUE: 0; REASON: ; GOAL: 100%}

@@ -1,0 +1,24 @@
+Robotic creations of fantasy golems as seen in movies and games.
+Parts must float, separate from each other.
+Golem is themed to appear to be made all from a same kind of thing: 'fire golem' 'mud golem' 'water golem'.
+hey maybe we can make the golems fly some day!  could the ones with propellant use it to fly?  maybe a second prototype could look into some way to fly?
+
+Possibilities:
+	Can use pumps to send fluid mateiral between components, from reservoirs inside components.
+	Can use transparent materials with same IOR as water for water golem, and hide non-transparent materials with tricky reflectiveness.
+	Main point: hovering components via electromagnets, programmed to move them around with a ton of magnetism and current.
+
+Basically, in order to make _any_ of this, the central problem of levitating parts needs to be solved more thoroughly.
+I'm pretty sure parts could hold electromagnets and permanent magnets in such a way as to spin around each other etc. in a planned manner.
+I'm missing some of the engineering details of how magnetic fields are at a distance from coils, and how magnets exert precise forces on each other.
+I could try to remember or derive this stuff, but more likely I will look it up.
+Plan:
+- [X] Look up enough magnets formulas to plan a levitating component.
+	note that I live in an area where wireless transmission is illegal, so powering the levitating parts could use some creativity
+- [ ] Design a levitating component.
+- [ ] Build the levitating component, and discern why it fails.
+- [ ] Repeat until it works.
+
+Prototype:
+	an object that levitates in the air, _to the side_ of a fixed base without touching it or being above it,
+	and can move around in some way programmatically.

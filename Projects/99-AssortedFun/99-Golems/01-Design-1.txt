@@ -1,0 +1,127 @@
+FIRST PROTOTYPE:
+	Fixed Base, plugs in, powers electromagnets.
+	Floating Component, with permanent magnets.
+remember, no oscillating fields cause we live in green bank !!!!
+TOWARDS THE END GOAL OF A TINY WALKING GOLEM !!!!
+		or even procedural plans for a golem of user-chosen size !
+			waitwait what if a user makes a giant city-destroying golem? ????????
+				i think htey would be arrested but there would be a big huge community golem
+				sold at auction or something
+
+I'd like to be able to levitate the magnets an inch to the side of the base.
+- [X] find the kind of magnet with highest power / mass (likely neodymium)
+	-> note: dimensions of magnet affect behavior?
+	
+	These magnets have maximum temperatures depending on the neodymium material type.
+	It can range from 176 F 80 C through 428 F 220 C.
+	Don't appear to have any problem with cold.
+
+	Neodymium magnetis are ~7.45 g/cm^3.  There's more at https://www.kjmagnetics.com/specs.asp
+		- they also reshape a little proportional to temperature and stresses and it's predictable.
+
+	The magnetically strongest neodymium materialtype is N52.  It only goes to 176 F.
+
+	We'll likely want the lightest, smallest magnet, which is about a mm wide.
+	Magnets are specd with a detailed graph of the field shape, but m can be calculated with
+		m = 1/mu_0 Br V
+			where V is magnet volume.
+	Smallest magnet is D101-N52.
+		Weight: 0.0118 g
+		1/16" diameter, 1/32" thick ->
+			-> 0.00157109008 cm^3, which matches mass
+	D101-N52
+		dia = 1/16 in
+		height = 1/32 in
+		V = pi * (1/32 in)^3 = 0.0015709008 cm^3
+		Brmax = 14800 G = 1.48 T
+		m = 1/mu_0 Br V
+		m = 0.00185034597 Am^2
+		
+- [ ] plan how many will be needed to actually function (remember 3 dimensions)
+
+
+	okay, it's like we're pulling with strings and pushing with sticks.
+	we're going to need to be able to move it left/right, up/down, and in/out as it drifts, to maintain.
+	orientation will matter too ....
+	
+		to move it up:
+			push diagonally on top / pull diagonally on bottom
+			-> results in horizontal force too, need to counter with other magnet
+		I think we can do this with only _one_ magnet.
+
+		but say is has drifted below or above the side-force magnet.
+			forces will increase in order to not send magnet to or fro.
+			in extreme, magnet is balanced between the two and it won't quite work.
+			can counter with another magnet on base or on component.
+       _ _
+O     |\ /|
+	X
+O	|
+	v
+		
+		to move it left and right .....
+
+	if the magnet is situated between two electromagnets, then what?
+			one could push super hard, the other pull super harder, and this would move it parallel
+			both could pull and this would move it towards / away
+			BUT if the magnet spins, we're likely in trouble.
+	if the magnet is above just one, we've already seen it would work (unless it spins)
+	if the magnet is beyond both, then ...
+			one could push really hard, and the other could pull really hard until a component reaches zero, right?
+
+			a N, theta = 60 deg
+			b N, phi = 70 deg
+
+			cos(theta) * a + cos(phi) * b = 0
+				yeah we can cancel these out.
+
+	so the big problem with only 1 magnet is that it will spin to align its poles.  do we need anothe rmagnet?
+
+	
+			N
+				S N
+			N
+
+			N	S
+				
+			S	N
+
+		I think another magnet would help, or a really long magnet.
+
+			N      N
+
+			N      S
+
+
+			
+			S
+					N
+					N
+
+			N
+
+
+
+			N		S
+
+
+			S		S
+
+		it's hard to solve for this without oscillation.
+
+			I think it owuld help to consider magnetic monopoles.
+			I settle don looking to solve it algebraically based on the formula for force and torque.
+			The restraint will be that the torque is zero, we want to freely control the force.  So this will decide hte number of electromagnets needed.
+
+- [ ] calculate needed specs of base.
+
+
+
+How can we engage in mediation when our brains are talking with each other?
+	I still think it's valuable and notable that it has worked successfully in normal situations.
+			including street gangs, warfare, etc ...
+
+		no, I mean hvaing to do with privacy and secrets.
+			I'm not aware of the details, but it does sound difficult.  Maybe mediation is
+			needed elsewhere first.
+

@@ -1,0 +1,54 @@
+Upcoming Payments:
+19-01-08 [ ] $30.00 debcard PO Box 117
+19-01-11 UNEXPECTED BALANCE of $1017.23; adjusted
+19-01-11 [ ] $-29.24 coinbase withdrawal
+             expected 19-01-16
+19-01-14 [ ] Capital One $50
+
+Monthly Autopayments: $615.27
+
+Expected balance: $987.23
+Available balance: $371.96
+
+--
+Current balance: $70.87
+Expect debits before income: $199
+--
+
+Autopayments
+Day	What			Amount
+01	Xfinity			 $49.99
+02	PP/Patreon		  $2
+05	Capital One	 	 $50
+08	IPSDC.ORG?               $10
+08	Zwiebelfreunde E.V.??	  $5
+09	Burning Books           $100
+11	Cascadia Forest Dfndrs   $20
+15	Trust Rental	      -$1305
+16	Frontier Internet/Phone  $81.53
+17	Earth First!		 $20
+21	Nature Conservancy	  $5
+23	Greenpeace		  $5
+24	Home Depot		 $37
+27	Paypal Credit		$222
+30	Lakota People's Law	  $1
+28	riseup.net		  $1
+30	Network for Good	  $5
+01-00 PO Box 117  $36
+07-00 PO Box 117  $36
+12-25	CBS All Access		$100
+12-00	Truck Registration?	$280
+
+CANCELED
+26	iTunes pmt???		  $2.11
+28	Freedom of the Press	  $5
+
+Initiated Finished
+19-01-10  19-01-11 [X] $35.74 pp debcard ebay eye lubricant & osha root for gwyn
+                        in two debits of $10.25 and $25.49
+19-01-10  19-01-11 [X] $12.77 pp debcard ebay glide floss
+19-01-10  19-01-11 [X] $279.93 coinbase deposit
+19-01-09  19-01-10 [X] $29.53 debcard lunch with gwyn in elkins at vintage
+19-01-08  19-01-09 [X] $12.18 paypal debcard negative balance
+19-01-08  19-01-09 [X] $51.22 paypal payment request, metals payment bounced
+19-01-08  19-01-09 [X] $15.93 paypal impulse purchase of a computer game

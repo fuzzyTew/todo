@@ -1,0 +1,65 @@
+Backend: build supports for robust development environment based on gnuradio
+Frontend: finish software to profile emitter and detect it, only working reasonably hard to detect it given profile
+
+2018-10-14
+	ACCOMPLISHMENT!  I settled onto the profile/detection approach in a more laid-out way.
+	I want to remember that if I get caught in the indecision of sensitivity vs complexity again, that I have chosen this solution.
+
+	Next: pick an approach to profile.  Detection will just be simple
+
+2018-10-15
+	SO MANY ACCOMPLISHMENTS!
+	I picked an approach to profile and detect.  Left to handle:
+		- multiple sessions could have different PPM
+		- wideband measurement / tuning
+	I got basic profiler code working.  Just need to store to file and possibly consider PPM.
+	I reached out on crypto lists and found a tscm list !!!! mirimir says he has done similar work !!
+	
+2018-10-16
+	ACCOMPLISHMENT! Run with device out of fridge vs hot gave the exact same measurements after 10 minutes.  Frozen device had only maybe 70% of the error though.
+	ACCOMPLISHMENT! I left out in my plan how to measure the dB of the noise signal.  I remembered how laying in bed, and wrote it down.
+	ACCOMPLISHMENT! I made a file class and stubbed out a good percentage of the file reading/writing.
+		-> I feel uncertain I've picked an approach I will stick with, but at least it exists.
+	ACCOMPLISHMENT! I integrated what little I had done of my plan to make general algorithm classes into my recent work.
+		-> I'd like to integrate my other plans, but I don't remember them, and it's not the best use of time.
+		   I just remember I'd planned another step very specifically, and I think it might integrate my current work with my previous work.
+
+2018-10-20
+	ACCOMPLISHMENT!  I identified two bugs in my profiler, and wrote them down specifically.
+	ACCOMPLISHMENT!  I came up with a detector approach that can also profile.
+
+2018-10-21
+	ACCOMPLISHMENT!	 I determined my bug was not a bug.  I'm not sure what I changed, but with more detail output the data is behaving as expected and the two methods of calculating it are agreeing.
+	ACCOMPLISHMENT!  I learned a little about PPM.
+		-> not sure how much time to invest in PPM .. not a problem on all radios ... but probably on multiple ones ... maybe add stats to rtl_test?
+		-> i think plan was to ignore for now, and treat each recording as having unknown sample rate or somesuch
+	ACCOMPLISHMENT!  I really flushed out what is needed for detector
+	ACCOMPLISHMENT!  I fully described a plan outline for the new detector
+
+2018-10-22
+	ACCOMPLISHMENT!  WE GOT OUT OF BED!
+	ACCOMPLISHMENT!  I'll implement the algorithm choice of performing a convolution as a function or functor at namespace level.  It's great to make this algorithm choice, saves working time.  It's great to make some progress while laying in bed.
+	ACCOMPLISHMENT!  I came up with a solution to measuring the significance of a whole wave by taking the product of the significances of each sample, to determine the likelihood they all occurred.
+	ACCOMPLISHMENT!  I implemented the whole wave model accumulation class.  Should be reusable for future attempts, if this one doesn't work.
+	ACCOMPLISHMENT!  I wrote the data retention portions of the detector class and began the core processing function.
+	ACCOMPLISHMENT!  I moved my focus onto implementing the detector and added functionality to the wave model accumulation class to support this.  I gained awareness of the issue of sample start times.
+
+2018-10-23
+	ACCOMPLISHMENT!  I wrote maybe 75% of the detector implementation.
+	ACCOMPLISHMENT!  I wrote an FFT convolution functor.
+	ACCOMPLISHMENT!  I came up with a way to pursue replacing the body of the profiler with the convolution functor, and to consider using its approach for a faster, more accurate, convolution.
+
+2018-10-27
+	ACCOMPLISHMENT! I resolved some issues that were uncovered.  I fixed a bug where convolution was used instead of correlation that would have resulted in the approach failing.
+	ACCOMPLISHMENT! I determined a way to line up the differing frequencies more precisely.
+	ACCOMPLISHMENT! I finished writing an implementation of the detector!  Partway through fixing compilation errors.
+2018-10-30
+	ACCOMPLISHMENT! I resolved all the compilation errors with the new detector.
+	ACCOMPLISHMENT! I fixed all the bugs with correlating the period properly.
+	
+FRONTEND: - [X] pick an approach to profiling (perhaps FFT?) (note it is LOUDER THAN ALL BACKGROUND NOISE)
+BACKEND: - [ ] do a task from gr-osmosdr/TASKS.txt
+FRONTEND: - [ ] store profile to file (and make profiling binary?)
+FRONTEND: - [ ] plan precisely how to handle PPM
+FRONTEND: - [ ] implement detector based on integrating exact known period (can detect when accuracy may be exhausted by phase drift?)
+FRONTEND: - [ ] when working, close up backend here for now.  it was only if frontend was a dead end.

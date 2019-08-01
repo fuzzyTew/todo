@@ -1,0 +1,144 @@
+most useful appear:
+multi-rtl: combines rtl-sdr's to increase bandwidth.  includes hw instructions in repo
+		-> author requests tag feature in osmocom_source to detect overflows which mean resync needed ;p
+		-> cross-correlates at same freq to sync, then retunes keeping sync (tuning doesn't produce delay)
+		-> NOTE: relies on stream not having gaps or resync could be needed!
+gr-theano: has hw-accelerated fft, and generic framework for hardware-accelerated blocks
+gr-inspector: some automatic signal detection, analysis and tools
+gr-doa: uses usrp phase syncronization to identify direction of source
+gr-grnet: lighter weight tcp/udp blocks
+gr-display: image and text output blocks
+gr-filerepeater: additional file source
+gr-radar: centralized radar toolbox, much work, some activity, appears was gsoc project
+
+From cgran.org
+
+Name 	Most Recent Commit 	Description 	Categories
+gr‑iio 	Sept. 24, 2018 	Analog Devices' IIO blocks for GNU Radio 	IIO, FMCOMMS, Pluto
+gr‑gsm 	Sept. 21, 2018 	A GSM receiver 	GSM
+gr‑display 	Sept. 21, 2018 	A small qt based addon for gnuradio 	gui, display, png, images, ascii
+gr‑fcdproplus 	Sept. 21, 2018 	A GNU Radio funcube dongle pro+ source 	funcube
+gr‑lpwan 	Sept. 20, 2018 	gr-lpwan contains implementation of IEEE802.15.4k Standard 	sdr, lpwan, IEEE802.15.4, lecim, dsss, transceiver
+gr‑satellites 	Sept. 20, 2018 	GNU Radio decoders for several Amateur satellites 	sdr, satellites
+gnss‑sdr 	Sept. 19, 2018 	An open source global navigation satellite systems software defined receiver 	sdr, gnss, gps, Galileo
+gr‑dsd 	Sept. 18, 2018 	A GNU Radio wrapper for Digital Speech Decoder (DSD) 	DSD, P25, DMR, D-STAR
+gr‑nrsc5 	Sept. 17, 2018 	A GNU Radio implementation of HD Radio (NRSC-5) 	HD Radio, NRSC-5
+gr‑corrsounder 	Sept. 13, 2018 	Short description of gr-corrsounder 	sdr
+gr‑guitar 	Sept. 12, 2018 	Short description of gr-guitar 	sdr
+gr‑drm 	Aug. 22, 2018 	DRM/DRM+ transmitter 	sdr, drm, digital radio, short wave
+gr‑dect2 	Aug. 2, 2018 	None 	None
+gr‑mapper 	July 27, 2018 	None 	None
+gr‑mapper 	July 27, 2018 	None 	None
+gr‑keyfob 	July 21, 2018 	A transceiver for some Hella key fobs 	Key Fob, Car, Hella
+gr‑mixalot 	July 13, 2018 	None 	None
+gr‑hpsdr 	July 4, 2018 	None 	None
+gr‑iridium 	July 2, 2018 	GNURadio components to receive and demodulate Iridium frames 	sdr, iridium
+gr‑ax25 	July 1, 2018 	None 	None
+gr‑isdbt 	June 28, 2018 	A complete receiver for the digital TV standard ISDB-T. 	DTV, ISDB-T, OFDM, Viterbi
+gr‑foo 	June 21, 2018 	some utility blocks 	foo
+gr‑limesdr 	June 18, 2018 	gr-limesdr blocks are used to control LimeSDR family devices 	sdr
+gr‑rds 	June 11, 2018 	FM RDS/TMC Transceiver 	FM, RDS, TMC
+gqrx 	June 5, 2018 	SDR receiver implemented using GNU Radio and the Qt GUI toolkit 	AM, FM, SSB, FFT
+gr‑lfast 	June 1, 2018 	Short description of gr-lfast 	sdr
+gr‑message_tools 	May 31, 2018 	None 	None
+gr‑framers 	May 11, 2018 	None 	None
+gr‑inspector 	May 11, 2018 	A signal analysis toolbox for GNU Radio 	SDR, Signal Analysis, Spectrum Analysis, Signal Intelligence, AMC, OFDM
+gr‑ettus 	May 3, 2018 	None 	None
+gr‑pdu_utils 	April 22, 2018 	Utilities for working with GNU Radio PDU objects and conversion between stream and PDU data formats. 	sdr, PDU, PMT, UHD
+gr‑fbmc 	April 11, 2018 	FBMC PHY Layer for GNU Radio 	FMBC, Multicarrier, PHY
+gr‑timing_utils 	April 11, 2018 	Functions to support timing within GNU Radio SDR environment. 	sdr, PDU, timing
+gr‑ieee802‑11 	April 10, 2018 	IEEE 802.11 a/g/p Transceiver 	IEEE 802.11, WiFi, OFDM
+gr‑ieee802‑15‑4 	April 2, 2018 	An IEEE 802.15.4 (ZigBee) Transceiver 	IEEE 802.15.4, ZigBee, IoT
+gr‑ntsc‑rc 	March 30, 2018 	5.8 GHz ammateur drone wireless video feed TX and RX 	drone, NTSC, video
+gr‑baz 	March 21, 2018 	None 	None
+gr‑radar 	March 8, 2018 	GNU Radio Radar Toolbox 	radar, UHD
+gr‑ofdm 	March 6, 2018 	A complete OFDM implementation including GUI for reasearch and teaching 	ofdm
+gr‑lazyviterbi 	Feb. 27, 2018 	A quicker viterbi algorithm. 	sdr, Viterbi
+gr‑lte 	Feb. 20, 2018 	LTE downlink receiver blocks 	LTE, synchronization, estimation, PBCH
+gr‑lilacsat 	Feb. 11, 2018 	None 	None
+gr‑paint 	Jan. 22, 2018 	An OFDM spectrum painter/transmitter. 	OFDM, Fun
+gr‑specest 	Jan. 15, 2018 	None 	None
+gr‑signal_exciter 	Dec. 6, 2017 	Efficient Wide-band signal aggregation 	sdr, wideband, generator
+gr‑clenabled 	Nov. 29, 2017 	Short description of gr-clenabled 	sdr
+csdr 	Oct. 16, 2017 	None 	None
+gr‑eb200 	Oct. 3, 2017 	GNU Radio module to use the R&S EB200 protocol for IQ data 	sdr, IQ, protocol
+gr‑filerepeater 	Sept. 29, 2017 	Short description of gr-filerepeater 	sdr
+gr‑air‑modes 	Sept. 28, 2017 	None 	None
+gr‑ysf 	Sept. 19, 2017 	None 	None
+gr‑analysis 	Sept. 12, 2017 	None 	None
+gr‑bokehgui 	Sept. 6, 2017 	Short description of gr-bokehgui 	sdr
+gr‑grnet 	Sept. 3, 2017 	Short description of gr-grnet 	sdr
+gr‑reveng 	July 27, 2017 	Short description of gr-reveng 	packet, reverse engineering
+multi‑rtl 	July 23, 2017 	Short description of multi_rtl 	sdr
+gr‑lora 	July 20, 2017 	An open source implementation of the LoRa CSS PHY 	LoRa, chirp, css, sdr
+gr‑outernet 	July 18, 2017 	Short description of gr-outernet 	sdr
+SUPACARS 	June 26, 2017 	None 	None
+gr‑mer 	June 14, 2017 	An open source implementation of QAM Modulation error measurements in GNU Radio. 	MER, QAM, Measurements
+gr‑ambe3000 	May 24, 2017 	Uses the NW Digital Radio AMBE USB Dongle to encode/decode audio 	sdr, DStar, AMBE3000
+gr‑bruninga 	May 13, 2017 	None 	None
+gr‑kiss 	May 13, 2017 	Assorted blocks to deal with KISS and AX.25 data 	sdr
+gr‑csp 	May 13, 2017 	Blocks and python class to deal with Cubesat Space Protocol packets 	sdr, csp
+gr‑correctiq 	May 8, 2017 	Short description of gr-correctiq 	sdr
+gr‑finite‑stream 	May 6, 2017 	Short description of gr-finite_stream 	sdr
+gr‑symbolrate 	April 26, 2017 	Short description of gr-symbolrate 	sdr
+gr‑dvbt 	April 24, 2017 	None 	None
+gr‑tagutils 	April 15, 2017 	None 	None
+gr‑nacl 	April 10, 2017 	GNU Radio module for data encryption using NaCl library 	encryption
+gr‑eventstream 	April 8, 2017 	The event stream scheduler 	scheduler, streams, bursty
+gr‑pcap 	April 2, 2017 	PCAP recording and playback 	pcap, packet
+gr‑rstt 	March 17, 2017 	Receiver for Vaisala Weather Balloons 	Vaisala, telemetry, weather balloon
+kalibrate‑uhd 	March 9, 2017 	None 	None
+gr‑fm0 	Feb. 15, 2017 	gr-fm0 only contains a minimal FM0 encoder 	None
+gr‑dvbs2 	Feb. 4, 2017 	A DVB-S2 and DVB-S2X transmitter. 	In tree as of GNU Radio 3.7.7
+gr‑pager 	Dec. 21, 2016 	Motorola FLEX protocol decoder 	sdr, pager, flex
+gr‑cdma 	Dec. 20, 2016 	None 	None
+gr‑polaris 	Dec. 14, 2016 	OOT Module for DRS Polaris Receiver 	hardware, source, DRS
+gr‑doa 	Dec. 5, 2016 	Direction Finding with the USRP X-Series and TwinRX 	doa, twinrx, sdr, array
+gr‑tf 	Nov. 5, 2016 	Short description of gr-tf 	sdr
+gr‑flexfft 	Oct. 14, 2016 	OOT Module for displaying Flex FFT data 	sink, DRS
+gr‑burst 	Oct. 12, 2016 	None 	None
+gr‑theano 	Oct. 11, 2016 	blocks leveraging the theano library to run code in graphics cards 	python, GPU, cuda
+gr‑mediatools 	Oct. 10, 2016 	None 	None
+libfec 	Oct. 3, 2016 	None 	None
+gr‑nordic 	Sept. 27, 2016 	Short description of gr-nordic 	sdr
+gr‑rftap 	Sept. 22, 2016 	RFtap is a protocol designed to provide RF metadata about packets 	sdr, rftap
+gr‑bluetooth 	Sept. 18, 2016 	None 	None
+simple_ra 	Sept. 4, 2016 	None 	None
+gr‑pico 	Aug. 15, 2016 	OOT Modules for DRS Picoflexor Single Channel Receiver and Picoflexor Transceiver 	hardware, source, sink, DRS
+gr‑ra_blocks 	July 22, 2016 	None 	None
+gr‑ale 	July 14, 2016 	None 	None
+gr‑pyqt 	July 12, 2016 	Python QT Plotters and Message Tools Repo 	gui, plotting, pyqt, pyqwt
+sdr‑tv 	July 2, 2016 	None 	None
+gr‑fosphor 	May 22, 2016 	GNU Radio block for RTSA-like spectrum visualization using OpenCL and OpenGL acceleration 	fft, gpu, opencl, opengl
+gr‑psk31 	May 9, 2016 	None 	None
+gr‑microtelecom 	April 12, 2016 	Microtelecom's Perseus SDR source module 	hardware, source
+gr‑tpms 	March 8, 2016 	None 	None
+gr‑dvbt2 	Feb. 8, 2016 	A DVB-T2 transmitter. 	In tree as of GNU Radio 3.7.7
+gr‑nmea 	Jan. 10, 2016 	interface to NMEA and GPSD sources 	sdr, gps, nmea
+gr‑lacrosse 	Dec. 24, 2015 	None 	None
+gr‑rtty 	Dec. 21, 2015 	None 	None
+gr‑ais 	Dec. 21, 2015 	None 	None
+gr‑iqbal 	Nov. 21, 2015 	GNU Radio block to correct IQ imbalance in quadrature receivers 	iq imbalance, rx, osmocom
+gr‑gpredict‑doppler 	Aug. 1, 2015 	None 	None
+gr‑adsb 	July 26, 2015 	None 	None
+gr‑acars2 	July 16, 2015 	None 	None
+GR_RCCar 	July 15, 2015 	None 	None
+gr‑multimon 	June 24, 2015 	None 	None
+gr‑streamsink 	June 8, 2015 	None 	None
+gr‑fsk‑burst 	May 31, 2015 	None 	None
+gr‑uhdgps 	May 28, 2015 	GR Blocks to assist in GPS Data logging with UHD and a GPSDO 	uhd, gps
+gr‑flarm 	May 4, 2015 	None 	None
+gr‑benchmark 	April 4, 2015 	a performance measurement tool for GNU Radio 	performance, benchmark, simulation
+gr‑psk‑burst 	April 1, 2015 	None 	None
+gr‑tutorial 	Feb. 23, 2015 	None 	None
+gr‑mac 	Sept. 19, 2014 	None 	None
+gr‑elster 	Sept. 6, 2014 	None 	None
+measurement_toolbox 	Aug. 22, 2014 	None 	None
+gr‑smithchart 	April 19, 2014 	None 	None
+gr‑zmqblocks 	April 14, 2014 	None 	None
+gr‑ldpc 	April 8, 2014 	None 	None
+gr‑ham 	March 22, 2014 	None 	None
+grcompat 	May 31, 2013 	None 	None
+gr‑packetradio 	March 2, 2013 	None 	None
+gr‑pocsag 	Jan. 6, 2013 	None 	None
+gr‑smartnet 	June 9, 2012 	None 	None

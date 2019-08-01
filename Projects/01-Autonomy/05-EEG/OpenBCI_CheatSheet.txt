@@ -1,0 +1,10 @@
+2018-08
+- bottom pins are N inputs, top pins are P inputs
+- bottom N inputs are by default in reference to SRB2, the bottom SRB pin
+    inputs can be selectively removed from this reference, and then top (P) pin is used as reference
+
+SRB (REF for differential amplifier) can be WHITE
+BIAS (noise cancelling GND) can be BLACK
+
+OpenBCI uses an ADS1299 which documents these pins (theoretically) http://www.ti.com/lit/ds/symlink/ads1299.pdf
+  The pin uses and register settings are documented on pages 39-47

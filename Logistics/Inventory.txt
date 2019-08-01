@@ -1,0 +1,118 @@
+
+Nature
+  Survival
+    Blankets
+      - Wool Blankets (2018-07 x3 lightweight)
+      - Sleeping Bags (2018-07 x2)
+    Gear
+  <3 Books
+  Natural Craft <3
+Daily
+  Useful Clothes
+    - Short-sleeve shirts
+    - Bandanas
+    - Pants
+    - Boxers
+  Useful Toiletries
+    - Toothpaste
+    - Toothbrush
+    - N2 Lozenges
+    - Shaving stuff
+    - Eye gel
+    - Fissure cream
+Craft
+  Affixing / Attaching / Adhering
+    - Stapler
+    - Pink Duct Tape
+    - Black Duct Tape
+    - Packing Tape
+    - Construction Glue
+  Office Supplies
+    - Pencils
+    - Sharpies
+    - Clips
+    - Rubber bands
+Electric
+  Electro Tools
+  Powerpole
+  Single Board Computers
+  12V Power
+    12V Useful
+      - [ ] Deep Cycle Batteries
+    12V Resources
+      - [ ] AC Battery Charger
+Metals
+  Welding
+    Welder
+    Supplies
+  Brazing
+  Materials
+    - Stainless Steel
+    - Mild Steel
+    - Copper
+Construction
+  Large Tools
+  Lumber
+  Construction Supplies
+    - [ ] Screws
+Project
+  Noise Gen
+  Home Network
+  Shielding
+    Unmeasured Supplies
+      - [ ] hvac tape
+      - [ ] copper tape
+      - [ ] broken foil
+      - [ ] kitchen foil
+      - [ ] iron filings
+      - [ ] iron oxide filings
+Storage
+  Unsorted
+  Papers
+  Cut Books
+  Sentimental
+  Memory
+  Old Software
+
+Dining Room
+  - [ ] Final review
+Kitchen
+  - Some papers
+  - ?
+  - [ ] Final review
+Living Room
+  - ?
+  - [ ] Final review
+Guest Room / Side Hall
+  - ?
+  - [ ] Final review
+Front Hall
+  - [ ] Final review
+Garage
+  - [X] Empty
+  - [ ] Final review
+Upstairs Work Room
+  - [ ] Final review
+Upstairs Tent Room
+  - [ ] Final review
+Downstairs Bethroom
+  - [ ] Final review
+VW Passat
+  - [ ] Final review
+Small Trailer
+  - staple gun, many items
+  - lumber, tarps
+  - [ ] Final review
+
+Truck
+  Lumber
+  Unsorted
+  Electric
+    Electro Tools
+    S.O.C. (Single Board Computers)
+  Blankets
+  Craft
+    Office Supplies
+    Affixing/Attaching/Adhering (Milk crate)
+  Natural Craft <3
+

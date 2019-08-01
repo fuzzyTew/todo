@@ -1,0 +1,13 @@
+- soldered copper everywhere, as a baseline component
+- two boxes, each with mnultiple layers, inside each other
+- no air vents.  air tank is taken in.
+- provide for lengthy stays by taking air pressure out of room
+	air can be exchanged via double-room vestibule, but doesn't need to happen as frequently
+- option 1: inner box has a wall-valve, allow the room to expand to reduce air
+  pressure as air is relesaed from the tank.
+	- breathe straight from tank to not breathe co2
+	- entire wall expands to release pressure
+	- requires no electricity inside room
+- option 2: you can get a DC paintball or other air compressor that can
+	pressurize an empty tank, moving air into it
+	want thousands of psi, hundreds of bar, to pressurize an air tank

@@ -1,0 +1,7 @@
+[package]
+name = "sayhi"
+version = "0.1.0"
+authors = ["Karl Semich <fuzzyTew@gmail.com>"]
+edition = "2018"
+
+[dependencies]

@@ -1,0 +1,384 @@
+Karl & Riley’s Project List
+
+Project 1: EEG Troubleshooting
+
+Problems:
+
+Fixes:
+
+Hours:
+
+
+Project 2: Video surveillance
+
+Problems:
+24/7 live recording 
+
+
+archived in a way such that it is very hard to alter
+Git-annex
+Dat?
+Ethereum has a video streaming app I haven’t reviewed, there’s also storj, siacoin, filecoin
+set up such that it is very hard to disable, even by me. 
+Physically 
+Software as well
+continue  recording when there is no motion
+Run 24/7, shouldn’t be too hard
+the cameras to be cheap
+Webcams to start
+software to be open source.
+Write it yourself
+FInd some already usale code.
+Possibilities: 
+OBS
+
+
+Fixes:
+
+Hours:
+
+
+Project 3: Work Organization
+
+Problems:  Most people want to use google for organization documents together, but I don’t know how to access or export the history of google documents.  Is there some way to synchronize google docs/sheets onto github?  This would probably mean running a program that converts the google doc / sheets into a text file.
+
+
+Fixes:
+Switch over to GitHub in whole?
+	Karl invited Riley to https://github.com/fuzzyTew/todo , which is where he’s recently been storing text files containing WIP stuff like this.
+
+Hours:        
+
+
+Project 4: Software Development
+
+Problems:  Let’s find a developer who could help me move forward on some software projects.  This may or may not be easy depending on my financial situation.
+I heard of https://ethlance.com/ recently but haven’t looked closely yet
+I’ve heard there could be anonymous developers who might feel safer working on security technology on irc2p, an anonymous chat that is part of the i2p network.
+
+Fixes:
+
+Hours:
+
+
+Project 5: Community Software Maintenance
+
+Problems:  I tend to find bugs in open source software but have trouble getting the information and fixes added to the projects so that others can benefit.  This takes some work-over-time, contacting people and calling their attention to the issues.  Sometimes one needs to hunt down somebody who is still active who can connect or contribute.
+
+Fossil-scm -> I found a serious buffer overflow error but haven’t managed to communicate the bug report to the developers yet.
+
+
+Riley: Just emailed drh@sqlite.org who I believe is the creator of fossil according to wikipedia, will let you know when I get a response.
+
+xmikos/soapy-power -> I have many fixes added as pull requests but the author is too busy.  Hope to give him the right degree of pressure to either address the fixes by an arbitrary deadline, or to acknowledge that he doesn’t have the time to handle it and give the project over to me or somebody else.
+
+Sent an email to his Gmail account. Will say when response comes in. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Riley’s skills / education:
+desktop hardware, strong
+some java, web dev
+Minor in Statistics (Used R, SAS)
+win&osx admin
+only a little linux & cli
+math: calc 1, stats 1, research stats
+business
+some finances
+internet marketing
+some infosec
+
+Paypal email: Rtphillips96@gmail.com
+Rate: $30/hr
+
+
+Riley’s transcript 
+
+Riley Phillips
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Course/Section and Title
+Grade
+Credits
+CEUs
+Repeat
+Term
+CHE-1020 VU01 Intro Chemistry
+B
+4.00
+
+
+
+TRANSCRIPT
+---------------------------------------------------------------------------------------------------------------------------------------
+
+V16SU
+MAT-1531 VU01 Calculus I
+B+
+4.00
+
+
+
+
+V16SU
+INT-2860 VR01 Community & Work Experience
+A
+3.00
+
+
+
+
+V15SP
+HUM-2010 VR02 Seminar in Educational Inquiry
+A-
+3.00
+
+
+
+
+V15SP
+BUS-2230 VO02 Prin of Marketing
+A-
+3.00
+
+
+
+
+V15SP
+BUS-2740 VR01 Bus Analysis & Decision Making
+A+
+3.00
+
+
+
+
+V15SP
+CIS-2140 VR01 Programming for Internet
+A+
+3.00
+
+
+
+
+V15SP
+CIS-1151 VR01 Website Development
+A
+3.00
+
+
+
+
+V14FA
+ENG-1020 VR02 Intro to Research Mthds
+B
+3.00
+
+
+
+
+V14FA
+BUS-2450 VR01 Business Law
+A-
+4.00
+
+
+
+
+V14FA
+CIS-2040 VO01 Management Info Systems
+B+
+3.00
+
+
+
+
+V14FA
+COM-1030 VR01 Intercultural Com
+A
+3.00
+
+
+
+
+V14FA
+ECO-2020 VR01 Macroeconomics
+B+
+3.00
+
+
+
+
+V14SU
+MAT-2021 VR01 Statistics I
+A
+3.00
+
+
+
+
+V14SP
+ART-1231 VR01 Ceramics I
+B-
+3.00
+
+
+
+
+V14SP
+BUS-2210 VR01 Small Bus Mgmt
+A-
+3.00
+
+
+
+
+V14SP
+ACC-2121 VR01 Financial Accounting
+B+
+4.00
+
+
+
+
+V13FA
+ENG-1061 VR01 English Composition
+B
+3.00
+
+
+
+
+V13FA
+BIO-1030 VR03 Intro to Nutrition
+A
+3.00
+
+
+
+
+V13FA
+CIS-1150 VR50 Intro Internet Marketing
+A
+3.00
+
+
+
+
+V13FA
+BUS-1010 VR02 Intro to Business
+B
+3.00
+
+
+
+
+V12FA
+INT-1050 VR03 Dimensions of Work
+A
+3.00
+
+
+
+
+V12FA
+CIS-2360 VR01 Computer User Support
+A
+3.00
+
+
+
+
+V12FA
+CIS-2120 VR01 Concepts of LANs
+A
+3.00
+
+
+
+
+V12SU
+ENG-1070 VR04 Effective Speaking
+A-
+3.00
+
+
+
+
+V12SP
+CIS-2245 VR01 Computer Security
+A
+3.00
+
+
+
+
+V12SP
+CIS-1350 VR01 Desktop Operating Systems
+B
+4.00
+
+
+
+
+V12SP
+CIS-2110 VR01 Concepts of PC Hardware
+A-
+4.00
+
+
+
+
+V11FA
+CIS-1045 VR01 Multimedia Apps & Tools
+B-
+3.00
+
+
+
+
+V11FA
+DEV-0280 VR03 Intro to College Studies
+P
+0.00
+
+
+
+
+V11SP
+
+
+
+
+
+ 

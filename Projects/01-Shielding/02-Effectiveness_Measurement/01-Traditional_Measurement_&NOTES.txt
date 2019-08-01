@@ -1,0 +1,96 @@
+
+Books / Resources:
+	- [ ] Electromagnetic Compatibility, 3rd Edition, David Weston
+		- [ ] Equipment section
+		- [ ] Measurement section
+	- [ ] Architectural Shielding
+	- [ ] Government specifications for commercial measurement
+		- [ ] CISPR 22
+		- [ ] ANSI-C63.4
+		- [ ] DEF STAN
+		- [ ] MIL-STD-461
+	- [ ] Commercial documentation
+		- [ ] "EMI Measurement Solutions Using the Spectrum Analyzer Receiver", Hewlett-Packard
+	- [ ] New books off internet
+	- [ ] Research papers?
+	- [ ] EMI Shielding Supplier Guide?
+	- [ ] Recommendatoins from e-mail
+	- [ ] Professional contacts
+
+Electromagnetic Compatibility, 3rd ed, David Weston
+	- [ ] Ch 9 pg683: EMI Measurement, Control Requirements, and Test Methods
+	- [ ] See SECTION 2.6 for antennas
+
+	==> pg689 <==
+
+	EUT: Equipment Under Test
+	S/A: Spectrum Analyzer
+	PRF: Pulse Repetition Frequency
+	
+	- Conducted and radiated emissions of the ambient with the EUT powered down must always be made prior to EMI testing.
+	- Always ensure that equipment used to measure the test level has a CURRENT CALIBRATION and that a sanity check on the equipment is made.
+		Sanity check: connect signal generator to input.
+
+	- The user of absorber loads in a room may reduce hot spots.
+
+	SPECTRUM ANALYZER 9.2.2
+		- must prevent input compression and overload:
+			search over frequency range of S/A to find maximum input level
+			adjust input attenuator so displayed amplitude is at maximum or lower
+			if displayed magnitude changes when attenuator is adjust, S/A is compressing (effective gain of front end changes from compression)
+		- for maximum accuracy, use minimum span and minimum resolution
+			- accuracy of displayed frequency function of resolution bandwidth and frequency span, typically +-3% of span and of resolution bandwidth
+			- the narrower the resolution bandwidth, hte lower the noise level and the better the snr
+		- resolution changes magnitude of noise, but does not change magnitude of narrowband signals, due to integration over bandwidth envelope
+		- resolution affects width of display, width, shape and differentiability of signals, and sweep time, as it scales the frequency envelope
+		- detection / compensation of compresion / overload in preamplifier section
+		- due to need for fast sweep time, bandwidth spreads much wider than EMI receiver (gaussian rather than approaching rectangular filter)
+		- low input impedance reduces contribution of common-mode noise BUT
+		  low input impedance may load the signal when source impedance is high
+		- input is DC coupled; decoupling capacitor must be used when measuring on high DC voltages
+		- connects signal return to enclosure and thus to AC safety ground, which my drastically alter measured noise levels etc
+
+	OSCILLOSCOPE 9.2.1
+		- measurements must be converted to frequency domain
+		- must test for common mode noise that may create differential across high-impedence 1-10 MOhm single-ended input
+			connect probe ground clip to signal ground and point probe tip to same ground
+			common-mode current flow on shield and center conductor may be measured
+			voltage develops across impedance of shield due to shield current flow
+			WARNING: some voltage measured may result from radiated pickup by loop of of probe and ground wire
+			S/A impedance is 50-75 ohms and common mode contribution is much smaller
+			- can use differential input plug-in to reject some common-mode noise
+				want scope probe with differential located at probe tip
+			- can use A - B mode or inverted A + B mode to measure differential voltage too
+				connect ground clips together at probe but not to EUT ground or enclosure
+				- measure common mode contribution by connecting both A and B to signal ground
+					can adjust compensation trimmer capacitors to minimize
+				- twist leads together to reduce radiated pickup
+			- can measure noise current with current probe
+		- must use preamplifier with current probe or antenna to be detectable with oscilloscope
+		- may measure relative E field by attaching length of wire to probe tip
+		- use 50 Ohm terminated input or 50 Ohm external termination with calibrated antennas
+		- use as short a ground wire connection as feasible and locate close to probe
+			to reduce inductance
+		- low-inductance grounds present on attachments right next to signal preferred to ground wire
+			alternatively, use FET transistor probe with low-input capacitance
+		- connects signal return to enclosure and thus to AC safety ground, which my drastically alter measured noise levels etc
+			(but this simulates input of equipment with same characteristic)
+		- inductance of probe ground wire and input capacitance of probe form resonant circuit that changes waveshape or amplitude
+			possibly causes ringing of a transient
+			low-pass LC circuit may attenuate high-frequency signals
+		- limited upper frequency response of average analog oscilloscope
+		- erroneous measurements with high common-mode voltage like 120-220V
+		- useful for single frequencies with low harmonic distortions when sensitivity is adequate
+			for superimposed frequencies, use S/A
+		- useful for transient noise in the time domain
+		- typical probe may have bandwidth up to 2.5 GHz with < 1 pF input capacitance, +- 8 V dynamic range, +-12 V offset
+		- some scopes have different impedance:
+			<= 2.5 GHz bandwidth typically 1 MOhm and 50 Ohm
+			Extremely high freq, typically << 1 Mohm and low max input voltage
+			20 GHz 10 Gb/s scope for time-domain reflectometry has 50 Ohm input and max of +-2 V
+
+	ERRORS
+	9.1
+		Errors greater than 30dB can be made during measurement, and when there is a discrepency, both theory and technique should be examined to find the error.
+		It is easy for measurement equipment to affect results.
+		Due to the difficulty of measurement, design should be based on theory, and measurement used to validate it.

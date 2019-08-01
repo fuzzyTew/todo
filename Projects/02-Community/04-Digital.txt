@@ -1,0 +1,14 @@
+censorship-resistant forms of communication and social networking:
+	- numaverse.com
+	- synereo / hyperspace?
+	- akasha
+	- dat
+	- scuttlebutt
+	- that one that was made long-ago to operate on cryptocurrencies
+	- qora
+		-> when revived, new developer did not appear to preserve functionality of old content
+			it's somewhat understandable: the code was a mess
+	- steemit
+		-> semi-centralized
+	- minds
+		-> 2018 appears semi-centralized, uncertain

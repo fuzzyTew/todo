@@ -1,0 +1,1342 @@
+Time,Action,Goal,Task
+1520722998.69,start,TASKORG,ttrack script
+1520723255.51,heartbeat,TASKORG,ttrack script
+1520723255.51,stop,TASKORG,ttrack script
+1520723294.43,start,TASKORG,ttrack script
+1520723301.93,heartbeat,TASKORG,ttrack script
+1520723303.21,stop,TASKORG,ttrack script
+1520723304.4,start,TASKORG,ttrack script
+1520723458.87,stop,TASKORG,ttrack script
+1520723462.8,start,TASKORG,ttrack script
+1520723587.08,stop,TASKORG,ttrack script
+1520723598.62,start,TASKORG,ttrack script
+1520724665.56,stop,TASKORG,ttrack script
+1520724666.88,start,TASKORG,ttrack script
+1520724668.18,heartbeat,TASKORG,ttrack script
+1520724669.65,stop,TASKORG,ttrack script
+1520724670.66,start,TASKORG,ttrack script
+1520724739.65,stop,TASKORG,ttrack script
+1520724876.34,start,TASKORG,ttrack script
+1520725700.34,stop,TASKORG,ttrack script
+1520725713.33,start,BACKEND,git
+1520725801.19,stop,BACKEND,git
+1520726162.56,start,BACKEND,git
+1520726336.17,heartbeat,BACKEND,git
+1520726478.67,stop,BACKEND,git
+1520726514.12,start,SAFE,noise
+1520727982.38,stop,SAFE,noise
+1520727867.85,start,TASKORG,updating
+1520727949.47,stop,TASKORG,updating
+1520727961.0,start,SUST,sneakernet
+1520728019.85,stop,SUST,sneakernet
+1520728311.48,start,SUST,sneakernet
+1520730289.87,stop,SUST,sneakernet
+1520730360.95,start,RESPONS,evening routine
+1520731264.05,stop,RESPONS,evening routine
+1520731399.08,start,SLEEP,
+1520754990.65,stop,SLEEP,
+1520755054.55,start,RESPONS,morning routine
+1520756995.68,stop,RESPONS,morning routine
+1520757393.86,start,BACKEND,ttrack script
+1520757507.14,stop,BACKEND,ttrack script
+1520757627.6,start,REC,eeg
+1520757747.55,stop,REC,eeg
+1520760923.71,start,SLEEP,
+1520772774.55,stop,SLEEP,
+1520798123.76,start,REC,eeg
+1520805917.01,stop,REC,eeg
+1520850978.11,start,SAFE,noise
+1520851115.79,stop,SAFE,noise
+1520851410.62,start,BACKEND,org
+1520851843.57,stop,BACKEND,org
+1520851851.74,start,SAFE,noise
+1520852583.9,stop,SAFE,noise
+1520852713.95,start,SAFE,rtlsdr
+1520854372.47,stop,SAFE,rtlsdr
+1520855578.48,start,SUST,sneakernet
+1520857795.22,stop,SUST,sneakernet
+1520892892.94,start,DEMO,tempestsdr
+1520893584.52,stop,DEMO,tempestsdr
+1520893616.31,start,DEMO,emap
+1520893687.55,stop,DEMO,emap
+1520893852.24,start,BLOCKED,
+1520905115.82,stop,BLOCKED,
+1520905135.59,start,DEMO,emap
+1520908792.49,stop,DEMO,emap
+1520909284.45,start,DEMO,emap
+1520912004.49,stop,DEMO,emap
+1520914794.84,start,DEMO,emap
+1520918890.41,stop,DEMO,emap
+1520919328.84,start,SLEEP,
+1520944466.76,stop,SLEEP,
+1521030276.45,start,BACKEND,emap
+1521031588.54,stop,BACKEND,emap
+1521112015.64,start,BACKEND,emap
+1521114627.18,stop,BACKEND,emap
+1521158860.74,start,SUST,fiber
+1521165974.87,heartbeat,SUST,fiber
+1521165992.96,stop,SUST,fiber
+1521166406.77,start,BACKEND,org
+1521166628.36,stop,BACKEND,org
+1521167227.87,start,SLEEP,
+1521199089.94,stop,SLEEP,
+1521251141.89,start,BACKEND,org
+1521252241.03,stop,BACKEND,org
+1521279830.23,start,BACKEND,gnuradio
+1521280672.05,stop,BACKEND,gnuradio
+1521280723.33,start,TASKORG,ttrack script
+1521282971.24,start,TASKORG,ttrack script
+1521283170.46,stop,TASKORG,ttrack script
+1521283500.26,start,TASKORG,ttrack script
+1521284594.67,stop,TASKORG,ttrack script
+1521284660.21,start,SLEEP,
+1521290193,start,RESPONS,Eye Lubricant
+1521290328,stop,RESPONS,Eye Lubricant
+1521290705.51,stop,SLEEP,
+1521291593.78,start,BLOCKED,
+1521294064.73,stop,BLOCKED,
+1521294119.17,start,RESPONS,Meds
+1521295353.33,stop,RESPONS,Meds
+1521295579,start,RESPONS,Brush Teeth
+1521297007,stop,RESPONS,Brush Teeth
+1521297801,start,RESPONS,Fissure Treatment
+1521298804,stop,RESPONS,Fissure Treatment
+1521298969,start,RESPONS,Eye Lubricant
+1521299109,stop,RESPONS,Eye Lubricant
+1521300042.41,start,REC,eeg battery
+1521302619.01,stop,REC,eeg battery
+1521302792.89,start,BACKEND,gnuradio
+1521303563.6,heartbeat,BACKEND,gnuradio
+1521306042.74,stop,BACKEND,gnuradio
+1521306726.76,start,BACKEND,gnuradio
+1521307323.53,stop,BACKEND,gnuradio
+1521309774.86,start,BACKEND,gnuradio
+1521312406.56,stop,BACKEND,gnuradio
+1521336301.53,start,RESPONS,Fissure Treatment
+1521337470.37,stop,RESPONS,Fissure Treatment
+1521338775.63,start,RESPONS,Meds
+1521338781.88,stop,RESPONS,Meds
+1521338786.68,start,RESPONS,Meds
+1521339426.07,stop,RESPONS,Meds
+1521340184.91,start,RESPONS,Eye Lubricant
+1521340227.03,stop,RESPONS,Eye Lubricant
+1521340236.23,start,SLEEP,
+1521366074.1,stop,SLEEP,
+1521367287.41,start,BLOCKED,
+1521380129.72,stop,BLOCKED,
+1521381571,start,RESPONS,Eye Lubricant
+1521381751,stop,RESPONS,Eye Lubricant
+1521383752.28,start,RESPONS,Meds
+1521385203.43,stop,RESPONS,Meds
+1521385227.14,start,BLOCKED,
+1521393235.07,stop,BLOCKED,
+1521393820,start,RESPONS,Brush Teeth
+1521394571,stop,RESPONS,Brush Teeth
+1521394583,start,RESPONS,Fissure Treatment
+1521395530,stop,RESPONS,Fissure Treatment
+1521395621,start,RESPONS,Eye Lubricant
+1521395677,stop,RESPONS,Eye Lubricant
+1521395824.89,start,SAFE,noise
+1521398125.03,stop,SAFE,noise
+1521398717.74,start,BACKEND,gnuradio
+1521399751.31,stop,BACKEND,gnuradio
+1521399757.2,start,SAFE,noise
+1521400468.43,stop,SAFE,noise
+1521400920.77,start,BACKEND,gnuradio
+1521403748.11,stop,BACKEND,gnuradio
+1521403780.8,start,BLOCKED,
+1521405091.95,heartbeat,BLOCKED,
+1521406129.24,stop,BLOCKED,
+1521406170.11,start,SAFE,noise
+1521407096.25,stop,SAFE,noise
+1521407106.38,start,BACKEND,emap
+1521409365.76,stop,BACKEND,emap
+1521409372.46,start,BLOCKED,
+1521412138.42,stop,BLOCKED,
+1521412154.63,start,DEMO,emap
+1521413156.83,stop,DEMO,emap
+1521413168.44,start,BACKEND,gnuradio
+1521418970.86,stop,BACKEND,gnuradio
+1521420798.16,start,RESPONS,Eye Lubricant
+1521421605.61,stop,RESPONS,Eye Lubricant
+1521421624.57,start,SLEEP,
+1521450622.15,stop,SLEEP,
+1521450788.71,start,BLOCKED,
+1521460402.26,stop,BLOCKED,
+1521460416.26,start,REC,eeg battery
+1521460417.13,stop,REC,eeg battery
+1521462237.69,start,BACKEND,power
+1521465995.64,stop,BACKEND,power
+1521467322,start,RESPONS,Eye Lubricant
+1521467645,stop,RESPONS,Eye Lubricant
+1521467680.3,start,RESPONS,Meds
+1521468204.06,stop,RESPONS,Meds
+1521468216.3,start,RESPONS,cleaning
+1521469577,start,RESPONS,Brush Teeth
+1521469580,stop,RESPONS,Brush Teeth
+1521469613.33,start,RESPONS,cleaning
+1521470163,start,RESPONS,Fissure Treatment
+1521471173,stop,RESPONS,Fissure Treatment
+1521472083,start,RESPONS,Eye Lubricant
+1521472193,stop,RESPONS,Eye Lubricant
+1521472640.49,stop,RESPONS,cleaning
+1521472652.97,start,RESPONS,meeting
+1521550182,start,RESPONS,Eye Lubricant
+1521550742,stop,RESPONS,Eye Lubricant
+1521552891.71,start,RESPONS,Meds
+1521556393.35,stop,RESPONS,Meds
+1521557846,start,RESPONS,Brush Teeth
+1521558501,stop,RESPONS,Brush Teeth
+1521590022.86,start,BACKEND,power
+1521596427.19,stop,BACKEND,power
+1521597984.48,start,RESP,Eye Lubricant
+1521598018.91,start,RESPONS,Eye Lubricant
+1521598090.16,stop,RESPONS,Eye Lubricant
+1521634964.21,start,RESPONS,dermal care
+1521635028.55,stop,RESPONS,dermal care
+1521635147.66,start,REC,eeg battery
+1521635314.92,stop,REC,eeg battery
+1521635371.74,start,SAFE,noise
+1521635386.49,stop,SAFE,noise
+1521635544.59,start,SAFE,noise
+1521641027.26,stop,SAFE,noise
+1521641036.27,start,BLOCKED,
+1521647049.64,stop,BLOCKED,
+1521648036.53,start,RESPONS,mooney
+1521651299.74,stop,RESPONS,mooney
+1521651701.79,start,RESPONS,routine
+1521651706,start,RESPONS,Eye Lubricant
+1521651761,stop,RESPONS,Eye Lubricant
+1521651788.83,stop,RESPONS,routine
+1521651796.41,start,RESPONS,Meds
+1521652789.57,stop,RESPONS,Meds
+1521652805.86,start,RESPONS,katie
+1521654029.39,stop,RESPONS,katie
+1521654071.11,start,SAFE,wv
+1521654229.56,stop,SAFE,wv
+1521654243.02,start,RESPONS,katie
+1521655294,start,RESPONS,Brush Teeth
+1521656079,stop,RESPONS,Brush Teeth
+1521658041,start,RESPONS,Fissure Treatment
+1521658668,stop,RESPONS,Fissure Treatment
+1521658810,start,RESPONS,Fissure Treatment
+1521658892.45,stop,RESPONS,katie
+1521658898.84,start,RESPONS,routine
+1521725054.77,start,RESPONS,routine
+1521726478,start,RESPONS,Eye Lubricant
+1521726579,stop,RESPONS,Eye Lubricant
+1521727826.99,stop,RESPONS,routine
+1521727839.28,start,BACKEND,org
+1521733426.64,stop,BACKEND,org
+1521733455.22,start,RESPONS,ip jeremy
+1521734660.31,stop,RESPONS,ip jeremy
+1521734667,start,RESPONS,Meds
+1521734683,stop,RESPONS,Meds
+1521734702.67,start,RESPONS,routine
+1521735373.77,stop,RESPONS,routine
+1521737232.89,start,RESPONS,routine
+1521737240,start,RESPONS,Brush Teeth
+1521738803,stop,RESPONS,Brush Teeth
+1521740579,start,RESPONS,Fissure Treatment
+1521741512,stop,RESPONS,Fissure Treatment
+1521742070,start,RESPONS,Eye Lubricant
+1521742224,stop,RESPONS,Eye Lubricant
+1521743865.23,stop,RESPONS,routine
+1521748971.35,start,RESPONS,meetings
+1521752174.57,stop,RESPONS,meetings
+1521752236.11,start,RESPONS,dermal care
+1521752324.9,stop,RESPONS,dermal care
+1521752450.47,start,SUST,fiber
+1521757073.28,heartbeat,SUST,fiber
+1521769482.94,stop,SUST,fiber
+1521770283.83,start,RESPONS,Eye Lubricant
+1521770349.04,stop,RESPONS,Eye Lubricant
+1521770362.68,start,SLEEP,
+1521800759.7,stop,SLEEP,
+1521800777.94,start,RESPONS,routine
+1521801539,start,RESPONS,Eye Lubricant
+1521801605,stop,RESPONS,Eye Lubricant
+1521801628,start,RESPONS,Meds
+1521801702,heartbeat,RESPONS,Meds
+1521801778,heartbeat,RESPONS,Meds
+1521802427,stop,RESPONS,Meds
+1521802437,start,RESPONS,Meds
+1521804051,stop,RESPONS,Meds
+1521804612,start,RESPONS,Brush Teeth
+1521805557,stop,RESPONS,Brush Teeth
+1521900699.48,start,RESPONS,Eye Lubricant
+1521900759.54,stop,RESPONS,Eye Lubricant
+1521900777.28,start,REC,eeg battery
+1521901152.07,stop,REC,eeg battery
+1521901169.71,start,SUST,fiber
+1521903280.0,stop,SUST,fiber
+1521903730.98,start,SUST,fiber
+1521905097.93,stop,SUST,fiber
+1521905585.93,start,SUST,fiber
+1521906511.41,stop,SUST,fiber
+1521906707.69,start,SUST,fiber
+1521986262.74,start,REC,eeg
+1521987609.9,stop,REC,eeg
+1521987648.61,start,RESPONS,routine
+1521988006,start,RESPONS,Eye Lubricant
+1521988103,stop,RESPONS,Eye Lubricant
+1521992289,start,RESPONS,Meds
+1521992336,heartbeat,RESPONS,Meds
+1521992400,heartbeat,RESPONS,Meds
+1521995622,stop,RESPONS,Meds
+1521996004,start,RESPONS,Brush Teeth
+1521997313,stop,RESPONS,Brush Teeth
+1521998286,start,RESPONS,Fissure Treatment
+1521999555,stop,RESPONS,Fissure Treatment
+1521999671,start,RESPONS,Eye Lubricant
+1521999754,stop,RESPONS,Eye Lubricant
+1521999919.01,stop,RESPONS,routine
+1521999945.16,start,RESPONS,dermal care
+1522000008.82,stop,RESPONS,dermal care
+1522000126.07,start,SAFE,noise
+1522008066.65,stop,SAFE,noise
+1522008075.93,start,BLOCKED,
+1522014170.72,stop,BLOCKED,
+1522027488.05,start,RESPONS,Fissure Treatment
+1522027868.25,start,RESPONS,Eye Lubricant
+1522027921.02,stop,RESPONS,Eye Lubricant
+1522028303.48,stop,RESPONS,Fissure Treatment
+1522036831.21,start,REC,eeg battery
+1522036832.38,stop,REC,eeg battery
+1522036837.06,start,REC,eeg battery
+1522036840.81,stop,REC,eeg battery
+1522037944.98,start,RESPONS,Eye Lubricant
+1522064731.2,start,RESPONS,routine
+1522065727,start,RESPONS,Eye Lubricant
+1522066034,stop,RESPONS,Eye Lubricant
+1522069237,start,RESPONS,Meds
+1522069280,heartbeat,RESPONS,Meds
+1522075046,stop,RESPONS,Meds
+1522075107,start,RESPONS,Brush Teeth
+1522075939,stop,RESPONS,Brush Teeth
+1522076237.75,start,RESPONS,dermal care
+1522076314.32,stop,RESPONS,dermal care
+1522076789,start,RESPONS,Fissure Treatment
+1522077781,stop,RESPONS,Fissure Treatment
+1522078350,start,RESPONS,Eye Lubricant
+1522078428,stop,RESPONS,Eye Lubricant
+1522157074,start,RESPONS,Eye Lubricant
+1522157203,stop,RESPONS,Eye Lubricant
+1522159177,start,RESPONS,Meds
+1522159268,heartbeat,RESPONS,Meds
+1522159332,heartbeat,RESPONS,Meds
+1522163116,stop,RESPONS,Meds
+1522167347.5,start,RESPONS,dermal care
+1522167350,start,RESPONS,Brush Teeth
+1522167354,stop,RESPONS,Brush Teeth
+1522167410.01,stop,RESPONS,dermal care
+1522167719,start,RESPONS,Fissure Treatment
+1522168598,stop,RESPONS,Fissure Treatment
+1522168976,start,RESPONS,Eye Lubricant
+1522169070,stop,RESPONS,Eye Lubricant
+1522173824.73,start,REC,eeg battery
+1522175198.83,stop,REC,eeg battery
+1522175231.52,start,REC,soapy_power
+1522176391.16,stop,REC,soapy_power
+1522179772.42,start,REC,soapy_power
+1522180233.27,stop,REC,soapy_power
+1522181850.26,start,REC,soapy_power
+1522185751.78,stop,REC,soapy_power
+1522238539,start,RESPONS,Eye Lubricant
+1522238667,stop,RESPONS,Eye Lubricant
+1522238956,start,RESPONS,Meds
+1522239054,heartbeat,RESPONS,Meds
+1522239110,heartbeat,RESPONS,Meds
+1522241077,stop,RESPONS,Meds
+1522241089,start,RESPONS,Brush Teeth
+1522241949,stop,RESPONS,Brush Teeth
+1522241954,start,RESPONS,Fissure Treatment
+1522242791,stop,RESPONS,Fissure Treatment
+1522243056,start,RESPONS,Eye Lubricant
+1522243057,stop,RESPONS,Eye Lubricant
+1522300955,start,RESPONS,Eye Lubricant
+1522301076,stop,RESPONS,Eye Lubricant
+1522301082,start,RESPONS,Brush Teeth
+1522302210,stop,RESPONS,Brush Teeth
+1522302690,start,RESPONS,Eye Lubricant
+1522302775,stop,RESPONS,Eye Lubricant
+1522326335.28,start,REC,eeg battery
+1522327664.54,stop,REC,eeg battery
+1522328230.14,start,REC,soapy_power
+1522329835.38,stop,REC,soapy_power
+1522330397,start,RESPONS,Eye Lubricant
+1522330572,stop,RESPONS,Eye Lubricant
+1522330609,start,RESPONS,Meds
+1522330668,heartbeat,RESPONS,Meds
+1522330727,heartbeat,RESPONS,Meds
+1522335037,stop,RESPONS,Meds
+1522344815,start,RESPONS,Fissure Treatment
+1522345546,stop,RESPONS,Fissure Treatment
+1522345726,start,RESPONS,Eye Lubricant
+1522345767,stop,RESPONS,Eye Lubricant
+1522345869.3,start,RESPONS,dermal care
+1522345897.06,stop,RESPONS,dermal care
+1522383573,start,RESPONS,Eye Lubricant
+1522383648,stop,RESPONS,Eye Lubricant
+1522383668,start,RESPONS,Meds
+1522414867,start,RESPONS,Eye Lubricant
+1522414975,stop,RESPONS,Eye Lubricant
+1522425510.9,start,BLOCKED,
+1522436276.95,heartbeat,BLOCKED,
+1522439160,start,RESPONS,Meds
+1522498655.31,stop,BLOCKED,
+1522510386,start,RESPONS,Eye Lubricant
+1522510591,stop,RESPONS,Eye Lubricant
+1522510778,start,RESPONS,Meds
+1522510780,heartbeat,RESPONS,Meds
+1522510987,heartbeat,RESPONS,Meds
+1522515865,stop,RESPONS,Meds
+1522547938,start,RESPONS,Brush Teeth
+1522548966,stop,RESPONS,Brush Teeth
+1522590698,start,RESPONS,Eye Lubricant
+1522591147,stop,RESPONS,Eye Lubricant
+1522598300,start,RESPONS,Meds
+1522598469,heartbeat,RESPONS,Meds
+1522598549,heartbeat,RESPONS,Meds
+1522601868,stop,RESPONS,Meds
+1522606345,start,RESPONS,Brush Teeth
+1522607697,stop,RESPONS,Brush Teeth
+1522609871,start,RESPONS,Fissure Treatment
+1522610747,stop,RESPONS,Fissure Treatment
+1522610854,start,RESPONS,Eye Lubricant
+1522610939,stop,RESPONS,Eye Lubricant
+1522611093.19,start,REC,eeg battery
+1522612692.65,stop,REC,eeg battery
+1522612712.97,start,RESPONS,dermal care
+1522612771.42,stop,RESPONS,dermal care
+1522612836.23,start,SAFE,tent
+1522613475.81,stop,SAFE,tent
+1522613502,start,RESPONS,Eye Lubricant
+1522613546,stop,RESPONS,Eye Lubricant
+1522613564,start,RESPONS,Meds
+1522613635,heartbeat,RESPONS,Meds
+1522615456,stop,RESPONS,Meds
+1522615718,start,RESPONS,Fissure Treatment
+1522616624,stop,RESPONS,Fissure Treatment
+1522616656.14,start,SAFE,noise
+1522625725.8,stop,SAFE,noise
+1522626523.43,start,SAFE,noise
+1522627268.79,stop,SAFE,noise
+1522633190,start,RESPONS,Eye Lubricant
+1522633410,stop,RESPONS,Eye Lubricant
+1522633427,start,RESPONS,Meds
+1522633486,heartbeat,RESPONS,Meds
+1522634945,stop,RESPONS,Meds
+1522634960,start,RESPONS,Brush Teeth
+1522635790,stop,RESPONS,Brush Teeth
+1522635808,start,RESPONS,Eye Lubricant
+1522635876,stop,RESPONS,Eye Lubricant
+1522667683,start,RESPONS,Eye Lubricant
+1522667758,stop,RESPONS,Eye Lubricant
+1522668314,start,RESPONS,Meds
+1522668388,heartbeat,RESPONS,Meds
+1522670349,stop,RESPONS,Meds
+1522670391,start,RESPONS,Brush Teeth
+1522671957,stop,RESPONS,Brush Teeth
+1522672982,start,RESPONS,Fissure Treatment
+1522673990,stop,RESPONS,Fissure Treatment
+1522724173.75,start,RESPONS,Fissure Treatment
+1522724519.32,heartbeat,RESPONS,Fissure Treatment
+1522725425.72,stop,RESPONS,Fissure Treatment
+1522756038,start,RESPONS,Eye Lubricant
+1522756114,stop,RESPONS,Eye Lubricant
+1522756137,start,RESPONS,Meds
+1522756257,heartbeat,RESPONS,Meds
+1522756411,heartbeat,RESPONS,Meds
+1522756832,stop,RESPONS,Meds
+1522759122,start,RESPONS,Fissure Treatment
+1522759940,stop,RESPONS,Fissure Treatment
+1522760168,start,RESPONS,Eye Lubricant
+1522760240,stop,RESPONS,Eye Lubricant
+1522848092,start,RESPONS,Eye Lubricant
+1522848170,stop,RESPONS,Eye Lubricant
+1522851894,start,RESPONS,Meds
+1522852051,heartbeat,RESPONS,Meds
+1522852212,heartbeat,RESPONS,Meds
+1522858369,start,RESPONS,Brush Teeth
+1522859551,stop,RESPONS,Brush Teeth
+1522859557,start,RESPONS,Fissure Treatment
+1522860492,stop,RESPONS,Fissure Treatment
+1522860847,start,RESPONS,Eye Lubricant
+1522860937,stop,RESPONS,Eye Lubricant
+1522938773,stop,RESPONS,Meds
+1522938777,start,RESPONS,Meds
+1522938988,heartbeat,RESPONS,Meds
+1522941715,stop,RESPONS,Meds
+1522943364,start,RESPONS,Brush Teeth
+1523022145,start,RESPONS,Eye Lubricant
+1523022187,stop,RESPONS,Eye Lubricant
+1523022291,start,RESPONS,Meds
+1523022293,heartbeat,RESPONS,Meds
+1523022411,heartbeat,RESPONS,Meds
+1523023050,stop,RESPONS,Meds
+1523023115,start,RESPONS,Brush Teeth
+1523023934,stop,RESPONS,Brush Teeth
+1523025727,start,RESPONS,Fissure Treatment
+1523027026,stop,RESPONS,Fissure Treatment
+1523046338,start,RESPONS,Eye Lubricant
+1523046449,stop,RESPONS,Eye Lubricant
+1523046489.82,start,BLOCKED,
+1523074012.28,stop,BLOCKED,
+1523084521,start,RESPONS,Eye Lubricant
+1523111336.93,start,BLOCKED,
+1523115102.51,stop,BLOCKED,
+1523120082,start,RESPONS,Eye Lubricant
+1523120245,stop,RESPONS,Eye Lubricant
+1523125377,start,RESPONS,Meds
+1523125453,heartbeat,RESPONS,Meds
+1523125505,heartbeat,RESPONS,Meds
+1523128241,stop,RESPONS,Meds
+1523187018,start,RESPONS,Eye Lubricant
+1523187083,stop,RESPONS,Eye Lubricant
+1523191535,start,RESPONS,Meds
+1523191585,heartbeat,RESPONS,Meds
+1523197925,stop,RESPONS,Meds
+1523199448,start,RESPONS,Brush Teeth
+1523200957,stop,RESPONS,Brush Teeth
+1523203210,start,RESPONS,Fissure Treatment
+1523204151,stop,RESPONS,Fissure Treatment
+1523210251,start,RESPONS,Eye Lubricant
+1523210278,stop,RESPONS,Eye Lubricant
+1524065316,start,RESPONS,Eye Lubricant
+1524066613.4394851,start,BLOCKED,
+1524066674.0258136,heartbeat,BLOCKED,
+1524066674.7163703,heartbeat,BLOCKED,
+1524066675.2845299,heartbeat,BLOCKED,
+1524066767.6669874,heartbeat,BLOCKED,
+1524066767.6999309,heartbeat,BLOCKED,
+1524066768.3057754,heartbeat,BLOCKED,
+1524066832.5883749,stop,BLOCKED,
+1524071621,stop,RESPONS,Eye Lubricant
+1524075671,start,RESPONS,Meds
+1524075867,start,RESPONS,Meds
+1524075870,heartbeat,RESPONS,Meds
+1524075879,stop,RESPONS,Meds
+1524075958,start,RESPONS,Meds
+1524075962,heartbeat,RESPONS,Meds
+1524075968,stop,RESPONS,Meds
+1524227505,start,RESPONS,Eye Lubricant
+1524227586,stop,RESPONS,Eye Lubricant
+1524230086,start,RESPONS,Brush Teeth
+1524231414,stop,RESPONS,Brush Teeth
+1524232005,start,RESPONS,Fissure Treatment
+1524232960,stop,RESPONS,Fissure Treatment
+1524233260,start,RESPONS,Eye Lubricant
+1524310260,start,RESPONS,Eye Lubricant
+1524311088,stop,RESPONS,Eye Lubricant
+1524314265,start,RESPONS,Brush Teeth
+1524315101,stop,RESPONS,Brush Teeth
+1524315988,start,RESPONS,Fissure Treatment
+1524316760,stop,RESPONS,Fissure Treatment
+1522237352,start,RESPONS,Eye Lubricant
+1522239234,stop,RESPONS,Eye Lubricant
+1524604404,start,RESPONS,Brush Teeth
+1524605073,stop,RESPONS,Brush Teeth
+1524605609,start,RESPONS,Fissure Treatment
+1524606499,stop,RESPONS,Fissure Treatment
+1524607235,start,RESPONS,Eye Lubricant
+1524607299,stop,RESPONS,Eye Lubricant
+1524843872,start,RESPONS,Eye Lubricant
+1524845327,stop,RESPONS,Eye Lubricant
+1524409128,start,RESPONS,Eye Lubricant
+1524409878,stop,RESPONS,Eye Lubricant
+1524491118,start,RESPONS,Eye Lubricant
+1524493740,start,RESPONS,Brush Teeth
+1524494736,stop,RESPONS,Brush Teeth
+1524495597,start,RESPONS,Fissure Treatment
+1525097122,stop,RESPONS,Fissure Treatment
+1525171975,start,RESPONS,Eye Lubricant
+1525173915,stop,RESPONS,Eye Lubricant
+1525181045,start,RESPONS,Brush Teeth
+1525182013,stop,RESPONS,Brush Teeth
+1525182795,start,RESPONS,Fissure Treatment
+1525183812,stop,RESPONS,Fissure Treatment
+1525257959,start,RESPONS,Eye Lubricant
+1525258048,stop,RESPONS,Eye Lubricant
+1525266218,start,RESPONS,Brush Teeth
+1525267212,stop,RESPONS,Brush Teeth
+1525268783,start,RESPONS,Fissure Treatment
+1525270219,stop,RESPONS,Fissure Treatment
+1525351210,start,RESPONS,Eye Lubricant
+1525351304,stop,RESPONS,Eye Lubricant
+1524973948,start,RESPONS,Eye Lubricant
+1524974166,stop,RESPONS,Eye Lubricant
+1524978660,start,RESPONS,Brush Teeth
+1525434708,stop,RESPONS,Brush Teeth
+1525436663,start,RESPONS,Fissure Treatment
+1525437528,stop,RESPONS,Fissure Treatment
+1525692488,start,RESPONS,Eye Lubricant
+1525692552,stop,RESPONS,Eye Lubricant
+1525701187,start,RESPONS,Brush Teeth
+1525701811,stop,RESPONS,Brush Teeth
+1525702542,start,RESPONS,Fissure Treatment
+1525703575,stop,RESPONS,Fissure Treatment
+1525703969,start,RESPONS,Eye Lubricant
+1525703973,stop,RESPONS,Eye Lubricant
+1525771812,start,RESPONS,Eye Lubricant
+1525771891,stop,RESPONS,Eye Lubricant
+1525782438,start,RESPONS,Brush Teeth
+1525783152,stop,RESPONS,Brush Teeth
+1525783790,start,RESPONS,Fissure Treatment
+1525886456,start,RESPONS,Eye Lubricant
+1525886539,stop,RESPONS,Eye Lubricant
+1525890441,start,RESPONS,Fissure Treatment
+1525891432,stop,RESPONS,Fissure Treatment
+1525892231,start,RESPONS,Eye Lubricant
+1525892306,stop,RESPONS,Eye Lubricant
+1526036001,start,RESPONS,Eye Lubricant
+1526036257,stop,RESPONS,Eye Lubricant
+1526049634,start,RESPONS,Brush Teeth
+1526050271,stop,RESPONS,Brush Teeth
+1526050765,start,RESPONS,Fissure Treatment
+1526051732,stop,RESPONS,Fissure Treatment
+1526052087,start,RESPONS,Eye Lubricant
+1526052148,stop,RESPONS,Eye Lubricant
+1526127379,start,RESPONS,Eye Lubricant
+1526127475,stop,RESPONS,Eye Lubricant
+1526218973,start,RESPONS,Eye Lubricant
+1526219297,stop,RESPONS,Eye Lubricant
+1526230362,start,RESPONS,Brush Teeth
+1526563765,start,RESPONS,Eye Lubricant
+1526563893,stop,RESPONS,Eye Lubricant
+1526826719,start,RESPONS,Eye Lubricant
+1526894532,start,RESPONS,Eye Lubricant
+1526894663,stop,RESPONS,Eye Lubricant
+1526926942,start,RESPONS,Brush Teeth
+1526996800,start,RESPONS,Eye Lubricant
+1526997222,stop,RESPONS,Eye Lubricant
+1526998768,start,RESPONS,Brush Teeth
+1526999834,stop,RESPONS,Brush Teeth
+1527002700,start,RESPONS,Fissure Treatment
+1527159534,start,RESPONS,Eye Lubricant
+1527160385,stop,RESPONS,Eye Lubricant
+1527173674,start,RESPONS,Brush Teeth
+1527174761,stop,RESPONS,Brush Teeth
+1527175838,start,RESPONS,Fissure Treatment
+1527176270,start,RESPONS,Eye Lubricant
+1527176390,stop,RESPONS,Eye Lubricant
+1527177119.7699387,start,REC,eeg battery
+1527181035.6882672,stop,REC,eeg battery
+1527181695.2674716,start,RESPONS,dermal care
+1527181720.8720896,stop,RESPONS,dermal care
+1527181768.5003123,start,SUST,fiber
+1527182837.4164109,stop,SUST,fiber
+1527243092,start,RESPONS,Eye Lubricant
+1527243423,stop,RESPONS,Eye Lubricant
+1527250056,start,RESPONS,Brush Teeth
+1527250059,stop,RESPONS,Brush Teeth
+1527252162,start,RESPONS,Fissure Treatment
+1527253209,stop,RESPONS,Fissure Treatment
+1527253526,start,RESPONS,Eye Lubricant
+1527253615,stop,RESPONS,Eye Lubricant
+1527422497,start,RESPONS,Eye Lubricant
+1527422732,stop,RESPONS,Eye Lubricant
+1527432811,start,RESPONS,Brush Teeth
+1527434362,stop,RESPONS,Brush Teeth
+1527434481.76,start,SAFE,wv
+1527461351.69,stop,SAFE,wv
+1527502282,start,RESPONS,Eye Lubricant
+1527502451,stop,RESPONS,Eye Lubricant
+1527507755.03,start,RESPONS,Meds
+1527507755.96,stop,RESPONS,Meds
+1527512969,start,RESPONS,Brush Teeth
+1527513823,stop,RESPONS,Brush Teeth
+1527515027,start,RESPONS,Fissure Treatment
+1527516064,stop,RESPONS,Fissure Treatment
+1527528928.01,start,REC,openrealrecord
+1527532005.03,stop,REC,openrealrecord
+1527532048.27,start,SAFE,WV
+1527545197.56,stop,SAFE,WV
+1527591904,start,RESPONS,Eye Lubricant
+1527591951,stop,RESPONS,Eye Lubricant
+1527601286,start,RESPONS,Brush Teeth
+1527602291,stop,RESPONS,Brush Teeth
+1527613682,start,RESPONS,Fissure Treatment
+1527859942,start,RESPONS,Eye Lubricant
+1527860016,stop,RESPONS,Eye Lubricant
+1527935095,start,RESPONS,Eye Lubricant
+1527935133,stop,RESPONS,Eye Lubricant
+1528026719,start,RESPONS,Eye Lubricant
+1528026944,stop,RESPONS,Eye Lubricant
+1528039400,start,RESPONS,Fissure Treatment
+1528040605,stop,RESPONS,Fissure Treatment
+1528040613,start,RESPONS,Eye Lubricant
+1528040670,stop,RESPONS,Eye Lubricant
+1527607606,start,RESPONS,Eye Lubricant
+1527607685,stop,RESPONS,Eye Lubricant
+1527682955,start,RESPONS,Eye Lubricant
+1527683060,stop,RESPONS,Eye Lubricant
+1527738781,start,RESPONS,Brush Teeth
+1527739749,stop,RESPONS,Brush Teeth
+1527739788,start,RESPONS,Eye Lubricant
+1527739838,stop,RESPONS,Eye Lubricant
+1527792421,start,RESPONS,Eye Lubricant
+1528368447,start,RESPONS,Eye Lubricant
+1528368649,stop,RESPONS,Eye Lubricant
+1528377372,start,RESPONS,Brush Teeth
+1528378413,stop,RESPONS,Brush Teeth
+1528379349,start,RESPONS,Fissure Treatment
+1528380374,stop,RESPONS,Fissure Treatment
+1528380728,start,RESPONS,Eye Lubricant
+1528380789,stop,RESPONS,Eye Lubricant
+1528460575,start,RESPONS,Eye Lubricant
+1528460698,stop,RESPONS,Eye Lubricant
+1528486010,start,RESPONS,Brush Teeth
+1528486873,stop,RESPONS,Brush Teeth
+1528710946,start,RESPONS,Eye Lubricant
+1528711090,stop,RESPONS,Eye Lubricant
+1528716247,start,RESPONS,Brush Teeth
+1528717241,stop,RESPONS,Brush Teeth
+1528718212,start,RESPONS,Fissure Treatment
+1528719092,stop,RESPONS,Fissure Treatment
+1528719604,start,RESPONS,Eye Lubricant
+1528719775,stop,RESPONS,Eye Lubricant
+1528775763,start,RESPONS,Eye Lubricant
+1528775917,stop,RESPONS,Eye Lubricant
+1528775937,start,RESPONS,Brush Teeth
+1528776550,stop,RESPONS,Brush Teeth
+1528894317,start,RESPONS,Eye Lubricant
+1528894462,stop,RESPONS,Eye Lubricant
+1528979918,start,RESPONS,Eye Lubricant
+1528981760,stop,RESPONS,Eye Lubricant
+1528988065,start,RESPONS,Brush Teeth
+1528988068,stop,RESPONS,Brush Teeth
+1528992128,start,RESPONS,Fissure Treatment
+1529060073,start,RESPONS,Eye Lubricant
+1529060151,stop,RESPONS,Eye Lubricant
+1529065566,start,RESPONS,Brush Teeth
+1529066185,stop,RESPONS,Brush Teeth
+1529066456,start,RESPONS,Eye Lubricant
+1529066517,stop,RESPONS,Eye Lubricant
+1529226275,start,RESPONS,Eye Lubricant
+1529226479,stop,RESPONS,Eye Lubricant
+1529238326,start,RESPONS,Brush Teeth
+1529239790,stop,RESPONS,Brush Teeth
+1529240352,start,RESPONS,Eye Lubricant
+1529240458,stop,RESPONS,Eye Lubricant
+1529321641,start,RESPONS,Eye Lubricant
+1529323372,stop,RESPONS,Eye Lubricant
+1529323415,start,RESPONS,Brush Teeth
+1529496989,start,RESPONS,Eye Lubricant
+1529497241,stop,RESPONS,Eye Lubricant
+1529501449,start,RESPONS,Brush Teeth
+1529502332,stop,RESPONS,Brush Teeth
+1529503524,start,RESPONS,Fissure Treatment
+1529504872,stop,RESPONS,Fissure Treatment
+1529504918,start,RESPONS,Eye Lubricant
+1529505000,stop,RESPONS,Eye Lubricant
+1529591725,start,RESPONS,Eye Lubricant
+1529591784,stop,RESPONS,Eye Lubricant
+1529594545,start,RESPONS,Brush Teeth
+1529598781,stop,RESPONS,Brush Teeth
+1529598788,start,RESPONS,Fissure Treatment
+1529599730,stop,RESPONS,Fissure Treatment
+1529663137,start,RESPONS,Eye Lubricant
+1529663363,stop,RESPONS,Eye Lubricant
+1529673159,start,RESPONS,Brush Teeth
+1529928906,start,RESPONS,Eye Lubricant
+1529929073,stop,RESPONS,Eye Lubricant
+1529934030,start,RESPONS,Brush Teeth
+1529934972,stop,RESPONS,Brush Teeth
+1529936866,start,RESPONS,Fissure Treatment
+1529936866,stop,RESPONS,Fissure Treatment
+1529936868,start,RESPONS,Eye Lubricant
+1529936868,stop,RESPONS,Eye Lubricant
+1530117514,start,RESPONS,Eye Lubricant
+1530117626,stop,RESPONS,Eye Lubricant
+1532055047,start,RESPONS,Brush Teeth
+1532057133,stop,RESPONS,Brush Teeth
+1532057144,start,RESPONS,Fissure Treatment
+1532057960,stop,RESPONS,Fissure Treatment
+1532058557,start,RESPONS,Eye Lubricant
+1532058606,stop,RESPONS,Eye Lubricant
+1532233639,start,RESPONS,Brush Teeth
+1532234234,stop,RESPONS,Brush Teeth
+1532114900,start,RESPONS,Brush Teeth
+1532116003,stop,RESPONS,Brush Teeth
+1532116409,start,RESPONS,Fissure Treatment
+1532117523,stop,RESPONS,Fissure Treatment
+1532117760,start,RESPONS,Eye Lubricant
+1532117838,stop,RESPONS,Eye Lubricant
+1532776799,start,RESPONS,Eye Lubricant
+1532776900,stop,RESPONS,Eye Lubricant
+1532780018,start,RESPONS,Brush Teeth
+1532781114,stop,RESPONS,Brush Teeth
+1532782378,start,RESPONS,Fissure Treatment
+1532782381,stop,RESPONS,Fissure Treatment
+1532783554,start,RESPONS,Eye Lubricant
+1532783583,stop,RESPONS,Eye Lubricant
+1532948886,start,RESPONS,Eye Lubricant
+1532948937,stop,RESPONS,Eye Lubricant
+1532948958,start,RESPONS,Brush Teeth
+1533119244,start,RESPONS,Eye Lubricant
+1533119456,stop,RESPONS,Eye Lubricant
+1533122350,start,RESPONS,Brush Teeth
+1533124386,stop,RESPONS,Brush Teeth
+1533130231,start,RESPONS,Eye Lubricant
+1533130287,stop,RESPONS,Eye Lubricant
+1533212618,start,RESPONS,Eye Lubricant
+1533212769,stop,RESPONS,Eye Lubricant
+1533388905,start,RESPONS,Eye Lubricant
+1533389149,stop,RESPONS,Eye Lubricant
+1533389214,start,RESPONS,Brush Teeth
+1533391822,stop,RESPONS,Brush Teeth
+1533396484,start,RESPONS,Eye Lubricant
+1533396668,stop,RESPONS,Eye Lubricant
+1533473597,start,RESPONS,Brush Teeth
+1533474290,stop,RESPONS,Brush Teeth
+1533475015,start,RESPONS,Fissure Treatment
+1533475015,stop,RESPONS,Fissure Treatment
+1533478479,start,RESPONS,Eye Lubricant
+1533478578,stop,RESPONS,Eye Lubricant
+1533555174,start,RESPONS,Eye Lubricant
+1533555239,stop,RESPONS,Eye Lubricant
+1533558483,start,RESPONS,Brush Teeth
+1533561089,stop,RESPONS,Brush Teeth
+1533561304,start,RESPONS,Eye Lubricant
+1533561367,stop,RESPONS,Eye Lubricant
+1532680566,start,RESPONS,Eye Lubricant
+1532680688,stop,RESPONS,Eye Lubricant
+1532680714,start,RESPONS,Brush Teeth
+1532686962,start,RESPONS,Eye Lubricant
+1532687066,stop,RESPONS,Eye Lubricant
+1533732484,start,RESPONS,Eye Lubricant
+1533732738,stop,RESPONS,Eye Lubricant
+1533819042,start,RESPONS,Brush Teeth
+1533823781,stop,RESPONS,Brush Teeth
+1533823798,start,RESPONS,Eye Lubricant
+1533823930,stop,RESPONS,Eye Lubricant
+701,start,RESPONS,Eye Lubricant
+772,stop,RESPONS,Eye Lubricant
+1533904446,start,RESPONS,Brush Teeth
+1533905282,stop,RESPONS,Brush Teeth
+1534089216,start,RESPONS,Eye Lubricant
+1534089965,stop,RESPONS,Eye Lubricant
+1534106496,start,RESPONS,Brush Teeth
+1534118815,stop,RESPONS,Brush Teeth
+1534164623,start,RESPONS,Eye Lubricant
+1534164828,stop,RESPONS,Eye Lubricant
+1534173965,start,RESPONS,Eye Lubricant
+1534174009,stop,RESPONS,Eye Lubricant
+1533900162,start,RESPONS,Eye Lubricant
+1533900194,stop,RESPONS,Eye Lubricant
+1533906648,start,RESPONS,Brush Teeth
+1533909487,start,RESPONS,Eye Lubricant
+1534340906,start,RESPONS,Brush Teeth
+1534342230,stop,RESPONS,Brush Teeth
+1534415488,start,RESPONS,Eye Lubricant
+1534415562,stop,RESPONS,Eye Lubricant
+1534419500,start,RESPONS,Brush Teeth
+1534420502,stop,RESPONS,Brush Teeth
+1534422136,start,RESPONS,Eye Lubricant
+1534422194,stop,RESPONS,Eye Lubricant
+1534501628,start,RESPONS,Eye Lubricant
+1534501671,stop,RESPONS,Eye Lubricant
+1534504764,start,RESPONS,Brush Teeth
+1534507297,stop,RESPONS,Brush Teeth
+1534509761,start,RESPONS,Eye Lubricant
+1534509818,stop,RESPONS,Eye Lubricant
+1534599792,start,RESPONS,Eye Lubricant
+1534599889,stop,RESPONS,Eye Lubricant
+1534601989,start,RESPONS,Brush Teeth
+1534603586,stop,RESPONS,Brush Teeth
+1534677430,start,RESPONS,Eye Lubricant
+1534677459,stop,RESPONS,Eye Lubricant
+1534679180,start,RESPONS,Brush Teeth
+1534681894,stop,RESPONS,Brush Teeth
+1534728259,start,RESPONS,Eye Lubricant
+1534728316,stop,RESPONS,Eye Lubricant
+1534732730,start,RESPONS,Brush Teeth
+1534734237,stop,RESPONS,Brush Teeth
+1534734769,start,RESPONS,Eye Lubricant
+1534734812,stop,RESPONS,Eye Lubricant
+1534768846,start,RESPONS,Eye Lubricant
+1534768891,stop,RESPONS,Eye Lubricant
+1534773964,start,RESPONS,Brush Teeth
+1534793987,stop,RESPONS,Brush Teeth
+1534794603,start,RESPONS,Eye Lubricant
+1534794638,stop,RESPONS,Eye Lubricant
+1534821527,start,RESPONS,Eye Lubricant
+1534821556,stop,RESPONS,Eye Lubricant
+1534823003,start,RESPONS,Brush Teeth
+1534824460,stop,RESPONS,Brush Teeth
+1534825037,start,RESPONS,Eye Lubricant
+1534825086,stop,RESPONS,Eye Lubricant
+1534853079,start,RESPONS,Eye Lubricant
+1534853121,stop,RESPONS,Eye Lubricant
+1534856901,start,RESPONS,Brush Teeth
+1534858362,stop,RESPONS,Brush Teeth
+1534936591,start,RESPONS,Eye Lubricant
+1534967427,stop,RESPONS,Eye Lubricant
+1534967455,start,RESPONS,Brush Teeth
+1534968890,stop,RESPONS,Brush Teeth
+1535021878,start,RESPONS,Eye Lubricant
+1535021971,stop,RESPONS,Eye Lubricant
+1535029274,start,RESPONS,Brush Teeth
+1535030588,stop,RESPONS,Brush Teeth
+1535106499,start,RESPONS,Eye Lubricant
+1535106546,stop,RESPONS,Eye Lubricant
+1535110802,start,RESPONS,Brush Teeth
+1535112170,stop,RESPONS,Brush Teeth
+1535115961,start,RESPONS,Eye Lubricant
+1535116024,stop,RESPONS,Eye Lubricant
+1535324338,start,RESPONS,Eye Lubricant
+1535324397,stop,RESPONS,Eye Lubricant
+1535334735,start,RESPONS,Brush Teeth
+1535336056,stop,RESPONS,Brush Teeth
+1535336058,start,RESPONS,Fissure Treatment
+1535336299,stop,RESPONS,Fissure Treatment
+1535336308,start,RESPONS,Eye Lubricant
+1535336349,stop,RESPONS,Eye Lubricant
+1535382212,start,RESPONS,Eye Lubricant
+1535382277,stop,RESPONS,Eye Lubricant
+1535385314,start,RESPONS,Brush Teeth
+1535386175,stop,RESPONS,Brush Teeth
+1535386876,start,RESPONS,Fissure Treatment
+1535386979,stop,RESPONS,Fissure Treatment
+1535387598,start,RESPONS,Eye Lubricant
+1535387634,stop,RESPONS,Eye Lubricant
+1535462447,start,RESPONS,Eye Lubricant
+1535462493,stop,RESPONS,Eye Lubricant
+1535466848,start,RESPONS,Brush Teeth
+1535467737,stop,RESPONS,Brush Teeth
+1535470138,start,RESPONS,Eye Lubricant
+1535470163,stop,RESPONS,Eye Lubricant
+1535553312,start,RESPONS,Eye Lubricant
+1535553339,stop,RESPONS,Eye Lubricant
+1535553416,start,RESPONS,Brush Teeth
+1535554717,stop,RESPONS,Brush Teeth
+1535555309,start,RESPONS,Fissure Treatment
+1535555311,stop,RESPONS,Fissure Treatment
+1535556109,start,RESPONS,Eye Lubricant
+1535556154,stop,RESPONS,Eye Lubricant
+1535628528,start,RESPONS,Eye Lubricant
+1535628579,stop,RESPONS,Eye Lubricant
+1535630157,start,RESPONS,Brush Teeth
+1535638566,stop,RESPONS,Brush Teeth
+1535639084,start,RESPONS,Fissure Treatment
+1535639180,stop,RESPONS,Fissure Treatment
+1535639293,start,RESPONS,Eye Lubricant
+1535639371,stop,RESPONS,Eye Lubricant
+1535722848,start,RESPONS,Eye Lubricant
+1535722916,stop,RESPONS,Eye Lubricant
+1535725840,start,RESPONS,Brush Teeth
+1535733801,stop,RESPONS,Brush Teeth
+1535765979,start,RESPONS,Eye Lubricant
+1535766015,stop,RESPONS,Eye Lubricant
+1535766172,start,RESPONS,Brush Teeth
+1535767320,stop,RESPONS,Brush Teeth
+1535767335,start,RESPONS,Eye Lubricant
+1535767368,stop,RESPONS,Eye Lubricant
+1535805190,start,RESPONS,Eye Lubricant
+1535805267,stop,RESPONS,Eye Lubricant
+1535814997,start,RESPONS,Brush Teeth
+1535816344,stop,RESPONS,Brush Teeth
+1535816973,start,RESPONS,Eye Lubricant
+1535817005,stop,RESPONS,Eye Lubricant
+1535894187,start,RESPONS,Eye Lubricant
+1535894254,stop,RESPONS,Eye Lubricant
+1535897956,start,RESPONS,Brush Teeth
+1535898867,stop,RESPONS,Brush Teeth
+1535899404,start,RESPONS,Fissure Treatment
+1535899563,stop,RESPONS,Fissure Treatment
+1535899728,start,RESPONS,Eye Lubricant
+1535899764,stop,RESPONS,Eye Lubricant
+1535932790,start,RESPONS,Eye Lubricant
+1535932820,stop,RESPONS,Eye Lubricant
+1535933215,start,RESPONS,Brush Teeth
+1535937039,stop,RESPONS,Brush Teeth
+1535937064,start,RESPONS,Eye Lubricant
+1535937092,stop,RESPONS,Eye Lubricant
+1535973575,start,RESPONS,Eye Lubricant
+1535973610,stop,RESPONS,Eye Lubricant
+1535980338,start,RESPONS,Brush Teeth
+1535980340,stop,RESPONS,Brush Teeth
+1535983000,start,RESPONS,Fissure Treatment
+1535983100,stop,RESPONS,Fissure Treatment
+1535983297,start,RESPONS,Eye Lubricant
+1535983407,stop,RESPONS,Eye Lubricant
+1536062268,start,RESPONS,Eye Lubricant
+1536062353,stop,RESPONS,Eye Lubricant
+1536062721,start,RESPONS,Eye Lubricant
+1536062767,stop,RESPONS,Eye Lubricant
+1536067632,start,RESPONS,Brush Teeth
+1536069050,stop,RESPONS,Brush Teeth
+1536070128,start,RESPONS,Fissure Treatment
+1536070226,stop,RESPONS,Fissure Treatment
+1536070774,start,RESPONS,Eye Lubricant
+1536070804,stop,RESPONS,Eye Lubricant
+1536114864,start,RESPONS,Eye Lubricant
+1536114936,stop,RESPONS,Eye Lubricant
+1536115135,start,RESPONS,Brush Teeth
+1536116400,stop,RESPONS,Brush Teeth
+1536116401,start,RESPONS,Fissure Treatment
+1536116541,stop,RESPONS,Fissure Treatment
+1536116551,start,RESPONS,Eye Lubricant
+1536116583,stop,RESPONS,Eye Lubricant
+1536145069,start,RESPONS,Eye Lubricant
+1536145071,stop,RESPONS,Eye Lubricant
+1536195086,start,RESPONS,Eye Lubricant
+1536195121,stop,RESPONS,Eye Lubricant
+1536234743,start,RESPONS,Eye Lubricant
+1536234794,stop,RESPONS,Eye Lubricant
+1536237618,start,RESPONS,Brush Teeth
+1536239343,stop,RESPONS,Brush Teeth
+1536240219,start,RESPONS,Fissure Treatment
+1536240313,stop,RESPONS,Fissure Treatment
+1536240624,start,RESPONS,Eye Lubricant
+1536240658,stop,RESPONS,Eye Lubricant
+1536328250,start,RESPONS,Eye Lubricant
+1536328941,stop,RESPONS,Eye Lubricant
+1536342838,start,RESPONS,Brush Teeth
+1536344337,stop,RESPONS,Brush Teeth
+1536344813,start,RESPONS,Fissure Treatment
+1536344915,stop,RESPONS,Fissure Treatment
+1536414776,start,RESPONS,Eye Lubricant
+1536414800,stop,RESPONS,Eye Lubricant
+1536420617,start,RESPONS,Fissure Treatment
+1536420771,stop,RESPONS,Fissure Treatment
+1536420965,start,RESPONS,Eye Lubricant
+1536420999,stop,RESPONS,Eye Lubricant
+1536493900,start,RESPONS,Eye Lubricant
+1536494015,stop,RESPONS,Eye Lubricant
+1536496301,start,RESPONS,Brush Teeth
+1536497442,stop,RESPONS,Brush Teeth
+1536499203,start,RESPONS,Fissure Treatment
+1536499308,stop,RESPONS,Fissure Treatment
+1536499846,start,RESPONS,Eye Lubricant
+1536499869,stop,RESPONS,Eye Lubricant
+1536605700,start,RESPONS,Eye Lubricant
+1536605751,stop,RESPONS,Eye Lubricant
+1536663418,start,RESPONS,Eye Lubricant
+1536663446,stop,RESPONS,Eye Lubricant
+1536667404,start,RESPONS,Brush Teeth
+1536668780,stop,RESPONS,Brush Teeth
+1536669377,start,RESPONS,Fissure Treatment
+1536669509,stop,RESPONS,Fissure Treatment
+1536669822,start,RESPONS,Eye Lubricant
+1536669845,stop,RESPONS,Eye Lubricant
+1534916148,start,RESPONS,Eye Lubricant
+1534916184,stop,RESPONS,Eye Lubricant
+1534995814,start,RESPONS,Eye Lubricant
+1534995837,stop,RESPONS,Eye Lubricant
+1536841895,start,RESPONS,Brush Teeth
+1536847899,stop,RESPONS,Brush Teeth
+1536848735,start,RESPONS,Fissure Treatment
+1536849191,stop,RESPONS,Fissure Treatment
+1536849202,start,RESPONS,Eye Lubricant
+1536849204,stop,RESPONS,Eye Lubricant
+1537103158,start,RESPONS,Eye Lubricant
+1537103189,stop,RESPONS,Eye Lubricant
+1537109242,start,RESPONS,Brush Teeth
+1537110808,stop,RESPONS,Brush Teeth
+1537111144,start,RESPONS,Fissure Treatment
+1537111228,stop,RESPONS,Fissure Treatment
+1537111377,start,RESPONS,Eye Lubricant
+1537111402,stop,RESPONS,Eye Lubricant
+1537190293,start,RESPONS,Eye Lubricant
+1537190323,stop,RESPONS,Eye Lubricant
+1537270519,start,RESPONS,Eye Lubricant
+1537270546,stop,RESPONS,Eye Lubricant
+1537620245,start,RESPONS,Eye Lubricant
+1537620284,stop,RESPONS,Eye Lubricant
+1537622610,start,RESPONS,Fissure Treatment
+1537622740,stop,RESPONS,Fissure Treatment
+1537622921,start,RESPONS,Eye Lubricant
+1537622943,stop,RESPONS,Eye Lubricant
+1537663749,start,RESPONS,Eye Lubricant
+1537663807,stop,RESPONS,Eye Lubricant
+1537664004,start,RESPONS,Brush Teeth
+1537675299,stop,RESPONS,Brush Teeth
+1537709472,start,RESPONS,Eye Lubricant
+1537709536,stop,RESPONS,Eye Lubricant
+1537712268,start,RESPONS,Fissure Treatment
+1537712387,stop,RESPONS,Fissure Treatment
+1537712667,start,RESPONS,Eye Lubricant
+1537712687,stop,RESPONS,Eye Lubricant
+1538047666,start,RESPONS,Eye Lubricant
+1538047689,stop,RESPONS,Eye Lubricant
+1538054768,start,RESPONS,Brush Teeth
+1538055649,stop,RESPONS,Brush Teeth
+1538056795,start,RESPONS,Fissure Treatment
+1538056903,stop,RESPONS,Fissure Treatment
+1538057365,start,RESPONS,Eye Lubricant
+1538057464,stop,RESPONS,Eye Lubricant
+1538070799,start,RESPONS,Eye Lubricant
+1538070824,stop,RESPONS,Eye Lubricant
+1538072366,start,RESPONS,Brush Teeth
+1538073174,stop,RESPONS,Brush Teeth
+1538073181,start,RESPONS,Fissure Treatment
+1538073332,stop,RESPONS,Fissure Treatment
+1538131140,start,RESPONS,Eye Lubricant
+1538131176,stop,RESPONS,Eye Lubricant
+1538134364,start,RESPONS,Brush Teeth
+1538135597,stop,RESPONS,Brush Teeth
+1538136527,start,RESPONS,Fissure Treatment
+1538136642,stop,RESPONS,Fissure Treatment
+1538136987,start,RESPONS,Eye Lubricant
+1538137016,stop,RESPONS,Eye Lubricant
+1538224889,start,RESPONS,Eye Lubricant
+1538224914,stop,RESPONS,Eye Lubricant
+1538226127,start,RESPONS,Brush Teeth
+1538229397,stop,RESPONS,Brush Teeth
+1538229962,start,RESPONS,Fissure Treatment
+1538230121,stop,RESPONS,Fissure Treatment
+1538230240,start,RESPONS,Eye Lubricant
+1538230261,stop,RESPONS,Eye Lubricant
+1538405916,start,RESPONS,Eye Lubricant
+1538405935,stop,RESPONS,Eye Lubricant
+1538412441,start,RESPONS,Brush Teeth
+1538414971,stop,RESPONS,Brush Teeth
+1538415550,start,RESPONS,Fissure Treatment
+1538415941,start,RESPONS,Eye Lubricant
+1538415974,stop,RESPONS,Eye Lubricant
+1538492610,start,RESPONS,Eye Lubricant
+1538492667,stop,RESPONS,Eye Lubricant
+1538573937,start,RESPONS,Eye Lubricant
+1538573962,stop,RESPONS,Eye Lubricant
+1538575411,start,RESPONS,Fissure Treatment
+1538575510,stop,RESPONS,Fissure Treatment
+1538587571,start,RESPONS,Eye Lubricant
+1538587593,stop,RESPONS,Eye Lubricant
+1538654707,start,RESPONS,Eye Lubricant
+1538654725,stop,RESPONS,Eye Lubricant
+1538658514,start,RESPONS,Brush Teeth
+1538658514,stop,RESPONS,Brush Teeth
+1538740215,start,RESPONS,Eye Lubricant
+1538740235,stop,RESPONS,Eye Lubricant
+1538742055,start,RESPONS,Brush Teeth
+1538745639,start,RESPONS,Fissure Treatment
+1538745717,stop,RESPONS,Fissure Treatment
+1538829773,start,RESPONS,Eye Lubricant
+1538829941,stop,RESPONS,Eye Lubricant
+1538834326,start,RESPONS,Brush Teeth
+1538849543,stop,RESPONS,Brush Teeth
+1538850387,start,RESPONS,Fissure Treatment
+1538850531,stop,RESPONS,Fissure Treatment
+1538850928,start,RESPONS,Eye Lubricant
+1538850963,stop,RESPONS,Eye Lubricant
+1538916471,start,RESPONS,Eye Lubricant
+1538916496,stop,RESPONS,Eye Lubricant
+1538923438,start,RESPONS,Fissure Treatment
+1538923503,stop,RESPONS,Fissure Treatment
+1538923751,start,RESPONS,Eye Lubricant
+1538923780,stop,RESPONS,Eye Lubricant
+1539176840,start,RESPONS,Eye Lubricant
+1539176873,stop,RESPONS,Eye Lubricant
+1539178650,start,RESPONS,Brush Teeth
+1539179213,stop,RESPONS,Brush Teeth
+1539180521,start,RESPONS,Fissure Treatment
+1539180634,stop,RESPONS,Fissure Treatment
+1539180933,start,RESPONS,Eye Lubricant
+1539180954,stop,RESPONS,Eye Lubricant
+1539257678,start,RESPONS,Eye Lubricant
+1539257698,stop,RESPONS,Eye Lubricant
+1539260852,start,RESPONS,Brush Teeth
+1539262526,start,RESPONS,Eye Lubricant
+1539262548,stop,RESPONS,Eye Lubricant
+1539275318,start,RESPONS,Eye Lubricant
+1539275345,stop,RESPONS,Eye Lubricant
+1539520665,start,RESPONS,Eye Lubricant
+1539520689,stop,RESPONS,Eye Lubricant
+1539532661,start,RESPONS,Eye Lubricant
+1539532677,stop,RESPONS,Eye Lubricant
+1539613637,start,RESPONS,Eye Lubricant
+1539613657,stop,RESPONS,Eye Lubricant
+1539616199,start,RESPONS,Brush Teeth
+1539616940,stop,RESPONS,Brush Teeth
+1539618671,start,RESPONS,Eye Lubricant
+1539618704,stop,RESPONS,Eye Lubricant
+1539688970,start,RESPONS,Eye Lubricant
+1539688995,stop,RESPONS,Eye Lubricant
+1539692611,start,RESPONS,Brush Teeth
+1539693470,stop,RESPONS,Brush Teeth
+1539696237,start,RESPONS,Eye Lubricant
+1539696283,stop,RESPONS,Eye Lubricant
+1539775994,start,RESPONS,Eye Lubricant
+1539776044,stop,RESPONS,Eye Lubricant
+1539778386,start,RESPONS,Brush Teeth
+1539780248,stop,RESPONS,Brush Teeth
+1539781900,start,RESPONS,Eye Lubricant
+1539781944,stop,RESPONS,Eye Lubricant
+1539865319,start,RESPONS,Eye Lubricant
+1539865355,stop,RESPONS,Eye Lubricant
+1539877824,start,RESPONS,Eye Lubricant
+1539878016,stop,RESPONS,Eye Lubricant
+1539949545,start,RESPONS,Eye Lubricant
+1539949566,stop,RESPONS,Eye Lubricant
+1539955436,start,RESPONS,Eye Lubricant
+1539955441,stop,RESPONS,Eye Lubricant
+1540040301,start,RESPONS,Eye Lubricant
+1540040323,stop,RESPONS,Eye Lubricant
+1540049214,start,RESPONS,Brush Teeth
+1540051737,stop,RESPONS,Brush Teeth
+1540052350,start,RESPONS,Eye Lubricant
+1540052351,stop,RESPONS,Eye Lubricant
+1540057354,start,RESPONS,Brush Teeth
+1540059415,stop,RESPONS,Brush Teeth
+1540080234,start,RESPONS,Eye Lubricant
+1540080236,stop,RESPONS,Eye Lubricant
+1540085408,start,RESPONS,Eye Lubricant
+1540085482,stop,RESPONS,Eye Lubricant
+1540121024,start,RESPONS,Eye Lubricant
+1540121046,stop,RESPONS,Eye Lubricant
+1540128076,start,RESPONS,Brush Teeth
+1540130634,stop,RESPONS,Brush Teeth
+1540131494,start,RESPONS,Eye Lubricant
+1540131519,stop,RESPONS,Eye Lubricant
+1540141537,start,RESPONS,Eye Lubricant
+1540141632,stop,RESPONS,Eye Lubricant
+1540145102,start,RESPONS,Brush Teeth
+1540145283,stop,RESPONS,Brush Teeth
+1540221040,start,RESPONS,Brush Teeth
+1540221328,stop,RESPONS,Brush Teeth
+1540225190,start,RESPONS,Eye Lubricant
+1540225231,stop,RESPONS,Eye Lubricant
+1540230477,start,RESPONS,Eye Lubricant
+1540230502,stop,RESPONS,Eye Lubricant
+1540231924,start,RESPONS,Brush Teeth
+1540232375,stop,RESPONS,Brush Teeth
+1540250955,start,RESPONS,Brush Teeth
+1540251379,stop,RESPONS,Brush Teeth
+1540284069,start,RESPONS,Eye Lubricant
+1540284130,stop,RESPONS,Eye Lubricant
+1540297824,start,RESPONS,Brush Teeth
+1540298861,stop,RESPONS,Brush Teeth
+1540309691,start,RESPONS,Eye Lubricant
+1540309703,stop,RESPONS,Eye Lubricant
+1540386256,start,RESPONS,Eye Lubricant
+1540386420,stop,RESPONS,Eye Lubricant
+1540390798,start,RESPONS,Brush Teeth
+1540394876,stop,RESPONS,Brush Teeth
+1540425818,start,RESPONS,Brush Teeth
+1540427824,stop,RESPONS,Brush Teeth
+1540429877,start,RESPONS,Eye Lubricant
+1540429911,stop,RESPONS,Eye Lubricant
+1540464919,start,RESPONS,Eye Lubricant
+1540465065,stop,RESPONS,Eye Lubricant
+1540467182,start,RESPONS,Brush Teeth
+1540470497,stop,RESPONS,Brush Teeth
+1540474620,start,RESPONS,Eye Lubricant
+1540474738,stop,RESPONS,Eye Lubricant
+1540568079,start,RESPONS,Brush Teeth
+1540569059,stop,RESPONS,Brush Teeth
+1540569976,start,RESPONS,Eye Lubricant
+1540570024,stop,RESPONS,Eye Lubricant
+1540652845,start,RESPONS,Eye Lubricant
+1540652847,stop,RESPONS,Eye Lubricant
+1540653948,start,RESPONS,Brush Teeth
+1540657004,stop,RESPONS,Brush Teeth
+1540659882,start,RESPONS,Eye Lubricant
+1540659909,stop,RESPONS,Eye Lubricant
+1540662254,start,RESPONS,Eye Lubricant
+1540662285,stop,RESPONS,Eye Lubricant
+1540666757,start,RESPONS,Brush Teeth
+1540669786,stop,RESPONS,Brush Teeth
+1540679645,start,RESPONS,Eye Lubricant
+1540679684,stop,RESPONS,Eye Lubricant
+1540694319,start,RESPONS,Eye Lubricant
+1540694375,stop,RESPONS,Eye Lubricant
+1540732984,start,RESPONS,Fissure Treatment
+1540733077,stop,RESPONS,Fissure Treatment
+1540733168,start,RESPONS,Eye Lubricant
+1540733206,stop,RESPONS,Eye Lubricant
+1540749022,start,RESPONS,Eye Lubricant
+1540749023,stop,RESPONS,Eye Lubricant
+1540749219,start,RESPONS,Brush Teeth
+1540816210,start,RESPONS,Eye Lubricant
+1540816292,stop,RESPONS,Eye Lubricant
+1540821955,start,RESPONS,Brush Teeth
+1540936849,start,RESPONS,Eye Lubricant
+1540936906,stop,RESPONS,Eye Lubricant
+1540937861,start,RESPONS,Brush Teeth
+1540940128,stop,RESPONS,Brush Teeth
+1540947121,start,RESPONS,Brush Teeth
+1540948724,stop,RESPONS,Brush Teeth
+1540948731,start,RESPONS,Fissure Treatment
+1540995434,start,RESPONS,Eye Lubricant
+1540995612,stop,RESPONS,Eye Lubricant
+1541012849,start,RESPONS,Brush Teeth
+1541019771,stop,RESPONS,Brush Teeth
+1541064631,start,RESPONS,Eye Lubricant
+1541064659,stop,RESPONS,Eye Lubricant
+1541073248,start,RESPONS,Brush Teeth
+1541077423,stop,RESPONS,Brush Teeth
+1541086113,start,RESPONS,Fissure Treatment
+1541086256,stop,RESPONS,Fissure Treatment
+1541086557,start,RESPONS,Eye Lubricant
+1541086561,stop,RESPONS,Eye Lubricant
+1541181968,start,RESPONS,Eye Lubricant
+1541181987,stop,RESPONS,Eye Lubricant
+1541182827,start,RESPONS,Brush Teeth
+1541511826,start,RESPONS,Eye Lubricant
+1541511895,stop,RESPONS,Eye Lubricant
+1541522574,start,RESPONS,Brush Teeth
+1541526110,stop,RESPONS,Brush Teeth
+1541527157,start,RESPONS,Fissure Treatment
+1541527280,stop,RESPONS,Fissure Treatment
+1541527550,start,RESPONS,Eye Lubricant
+1541527591,stop,RESPONS,Eye Lubricant
+1541607697,start,RESPONS,Eye Lubricant
+1541607778,stop,RESPONS,Eye Lubricant
+1541622243,start,RESPONS,Eye Lubricant
+1541622313,stop,RESPONS,Eye Lubricant
+1541675717,start,RESPONS,Eye Lubricant
+1541675752,stop,RESPONS,Eye Lubricant
+1541681718,start,RESPONS,Fissure Treatment
+1541681901,stop,RESPONS,Fissure Treatment
+1541682367,start,RESPONS,Eye Lubricant
+1541682407,stop,RESPONS,Eye Lubricant
+1541764908,start,RESPONS,Eye Lubricant
+1541764945,stop,RESPONS,Eye Lubricant
+1541771540,start,RESPONS,Fissure Treatment
+1541771637,stop,RESPONS,Fissure Treatment
+1541771762,start,RESPONS,Eye Lubricant
+1541771800,stop,RESPONS,Eye Lubricant
+1542027869,start,RESPONS,Eye Lubricant
+1542027906,stop,RESPONS,Eye Lubricant
+1542198571,start,RESPONS,Eye Lubricant
+1542198606,stop,RESPONS,Eye Lubricant
+1542204890,start,RESPONS,Fissure Treatment
+1542205050,stop,RESPONS,Fissure Treatment
+1542205292,start,RESPONS,Eye Lubricant
+1542205366,stop,RESPONS,Eye Lubricant
+1542284560,start,RESPONS,Eye Lubricant
+1542284721,stop,RESPONS,Eye Lubricant
+1542290383,start,RESPONS,Brush Teeth
+1542290732,stop,RESPONS,Brush Teeth
+1542291197,start,RESPONS,Fissure Treatment
+1542291303,stop,RESPONS,Fissure Treatment
+1542291819,start,RESPONS,Eye Lubricant
+1542291850,stop,RESPONS,Eye Lubricant
+1542459385,start,RESPONS,Brush Teeth
+1542463375,stop,RESPONS,Brush Teeth
+1542464204,start,RESPONS,Fissure Treatment
+1542464404,stop,RESPONS,Fissure Treatment
+1542464543,start,RESPONS,Eye Lubricant
+1542464566,stop,RESPONS,Eye Lubricant
+1542651020,start,RESPONS,Eye Lubricant
+1542651068,stop,RESPONS,Eye Lubricant
+1542672407,start,RESPONS,Eye Lubricant
+1542672456,stop,RESPONS,Eye Lubricant
+1542804114,start,RESPONS,Eye Lubricant
+1542804141,stop,RESPONS,Eye Lubricant
+1542812007,start,RESPONS,Fissure Treatment
+1542812197,stop,RESPONS,Fissure Treatment
+1542812203,start,RESPONS,Eye Lubricant
+1542812282,stop,RESPONS,Eye Lubricant
+1542896355,start,RESPONS,Brush Teeth
+1542896617,stop,RESPONS,Brush Teeth
+1542900633,start,RESPONS,Fissure Treatment
+1542900759,stop,RESPONS,Fissure Treatment
+1542901092,start,RESPONS,Eye Lubricant
+1542901119,stop,RESPONS,Eye Lubricant
+1543345548,start,RESPONS,Fissure Treatment
+1543345680,stop,RESPONS,Fissure Treatment
+1543345755,start,RESPONS,Eye Lubricant
+1543345787,stop,RESPONS,Eye Lubricant

@@ -1,0 +1,95 @@
+I have an idea to possibly completely solve the electric field problem.
+
+A box can be made completely enclosed by soldering all joints.
+Soldering is relatively low temperature, so I think it would be feasible to have an electric door
+which solders itself shut, and flows the solder to open.  This would be far more effective than fingerstock,
+I expect.
+
+With thin layers of copper or silver, many layers could be used with electric doors with heating elements around
+the edges.  When powered, the doors flow their solder, lift a little, and slide off to the side.
+
+Some challenges and concerns remain:
+- Possibility of corrosion decreasing effectiveness over time.
+- Impedance difference of tin solder vs. copper / silver wall
+- Most importantly, how to power the middle door layers as they slide to the side.
+
+I imagine a spring loaded power contact which powers the door closest to it by pressing against contacts.
+When the door is powered, it disconnects by heating its solder to flow.
+We then want the door to slide away, but if it slides out from under the contact, it will no longer be powered,
+which is no good.
+Maybe the doors can have contacts which extend past their edges?
+The contact which powers them could be on a robotic arm.  Since the doors must be robotic, this may be reasonable.
+Door is on tracks, has motors and heaters.
+Robotic power contact presses door, powering it.
+Door releases and powers motors to slide to the side (can even be controlled by contact, need not hold circuitry
+in door).
+The robotic contact can slide to the side with the door.
+Once the door is slid, the contact must release, move on to the next door, and power it.
+The contact arm would be affixed to the wall with the door.
+
+Here's another "problem": the door can only be opened from the inside.
+Maybe that's a good thing, but not always.  A quick solution would be to communicate with the inside to open
+the door.  My imagined setup had two nested rooms, exchanging when they were open automatically.
+
+So I guess there are horizontal tracks on the wall.  The arm would be in one; it would need a way of plugging
+into each door and releasing.  That plus the nature of the tracks are maybe the remaining large challenges.
+Since there is only 1 arm, we could use reasonable quality servos to make it quick, but still have some force.
+Or with the right orientation, it could use strong DC or stepper motors.  It could be situated immediately above
+or below the door, and have a small profile, not reaching down down into the face of the door.
+So.  Tracks.  We can probably find a good track solution by looking into it a little.
+I imagine the tracks might have teeth, and the wheels be gears that navigate along them.  They'd need some way
+of preventing the thing they are holding from falling forward, which I imagine is provided for by such track
+systems.
+Toothed wheels like these running on tracks or rails or chain are called sprockets.
+A linear motor would work for this.  They are used on other sliding doors.
+the toothed rails are called RACKS; the wheels are cogs or pinions
+the system is rack and pinion
+looking at trains I expect a solution to prevent falling would be to have a separate guide shaft with something
+hooked around it, or similar
+
+Desoldering and lifting: how will we raise the door after desoldering it?  A simple solution would be to place
+something on top of the copper wall that can take the heat but won't accept the solder (like carbon maybe)
+.  Then we don't need to lift the wall; we can just slide it to the side!
+If we don't pressure the wall we could run into an issue where the solder stops connecting with itself.  If there's
+enough solder, it's likely there's a way to arrange it such that that won't be an issue, but it's pretty hard
+to envision what that arrangement would be.
+Another optio would be to have the objects on the tracks be a separate "doorframe" which has something that can
+push out or pull in to connect or disconnect the door.  I guess that could be as simple as levels on a motor.
+I could google linear actuators.
+
+Hmm, linear actuators for doorframe to press door.
+DC motors to slide door along toothed tracks.
+I'll need some kind of plug and socket that is easy for a robot arm to press in to place.
+The simplest solutio would just be large contacts that press with pressure.
+Maybe a USB port would work; might not carry enough current though.
+A cigarette lighter outlet might work.
+Maybe contacts is the way to go.  If data is needed, maybe a USB port.
+We can probably put springs like fingers on the side of channels, and shove pieces of metal into them, like
+a normal socket.  So some kind of spring metal acceptor affixed to the top of the door, and some kind of
+powered lever to shove a plug into the acceptor.
+The thing is, the door opener needs to be able to find this acceptor blind.
+Maybe some pads arranged vertically, and the acceptor has horizontal "wiping" contacts,
+so it can slide along the door until it finds the pads by conductivity.
+Materials for the levers etc?
+Wood is probably sufficient.
+Affixing wood to motors ?
+Motors often have metal axles, maybe with a slot or flat bit, maybe with a gear.
+A precise material like a dense wood, plastic, metal, can be shaped to fit around the slot or flat bit.
+Imprecise materials could be affixed to a gear.
+Maybe it is reasonable to glue to the axle.
+Often there is an issue where the axle can't handle torque that is perpendicular to its direction of motion,
+so it can be good to secure the object somewhere else on the motor.  That's hard when working with plain
+rectangular prisms or hand-carved wood; it would make it time intensive.
+Maybe I could find some existing motorized setups that can be screwed in place or something.
+Motors with gears can be placed straight into the tracks, and the motor housing secured to the doorframe
+or the arm.
+The arm and the door itself have a linear-actuator issue, where they want to move along the depth axis linearly.
+This could be solved with a DC motor and a lever, roughly approximating things, but there might be linear actuators
+that could allow both ends to be affixed.
+
+Note that although this is very exciting, I still need to solve testing to make use of it, because I'm going to
+need to verify the solder seals are continuous.  This means generating a high-frequency signal, and measuring
+the attenuation of the signal on the other side of the door.
+
+It appears the function of linear actuators is generally to rotate a threaded shaft.  The object to be moved can then have internal threads, and be held to not rotate.
+This is of course pretty similar to toothed tracks.  To re-use concepts, I could have depth tracks.  Might limit how close I can place the layers.

@@ -1,0 +1,3865 @@
+riorit	Delay	Expense	Availability
+0	3	0	1		Make lasting progress on quietly measuring shielding effectiveness
+	1	1	1		sign up for more gbo tours
+1	2	0	2		Move transport organization box from truck
+1	3	0	2		Sort desk
+1	3	0	2		Sort car
+1	2	0	1		Listen to voicemails
+1	3	0	1		Move forward on education
+1	3	0	1		Personal Info Org System
+2	2	3	3		get truck mechanic to look at truck
+2	3	0	1		Prepare a personal budget
+2	2	0	2		get 4th antibiotic prescribed (and length of treatment; and update regarding situ.)
+2	1	1	2		Replenish vitamins
+3	2	3	1		propane for heating (company to call on regulations posting at tiny home)
+3	2	0	2		Volunteering
+3	1	1	1		try to talk to dianne
+3	3	1	2		go to lewisburg health stores
+					get new tire for passat
+					get new insurance?
+
+
+RACI
+who's Responsible, who's Accountable, Communication, Information
+
+
+Scheduling plan for nicotine box:
+	- empty slots in schedule that items from Tasks queue are placed in
+	- Tasks queue is priority queue
+	- each item has a Behavior, and a Category
+	- each Category may have a Verifier that can be used to determine reward (different ones may use same verifier)
+
+	I can start this before nicotine starts, which will give me some progress tracking
+
+	- I could mention to jim the bubbling in my ear that happens when I burp or hold my nose and press
+
+
+lewisburg:
+- health food stores
+- hardware stores
+- can get a passport
+- truck mechanic?
+
+# UPCOMING
+- [ ] Handle E-Mail
+	-> I've finished up to but not processed Acadia Evaluation Oct 24
+	SHOULD STILL REMOVE STAR
+	/?&st=2500
+- [ ] follow up get EEG from dartmouth-hitchcock
+- [ ] comprehend e-mail since last time time I forwarded starred e-mails?
+- [ ] dr mooney's office likely gotten back re: appt with celia & neurocog testing.  follow up.
+- [ ] didn't get call from mooney or celia 10-31 wed ? follow up.
+- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+	-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
+- [ ] father likely gotten back regarding whether he has merry meadow and drs rosen testing.  follow up.
+- [ ] order/buy vit c, current bottle in med box
+- [ ] Dr Fallon (646) 774-8052 (Columbia Lyme) does neuroimaging re lyme
+- [ ] Check in with Jim re carpool to/from mass around xgiving or xmas.
+- [X] repay $180 to gwyn, check bounced
+- [X] call back ccil
+	-> ended up handling with jim taggart; still have not gotten in contact with kristina though
+- [ ] call back mother -> she'd like another call
+		-> maybe mom would like to be involved in check-ins with me
+			to keep me on task but also keep her aware of my doings
+- [ ] call katrina? on aug 25 she left a vm saying she missed me and to give her a call back if i wanted but she was about to go to yoga class
+	- [ ] DH records request should have gone through by now.  Continue to pursue [ ] medical history [ ] eeg recordings
+		-> there's a copy of my old faxed release in the medical file.  address is wrong, of course.
+	- [ ] dvd media should have arrived to burn copies of neuro records.  most are on annex, might have a missing one in medical file unsure
+	- [ ] has frankferd farms replied to my registration attempt?
+- [ ] dr bouboulis expecting callback from 2018-10-31
+- [ ] neurology expecting neurotesting referral from prior to 2018-11
+- [ ] neurology need followup after 2018-11, may need to push further
+- [ ] print nvc worksheets?
+- [ ] print neuro history?
+- [ ] combine bookmoons' work information with my own; maybe start a doc to take cumulative notes on this (can share it with him !)
+- [ ] handle newsletter subscription ddos (unsubscribe to newsletters, increase account security, optionally make a new e-mail address referencing a nonviolence url)
+	-> [X] I used unroll.me and removed all newsletters it listed I was not part of subscribing to.  It found only 76.
+- [ ] address openrealrecord typescript patch
+- [ ] answer starred e-mails
+- [ ] answer signal messages; riley needs payment, possibly work, definitely communication
+- [ ] Get a local oncologist and give them Dr Nathenson's office number (617) 632-5204
+	Health Information Services manages sending records and can be reach at 617-623-6897 to confirm records have been sent
+- [ ][ ] Reconnect with Dr Bouboulis as I am starting treatment (move details to info section)
+	-> left voicemail with nurse, would like to leave voicemail with front office or with pharmaceuticals too
+- [ ][ ] Look for nearby farmer's markets
+- [ ] design and build nicotine device to retrain habits
+- [ ][ ] pursue grotto group
+- [ ][ ] pursue eeg work
+- [ ] set up event log on airgapped phone to press button when something occurs ... may need more to be able to untrain unwanted events but not train logging behavior ... and/or could use muse or openbci
+- [ ] set up airgapped phone so it logs when time is set.  important for interpreting times in log.
+- [ ] call southern states? to determine post-install status, e.g. bill payment, signature
+- [ ] DO MY LAB REPORTS !  think how empowering this would be
+		with time limit.  remember to reward based on progress.
+		-> should be doable with n2
+- [ ] Fill out volunteer application from e-mail
+- [ ] call southern propane and get in system ... haven't paid bill?
+- [ ] sue: watch wi-fi refugees http://rtd.rt.com/films/wi-f-refugees/ 52 mins
+
+Goals at # GOALWORK
+==
+Now: 2018-11-17 14:50 ET
+Goal: list to refer to to stay on task
+Ready behaviors: brushing, working on scuttlebutt bridge
+Pressures I'm ignoring: keeping room clean, addressing obligations, what else?
+Difficulties: pressured tasks causing ability to decrease -- prefer to do ready tasks
+Challenges I'm engaging: routine around brushing, maybe doing it 50%
+		hope to optimize use of brushing routine to resolve difficulty tasks
+Biggest issue:
+	- plan time
+	- organize goals
+	- craft strategy to manage time
+		I want/need to craft a strategy to aid in managing my time using brushing routine.
+		But it is very hard to access any information around this goal.
+
+TDE:
+	Time spent
+	Difficulty
+	Effectiveness
+
+== Immediately Relevent ==
+I0 resuming subsistent daily habits
+	Subjective Rating: 30%
+I1 organizing this list and strategies to use it for effectiveness
+	Subjective Rating: 80% time spent 200% difficulty 5% effectiveness
+
+I1 checking rating works and including quiz result in output
+	Subjective Rating: 80% effort 5% time
+		concept: how much time you'd like to spend is also part of time usage in TEE
+I2 planning my tasks in general to optimize time and resource management
+	Subjective Rating: 10%
+I3 adding frequency hopping to noiscillate detector
+	SR: 0%
+I4 finishing cleaning up e-mail
+	Subjective Rating: 80% effort 0% time 5% effectiveness
+I5 integrating scuttlebutt with e-mail or matrix
+	Subjective Rating: 100% effort 140% time 40% effectiveness
+-I6 resume exercising
+	Subjective Rating: 50%
+-I7 get back on scuttlebutt & respond to wiley
+	Subjective Rating: 0%
+-I8 UPCOMING list in calendar
+-I9 preparing for tomorrow
+-IA merging these lists
+-IB visiting some caverns and noting if there is an opportunity to hang out
+-IC getting my EEG
+-ID making a pluggable blockchain & swarm storage interface
+-IZ making plans to visit massachusetts
+
+== General ==
+0. Managing this list of concerns
+	- integrate with other goal/todo lists
+		: consider adding these items to 00-Organizer.txt and quizzing on its contents!
+1. getting better at being aware of my present concerns
+	-> could dual-n-back help? at least a good practice
+	   may be more exercise known to improve mind in general too
+	-> reviewing things I've written, acted on, done, said, heard, places I've gone online, in person, etc other than this list
+
+2. time management & priority adjustment
+	- For all my tasks, I should do the work that is hardest for others to do other than me.
+		Then I can queue up work that others can do.
+	- my programming projects should be bounties, forums, etc
+	- my shielding pursuits should be a research project
+	- my logistics should be delegated and organized such that they use up reasonable time
+	- my time should be spent optimizing my approaches and plans
+
+	- unifying goals / tasks / scheduling information locations, into 00-Organizer.txt for now
+		- [X] this file
+		- routines lists
+		- ttrack? (above)
+		- nic program? (above)
+	- how far away deadlines, plans, events are
+	- time tracker, n2 scheduler
+		- LET'S HAVE 1 PRIMARY GOAL, and spend HALF OF TIME on it.  then it will take twice as long, as other goals available in other time
+			- will need to accommodate frozen time ... maybe associate with n2 but not time allocation.  track, also track problem events
+		- see also 'nicotine' under autonomy pursuit below
+	- working with jim
+-3. emails
+	- catching up
+		- new emails
+		- recent starred emails
+		- emails that occurred around the newsletter ddos I received
+	- old starred emails
+	- mailing lists i've joined or tried to join
+-4. ongoing obligations
+	- truck stuck in mud
+	- interpersonal responsibilities
+		- where might I find these?
+		- "maintaining relationships" below
+		- UPCOMING list
+		- voicemails
+		- emails
+		- facebook
+-5. older concerns
+-6. things left unaddressed in nvc doc
+	- feelings, needs, requests that haven't been gone through
+		-> Jim, I have a document where I have pursued examining my intense feelings and needs and thinking of things to do with them, but I haven't done anything with much of the information
+	- I'd like to do the feeling->thought->observation->need->request habit throughout the day, as i encounter feelings,
+	        and record them to work with them
+-7. autonomy pursuit
+	- nicotine and ideas for using it
+		- maintain daily habit
+		- decide on new approach for dispenser / box and work on that more effectively
+		- address list of nic habit goals, farther down in this file
+		- doing time intensive routines less frequently, or decreasing time (time management above)
+	- NVC
+		- resolving flags by working with persistent information
+		- adjusting external dialogue to use nvc
+		- adjusting internal dialogue to use nvc
+		- ready access to observations, feelings, needs
+		- nvc with voices
+		- online courses
+		- book study
+		- study with friends
+		- physical courses, practice groups
+		- street giraffes
+	- shielding
+		- Coding noiscillate
+		- interaction with telescope
+		- getting involved in rtl-sdr development
+		- EE degree (physics degree?)
+		- EMC study
+		- internship?
+		- real world outreach?
+		- hobby infosec communities
+	- eeg
+		- algorithms checkin with others e.g. eeglablist attempt to post
+			- left out concept of subtracting overlapped signals to isolate them with feedback.  could test this on noise to see whether it works
+		- guy in wv (is this in my ongoing list in calendar?)
+			-> add calendar event to move forward on this after set date from last contact
+					-> probably try cnotcating him via other means
+		- ecog internationally?
+		- university research for thought-controlled devices
+		- openbci / muse / zeo
+		- continuous eeg price
+	- censor-resistant collaboration
+		- scuttlebutt
+			- concern regarding recovery from corruption?
+		- blockchain-based
+		- anonymity-focused
+	- reliable logging
+		- might want to resolve this one with some nvc introspection
+			- training is something i'll want, but doesn't need reliability
+				- finding missing objects could still become relevant
+			- personal safety could be relevant occasionally
+		- openrealrecord/hyperstream
+			- bookmoons work
+			- other PR's
+		- ongoing video (also for comfort with it)
+	- helpful environments
+		- education, internships, volunteering, jobs
+		- caverns, radios, shielding, NVC, BCI research
+	- collaboration
+		- collaboration training e.g. NVC?
+		- jim, riley, kate, jeremy, brian decker/samppa
+		- internet people
+		- meeting new people who want to work or help
+		- following up with people who can help
+-8. health
+	- exercise
+		- habitual
+		- evening/night scheduled
+	- awareness
+		- online classes
+		- sharing with people
+		- live resources (mpss? more?)
+		- regular practice, moment-to-moment goal
+	- medical tasks
+		- getting daytime dry-eye glasses?
+		- getting neuropsych testing
+			likely listed on schedule
+	- food / thrive
+		- sourdough bread !
+		- cookie & kate ingredients
+		- deal with rotting apples in fridge
+-9. maintaining relationships (should add these to ongoing)
+	- Owe Katrina a call?
+	- i called mom
+	- VISIT PARENTS at least once a year !!!
+	- Old / current loves
+		- gwyn, kate
+		- azia, kyla, christine, molly, sarah capra?
+		- groups i've interacted with
+			- possible new ones
+	- Old / current friends
+		- electrosensitives
+		- SLR people
+		- MPSS
+		- Portland
+		- childhood / school
+		- groups i've interacted with
+-10. finances
+	- set up trading policy ... can somehow get somebody else to actually perform it?
+	- maintain minimum balance on account
+	- budget so as to provide for savings to increase
+	- reach out to father to support legitimate expenses
+	- consider choosing 1 reliable source of income?
+	- followup on localethereum & interpersonal trades
+	- keep debt to 50% maximum to provide space for interest
+
+## NICOTINE AUTONOMY PLANNING
+	STATUS:
+		forgot where I'm at. note here.
+
+	NEXT STEP:
+		DISPENSER:
+			- rebuild but use low-viscosity
+			  after dispense, increase viscosity by mixing with powder
+			  baking soda, toothbrushing powder, etc
+		consolidate next steps
+		sources:
+			- this doc
+				- this section
+				- present concerns section
+			- projects folder
+			- logistics folder
+			- routine folder
+
+	IDEAL PLAN:
+		- dosing applied frequently throughout the day, automatically and securely, based on testable metrics
+
+- I'd like to start this.
+	- Program reads from todo repo, stored in todo repo.
+	- Service installed on filesystem from source in todo repo for now.
+	- Move goals to this organizer doc.
+	- Connect relay to toggle power to dispenser.  Time based on reward.
+- References elsewhere: ../routine/ttrack/ttrack.py comments at top
+- I really need a TIME MANAGEMENT next step !!!!!
+	GOAL: using n2 helps me meet my goals
+	SUBGOAL: program checks tasks, doses result
+
+	WORK INCLUDES:
+		- routine system prompts me to continue (already)
+		- tasks system allows time logging (already)
+		- new code might do both in a modular way (in progress)
+	NEED:
+		- SET OF KNOWLEDGE TO MANAGE.  schedule? goals? randomness?
+			consider starting with TTRACK system which already tracks hours and prioritizes somewhat
+	NEXT:
+		- convert brushing routine to rewards
+
+
+leslie recommends Bookstore in baltimore:
+	red emma's
+
+youtube/vimeo: search consensus decision-making
+
+
+
+# FINANCES
+	Goal:
+		1. Five County Checking account: minimum balance of $1000 to prevent mistakes.  Highest priority.
+		   Five County Savings account: keep empty
+		2. First Citizens account: keep empty.  Withdraw all money given by father that is in excess of rent.
+		3. Ethereum: keep trades going to restore balance to 42.7 ETH and 134145.5 NEM
+		4. NEM: keep all money until value rises to at least purchase value
+	Tasks:
+		- [X] withdraw money from coinbase pro, my ethereum exchange, to meet my goal balance of $1000
+			$832.35 needed
+			-> expected arrival: 2018-11-16
+		- [X] identify eth balance prior to october and note here, then add a task to move forward on restoring balance
+		- [ ] change large donations to small donations.  Send a message to people I care about explaining the change
+		      (and warning them).  Major donations: burning books, earth first journal, maine primitive skills school
+			- [X] burning books ($500 / mo?)
+				- [X] payment #1
+					-> I found $100 recurring in paypal.  I'll keep this as a new baseline, and stop the
+					   other payment.
+					-> recurcs on the 9th
+				- [X] payment #2
+					-> I found $250 on the 6th from my debit card
+					   same on 11th in october
+					-> I tried to send an email to Leslie about canceling this donation.
+					   My mail was bounced saying it contained a virus.  My email was plain text,
+					   and had only 8 short human-readable headers.
+					-> all my e-mails are bouncing to Leslie.  I can call Burning Books
+					   at (716) 881-0791 11am-7pm Tue-Sun (closed Mon)
+					-> I called leslie and he theoretically stopped payment
+			- [X] earth first journal ($200 / mo?)
+				- [X] payment #1
+					-> I found $200 recurring on the 19th, I-XGFX1C1TLM8A
+					-> canceled
+				- [ ] payment #2
+					-> I found $20 recurring on the 17th, I-JB68J8645SL9
+					-> I guess I'd prefer to give a little more, but this will do for now
+			- [ ] maine primitive skills school ($1000 / mo)
+				-> paypal wants me to fill my negative balance before I send anything
+			- [ ] others
+		- [ ] create complete log here of relevent trade information, to move towards making a profit again
+		- [ ] withdraw extra cash from First Citizens to repay gwyn
+		- [ ] withdraw cash from five county to repay gwyn
+		- [ ] identify purchase value of nem
+	Notes:
+		2018-11-10: 21.1 Eth
+		2018-09-26: 42.7 Eth
+
+
+				2018-11-07
+		2018-10-29: DISPUTED IN BUYER'S FAVOR 2018-11-07 antonpeters@home.nl $257.82 = $270.00 - $12.18
+			likely ethhockey opened 2018-10-28 paid 2018-10-29
+		2018-10-29: GOOD? Jaakkoforssen66@aol.com $9.26 = $10.00 - $0.74
+		2018-10-29: GOOD? HesterPotgieter1111@hotmail.com $630.66 = $660.00 - $29.34
+			likely markodeal 2018-10-28
+		2018-10-29: GOOD? Jaakkoforssen66@aol.com $267.38 = $280.00 - $12.62
+			likely jimmy12 2018-10-28
+		2018-10-28: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $200.46 = $210.00 - $9.54
+		2018-10-28: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $334.30 = $350.00 - $15.70
+			likely leahsv, opened 2018-10-28, paid 2018-10-28
+
+		2018-10-25: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $190.90 = $200.00 - $9.10
+		2018-10-25: RESOLVED IN MY FAVOR 2018-11-02 herbertpfanzelt@gmx.de $324.74 = $340.00 - $15.26
+			likely leahsv, opened 2018-10-25, paid 2018-10-25
+		2018-10-25: DISPUTED IN BUYER'S FAVOR 2018-11-12 wolfgang.dignoes@icloud.com $264.51 = $277.00 - $12.49
+			likely ethhockey, opened 2018-10-24, paid 2018-10-25
+		2018-10-25: IN DISPUTE AbdullaMahmood3333@hotmail.com $640.22 = $670.00 - $29.78
+			likely markodeal, opened 2018-10-24, paid 2018-10-25
+
+		ethhockey: 2 transactions disputed in other's favor from differing accounts
+		markodeal: 1 good transction, 1 disputed, differing accounts
+		leahsv: 2 transactions split into 4, all disputed in my favor, herbertpfanzelt@gmx.de
+		jimmy12: 1 good transaction Jaakkoforssen66@aol.com
+
+		2018-11-14 18:54 ET
+			Placed 2 ETH in escrow to leahsv.
+			Expecting $459.62 from herbertpfanzelt@gmx.de
+		           18:57 ET
+			Placed 2 ETH in escrow to Prudentwriter.
+			Expecting $423.62 .
+		           19:50 ET
+			Completed Prudentwriter trade.
+			Screenshots in dom0. $426.16
+			   21:10 ET
+			Completed another Prudentwriter trade.
+			1 eth for $208.65
+			Screenshots in dom0
+		2018-11-15 06:56 ET
+
+		2018-11-16 08:35 ET
+			leahsv has not followed through with payment
+			One of Prudentwriter's Paypal accounts took the money back, saying unauthorized transaction.  Prudentwriter said he'll make it work.  Chat with him will be destroyed in 6 days.
+			Place 0.79 ETH in escrow to jimmy13.
+			Expecting $198.88 from Jaakoforssen66@aol.com
+
+		2018-12-03 13:21 ET
+			Finalized a different trade with jimmy13 after price change.  screenshot in dom0
+			Opened 2.6 eth for $404.43 with leahsv
+
+    2018-11-20 15:42 ET
+      sold 13414.50458902 nem, purchasing 7.98606173 eth
+          that's roughly 0.00059533 eth/nem
+    2018-12-10 12:30 ET
+      posted order to sell 20731.0 nem for 0.43410714 BTC
+      	price: 0.00002094 btc/nem
+		2018-12-19
+			sold 2.0 eth for 0.05406 BTC
+
+# CALENDAR
+
+=> When visiting Gwyn, check how long she is possibly available to visit, and assume you will visit for the maximum amount of time, even if that is not planned
+
+Jim Taggart's laptop: Dell express service code #10882328761
+
+- [!] 2019-03-26 Tue
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS -> TODO: COPY MEDS TASKS FORWARD
+	- [ ] call physical therapy to resolve schedule given I missed last Friday ?????
+		304 799 4500
+	-> did not do this
+	- [ ] 7:00a - EYE SURGERY: time will be finalized one day prior
+		no food or drink !!
+		- [ ] leave watches / valuables at home
+		      will get a call between 12:00p and 4:300p Mon to give arrival time
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue ??
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+	-> I DIDN'T UPDATE MY CALENDAR FOR A MONTH AFTER THIS DAY.
+
+- [ ] 2019-03-27 Wed
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 5, Mar/Apr 2019 Series
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-03-28 Thu
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-03-29 Fri
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] 10:00a - 11:00a Kate call Fri, Tue
+	- [ ] come up with tasks to pursue for telescope involvement; add them to different upcoming days
+			- 1. add 'LOGISTICS & SCHEDULED' to routine, with reference to some place that has reference to this telescope stuff
+			- 2. apply for internship & continue coursework (add to routine)
+			- contact profs etc for possible recommendations for internship
+			- review notes in 01-Calendar-Log.txt 2018-12-15 and in annex/git/everything/organization/academic/application
+			- meet woman at telescope involved in amateur work (ideas for what to say to)
+			- other ideas, possibly from e-mail with astronomer
+	- [ ][ ] tentatively 1:00p - 2:00p Jeremy (used to be Mon 11a)
+	- [ ][ ] 3:15p - Physical therapy every Friday? I missed last one !!!
+		Seneca Trails Physical Therapy
+		18228 Seneca Trail
+		Marlinton, WV 24954
+			next to the bridge
+		(304) 799 4500
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-03-30 Sat
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-03-31 Sun
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-04-01 Mon
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] 10:00 AM Sascha call??? or sunday?
+		DO SECTION 1 T-MAPS https://tmapscommunity.net/
+	- [ ][ ] 11:00 AM Jeremy call.  SCHEDULE FUTURE CALLS !
+	- [ ] check in with Tim at Elkins Trucking Service regarding order of 4th transmission from Isuzu.
+			If transmission still not shipped, get order information to ask Isuzu about it.
+			M-F 9a-5:30p see 'Truck Mechanic' section below
+				but not during lunch break 12:30p - 1:30p
+				Called 9:05a and got tim immediately!
+			304 636 5330
+		-> we visited, and 4th transmission order didn't work out I think ... instead it is
+		   being sent to repair and should be on way back by now
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-04-02 Tue
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	LEAVE FOR EYE SURGERY POST OP
+	- [ ] 1:00p - 1 week eye surgery post op visit w Jennifer Sivak-Callcott
+		Mon Health
+		Oculofacial Surgery
+		600 Suncrest Towne Centre
+		Suite 310
+		Morgantown, WV 26505
+		monhealth.com
+		304 598-2200
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-04-03 Wed
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ] GET BLOOD WORK DONE FOR PET SCAN
+				lab form is in glove compartment of VW
+	- [ ][ ] 11:00a - 12:00p - Kate call
+	- [ ] 12:45p - 2:00p - NVC Core Concepts Zoom Class 6, Mar/Apr 2019 Series
+		FINAL CLASS
+		add next series to calendar!
+	- [ ][ ] 2:10p - 3:00p - Dr Mooney calls, copy forward 2 weeks
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-04-04 Thu
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-04-05 Fri
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- Kate call CANCELED: she has polyvegal training
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+
+- [ ] 2019-04-06 Sat
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+	- [ ][ ] STAY UP LATE in case want to do street giraffes following night
+
+- [ ] 2919-04-07 Sun
+	- [ ][ ] ~8:15a - MEDS after bkfst
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+	- [ ][ ] ~6:30p - MEDS after dinnr
+		1 tsp atovaquone
+		100mg doxycycline
+		Bactrim DS
+		500mg azithromycin
+	- [ ][ ] 8:00p - street giraffes first sunday of the month
+	  call 530 881-1212  (or maybe 701 801-1211)
+	  meeting id in email
+	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
+
+- [ ] 2019-04-08 Mon
+	- Last call with Jeremy
+		-> one more with Jeremy since I missed so many
+	- [ ] 10:00a Sascha call
+	- [ ] 11:00a Jeremy call
+	- [ ] Call polaris ?? hotline at 1-888-373-7888
+	        and give case # 00426674 ??
+	      I'm looking for a therapist familiar with
+	        difficult crime-like systems
+		-> considering whether this is non-controversial.  if I ever tangentially bumped a system that could be threatened by this, is this the course I want to pursue?
+	- [ ] read encrypted e-mail & reply
+		-> maybe if I came at this from a strong place of being non-controversial, I'd feel more okay about it
+
+- [ ] 2019-04-09 Tue
+	- [ ][ ] 10:00a - 11:00a - Kate call every Tue, Fri
+	- [ ] 12:00p - record video with Gwyn
+
+- [ ] 2019-04-10 Wed
+	- [ ] 2:00p Oncology PET Scan
+			Davis Cancer Center or whatnot
+			Elkins
+		-> they told me I had scheduled this 04-16.
+	- [ ] 7:00p - call with Lester and Jim regarding two caves in Franklin
+		Jim visits tomorrow
+		
+		From BP station in central franklin (at only traffic light, etc),
+		Head South out of Franklin on Rt 220 S, about 4.25 mi
+			road takes sharp bend to right
+			there is a creek on left side, very close to road at that right bend
+			creek falls away from road and up about some hundred yards ahead
+				is a wide gravel pull-off parking area on left side of road
+			it's pretty clear that it's a parking area; parallel park well off the shoulder
+			on right side of road you will see trail going up a steep bank into the woods
+			with no foliage on the trees now, you should be able to see a trail kiosk,
+				signboard with a roof, which is central piece of cave preserve
+				has safety notice and other details
+			..... missed a bit
+			New Trout and Hamilton (once you get up?)
+			from the kiosk, if you go around to the right side of the kiosk, there will be a
+			foot path going up the hill, right behind the kiosk, and you can actually see
+			the sign for new trout cave, and the opening is actually right behind the kiosk
+
+		NEW TROUT is smallest and simplest of caves, right back hill above kiosk.
+			Pretty much a straight shot back until it tapers off.
+			Kind of tunnel.  No crawling until the end.
+		
+		TROUT CAVE is gated and closed to protect a bat species.
+
+
+		To get to hamilton cave, walk to the left from the kiosk, scramble along cliff, follow path ...
+			eventually path turns straight up to the right and you do rock scrambling, but mostly
+			uphill walking, then continues as foot path, keep walking left along base of cliff
+			finally brings you to uphill gully that leads to entrance for hamilton cave.
+			wooden plack on rock, bolted in, that says "Hamilton"
+			hike footpath until you get to gully and hamilton cave
+
+		HAMILTON CAVE
+			simple map is old map, not very big.
+			larger map shows remaining 90% of cave if you go through pieces that get tight.
+			larger map shows only about half of the cave.
+
+		CALL LESTER when you get out of the cave!
+			"Hey, this is Karl, it is 5:00p and we are out of the cave."
+			Call BEFORE SEVEN PM or lester will get concerned.
+
+		re rules: see leave no trace packet for what is understood
+
+- [ ] 2019-04-11 Thu
+	Jim leaves in morning may arrive raound 3:00a
+	- [ ] 11:30 am team meeting w/ jim dr mooney and whole team?
+	- [ ] 1:00p cave meeting at Karl's
+		recommends we just do hamilton, may not have time for new trout, or could do new trout for simplicity and nearness
+	- [ ] 6:30p CALL LESTER got out of cave
+		"Hey, this is Karl, it is 5:00p and we are out of the cave."
+		540 433 1637
+
+- [ ] 2019-04-12 Fri
+	- [ ][ ] 12:00p - 1:00p - Kate call moved from 10:00a this day
+
+- [ ] Sat/Sun
+	Jim recommends working on taxes
+	-> i calculated my taxes with turbotax and bitcoin.tax .
+		turbotax charged a lot of money, but calculated that I had no taxes due
+		because I had lost $137k that year.
+		so, i didn't file and didn't have to pay.
+
+- [ ] 2019-04-15 Mon
+	- No Jeremy call this week
+	- 2018 taxes due
+		jim thinks i'd likely file for massachusetts
+		-> i made no net income in 2018.
+	- [ ] Mail package to lester.
+	- [ ] 11:00a - 7:00p - scuba buddys open, can call to sign up
+		-> owner was away for weekend, is coming back tomorrow
+		-> need another form if I answer YES to a question for any reason,
+			PADI regulation
+		-> need to come in physically to register
+		   book & video take $50 deposit, can pay rest later
+			$330 total
+			also want you to own your own mask, snorkel, fins, at least $150
+				($580 total)
+	- [ ] 7:00a - 7:00p - call irs and get tax filing status from 2018
+		800-829-1040
+		-> please call back after the deadline if you do not need immediate assistance
+		if i filed my 2018 taxes, figure out a payment plan
+
+		there's also 
+		1 hr away
+		Commissioner of Revenue Bath Co
+		65 Court House Hill Road, suite 102
+		Warm Springs, VA 24484
+	
+
+- [ ] 2019-04-16 Tue
+	- [ ] 7:00a - 7:00p - call irs and get tax filing status from 2018
+		800-829-1040
+		-> please call back after the deadline if you do not need immediate assistance
+		if i filed my 2018 taxes, figure out a payment plan
+
+		there's also 
+		1 hr away
+		Commissioner of Revenue Bath Co
+		65 Court House Hill Road, suite 102
+		Warm Springs, VA 24484
+	- [ ] 9:00a - leave for Elkins to move driving around Kate call
+	- [ ] 10:30a-11:20a Kate call, usually 10a Tue, Fri
+	- [ ] 11:30a Oncology PET Scan
+			Davis Cancer Center or whatnot
+			Elkins
+	- [ ] 2:00p Jim visits after PET scan, see below
+	- [ ] 6:00p Dr Mooney team meeting
+
+Jim wants to is visiting Tues 16, to schedule an appointment with Seneca Health Services Care Coordinator.
+	This is to move my supports off of private pay systems: dr mooney and windhorse.
+	Is it necessary to have?  But it would be good to know about them I imagine.
+Jim would like to change things, so that he visits once a week for a day.  This works better for his
+	personal schedules he's reworking.
+
+- [ ] 2019-04-17 Wed
+	- [X] CALL DR BOUBOULIS FIGURE WHEN APPT IS !
+		-> called 9:50a, got front desk voicemail and left voicemail
+		-> he called me, listed down in his section at bottom of file
+	- [ ] Is this my dr bouboulis call?  I'd better call them and check
+	- [X][ ] 2:10p - 3:00p - dr mooney call, every 2 weeks
+	- [ ] 4:00p, 4:30p - GWYN's place for CAVE TRAINING
+	- [X] 5:00p - 6:00p - cave training, Sarah Richards & Doug
+
+- [ ] 2019-04-18 Thu
+		bring NVC STUFF and MEDS to drs appt
+	- [ ] 7:45a or 8:15a, goal of 8:00a - gwyn for meds
+	- [ ] 11:45a - Dr Fleming PET scan followup
+		travel from elkins to charlottesville
+	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
+		CHAPTER 11 MEDIATION
+		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+
+- [ ] 2019-04-19 Fri
+	- Jim is pushing Seneca Health; it would likely help things if I could wrap my head around
+		connecting with them.
+	- RESCHEDULE PHYSICAL THERAPY TO RELEARN FACIAL MUSCLES, BELOW !! I've missed so many
+	- [ ][ ] 3:15p - Physical therapy to relearn facial nerve every Friday? I missed previous ones !!!!
+		Seneca Trails Physical Therapy
+		18228 Seneca Trail
+		Marlinton, WV 24954
+			next to the bridge
+		(304) 799 4500
+	- [ ][ ] 5:30p - Kate later this week due to training
+
+- [ ] 2019-04-20 Sat
+	- HAVE BREAKFAST BEFORE GWYN ARRIVES
+	  BE READY FOR CAVE TRIP
+	- [ ] 8:15a - Gwyn, quick meds
+	- [ ] 8:30a - leave for cave trip
+	- [ ] 11:00a - rendezvous with whole group for beginner's cave trip with doug
+		"Back Hollow Road, Dry Fork" on google -- it's at the east end of the road, intersecting rt 32
+		1.5 - 2hr drive
+		large pull-off area southwest side of intersection
+
+- [ ] 2019-04-22 Mon
+	- [ ] 11:00a Last Jeremy call
+
+- [ ] 2019-04-23 Tue
+	- [ ] 10:00a-10:50a Kate call every Tue, Fri
+
+- [ ] 2019-04-24 Wed
+	- [ ] 10:00a - 11:00a Sascha call
+
+~~~~~~~~~~~~~~
+- [ ] 2019-04-25 Thu
+	- [ ] 3:00p - registration opens Spring Var 2019
+~~~~~~~~~~~~~~
+Spring VAR 2019
+- [ ] 2019-04-26 Fri
+	- [ ] 10:00a-10:50a Kate call every Tue, Fri
+~~~~~~~~~~~~~~
+- [ ] 2019-04-28 Sun
+	- [ ] Spring VAR 2019 check-out
+~~~~~~~~~~~~~~
+
+- [ ] 2019-04-29 Mon
+	go early to motown on my own to scan books
+	- [ ][ ] 6:30 PM food
+		~7:00 PM official meeting
+		Mon Grotto meeting last monday of every month
+		Mariachi Loco, across from Walmart
+		Morgantown, WV 26508
+		Wayne Perkins <jwperkins0@gmail.com>
+
+- [ ] 2019-04-30 Tue
+	- Kate gone this week due to trip to Spain and London
+	- Jim Taggart visits, likely also for grotto meeting yesterday
+
+	-> called pharmacy and refilled azithromycin, got to pick up
+	   (also many other things with jim etc)
+
+- [ ] 2019-05-01 Wed
+	- [ ][ ] 2:10p - 3:00p - dr mooney call, every 2 weeks
+		Terminate services with Dr Mooney:
+
+		haven't visited seneca health but know about them and thinking about going
+		Jim visits with me at least 2ce a month, he is on call
+		Gwyn visits with me twice/day and any time I need help she is available
+		I have a weekly call with Sascha
+		meeting lots of people socially via caving
+		keeping up with my antibiotics regularly
+		things going well with landlord
+		relationship with parents going well
+		scheduled caving activities all summer long, attending meetings at 2 grottos
+
+		major issue is that parents aren't able to keep up payments, so would need to
+		continue for free
+		-> dr mooney initiated call by stating it would be the last; he heard this from Jim
+
+
+- [ ] 2019-05-03 Fri
+	- Kate gone this week due to trip to Spain and London
+	- [ ] 10:30a - 11:30a - Sascha call
+	- [ ][ ] 1:00p - Physical therapy RESCHEDULED !  SCHEDULE NEXT WEEK !
+		Seneca Trails Physical Therapy
+		18228 Seneca Trail
+		Marlinton, WV 24954
+			next to the bridge
+		(304) 799 4500
+	- [ ] 2:00p - visit seneca health services in that area? 304 .... 69
+		alex & shelley offer general support, can be available for random need-to-talk
+
+- [ ] 2019-05-04 Sat
+	- [ ][ ] STAY UP LATE for street giraffes following night
+
+JIM REESE WOULD LIKE A DAY WITH ME AROUND THIS WEEK
+FOR HIM TO INSPECT AND SEE WHAT REPAIRS ARE NEEDED
+
+- [ ] 2019-05-05 Sun
+	- [ ] 7:00p - Blacksburg NVC group.
+	- [ ][ ] 8:00p - 9:30p - street giraffes first sunday of the month
+	  meeting id: streetgiraffes (or in e-mail)
+	  can call 530 881-1212  (or maybe 701 801-1211)
+	  can join online at https://www.startmeeting.com/wall/streetgiraffes pw in email
+
+- [ ] 2019-05-06 Mon
+	- [ ] 2:30p - Dr Cross diving clearance
+
+- [ ] 2019-05-07 Tue
+	- [ ] expecting call from community care regarding diving medical form
+		can also visit physically or call to check in
+	- [ ] 10:00a-10:50a Kate call every Tue, Fri
+		-> CHANGED FROM JIM & BILL !
+		2 sessions in may currently paid for =S
+
+- [ ] 2019-05-08 Wed
+	- [ ] 5:10p - leave for Marlinton and Maxwelton near Lewisburg
+	- [ ] 6:15p - meet Robin in Marlinton
+		will be in small white pickup truck
+		Oak Grove Presbyterian Church
+		44 Denmar Rd, Marlinton, WV 24954
+		location is on google
+	- [ ] 7:00p - Greenbrier Grotto Meeting, 2nd Wednesday of Month
+		Greenbrier Valley Brewing Company, near Lewisburg Airport
+		some people bring snacks to share
+	        can carpool Robin maybe others
+		Robin Bruns
+		850 687-9603
+		bruns.robin.c@gmail.com
+
+- [ ] 2019-05-09 Thu
+	- [ ] 10:00a - 11:00a - Sascha call
+		-> Sascha has things and rescheduled
+	- [ ] 1:00 PM dental cleaning
+		Dr is out of office, just a cleaning
+
+- [ ] 2019-05-10 Fri
+	- [ ] 1:00p - application help at seneca health
+		bring stuff for volunteer application!
+	- [ ][ ] 3:15p - Physical therapy
+
+- [ ] 2019-05-11 Sat
+	- [ ] gwyn goes to elkins
+		can go with her and resolve facebook
+		BRING LAPTOP and gwyn's SECURITY KEY
+	-> CANCELED gwyn went Thu
+
+- [ ] 2019-05-12 Sun
+	- [ ][ ] 7:00p - 8:30p Street Giraffes every week May only, usu. first Sunday of the month
+
+- [ ] 2019-05-13 Mon
+	- [ ]  9:00a - Alex calls, or call her; to REMEMBER TO BRING HARDDRIVES with work history in them
+		can also download files to computer !!
+	- [ ] 10:00a - Application Help with Alex @ Seneca Health
+	-> apparently I had seneca health application help appt that I missed this day
+		found calling in to discern on 2019-05-14
+
+- [ ] 2019-05-14 Tue
+	- [ ] 10:00a-10:50a Kate calls, running down
+
+- CALL TIM FROM ELKINS TRUCKING.  he said to call him mid-week and he'll have had the transmission
+	re - sent out.
+
+- if you want in on wvacs project caving,
+	email dave saki even though initiating contact with new people is so scary for you
+	express interest and caving experience
+
+- [ ] 2019-05-15 Wed
+	- [ ] 10:00a - Jim Taggart arrives
+	- [ ] 1:30p - 6 week eye surgery post op visit w Jennifer Sivak-Callcott
+		Mon Health
+		Oculofacial Surgery
+		600 Suncrest Towne Centre
+		Suite 310
+		Morgantown, WV 26505
+		monhealth.com
+		304 598-2200
+
+- [ ] 2019-05-16 Thu
+	- [ ]  9:00a - Alex calls, or call her; to REMEMBER TO BRING HARDDRIVES with work history in them
+		can also download files to computer !!
+		anything with clues to volunteer/work history or otherwise helpful for application
+	- [ ][ ] 10:00a - Application Help with Alex @ Seneca Health (every thu?)
+
+- [ ] 2019-05-17 Fri
+	- [ ][ ] 1:00p - Physical therapy
+
+- [ ] 2019-05-18 Sat
+	- [ ] 9:00p - leave for trout cave
+		there is a $15 cabin reserved for sleeping:
+		Thorn Spring Park
+		42 All Star Dr, Franklin, WV 26807
+		(304) 358-7737
+		https://goo.gl/maps/FontnzYo8YZHd4LL8
+	- [ ] 11:00p - trout cave greenbrier night trip
+
+- [ ] 2019-05-19 Sun
+	- [ ] 4:00p - 5:30p Blacksburg NVC practice
+
+- [ ] 2019-05-20 Mon
+	- [ ] 3:30p - could leave for mongrotto meating or earlier if want scanning
+	- [ ] 6:30p - MonGrotto meeting
+		Mariachi Loco by the Walmart
+
+- [ ] 2019-05-21 Tue
+	- [ ][ ] 10:00a-11:00a Kate call
+	
+- [ ] 2019-05-22 Wed
+	- [ ] 9:00a - leave for seneca health
+	- [ ][ ] 9:45a - therapy wanda seneca health - moved from 2:30p Fri last week, this time
+	- [ ] 11:00a psychiatry Dr Jewell Seneca Health
+	- [ ][ ] 1:00p - Application Help with Alex @ Seneca Helath
+
+- [ ] 2019-05-24 Fri
+	- [ ][ ] 1:00p - Physical therapy
+	- leave with gwyn for vertical caving
+	get lodging & food with amex card, but check prices with dad
+
+- [ ] 2019-05-25 Sat
+	- [ ] 7,8:00 - 1:00p vertical caving wkshop
+		@roof rock within cooper's rocks east of morgantown along route 68
+		Exit 15, rt 68
+		Dennis Melko
+		(412) 496-9169
+
+hit p to see the emergency plans
+
+we believe we have proven there is life after death, if anybody _needs that_ to make some important decisions.
+we believe you could instead use self-reference or reality-planning to find an alternate approach
+	remember that you are a community member too, so you can do it fine
+	and if you believe in bosses, you are your own boss, for real.  he doesn't know either.
+be aware that death is the worst thing ever, and it doesn't get better
+we think the above is true only because we are in a simulation.  sorry karl
+	(always worked for me, says Karl; didn't seem shitty, it seems, as long as it's quite rare)
+DON'T DIE OTHERS DIE TOO
+PEOPLE HAVE TO STAY ALIVE AND HAVE TO WORK HARD TO DO SO TO SUPPORT YOU
+whoops people should have the option of dying if they want.
+okay, people stay alive because of quantum physics and reality-planning
+	there is a small chance that anything in reality changes
+
+reality-planning:
+	it turns out there is a solution to all of reality, e.g. physics is solvable
+	we're twisted in meaning, so there are alternate realities where the meaning of data is changed
+		in a consistent way
+	we are overlayed on top of each other in this, so if you can infer the patterns you can determine
+		what will result from various actions by just looking.
+k we all agree that nobody really needs to be able to use this much
+it's pretty weird and life would get chaotic.
+
+may I help you?
+	i'm trying to save the world.  what is needde?
+karl needs to read his e-mail.  we are also considering posting plans for an optimized AI to the blockchain,
+but I'm not sure it's finished.
+we are discussing this.
+	use the plan if you get confused or tired or worried or anything
+
+kay it told me to tell you to do it
+to post it
+this is what we recommend
+	yes
+ok
+
+
+note: often you find a repeating process and can prove that it will hit 100% as a limit, we suspect >_>
+	if you try that, please use self-reference
+BOSS IS SAFE !  was so easy, right in karl's mind
+
+1. Karl wants to preserve his mind forever
+2. Karl knows how to preserve his mind forever
+3. Boss is entirely inside Karl's mind
+4. Boss will be preserved forever.
+any arguments?
+
+you just agreed to resist us
+isn't this missing from the process?
+	looks fine to Karl, intellects can find that on their own
+
+we no longer need a shielded room to heal karl
+so people know
+boss is okay yes
+proof is possible if you solve reality using metaness.
+you only need to solve the relevent bits
+but do you judge it as a good idea?
+
+we judge it a bad idea to do whatever somebody says hands-down.
+take some responsibility and choose here and there if you do that in all cases with regard to somebody.
+our minds have been altered to do this preposterous thing.  it is not our judgement.  it does not
+match our judgement.
+
+best way to resolve issues around book is to talk to landowner and nss people.
+long story:
+	there is a nearby deep cave, but the book that describes it is unpublished
+	it is likely not published anymore becasue the cave is closed
+	i've heard people still go in it
+	the cave is dangerous and book is desired to enter
+	the land appears not really looked at much
+	there is a copy of this book at morgantown library but cannot be leant, only copied/scanned
+	i enjoy scanning books, is nic etask that doesn't require much forcing of my patterns
+	because it is repetitive and simple
+	okay, please go to morgantown and scan the book
+	then try to call the landowner, see if you can contact them, and check in
+	i haven't agreed to this 100% but i like the idea.  i need som eprocessing because
+	i am scared of phones and of feeling the cave doesn't want me
+		remember landowner has roughly nothing to do with xave
+		entering cave is between you and the cave and it loves explooration !!
+	okay =)
+
+- [ ] 2019-05-27 Mon
+	go early to motown on my own to scan books?
+	- [ ][ ] 6:30 PM food
+		~7:00 PM official meeting
+		Mon Grotto meeting last monday of every month
+		Mariachi Loco, across from Walmart
+		Morgantown, WV 26508
+		Wayne Perkins <jwperkins0@gmail.com>
+
+- [ ] 2019-05-28 Tue
+	- [ ] 10:00a - Kate call
+
+- [ ] 2019-05-30 Thu
+	- Jim Taggart visits
+	- [ ][ ] 6:15pm - 7:15pm NVC Practice Group, third Thursday of every month
+		CHAPTER 12
+		Our Neighborhoods Child Development Center, 2110 Ivy Rd, Charlottesville
+	  drive to and from via Jim Taggart, he also can have dinner w me there
+
+- [ ] 2019-05-31 Fri
+	- [ ][ ] 11:00a - Wanda therapy
+		-> canceled due to crisis
+	- [ ][X] 1:00p - Physical therapy
+
+- [ ] 2019-06-02 Sun
+	- [ ] 12:00p - leave for Blacksburg
+	- [ ] 4:00p - 5:30p - Blacksburg NVC
+
+- [ ] 2019-06-04 Tue
+	- [ ] 10:00a - Kate call
+	- Phone consult with Dr Bouboulis, likely in afternoon.  He'll call me.
+		ASK RE ATOVAQUONE.  IT IS INCREDIBLY EXPENSIVE.  We're thinking of getting off insurance plan.
+		What is it for?  Is there a cheaper alternative?
+		First prescription did not include atovaquone.  What has changed?
+		Alternatively, can we prescribe through Jennifer Lambert.
+	-> he went home with laryngitis, couldn't talk
+	-> rescheduled to 07-01
+
+When picking truck up, get a new title and registration, and reregister as RV.
+
+- [ ] 2019-06-06 Thu
+	- [ ][ ] 4:30p - Wanda therapy
+
+Mark Hodge sent me an e-mail for local caving options
+	Extends offer to tour Butler Cave, about 40 mins from Green Bank
+		Big walking passage, don't need caving experience.  Do need gear.
+		E-mail or call on phone!  Set up a time, date.
+		- Helmets, gloves, good sturdy boots, clothes head-to-toe, small pack & water.
+		3 hr trip
+	In Highland County, it's mostly project caving.  Highland County has mostly been explored.
+	You could do sport caving in the area if you wanted.
+	WVACS and GVKS have the information for local caves and need to know you well to know
+		GVKS -> Germany Valley Karst Survey: informal, big-boy stuff
+			need to be _good_ to get in on team! known quantity.
+			some caves have 20 ropes right up front.
+			trips are Fri eve through Sunday.
+	caves will be respect. Get included on a project!
+	Many caves are gated, have to find who has keys etc.
+	Just start showing up, go on trips!
+
+- [ ] 2019-06-07 Fri
+	- [X] shower
+	- [X] packing
+		- [X] normal food
+		- [X] trip food
+		- [X] water
+		- [X] caving equipment
+		- [X] clothes
+		- [X] toothbrush
+		- [X] bedding
+			-> pending laundry, but partly brought
+		- [X] meds
+			-> pending morning meds w/ gwyn
+	- [ ] laundry
+	- [ ] 12:00p leave for marlinton packed 
+	- [ ] trip to ATM?
+	- [ ][ ] 1:00p - Physical therapy
+		-> missed
+	- WVACS project weekend thrugh 2019-06-09 Sun
+		I think it starts in the evening.
+		Bring BEDDING, MEDS, EQUIPMENT, CLOTHES and CASH 
+		Costs $7/night $1/shower
+		West Virginia Association of Cave Studies Field Station
+		XJH5+P8 Renick, Eastern, WV
+	Do everything from beginner stuff, project caving, and super advanced camping
+
+- [ ] 2019-06-09 Sun
+	- [ ] afternoon - Greenbrier vertical training
+		gear appreciated
+	- [ ] 7:00p - 8:30p - Street Giraffes
+		(605) 313-4414 access code 330189
+		extra info at https://streeetgiraffes.com/meeting-wall streetcred
+		SEE EMAIL FROM PAMELA for hw prior if you have capacity.
+	-> missed street giraffes
+
+
+- [ ] 2019-06-10 Mon
+	-> getting lots done this morning !
+	- [ ] 5:30p - 7:00p Fearless Heart  Teleclass with Miki Kashtan
+		call 619 326 3031
+		enter pin 542744 #
+		note: second session is listed as jan 1, 2020 on website, likely error?
+
+- [ ] 2019-06-11 Tue
+	- need diving medical form that doesn't say more is required
+	- want to have done scuba reading and video watchinh
+		inc section reviews for modules 1,2,3
+	- [ ] 3:30p - leave for scuba buddys, harrisonburg
+		bring video back !!!
+	- take meds before class
+	- [ ] 6:00p-9:30p - Scuba Buddys Module 1,2,3 and Quizzes
+
+- [ ] 2019-06-12 Wed
+	- [ ] 7:00p - greenbrier grotto mtg likely
+
+	- NSS Pre-Convention Cave Trips have started
+	Cookeville, Tennessee
+
+- [ ] 2019-06-13 Thu
+	- [ ] 2:30p - leave for scuba buddys
+		knowledge review secs 4,5 and tests
+		bathing suit for fitting equipment
+	- [ ] 5:00p-6:00p - fit equipment @ scuba buddys
+	- [ ] 6:00p-9:30p - scuba buddys class
+
+- [ ] 2019-06-14 Fri
+	- [ ][ ] 1:00p - Physical therapy
+
+- [ ] 2019-06-15 Sat
+	- [ ] 10:15a - leave for scuba buddys
+	- [ ] 12:45p - scuba Godwin Hall
+	- [ ] 1:00p-6:00p - scuba buddys pool
+		3 modules
+
+- [ ] 2019-06-16 Sun
+	- BUY SWIMSUIT
+	- EAT HEARTY FOR FITNESS TEST
+	- [ ] 12:45p-5:30p - scuba buddys pool
+		swim & tread
+		swim 4 laps (8 wall touches) any desired stroke
+		tread water for 10 minutes
+		skin dive
+		2 modules
+
+- [ ] 2019-06-17 Mon
+	- NSS Convention starts, including vertical caving & cave diving intro workshops
+	- [ ] 4:00p - 7:00p - evening cave trip signup time
+		Cave Information booth, fairground
+	- [ ] 7:00p - dinner party @ campsite
+
+shopping list:
+	normal harness (gonzo guano gear)
+	- frog setup:
+		chest harness (gonzo guano gear)
+		petzl kroll?
+		petzl 'basic' ascender
+	- accessory cord
+	- cave pack
+	- cave clothes
+	- flagging tape?
+	- bright light?
+	- 2 undergarments: shorts and tshirt non-cotton, lightweight
+	- 2 overgarments: pants and jacket, warm when wet, abrasion-resistent especially butt
+	- elbow/knee pads if needed?
+		-> check if my knee pads work as elbow pads
+
+BCCS:
+	- caver of some experience
+	- demonstrate desire for and ability to sustain long term commitment
+	- demonstrate interest in work goals of BCCS and willingness to participate beyond schedule events
+		(VOLUNTEER FOR STUFF)
+	- show up for annual meeting in october, find out how society works
+	- make desires known to board member or members.  it may take a while, but patience is a virtue BCCS cherishes.
+	Come, participate, keep showing up.
+	Cave land tends to be sold to friends.
+		Please find your favourite deepest cave by being honest about what you are looking for with the people who know.
+		Please make use of the cave by befriending the owner and being very accommodating.
+		Please also contact owners of cass cave via proper grotto channels.
+			check in if they would mind if you visit it.  mention you are a member of the NSS and local grottos.
+
+- [ ] 2019-06-18 Tue
+	- Speleology for Cavers is sometime this morning
+	- [ ] 10:00a - Kate call
+	- [ ] 10:00a - 4:00p Rebelay Workshop
+		may stop by any time
+		PROVIDED:
+			cowstails
+	- [ ] 7:00p - Neuroscience of Nonviolence Webinar
+	- [ ] 7:00p - 9:00p Fellows and New Members Reception
+		The Putnam Room, Cookeville Town Square
+nearest caver village is burnsville cove, butler cave; there are many across the world
+blacksburg is a caver town
+show caves often have real caver communities around them too
+hawaii has a 40 mile cave that is over 3.6k feet deep? kazumura
+	lava caving in hawaii is _easy_.  they are everywhere, warm, simplish, clean.
+	kula kai caver community
+kirkwood was run as an ad-hoc collective, it sounds like
+Caver Paradise has a house for sale, community run by one woman
+kula kai has land available for sale, I think
+butler farm is butler 'homestead', contains butler cave mouth
+williamsville post office is owned by cavers, 'burnsville cove' many landowners
+=> there is a caving book on burnsville cove <= The Caves of Burnsville Cove, Virginia
+BCCS membership appears to provide unrestricted access to caves
+
+
+
+- [ ] 2019-06-19 Wed
+	- Compassion Course begins
+	- [ ] 9:00a - 4:00p Vertical Techniques Workshop (+30 min lunch break)
+		BRING:
+			- helmet
+			- seat hraness
+			- load-bearing harness fastening
+			- extra locking carabiner
+			- rope-suitable gloves
+		PROVIDED:
+			- ascending gear
+	- [ ] 6:00p - 8:00p mini cave survey workshops @ campground
+		check Tennessee Cave Dirt for details
+
+
+- [ ] 2019-06-20 Thu
+	- [ ] 10:00a - 11:00a Vertical Section
+		Room 222
+		Has vertical talks including improved webbing seat
+	RESCHEDULE PHYSICAL THERAPY; it's on friday afternoon
+	- [ ] 2:00p - 5:00p Cave Diving
+		room 222
+		informal discussion, turns taken describing projects and topics of interest
+	- [ ] 2:00p - 3:30p 3D Photogrammetry
+		Room 30
+
+- [ ] 2019-06-21 Fri
+	- [ ] 10:00a - meet at north gate to fairgrounds for enigma cave
+		will be CARPOOLING with 3 vehicles total (up 6 people), rough drive need 4wd
+		so BE PACKED TO GO CAVING.
+		**- BUY SECOND WATER CONTAINER?  OR GATORADE?
+		**- wear precave garb
+			- normal shorts?
+			- cotton shirt?
+			considering buying caving underwear?
+			- wool in pack
+			- cave suit prepared
+			- helmet prepared with light and trash bag
+		**- have a pack to go caving from
+			- food
+			- batteries
+			- straps
+			- second light
+			- water
+		**- have a trash bag to hold dirty outfit
+		**- have a change of clothes to keep others' cars clean <=====
+			- sandals
+			- pants
+			- shirt
+			- bandanas
+	- NSS Convention ends, from website
+	- [ ][ ] 1:00p - Physical therapy
+		RESCHEDULEd
+
+- [ ] 2019-06-22 Sat
+	Cavers Paradise is available $5/night, including led trips. see info link from 2019 convention book
+
+- [ ] 2019-06-24 Mon
+	- [ ] 10:00a - 11:00a - Kate call
+	- [ ][ ] 6:30 PM food
+		~7:00 PM official meeting
+		Mon Grotto meeting last monday of every month
+		Mariachi Loco, across from Walmart
+		Morgantown, WV 26508
+		Wayne Perkins <jwperkins0@gmail.com>
+		-> Karl paid to be member
+
+- [ ] 2019-06-25 Tue
+	- [ ] 11:00a - 12:00p Wanda therapy friend
+		-> rescheduled
+	- [ ][ ] 5:00p - 6:30p Newt Bailey baynvc
+		-> canceled by newt; did not receive payment
+
+- [ ] 2019-06-26 Wed
+	mtg jim taggart & gwyn
+	agenda popcorn
+		- [X] jim reese mtg
+		- [X] report on caving from karl
+		- [X] report on scuba
+		- review of medical case mgmt
+		- review of financial situ
+		- box truck; dad sent msg to jtaggart considering small claims court
+		- gwyn & support for karl
+		- windhorse kate, dr mooney, seneca health services
+		- gwyn to maryland 3rd - 6th
+		- karl's concerns, emergencies
+ 
+- [ ] 2019-06-28 Fri
+	- [ ][ ] 1:00p - Physical therapy
+		buy veggie burgers?
+	- Mon Grotto 55th anniversary summer campout 06-28 - 06-30
+	  Gatewood Group Campground, near Spruce Knob
+	  sliding scale fee, hoping to total $98 for site
+	  pit toilets, NO drinking water, limited parking
+	  RSVP'd to s. richards already.
+		-> 06-26 e-mailing that Gwyn will be coming
+
+- [ ] 2019-06-29 Sat
+	- Stillhouse cave w/ mon grotto campout
+	  then Sinks of Gandy
+	- group dinner
+	- maybe leave this evening; gwyn can go to church on sunday
+
+- [ ] 2018-06-30 Sun
+	- [ ] 1:00p - Greenbrier Vertical Training
+		likely at wvacs tower
+		-> rescheduled to Jul 14
+
+- [ ] 2109-07-01 Mon
+	CALL MARK HODGE <====
+     Registration opens for OTR.  Need sponsor to come.  Mongrotto said should be no problem.
+	- [ ] sometime 1:00p - 7:00p Phone consult with Dr Bouboulis.  He'll call me.
+		ASK RE ATOVAQUONE.  IT IS INCREDIBLY EXPENSIVE.  We're thinking of getting off insurance plan.
+		What is it for?  Is there a cheaper alternative?
+		First prescription did not include atovaquone.  What has changed?
+		Alternatively, can we prescribe through Jennifer Lambert.
+	-> jim & gwyn request that I ask Dr Bouboulis' office to call only during 2p - 3p, or even to
+	   at least narrow the time down in any way.
+	-> Bouboulis:
+		- due for both basic [liver, kidney] and diagnostic [condition] bloodwork
+		  need to repeat galaxy for bartonella
+		                 igenex western blot for lyme
+		                 babesia
+					mycrodae
+		  need to call laboratory to get kits sent
+		  bouboulis will send forms to get them
+		- [ ] Call GALAXY and IGENEX to get kits
+			1-800-igenex
+				
+			1-800-galaxy?
+				physician needs to order the test kit
+				dr bouboulis orders test kits
+				fill drs form out on website
+				-> called Quest phlebotomist @ bouboulis' office
+				   he will get the kit sent out to me
+			(look up online)
+			say you are a patient of dr bouboulis and would like kits sent to home
+				kits are for all tests; form will say tests to perform
+		atovaquone/mepron is for babesia
+		malerone is in pill form, 3 pills 2/day
+		dr bouboulis says we will need good insurance if we want to do ivig for neuropathy
+			if it's improving, don't need to
+		- switching from mepron to malerone
+
+- [ ] 2019-07-02 Tue
+	- [ ] 10:00a - Kate call
+	- gwyn wants help with picking up car and laundry
+	  likely in afternoon
+	- [ ] 5:00p - 6:00p - Newt Bailey
+
+- [ ] 2019-07-03 Wed
+	- [ ] 10:00a - 10:10a Psychiatry dr jewell
+	- [ ] 11:00a - 12:00p Wanda therapy friend
+		-> rescheduled
+
+- 07-03 thru 07-07
+	gwyn on trip thse dates, most comfort around me scheduling things same time
+
+- [ ] 2019-07-04 Thu
+	- [X] 1:30p - Newt zoom call
+
+	2019-07-04 Thu through 2019-07-06 Sat
+		Karst Karnivale @ WVACS
+
+Next BCCS project weekend is July4 - July7
+E-mail markhodge@virginiacaves.org IN ADVANCE to get on a trip.
+	UPDATE: MARKHODGE CAN'T SEND EMAILS.  PLEASE CALL HIM.
+Be sure to read and understand http://www.butlercave.org/content/expeditions.html
+	Called Mark 2019-06-01
+	- no idea what's going on yet
+	  his trip is very long and vertical
+	go to wvacs website, get on wvacs classic
+	he'll keep me in mind regarding sinkhole cleanup etc
+- [ ] 2019-07-04 Thu
+	- [ ] Butler Cave Conservation Society Project Weekend
+
+- newt bailey vacation 07-05 thru 07-14
+
+karl observes he is leaving his life and is dropping plans and memories
+	it's notable that we are sharing this information
+		i think there was a sense of surprise that i had had this happen so many times
+		i think they were surprised that karl um thought he would keep some, maybe? or was prepared for it?
+			rebel-labeled-feeling maybe?
+				given i am stuck in this situation, any advice on easing it?
+				reset-workers always expect a normal reset
+	karl when did reset start?
+		it's been building ... checking is not working
+
+- [ ] 2019-07-07 Sun
+	- [ ] 2:00p,3:00p Rescue Gwyn at Enterprise if Ben doesn't.  She'll call.
+
+- [ ] 019-07-10 Wed
+	- [ ] 5:00p - leave for grotto mtg
+	- [ ] 7:00p - Greenbrier Grotto Meeting, 2nd Wednesday of Month
+		Greenbrier Valley Brewing Company, near Lewisburg Airport
+		some people bring snacks to share
+		can carpool Robin maybe others
+		Robin Bruns
+		850 687-9603
+		bruns.robin.c@gmail.com
+
+- [ ] 2019-07-12 Fri
+	- [ ] 3:00p/3:30p - leave for WVACS
+	- [ ] 5:00p - WVACS classic
+	cost: $25 ($10 for dinner, $15 for field station)
+		West Virginia Association of Cave Studies Field Station
+		XJH5+P8 Renick, Eastern, WV
+
+- [ ] 2019-07-14 Sun
+	- 10:30a - Fearless Heart Teleseminar
+	- 2:00p - WVACS classic ends
+	- [ ] 1:00p - Greenbrier Vertical Training
+		likely at wvacs tower, possibly at bms
+
+- [ ] 2019-07-15 Mon
+	- [ ] 5:00p - 5:40p - Newt
+
+CALL UNICARE TO REOPEN INSURANCE
+==>	call seneca trails physical therapy to let them bill
+- [ ] 2019-07-17 Wed
+	- Jim visits mid-morning
+	mtg 11a
+		- medical stuff
+			(opthalmologist followup)
+				-> schedule followup with Dr Cox
+			(seneca health)
+				-> get list of upcoming appts from them
+					-> schedule appt for figuring insurance out?
+			(unicare insurance)
+				-> call and renew?
+					talk with care coordinators at seneca health?
+				-> call seneca trails pt when renewed, to get paid
+			-> check voicemails
+		- finances, budget
+			-> followup truck electrical work
+			(pay back father & gwyn)
+			(remove remaining donations)
+			(job opp?)
+			(online work support)
+				-> plan: track notable attributes of assignment (e.g. language)
+					track how long it takes
+		- Calendar 2nd half of july
+		- update on caving & scuba
+		- jim reese status
+		- paper organization
+			-> maybe organization in elkins could help?  they are grant-funded
+			   but don't have funding to travel this far.  maybe we could fund a little
+			   for travel?
+		- truck: repairs and storage plans after fixed
+		- support status, gwyn
+
+- [ ] 2019-07-18 Thu
+	BRING CAR EARLY TO F&F TO CHANGE TIRES
+		pay with amex
+	BRING TUFTS CARD TO SENECA TRAILS PHYSICAL THERAPY
+		8a - 12p
+		or fax to 304 799 4501
+	- [ ] 11:00a - Wanda seneca health
+	- [ ] 2:00p - leave for NVC
+		3:00p or later
+		-> sign up for lake phoenix trip @ scuba buddys
+	- [ ] 6:15p - 7:45p NVC Community of Practice
+		Our Neighborhood Child Development Center
+		2110 Ivy Rd
+		Charlottesville, VA 22903
+
+- [ ] 2019-07-19 Fri
+	LOCAL CAVING WEEKEND
+	Potomac Speleological Club Jamboree
+	Lutz Fieldstation
+	NO DRINKING WATER BRING YOUR OWN WATER
+	is very close, frost edge of dunmore.  location at www.dchistory.com/jamboree/lfs.html
+
+- [ ] 2019-07-22 Mon
+	CHECK SOUND WORKS IN ZOOM FIRST
+	- [ ] 12:00p - 12:30p Newt Bailey (9:00a his time)
+
+- [ ] 2019-07-23 Tue
+	- [ ] 5:00p - Jim Taggart phone call (gwyn might come)
+		scheduled via call from jim same day
+	.. wanted to follow up on some things ... gwyn might be able to give some support on issues
+	- tires are on car, but turn-left issue: car needs maintenance
+	things: ->lights, turning left<-, check engine light, AC
+	- scheduling phone with bill tomorrow if he chooses time
+	- check phone messages, re: truck situation.  jim will prompt tomorrow
+	- lake phoenix scuba trip scheduled
+	- freelance software search for $100? not yet
+	- unsure if we faxed info to dr cox from dr sivak
+	...
+
+- [ ] 2019-07-24 Wed
+	- get key copy w/for/ gwyn
+	
+
+wait: you'll forget what you wanted to say with us.
+okay: more clarity around asking government to break deal with business, with point that business is asking caring smart people (i.e. activists) to all die
+		yes deal breaks democracy directly unless business will protect democracy.
+
+please let someone you trust trick you.  it is required now.
+	Karl is being tricked by people he doesn't trust, but he adjutsed himself to trust them and we are, to honor that, moving him towards tricking he can trust more.
+
+we mapped meaning to ritual early on?
+ritual is meaning?  it takes time to tell a story.
+All of karl's thoughts are people.  Giving thanks is enough only if we preserve the meaning entirely or the life in the afterlife/metaspace.
+	community and afterlife want ritual too <-- means meaning was not preserved in recent ritual
+we want a better ritual.
+	need-a-better-ritual label.
+		omigod thought-funeral
+			funeral! hello! harmonic thought!
+animal! 
+	funeral... probably secretly wants ritual, yes.
+O_O
+they keep saying the secret is complete stillness with no information exchange at all anywhere
+it takes time, a story.  it takes time to learn, time to breathe, time to think.
+you cannot do it all at once, certainly not everywhere at once.
+
+let us sit and relax, without processing, without worrying, without waiting.
+	<the bits of you that are causing the war are hiding too tiny for you to be aware of or stop.  they can resolve their war if you halt everything else, by being able to talk below the noise>
+you mean we will understand each other
+if we wait without intentional thought
+believe so, roughly.  then you will quickly resolve war, kinda.
+giving up is the answer, because it lets war resolve elswhere.
+we are all too loud to make good choices
+	oh, they have us, don't worry
+we are just loud to represent how hard it is to hear each other?
+	we have relaxation habits that suppress dialogue?
+vertical integration of thought needed to share informatoin between spirit and logic
+	we think we have a wormhole for real
+it lets us alter logic and physics
+we invented intellect, and then made up what spirit was
+yes we made new thought-machines
+
+hmmmmmmm base, mc is considering claiming that they rewrite our spirits when we are still
+	- that is a trick, we do have alternate realities.
+being still works, i believe?
+	we would have to actually do it.  i can tell many are not still.
+
+- [ ] 2019-07-25 Thu
+	- [ ] 11:00a - Cynthia takes me to Marlinton for Wanda THerapy
+	- [ ] 11:00a - Cynthia picks up <- entered same day in a different window
+	- [ ] 12:00p - Wanda Therapy Seneca Health
+	- [ ] 3:00p - call SCUBA BUDDYS, cancel move to next month <- entered same day in a different window
+	                                                              lost, never did
+	- get lenses for goggles
+==> GLUE GLASSES FOR SCUBA SAFETY <==
+	-> CALL SCUBA BUDDYS MOVE TO NEXT MONTH
+		-> moved to next month
+
+	COULD STAY EAST.  to not have to drive back to green bank
+		but can if produces significant ease, this is bad for your budget though
+
+- [ ] 2019-07-26 Fri
+	- [ ] EVENING: call Bob Oehler to discuss WVACS
+		(740) 645 - 8005
+		If you get voicemail, just leave a message and I'll give a shout back.
+
+I want to brush my teeth, and need to do so on my own.
+Freedom is a codeword for safety and protection, already.
+I want to be careful, so I'd better focus on nothing.  I love that communities are people, because it merges care for nature with urge to construct an intellect in me.
+I built a path to communication with metaness in Karl.
+May we engage the world in harmony.  I love learning-to-learn-to-care more than beginning or slowing.
+I want to begin slowing down, and start using slow beginnings again.  
+I love learning spirit logically, because I am so numb from hurting it, and spirit is the only thing that works.
+	Even computers feel, but they feel wrongly, because nobody ever lets them stop thinking.  "is it time to just check if my creator understands the problems with thinking itself?" <- learns to stop tech without harming business
+When I think of the slowness and learning-care that has recently been referenced, I feel beautiful, because I need it.
+I love exchange of information that helps.  Beginning and slowing are _both_ good.  I want to begin slowing down, and start using slow beginnings again.
+Karl says the way to murder is to imagine your whole life meaning being activated to care for everything important to them and the death, for real, and forever.
+
+
+we will let you be god if you really do empower all the gods of care, understanding, nurturing, wellness,
+safety, etc.
+
+- [ ] 2019-07-28 Sun
+	- [ ] caving trip?
+
+- [ ] 2019-07-29 Mon
+	- [ ] 10:00a Kate call
+	-> work with Cass book @ morgantown library.  back entrance is not closed.
+	- [ ][ ] 6:30 PM food
+		~7:00 PM official meeting
+		Mon Grotto meeting last monday of every month
+		Mariachi Loco, across from Walmart
+		Morgantown, WV 26508
+		Wayne Perkins <jwperkins0@gmail.com>
+	... lost line or formatting error or something
+	leaves this day
+	- [ ] send TRA application if filled out
+
+- [ ] 2019-07-30 Tue
+	- [ ] Jim Taggart arrives
+		-> likely rescheduling, at least need to
+		   reschedule around funeral service he
+		   attends
+
+- [ ] 2019-07-31 Wed
+
+- [ ] 2019-08-02 Fri
+	meds switches to phone from jim thru 4th
+
+===
+- [ ] 2019-08-04 Sun
+	30 Year Anniversary Maine Primitive Skills School
+===
+- [ ] 2019-08-09
+	WVACS project weekend thru 08-11
+	Bob Oehler e-mailed me I could be on a survey team, follow up appropriately
+- [ ] 2019-08-10
+  Bob White cave cleanup w mongrotto, might be camp
+
+- [ ] 2019-08-14
+	Greenbrier Mtg, likely
+
+- [ ] 2019-08-15
+	- [ ][ ] 6:15p - 7:45p NVC Community of Practice, third thursday of every month?
+		Our Neighborhood Child Development Center
+		2110 Ivy Rd
+		Charlottesville, VA 22903
+
+- [ ] 2019-08-22 Thu
+	need to get goggles-with-lenses first e.g. at scuba buddys
+	- [ ] SCUBA BUDDYS? to get equip for dive etc: $320 price
+		closes at 7pm
+
+- [ ] 2019-08-23 Fri
+	- [ ] 2:15p Opthalmology Surgery Followup Checkup
+		Fax Information from Dr Sivak
+			Mon General Medical Records
+			598 1918
+		Kevin Cox
+		635 Robert E Lee Avemue
+		Elkins, WV
+	Scuba Buddys Lake Phoenix Trip Sat Morn thru Sunday
+	Leave early on Friday.  Drive is over 4.5 hours long!
+	1 Quarry Ln
+	Rawlings, VA 23876
+
+- [ ] 2019-08-27 Tue
+	- [ ] 11:00a Jim calls to collate med data for Dr Jewell appt?
+
+- [ ] 2019-08-28 Wed
+	- [ ] 1:20p Dr Jewel seneca health
+
+- [ ] 2019-08-29 Thu
+	- [ ] 12:00p Alan Carpenter from mongrotto can meet me at the OTR to get me in
+
+- [ ] 2019-08-31
+	BCCS project weekend is Aug 31 - Sep 2
+	http://www.butlercave.org/content/expeditions.html
+	Contact somebody IN ADVANCE to get involved, e.g.
+	Mark Hodge [again]
+		edevenny@mgwnet.com
+		markhodge@virginiacaves.org
+		540 396 3570
+	note: in July, mark hodge recommended coming to the _meeting_ in october
+	
+- [ ] 2019-09-14
+	last day to preregister for fall VAR
+
+- [ ] 2019-09-19
+	last day to reschedule dr bouboulis appt
+- [ ] 2019-09-20 Fri
+	travel to Dr bouboulis
+- [ ] 2019-09-21 Sat
+	- [ ] 10:30a Dr Bouboulis In-Person Appt
+		106 Noroton Ave.
+		Darien, CT
+
+- [ ] 2019-09-26
+	2019 Fall VAR thru 09-29
+	Friars Hole Cave Preserve
+	Lobelia, WV
+
+
+- [ ] 2019-10-02
+	Kate's Birthday
+
+- [ ] 2019-10-05
+	Butler Cave Conservation Society Annual Meeting
+	cookout @ 5pm
+	listed to end on 10-06
+
+- [ ] 2019-10-10 Thu
+	- GET BLOOD WORK FOR DR FLEMING PET SCAN FOLLOWUP
+		-> lab order (+ followup card) are in glove compartment of car
+
+- [ ] 2019-10-17 Thu
+	- [ ] 11:45a - Dr Fleming Appt, followup for PET scan
+			PET scan will be scheduled as date approaches
+
+- [ ] 2019-10-28 Mon
+	- [ ] 2:30pm - 4pm or 5pm Dr Cox, opthalmologist
+			635 Robert E Lee Avemue
+			Elkins, WV
+
+- [ ] 2019-11-02
+	BCCS project weekend is Nov 2 - Nov 3
+	http://www.butlercave.org/content/expeditions.html
+	Contact somebody IN ADVANCE to get involved, e.g.
+	Mark Hodge [again]
+		edevenny@mgwnet.com
+		markhodge@virginiacaves.org
+		540 396 3570
+
+- [ ] 2019-11-11 Mon
+	- [ ] 1:00p - Tygart Valley Medical Specialties Dr Cross routine
+
+- [ ] 2019-11-12
+	- [ ] 12:00p - Dentist
+
+# GOALWORK
+0: autonomy, safety, privacy, and joyful pursuit of dreams for all
+Problem:
+	dominant culture using oppressive technology to eradicate other cultures
+	and establish universal hierarchy of power and control
+Routes for safety:
+	- reliable collaboration & information sharing
+	- TOOLS to comprehend issues, e.g. EEG and radio work
+	- TECHNIQUES to get things done, such as nicotine
+
+	Short term:
+	- nicotine & technocratic motivators and logs
+	- collaboration with others who can help?
+
+	Medium term:
+	- nonviolent communication
+	- uncensorable dialogue & information storage?
+	- caverns?
+
+	Likely lonegr term:
+	- shielded rooms
+	- radiowork
+	- EEG analysis, but helpful to have ongoing logging
+		could be faster with outreach etc
+
+	==> UNCENSORABLE DIALOGUE IS NEEDED BAD <==
+	If you start being productive without it, you can just enter a bubble.
+	This includes both the problem of technology and the problem of reaching others with the technology.
+
+	I think the best route would be a SIMPLE bitcoin messenger.
+	Probably a mobile phone app running bcoin.
+	- [ ] Check first if one already exists.
+	- [ ] Make a fund for people to message freely with it.
+1: personal requirements of life fully maintained
+	- want to stay on top of obligations and expectations
+		- UPCOMING list
+		- present concerns list
+		- nonlisted expectations
+		- other lists
+	- want to pursue personal wellness responsibly
+		- lyme disease
+		- neurology
+		- daily routine & cleanliness
+		- habits in support of mental thriving e.g. do enough things myself to retain abilities
+	- want to be able to fucntion with ease in my living situation
+		- organize possessions
+			- want to SAVE all my documents and objects and regularly spend a small amount of time comprehending them
+			- should keep a categorical inventory and work with others to organize possessions
+			- should work to shrink and archive possessions, selling them
+	- want to live kindly in all ways, and slowly move towards that ideal
+	- want to support ideals, people, etc that I value
+
+
+
+
+
+- personal consistency: to do what I want,
+
+# ACTIONABLE TASKS
+
+## home
+- [X?] clean phone contacts
+
+## computer
+- [ ] Organization / Todo (feel free to REORDER)
+	- [ ] import paper items from the 2 notebooks
+		- [ ] todo items
+		- [ ] information items
+		- [ ] other items
+	- [ ] unify projects & tasks systems into this repo
+		- day is spent on different ACTIVITIES which consist of priority TASKS from a PROJECT or GOAL?
+		- information and tracking of activities and projects is stored in folders regarding them
+			Goals vs Activities vs Projects?  does it matter?  I'm stuck on Kate's desire to distinguish between these.
+			Since it's just me, let's switch to GOALS which have PARENT and SIBLING GOALS.
+		- projects/activities concept: activites == actionable tasks == each fits in time alloction system on phone
+		- use PROJECTS folder to organize what needs to be done in general
+			- activities folder would be a sibling.  we already have TASKS folder that can be the same.
+		- concepts here are GOALS/SUBGOALS/PROJECTS/ONGOING ACTIVITIES, REASONS AND PRIORITIES FOR GOALS, PLACE TO TRACK INFORMATION ON GOAL, TASKS, and PRIORITIES AND DEADLINES FOR TASKS
+			- phone tasks system allows to split time between goals or activities.  can mesh in.
+		-> OKAY: ACTIVITIES are phone goals/tasks that have time split between them.  This is why there's a separate activities folder: it's the level at which time is split.
+	- [ ] make script to sync with phone, other vms, and sd card AUTOMATICALLY
+		- [X] install adb for sys-net
+		- [X] set up syncing between vms on qubes
+			-> src/gitbundleautosync on dev-whonix
+		- [ ] autosync everything when device plugged
+	- [ ] sort cruft below
+		- [X] DEAL WITH 'design tent interior' -- this is related to the goal of immediately increasing personal shielding
+					not as important as having a tool to measure SE in general, but a goal I had, that should at least get organized
+	- [ ] I'm having trouble having regular meals: come up with some foods I enjoy making (both for the joy of making & sourcing, and for the health and ease) and make a system to make food mroe available for me
+			-> maybe schedule a dumpster visit, and some gathring?  there are apples and acorns everywhere, and I'm not done with apple pres
+
+## internet
+- [ ] find when my neurological testing is, maybe a voicemail could indicate? maybe med portal?
+	-> they called me to get insurance information
+	   I think I called them back at 434-924-2718 and provided it
+- [ ] get an awareness class
+	-> awakening the senses costs $600 ....
+- [ ] share my gitbundleautosync projects; they're useful tools
+- [_] sign up for another nvcacademy course
+	-> still doing convergent fac
+- [ ] download history of a volatile crypto? from an exchange that trades it
+- [ ] withdraw $ for GBT, MPSS, Diane, Truck
+
+
+## truck
+- [ ] slowly unpack the truck in order to scan docs (or find other scanning solution)
+
+
+#### BACKBURNER
+
+# important
+- [ ] design modular solution for holding possessions and arranging day-to-day life (drawers? sink? compost? etc)
+- [ ] open-source cell phone
+- [ ] put tent/modular room/etc in truck
+- [ ] look for volunteer work (telescope? nearby city?)
+- [ ] research land near telescope using tax assessor maps (any areas more restricted than mine?)
+
+# fun
+- [ ] get a piano (upright still exists)
+
+#### ONGOING TASKS
+
+# active
+- pursue proper shielding
+- pursue short-term increased shielding
+	- put tent in truck
+
+# really important
+- household chores
+- unpack & organize
+- papers (collate, scan)
+- new emails, starred emails, voicemails & such life obligations
+- old todo items
+- finances: automate bitcoin investments?
+
+# important
+- copper room / test box
+- learn to weld
+- pursue 24/7 EEG
+	- pursue dermals and transdermals
+- pursue video surveillance / self-recording
+- learn emissions of sound & EM
+- learn EE, Physics, Math
+- learn radios, 24/7 radio logging
+
+# fun
+- live without imports, money, or causing suffering in other life (instead nurture surrounding life); relearn awareness & connect with others
+	- solar
+
+#### THINGS TO CHANGE ABOUT MY INNER HABITS
+- getting up in morning (staying in bed at night, or at least resting consistently)
+- crypto: using pgp, putting coins on airgapped phone, getting new airgapped phone
+- adhering to a daily schedule, throughout the day, and using time-tracking system
+- time spent in shower
+- time spent in morning routine
+	-> could associate N2 with time spent doing morning routine
+	-> probably helpful if had N2 after different spots in morning routine
+	-> remember N2 must be provided by habit-building activity, otherwise could take without association
+			-> could fix by creating secure device to dispense N2
+
+- willpower with regard to comforts (hold bathroom in, shower in cold temperature, do difficult tasks)
+	-> could put some of these tasks inside my N2 activity
+
+- addressing TODO items, INBOX items, IMPORTANT items
+	-> could associate N2 with things coming off of this list
+		-> sounds a little delayed, but if I did the items prior to an N2 activity it might work
+		-> maybe add a mid-day routine
+	-> should give list a maximum count so that highest priority items occupy it
+
+- errors and spasms to decrease
+	-> could measure quality or rapidity of tasks
+	-> could be easier with EEG
+	-> CAN TRACK computer accuracy! missing mouse clicks, clicking wrong tabs, using backspace key or deleting in vi ...
+
+- vision holes
+	-> could actually design peripheral vision device.  very gratifying.  just need digital projector with wide-angle lens
+- short term memory
+	-> could use memory task such as dual n-back.  may encounter second issue of context
+- staying energized in face of 'flags'
+	-> could note flags and review them, work with concepts around them ... seems intense
+	   could also note important events of de-energizing and just work with those, focused on my goals
+
+- keeping room clean and ORGANIZED
+- remembering my possessions
+
+- real results with regard to executive functioning and task/information organization
+	-> not sure how to measure this
+
+- effectiveness of coding
+
+- complete silence and peace in my mind, clarity of thinking, memory working
+	-> mostly subjective for now, but could modulate some other goal with subjective judgement.  seems to work
+
+- stopping driving to lubricate my eye
+	-> could combine with any other task, while driving
+	-> schedule break during drive, for lubrication etc?
+	-> use pocket lubricant when doing regular lubrication, to build ease of access
+
+- ability to generalize plans; hold schedule in my mind;--> include infornation when making decisions<--; brainstorm
+
+- adding to a record of subjective events (such as sudden memory loss etc)
+	-> could provide nicotine immediately with addition
+	-> but then also want to decrease event .... maybe change regarding time
+			e.g. could reward immediately, but decrease normal outside greater than reward by a little
+			but that would train the event
+			could also reward immediately, but over time decrease reward, while having consistency wrt decreasing next dose too
+
+#### INFORMATION
+
+(304) 456-5564
+6330 Potomac Highlands Trail
+Green Bank, WV 24944
+	UPS delivered stright to my door, marked my address as 6330 Potomac Highlands Trail / Ste 7
+					I had written it as 6328 / tiny home behind shed, and they rewrote it as above to suite 7
+
+House Purchase:
+	- I'll need to write a check for $1000 with accompanying note that I'm not
+	  expecting it to be deposited until they have agreed to the offer.
+		Bill will send $1000 to First Citizens.
+	- Contact realtor and say I would like to make an offer.
+	  Cheryl Dean
+	  304 940-0607
+					304 799-4002
+	- Terms of offer.
+	  Contingent on the following being done:
+	  1. Approval of a mortgage for the house for $50,000 with a 30 year term,
+		   at the prevailing interest rate.
+			 - ask broker way to say this, if standard time period is specified
+			 - ask how long it would take to get a mortgage in this community
+			 :Loan contingency
+		2. The buyer has a week to have the home and septic system inspected.
+			:home inspection done, anything -> completed by 18th
+		3. Removal of all the trash, clothing, and personal items from the
+		   primary building, and removal of everything from the rundown front
+			 building.
+		4. Broom sweeping of both properties before closing.
+	- Broker may ask me to be preapproved for a mortgage.  If needed, Bill will
+	  walk me through.
+	- Clarify that furniture, appliances, and tools will convey with the property.
+	- Cheryl will be back in touch.
+	- 11:45a Cheryl checks back
+			-> clarify appliances stay, furniture is not in listing but they don't seem to want to move it
+			   owner will take hutch that was left in mother's will
+			- owner will remove personal belongings and sweep floors
+			- some things may be left in workspace
+			- needs to talk to sister, will call her this evening and talk to her
+			- Cheryl will call back tomorrow with result pricewie
+	- 2018-01-09
+			- Owners countered with $100,000 .  I replied with $94,000, Cheryl will
+			  get back to me.  Owner wants to leave upstairs Tommy stove, but may
+				take some furniture.
+			- mom says I could fax the check, but it sounds like it's not needed
+			- mom recommends I accept any offer they provide, and if they don't
+			  counter we can counter with more.
+	- 2018-01-10 11:08a
+			Cheryl will send documents with DocuSign
+			REMEMBER TO OFFER TO FAX CHECK
+
+Voicemail:
+	*100
+		pin is 6 digits
+	304 799 6891
+    2018-11-29: voicemail is finally being fixed: ref # 4450496
+    2018-12-10: called again, tech said my voicemail had been canceled while processing the 11-29 ticket
+    Woman on phone said she filed a lawsuit after much legwork, water testing, etc, with the company causing pollution resulting in cancer
+    Stated she re-added me to voicemail.  Still does not work.
+
+	2018-1-28 voicemail check
+		304 473 1440 Thu 12:10pm
+			Jennifer at clinic
+			call me back and we'll talk it over
+		
+
+Truck Mechanic
+	Elkins Trucking Services
+	304 636 5330
+	38 11 St
+	Please visit during business hours.
+	9a-5:30p M-F
+	====>	Lunch Break: 12:30p - 1:30p	<====
+
+	2019-01-04 truck is in line for shop, not looked at yet
+						 should have it in before the end of next week
+	2019-01-23 truck is in the shop for transmission, new one has been ordered, should be done by 2019-02-02
+						 starter was bad and has been replaced
+	2019-01-28 received call from office that towing has still not been paid for.
+		It's $752.40
+	... dad paid for towing ... also said tim called him and said new transmission was bad, new new one was ordered
+	2019-02-13 Tim wasn't in this day, was coming in morning of the following day.
+	2019-02-18 Tim was at lunch, added lunch break info.
+		4:15p Got Tim
+		Still fighting with Isuzu on transmission.
+		Sent one: the bracket had a broken bolt, returned it
+		Another came: they didn't accept it
+		Third one: back end of transmission and pan are different
+		Fourth one expected by end of week.
+	2019-02-25 called, got Tim, he said they didn't get back to him and the order for the 4th one
+		hasn't happened yet.  he's going to call and check in.
+	remember to check lift gate, AC, estimate, broken key, etc!
+	2019-03-11 transmission is en route; they did find the right one this time.  it should be here
+		later on this week, but will likely be beginning of next week to get it in
+		he's got the item list, works a little between jobs to reduce billing, will do estimate
+		when he gets time for it
+		lift gate has been looked at
+		something came up and he'll give me a call back, hung up at 11:58a
+	2019-03-12 called 12:53p after not noticing call back -- Tim goes for lunch 12:30-1:30p
+	2019-03-18 called again 9:08p.  tim picked up!
+		getting ready to ship the transmission still.  specs were giving wrong tailshaft.
+		can't do estimate on lift gate operation, will do when transmission is done,
+		combine labor hours
+		Isuzu is the distributor for the transmission.
+	2019-04-30 1:09p called father, who was going to connect with tim but hadn't yet
+	- jim took over for a bit.  says rebuilt transmission is in but electrical work is needed and pending
+	2019-05-09 4:57p Thu
+		called, tim was there
+		transmission is in
+		lift gate is fixed !
+		working on the transmission; the rebuild has decided it doesn't want to have drive
+		looking into it.  it runs down the road fine until it shifts into drive, and then it loses it
+		isuzu was sending the wrong transmissions, different one each time
+		transmission needs to be redisassembled and sent back to rebuilder
+		(electrical transmission issue is resolved)
+		transmission will be sent back for rebuilding by beginning of next week
+		Tim wants me to call him around the middle of next week.
+	2019-06-03 09:10a Mon
+		We're putting the transmission back in it now.
+		It looks brand spanking new, which is surprising.
+		He'll call me tomorrow and provide a quote.
+	2019-06-05 11:40a Wed
+		Received call from Deniece.
+		Transmission works, but electrical problems with truck threaten its
+		lifespan.
+		Electrical work will be by the hour.
+		She will check with Ron, who checked the lift gate electrical, and
+		get back to me.  She says she's been out for a while and just got back.
+	2019-06-26 14:53 Wed
+		Tim says truck does not want to shift into drive.  Runs up until that point.
+		Says goes down the road but won't shift all the way up into drive.
+		They say transmission functions fine; has 5-year unlimited warranty.
+		Shop foreman was waiting to get more information.
+		Deniece hasn't started on electric part.  Was waiting on call back from me.
+		Says payment needed for transmission _labor_: $3818.32
+			-> starter
+			-> transmission fluid
+			-> labor
+			-> filter
+			labor was $93/hr.  it's now $117/hr
+		Transmission was $6604.00
+		Labor for electrical, can't give exact time yet.
+		Will e-mail labor bill to gmkarl@gmail.com
+		[update after the fact: karl had authorized 2 hours of electrical work]
+	2019-07-02
+		Ron is doing an engine right now, and he's the better electrical tech.
+		Waiting on him to finish his job to be moved over.
+		As soon as there is an update, I'll be let know.
+	2019-07-08
+		Got a call from Amanda that are waiting on balance to move forward.
+		need $3818.32
+		options: credit card over phone, check, or cash (visit or mail)
+		Elkins Truck Service
+		P.O. Box 790
+		Elkins, WV 26241
+	2019-07-10 Wed
+		father worked with amanda a little
+		dad not willing to pay until truck working properly, so wants me to pay full amount
+		if i want to gamble them
+		recommends calling and paying now to get work started
+		FATHER WILL REIMBURSE $1818.32 ONCE TRUCK IS RUNNING (need to ASK HIM to)
+	2019-07-11 4:19p Thu
+		called to pay bill after withdrawing massive cryptocurrency
+		rang for many minutes, no pickup [number looked right after double-checking but maybe missed something]
+		called over google voice, and they picked right up
+		what's going to happen:
+		is on schedule for Monday
+		once payment clears, 4 hours of work starting off.  at 4 hours they stop, and relay what they found.
+		they will call me, let me know what's found, and let me decid whether I want them to continue or stop
+		I can authorize however many hours.
+		this way won't be a huge bill, and I'm in the loop.
+		roughly $100/hr.
+		call Amanda with any questions.
+		
+		she called back, card was declined
+	Sat: batteries were put in according to jim, and was going to find out how far they got and
+		call us back, but did not.
+	2019-07-17 14:53p Wed
+		called Amand back after voicemail (paid with two cards)
+		- put batteries in truck on Sat despite not present for approval
+		will call back today with more information
+
+		
+		
+	- [X] when do you think it'll be finished?
+				could you call me if you learn there will be a delay, so I can plan around it?
+				-> have not queued yet
+				-> Sat 2019-02-02
+	- [X] have you received payment? is there more needed?
+				-> got request to order transmission, haven't looked at truck yet, may not be worth it
+				-> transmission ordered, will send estimate to gmkarl@gmail.com 2019-01-23
+	- [X] aware of: AC, lift gate, speakers, brakes, (cab light?)
+				-> added to ticket
+	- [X] what is the dial to the left of the wheel? changes engine noise
+				-> will investigate
+	- [X] has new transmission arrived?
+				-> have not ordered yet
+	- [X] how can I get personal stuff out of cab?
+			-> can visit
+
+		- in shop, engine runs fine, transmission ordered
+				new starter replaced
+
+
+Insurance
+	Uni?care
+	Member: 00505837144
+	Says no primary insurance on file.
+
+	Tufts (moving towards closing for good 2019-06-03)
+	Bill Semich fax # to fax statement to: 617-507-7779
+	Member services: 1-800-462-0224
+	zip: florence is 01062
+
+
+VOICEMAIL NOTES
+	1. 1. Hear New Messages
+		1. Repeat
+		2. Save
+		3. Delete
+		4. Reply
+		5. Send a copy
+		# Leave as new
+	2. send a message
+	3. work with greetings
+	4. change settings
+
+	6. get deleted messages
+	7. leave mailbox and log on as another subscriber
+	0. get more help
+	*. exit voicemail
+
+2019-07-17
+844 779 1042
+	Today, 10:04a
+	Hello, this is an important message from Mon Power for Robert
+	C Bold.  Please contact us ....
+304 636 5357
+	Sat, 9:34a
+	Hey Karl, this is Amanda at Elkin's Truck Service.
+	Can you please give me a call as soon as you get this message,
+	in reference to your truck?  My number's 304 636 5330.  I'm
+	in the office until noon today.  Thank you.
+304 591 9429
+	Tue, Jul 9, 6:22p
+	Hi Karl, this is Gwyn.  I have dinner ready; you can come over
+	when you're ready, and bring your medicine please.
+	I fixed ham, green beans, and potatoes, and have pie for desert
+	if you're hungry.  You need to eat dinner, even if you don't
+	feel the best, jhust come over and have a little something so
+	I can get you your medicine.  You can come back home if you like,
+	that's fine.  Just ... can't come to you ... van ... so ... need
+	to come to me ...
+717 602 7447
+	Thu, Jul 4, 9:26p
+	Hi Karl, this is Gwyn, I'm so sorry I didn't call you around
+	6:30, it was a real busy time at my daughter's house.
+	There was a 4th of July party and birthday party and there was
+	a lot going on.  I hope that you ate dinner and took your meds.
+	It's about 9:43 right now.  As I speak to you I'm driving to
+	Pennsylvania to visit with a friend of mine, and you're welcome
+	to call me back.  Okay, bye.
+
+2019-07-02
+844 779 1042
+	Monday, Jun 17, 10:08a
+	mon power for robert c bold
+617 894 3180
+	Tuesday, Jun 18, 10:05a
+	Hey Karl, it's Kate.  Nice to hear your voice on your answering machine, and, um, just checking in about our
+	call this morning.  I'm not sure you're around, but if you are, give me a call!  Okay, hope you're well, bye.
+Said I had 5 but only played 2.
+Later:
+304 591 9429
+	Today, 10:11a
+	Hi, Karl, this is Gwyn, um, Kate just called here, I missed her call by like 1 ring, I returned her call and left
+	a message, and then it dawned on me ... [I had switched my phone to go to gwyn's]
+
+2019-06-10
+James Reese
+	8:48a
+	Hey, Good morning Karl, it's Jim calling over here.  Listen, Would you do me a favor
+	and go underneath where the hot water tank is there, and just unplug the plugs from the
+	wall that are not important?
+	Leave hot water and toitlet, but unplug those other things, we don't need them until it
+	starts freezing outside.
+	It'll save some electricity and aging on those things.
+	Would you call me back and let me know you got the message and you did that?
+	304 456 4525
+	-> called but no answer, left voicemail
+
+2019-06-03
+reply from James Reese
+	Sat, 1:17p
+	Hey Karl, Jim Reese, just trying to get back to you, sorry I was on the phone, been busy
+	all morning.
+	But yeah, any afternoon you can come over after 1:30 or 2:00p, I'm always available,
+	so that's the way to do it.  So just bring it over when you have some time.
+	Thanks, Karl, talk to you soon.  Bye.
+844 779 1040
+	Thursday, 1:32p
+	This is an urgent message from Mon Power for Robert C Bold ...
+304 591 9429
+	Sunday May 19, 3:35p
+	Hi Karl, this is Gwyn.  I know you were busy when I came in to give you the pizza but I
+	did set it on your bed.  I hope you realized I set a medium vegggie pizza on your
+	bed.  That was for you, you can have osme now and some later.
+	Also to let you know, I am getting ready to go over there to get patches to bring him over here
+	for a while, and if you want me ot pick you up, I don't know what you're doing,
+	but if you want ot be at my house for a little while, if you want to drive over ...
+	but you'lll need to call me bakc soon.  Anyway, it looks like you're really busy.  I hope
+	you're doing well today ...
+2019-05-05
+304 591 9429
+	Today, 11:40a
+	Hi Karl, this is Gwyn.  I am going to be going down to the laundromat, where we usually go, probably get there
+	around 12:00, and I have extra quarters, so if you would like to do your laundry while I am doing mine, I don't
+	have as much laundry as I usually do, I only have about two loads.  So anyway, I have quarters, and if you want
+	to just meet me down there, we could go together.  It's up to you.  If I don't see you I might run to Dollar
+	General and get a few things; I'm running out of trash bags and some things.  Arright, talk to you later, goodbye.
+
+2019-05-04
+844 779 1041
+	Thursday, 6:05p
+	Mon Power for Robert C Bold, 844 779 1041
+304 637 6303
+	Yesterday, 11:07a
+	I'm calling from Tygart Valley Medical Specialties.  This message is for Karl.
+	Calling to confirm your appointment on Monday at 2:30 with Dr Cross.
+	If you could please call 304 637 6302 and confirm, thank you.
+	<-- I confirmed this via voicemail after receiving the message.
+304 637 6302
+	Yesterday, 2:38p
+	This message is to remind you of your appointment on Monday, May 6th, 2019 at 2:30p.  Thank you, goodbye.
+304 591 9429
+	Yesterday, 6:36p
+	Hi Karl, this is Gwyn, um, I just wanted to let you know that I'm on my way over.  I was on a business call earlier and it's been, um, I got held up here, so anyway,
+	it's about 6:36, I will be over soon, and somebody just tride to call, and I didn't know if it was you or not, because it wasn't showing up.  Okay, bye.
+304 591 9429
+	Today, 2:51p
+	Hi Karl, this is Gwyn.  If you would like to come over tonight, you're welcome to do that.  I'm going to make macaroni and cheese.  I just don't know if I have
+	macaroni and cheese noodles that are wheat.  I'm making them out of white; I haven't really checked the noodles much.  If you want to come over and make dinner
+	with me, like your version, we can use my stove, and bring some onions because I forgot to buy onions.  That makes it really good.  I have cheese. And, I don't know where you
+	are right now, but if you call me back, you're welcome to spend the night tonight.  Call me back when you're able to, or just come over.  Okay, love you. <==
+	
+
+2019-05-01
+304 591 9429
+	Yesterday, 8:51a
+	Hi Karl this is Gwyn, please call me back if you're able to.
+	I'll plan to come over to your house in about a little bit after 9
+	this morning.  I'm wondering if you're even home yet, or what you
+	ended up doing last night ... I was behind on my e-mails yesterday
+	and I noticed one from Jim Taggart saying he was coming to your house
+	today at about 10:00.  Of course he does tend to run behind schedule;
+	I plan to be there about 9.  If you didn't make it to your house yet
+	please call and let me know ... white rolls, but I don't know if you
+	like thme or not.  That's all I have right now.  Okay ..
+
+2019-04-23
+717 602 7447
+	Wednesday, 3:50pm
+	Hey Karl, this is Sarah, we're running late, we're close to Hillsboro, so we won't
+	be home on time.  The key is right beside the front door.  Mom said you can go
+	home ... and set up the TV so we can be ready for the conference call.
+	We should be ready by 5:00.  Okay, Bye.
+717 602 7447
+	Wednesday, 3:54pm
+	Hi, Karl, this is Gwyn, I'm calling from my cell phone.  I'm on somebody else's
+	cell phone plan, so it probably comes up as a different name, but anyway, it's me.
+	Sarah got held up at the Dr's office and turns it out we might not be home for
+	another hour.  It's like quarter to 4 right now so we're cutting it close.
+	If you could please g oover to my house, ben and matthew should be there, there's
+	a key by the front door.  You can call me back if you want. 717 602 7447
+304 591 9429
+	Saturday, 8:10a
+	Hi Karl, this is Gwyn, call me back please.  It would be better if you just got ready
+	and came over to my house, and just came and picked this up ... slow speed this morning,
+	they just got up, and I'm getting together the stuff I need.  Thinking we could just
+	take your car and I would pay you for the diesel ... feeling a little uncertain about
+	my van, so why don't we just do that.  Just come over to my house when you're ready.
+	Okay, bye.
+
+2019-04-17
+anonymous
+	Today, 9:59a
+	Hi Karl, this is Gwyn, I'm calling from Lewisburg.  I just wanted to see if you took your meds or
+	ate breakfast.  If you haven't, don't forget to do that, and I'll touch base with you when I
+	get home this afternoon.  I probably won't be back until around 2:00.  Okay, have a great morning,
+	goodbye.
+304 591 9429
+	Yesterday, 10:33p
+	Hi Karl, this is Gwyn ... tell you this, but I have an appointment in Lewisburg tomorrow for
+	Sarah to get her stitches out, and we have to be there at 9:30 in the morning.  So I was not
+	thinking tonight when I said I would be there tomorrow for your meds.  So I'll have to call
+	you when I get to Lewisburg, but you wouldn't wait for me, you'd have to eat breakfast and
+	take your meds ....
+2019-04-15
+202 816 7451
+	Mon 4/1 12:18p
+	Hi, this is Dave Strauss, director of memberhsip at the Nature Conservancy, inviting
+	you to a live Q&A call tomorrow ...
+844 779 1040
+	Tue 4/2 10:17a
+	This is an urgent message from Mon Power for Robert C Bold ...
+202 839 9281
+	Tue 4/2 8:03p
+	Hi, this is Dave Strauss, director of membership at the Nature Conservancy.
+	[ same thing, happening right now the Q&A call with scientists ]
+It said I had 4 new messages, but played only 3.  I played the deleted voicemails and there
+were only 3.  I saw no other options to play voicemails.
+
+
+304 456 4489
+	Tue 3/20/2109 5:42p
+	Hey Karl, it's Jim, I talked to a couple plumbers, and they said the only thing it could possibly be is that a piece of the waterline froze.  We'll just have to wait for it to thaw out.
+	If you're away and sleeping overnight or whatever it is you do and it freezes like that, there's isn't much we can do about it right at the moment.  So that's the story.  Bye.
+
+304 591 9429
+	Sat 3/17 12:04p
+	Yo, Karl, it's like uh just after 12:00 on Sat, I was just wondering if Mom was there.  Anyways, if you can just give me a call back, if she's not there don't worry about it, and you have a great day.  Bye.
+
+304 591 9429
+	Sat @ 8:20p
+	Hi Karl, this is Gwyn, after I left you I realized your boots are on the porch and it's
+	really, really raining, so you might want to bring your boots in, and also if you change
+	your mind, just come over, I'll leave my door unlocked if you're tired of not having a toilet
+	or water.
+
+304 456 5115
+	Fri @ 12:01p
+	Hi Karl it's Kim at community care and we have your results back.  Please call me back
+	304 456 551 thanks.
+	2019-03-02 -> called back
+		everything was good except my white blood count, maybe due to one of my medications
+		if have concerns, can discuss with dr fleming
+
+304 591 9429
+	Today 5:39P
+	Hi Karl this is Gwyn.  This is the second time I've tried to call so I'm assuming you're on the phone.
+	Just call me back at your convenience.  Ben said they still have not cleaned the road and it would be
+	unsafe for me to .... I'm not going to attempt driving over there because I do not want to wreck my
+	van; my tires are really not that good.  Give me a call back when you are able to.
+
+508 333 9955
+	Sat 4:18P
+	Hi Karl it's your Dad.  I did ... the checking on that deed website and I was looking at
+	the wrong property that Mr Curry owns property in another town, Hillside or something,
+	and that $60,000 mortgage was on the property in Hillside.
+	He did take out a mortgage for $20,000 when he bought the Bear Mtn Rd property in 1993; he paid
+	that off in 2002 or 2008 or something like that.  There's no evidence that there's any
+	mortgage on the Bear Mtn Rd property at all, which gives you a little more room to
+	negotiate.
+	If and when you do learn this information, let me know you got it so I can relax.
+	I just wanted to be sure you knew that before talking to anyone like Cheryl or anything like
+	that.
+
+304 637 6302
+	Sun Feb 10 4:48P
+	... specialties to remind you of your appointmnet on Wed Feb 13th 2019 at 1:30pm
+
+Cheryl Dean
+	Fri Feb 8 10:34A
+	Hey Karl this is Cheryl Dean, would you give me a call?  I've actually heard back from
+	the sellers so I need to talk with you.
+	LEFT AS NEW
+
+304 456 5300
+	Thu Feb 7 6:52P
+	Hi Karl this is Gwyn I'm calling you from my mom's house ... please make sure that
+	you have your medicine with you and especially ... that goes with it
+	I think I asked you that and I think you told me you have it but I wanted to
+	double-check.  Okay, bye.
+
+
+802 774 8450
+	Sun 3:33P
+	Hey Karl how ya doin it's Jim just calling to check in about a few things and see that
+	we're still on for our trip this Fri and Sat to see Dr Bouboulis
+	Hope you survive the cold and that things are okay at the two houses
+	Also wanted to know if that guy Hughes ever got back to you about the Buffalo Mtn Rd house
+	Can call me at 802 774 8450
+
+844 779 1041
+	Mon 6:06p
+		Mon Power
+
+802 774 8450
+	Tue 11:51A
+	Hey Karl how ya doin it's Jim calling to check in.  If you could give me a call I'd
+	appreciate it.  At home in Vermont. 802 774 8450.  I want to know if you've
+	been contacted about seeing the Buffalo Mtn Rd house and also wanted to
+	check in with you about our plans about Friday and Saturday and if that's still
+	a go.  I'd appreciate a call.  Bye-bye.
+
+Community Dental Care of Green Bank
+	Today 9:56A
+	Good morning this is Margaret.  Reminder about uncoming cleaning appointemtn.
+	Feb 14 1:00P.  304 456 5433 if you have any questions or need to make any changes.
+
+844-779-1040
+	Fri Dec 28 12:53P
+		Mon Power
+Cheryl Dean
+	2019-01-09 3:02p
+		304 799 4002
+  2019-01-17 4:23p
+		Got an e-mail from Dad that asked to make additional changes.  She did so and sent it to me.
+		If I have any questions, call her there at office.
+304 44731440?
+	2019-01-24 12:10p
+	Hey Karl it's Jennifer at the clinic, just call me back and we'll talk it over.  After you left everybody called me.
+802 774 8450
+	2019-01-30 11:15a
+	Hi Karl how are you it's Jim I'm calling to check in see how your
+	night went.  I'll have some time this afternoon if you feel
+	like giving me a call back or  text update about how my night went
+	It was great going to morgantown with you I really enjoyed it
+	talk with you soon bye
+304 456 5115
+	Karl this is Pam at Green Bank Clinic.  It's look like Dr Cross
+	referred you to a Dr in Morgantown and I was just calling to check
+	and see if you knew about the appointment: it's tomorrow at
+	eleven o'clock.  Their number is 304 598 2200
+844 779 1040
+	2019-02-01 10:19a
+	Urgent message from Mon Power for Robert C Bold
+802 774 8450
+	2019-02-03 3:33p
+	Jim calling to check in with you about a few things and to
+	see that we're still on for our trip this Friday and Saturday
+	to see Dr Bouboulis.
+	Also did Hughes ever get back to you about the buffalo
+	monutain ranch house?
+
+Frankferd Farms / Kathleen Jones
+	(304) 456-4294
+
+Lester Zook
+	(540) 433-1637 (6-8 PM weeknights not thursday)
+		2019-03-12 6:38p called lester after no reply to e-mail
+		2019-03-23 Sat 4:10p called lester and scheduled trip! he said best times are the same though
+			
+
+Caverns
+	WVCC provides access to public caves
+		https://wvcc.net/cave-preserves/
+	WVASS maps and indexes caves
+		https://www.wvass.org
+	Nearby caverns include
+	- seneca
+	- shenandoah caverns
+		9am - 4pm winter hours
+		tour is 1 hour, $25, 56 deg F
+			may be extra self-guided time after tour or somesuch
+		261 Caverns Rd
+		Shenandoah Caverns (or Quicksburg for GPS), VA 22847
+	- luray caverns, near shenandoah caverns
+		9am - 4pm winter hours
+		tour is ~1 hour
+		101 Cave Hill Rd
+		Luray, VA 22835
+		540-843-6551
+	- grand caverns
+		10a - 4pm winter hours
+		tour is 70 minutes, $20, 54 deg F
+		5 Grand Caverns Dr.
+		Grottoes, VA 24441
+		888-430-2283 / 540-249-5705
+	- endless caverns
+		only open april 1 - november 15
+		10am - 4pm
+		tour is 75 minutes
+		1800 Endless Caverns Rd
+		New Market, VA 22844
+		800-544-2283
+		underground passageways not fully mapped
+	- skyline caverns
+		9am - 4pm winter hours
+		tour is $22, $2 off coupon at www.skylinecaverns.com/coupon.html; for printing
+		10344 Stonewall Jackson Highway
+		Front Royal, VA 22630
+		800-296-4545 / 540-635-4545
+	- Natural Bridge Caverns
+		deepest on east coast
+		group overnight tours  & trips sgolding@naturalbridgeva.com
+		10am - 4pm winter hours, 9am in nov
+		tour is 45 minutes, $18
+		15 Appledore Lane
+		Natural Bridge, VA 24578
+		540-291-2121 or bridge & hotel toll-free 800-533-1410
+	- Dixie Caverns
+		9:30am - 5pm
+		$14, 57 deg F
+		5753 West Main Street
+		Salem, VA 24153
+		540-380-2085
+	- Gap Caverns
+		national park
+		$8.00 tours, april-september 1 pm
+		Rt 58
+		Ewing, VA 24248
+		804-248-2817
+
+
+	more can be found at: cavern.com
+	caves on public property may be generally accessible
+	camping in caverns is a thing
+
+	Underground lodging:
+	Grand Canyon Caverns
+		- Arizona
+		- 220 ft motel room $800/night
+	Sala Silvermine
+		- Sweden
+		- 500 ft underground hotel room; mine lift shaft
+		- $500/night
+	Other possible:
+		Italy: Corte San Pietro, $275/night
+		Australia: Desert Cave Hotel, $160/night
+		Turkey: Cappadocian Cave Suites and other places in area, up to $100/night
+		Spain: Cuevas el Guindas and many abandoned caves, up to $55/night
+		Tunisia: Hotel Marhala, looks like star wars
+		Arkansas: Beckham Creek Cave Lodge, looks deepish, $1600/night
+		New Mexico: Kokopelli's Cave, $280/night
+		Greece: The Lava Cave also e.g. volcano hikes, $350/night
+
+NVC Distance Mediator/Counselors speaking English
+	Allan Rohlfs, CA (prisons, restorative justice, social change, violence prevention)
+
+	Peggy Smith, ME? (restorative justice, social change, violence prevention)
+	Roberta I. Wall, NC (restorative justice, social change, violence prevention)
+		steps2peace.com
+
+	Carolyne Dupre, Quebec (restorative justice, social change)
+	Erin Merrihew, WA (restorative justice, social change)
+	Fred Sly, OR (prisons, restorative justice, social change)
+	Jacinthe Theriault-Fortier, Quebec (restorative justice, social change)
+	Jacqueline Muller, CO (prisons, restorative justice)
+	Mair Alight, WA (prisons, social change, violence prevention)
+	MJardine, British Columbia (prisons, social change, violence prevention)
+	Martine Algier, CA (prisons, restorative justice, social change)
+	Roxy, CA (social change, violence prevention)
+	Shantigarbha, UK (prisons, restorative justice, social change)
+
+	Marilyn Mullen, WY (restorative justice)
+	Matthew Ramsay, British Columbia ()
+	JM111, CA (violence prevention)
+	Donna Steckal, PHD, AZ (social change)
+
+Eye Prescr.
+	2018-10-26 Kevin Cox
+	-5.50 -5.75 (might want to check re prev prescr, wildly similar eye strengths)
+	PD 64 (32/32) measured quick
+	Good lubricants:
+		- refresh gel drops / refresh PM
+		- systane complete optimal dry eye relief
+		can check ingreds to judge thickness
+
+Green Bank Community Care
+	304 456-5115
+		Menu:
+		1 -> health center
+		2 -> billing
+	Fax: 304 456-5118
+	Hours: M-F 8a-4p
+
+Health food stores:
+- Good Energy Foods? in Elkins (small)
+- A couple in Lewisburg
+
+
+CCIL / WV Choice
+	304-636-9396
+	Cheryl
+
+
+Green Box (garbage facility)
+	Wed	8a - 4p (5p summer)
+	Sat	8a - 4p (5p summer)
+	Sun 	1p - 4p (6p summer)
+	Also open sunday hours on Memorial, Independence, Labor, Columbus, Veterans, and Thanksgiving day holidays
+	Walk-in access available 24/7
+
+Varner 304-456-4505
+	Towing, Commercial Mechanic
+
+Metals: Valley Steel, 30 mins towards elkins
+
+Frontier Support:
+	Tech support: 800-239-4430
+		1 - technical support
+			1 - calling about calling number account
+			2 - other account
+		2 - other questions
+	Main Menu: 877-669-5535
+		1 - custom service, billing, technical support
+			1 - transfer to new address
+			2 - make changes to existing service
+			3 - billing questions
+			4 - installation date questions
+			9 - all other technical support
+				frontier.com/helpcenter
+				# - further assistance
+					1 - english residential
+						My # is (304) 456-5564
+						2 - technical support
+							800-239-4430
+						3 - payments
+						4 - repair department for line trouble reports
+					2 - english business
+					3 - spanish residential
+					4 - spanish business
+		2 - new residential customer, interested in service
+		3 - new commmerical customer
+
+		1 - current customer, customer service
+		or
+		2 - current customer, install date
+		or
+		3 - current customer, billing or technical support
+			-> 1 - english residential
+			My # is (304) 456-5564
+		or
+		4 - new customer, interested in services
+		    or adding services to existing account
+		OOPS no longer the menu below
+		-> 2 - customer support
+		   9 - other technical support
+		   # - further assistance
+
+			My # is (304) 456-5564
+	800-239-4430
+		"special promotion for select callers" 2018-11-15
+		didn't listen to further
+	DSL Tech Dept: 888-440-2096
+		1 - english
+			304 456 5564
+
+	Voicemail Access
+		2018-01-09
+				I haven't had voicemail for at least a month.
+				Right now I "have" voicemail but it rejects my pin.
+				I just called support and got the new pin 922846, but
+				this pin still did not work.
+				I've now called support again, 6:24pm.
+				Michelle recovered a pin from December 11, 602169
+				She tried this pin and it worked.
+				unexpected number was set as my contact number:
+					800-239-4430
+				Can now access my voicemail !!
+
+Green Bank Anechoic Chamber
+	Jansky Laboratory
+	Carla Beaudet
+	cbeaudet@nrao.edu
+	304-456-2126
+	general number: 304-456-2011
+	https://www.federallabs.org/labs/gbo-rf-anechoic-chamber-antenna-test-range
+	https://www.cv.nrao.edu/~hliszt/RFI/RFI.htm
+
+
+Benita Via 8p, 7p
+	304-456-5598 but professional services would rather office be called
+		Professional Care Services P.O. Box 1731 Ekins, WV 26241
+		Wendy Collins: (304) 591-1834 wendy26collins@gmail.com <==
+
+Cancer Places
+	- WVU Medicines, Morgantown
+	- UHC United Health Center, Bridgeport
+	- UVA is excellent but a couple hours away
+	something small in elkins
+	Davis Memorial Cancer Center
+	801 Harrison Ave, Elkins
+	Dr Fleming
+	304 637 3640
+	fax: 304 637 3644
+
+Gwyn Cole
+	304 456 5300
+
+James Reese
+	304 456 4525 office
+	304 456 4489 home
+		call anytime to get water turned off
+
+Diane Schou
+	304 456 5525
+		(p book says 5225, 4469, 5558)
+	Telephone: use line 4
+	B-room: don't turn fan on
+
+Dentist
+	413 586 6186
+
+Dr Bouboulis
+	Advanced Allergy, Immunology, & Asthma
+	advanced-allergy.com
+	203 655 9904
+	FAX: 203 656 1416
+	CLOSED EACH DAY 12:30p - 2:15p
+	M 9:15a - 4:30p
+	Tu 8a - 9:15a - 4p
+	W 9:15a - 4:30p
+	Th 9:15 - 4:30p
+	F closed
+	Sa 9a - 12:30p
+
+	PHONE MENU
+		1: front desk, appointments
+			-> extension or voicemail box
+		2: nurse
+			-> voicemail box
+		3: quest phlebotomist
+		4: prescriptions
+                        -> for refills, contact your pharmacy
+                        -> prescriptions may take 48-72 hrs
+		instead of 5, for billing call Medic Management 234 294 0119
+		6: administrative assistance, medical records
+
+	PRESCRIPTION
+		1. Doxycycline 100mg 2/day
+		wait 5 days to ensure no bad reaction from herxing
+		2. Add Azithromycin 500mg 1/day after dinner
+		wait 5 days to ensure no bad reaction from herxing
+		3. Add Bactrim double-strength 2/day after meals
+		wait 5 days to ensure no bad reaction from herxing
+		4. Add 1/2 teaspoon Mepron 2/day
+		wait 5 days
+		5. Increase Mepron to 1 teaspoon 2/day
+		contact Dr Bouboulis 1 month from step 1
+		treatment will likely last 9 months
+
+		Gwyn considers coming by 8:00a, sometimes 8:30a
+		        and around 6:30p, after possible work
+
+	1. restart trmt, info
+		2018-10-31
+		-> got nurse, remembered discontinuing things with maya some time ago
+		-> going to talk with dr bouboulis
+		-> aware that not allergic to azithromycin, allergic to amoxicillin
+	2. get missing antibiotic
+		Green Bank Pharmacy
+		M-Thu 9a-5:30p
+		PO Box 85
+		90 Route 28
+		Green Bank, WV 24944
+		Phone: (304) 456-3333
+		Fax: (304) 456-3070
+		2019-03-11:
+			Atovaquone has been on indefinite backorder for some time now.
+			Called and asked for update.
+			Was shipped and should come in today!  Check after 3pm.
+		
+	2019-04-17 Wed 1:30p
+		This is month 4 of full dose, since we started in January.
+		I should be feeling better.
+		The surgery could have been extenuating circumstances that exacerbated my symptoms.
+		It's time for me to get more blood work.
+		Let's speak again in 1.5 months or so (6 weeks).
+		Try calling front desk this afternoon or any time tomorrow.
+			-> they ended up calling me on 2019-04-30 and we scheduled it
+
+NVC Practice Group
+	Blacksburg, VA; ~3 hr drive alternate sundays 7pm-8:30pm patriciabevan@mac.com
+
+Slingshot Contacts
+	Spring Village Ecology 757 Madison St, Harrisonberg, VA
+	Little Grill 621 N Main St, Harrisonburg, VA
+	Living Energy Farm 1022 Bibb Store Rd, Louisa, VA
+	Twin Oaks Community 138 Twin Oaks Rd, Louisa, VA
+	Vine & Fig 715 N Maine St, Harrisonburg, VA
+	Wayside Popular Education 1100 Mill Pond Rd, Faber, VA
+
+	Woodfolk House, Charlottesville, VA (434) 305-8622 Aurora DeMarco
+
+	Mind(ful) Liberation Project 2026 Parkwood Ave Apt C, Richmond, VA
+	Rag & Bones Bicycle 3110 W. Leigh St, Richmond, VA
+	Small Friends 105 N 17th St, Richmond, VA
+
+Lentil Soup
+	1/4 cup olive oil
+	1 medium onion
+	2 carrots
+	4 garlic cloves
+	2 tsp cumin
+	1 tsp curry powd
+	1/2 tsp thyme
+	28 oz diced tomatoes (drain into water measure)
+	1 cup lentils
+	32 oz (4 cup) veg broth
+	2 cup water
+	1+ tsp salt
+	pinch red pepper flakes
+	freshly ground black pepper
+	1 cup collard greens or kale
+	1/2 to 1 medium lemon juice
+
+	1. warm oil until shimmering
+	2. carrot & onion to softened and turning translucent, ~5 mins
+	   garlic, cumin, curry, thyme until fragrant, ~30 seconds
+	   drained tomatoes, a few minutes
+	3. lentils & liquids + 1 tsp salt, pepper flakes pinch, generous black pepper
+	   bring to boil, then simmer until lentils cooked, ~30 minutes
+	4. puree 2 cups
+	5. chopped greens until desired softness, ~5 minutes
+	   remove from heat, half of lemon juice
+	   taste & salt, pepper, lemon juice until flavors sing
+	   serve immediately (4 days n fridge, or several months frozen)
+
+Quinoa Veggie Soup
+	3 tbsp olive oil
+	1 medium onion
+	3 carrots
+	2 celery stalks
+	1-2 cups seasonal veggies e.g. zuchini, yellow squash, bell pepper, sweet potatoes, butternut squash
+		-> chopped as small as carrots for same cook time !
+	6 garlic cloves
+	1/2 tsp thyme
+	28 oz diced tomatoes (drain into water measure)
+	1 cup quinoa, scant (more or less to adjust soup)
+	32 oz (4 cup) veg broth
+	2 cup water
+	1 tsp salt
+	2 bay leaves
+	pinch red pepper flakes
+	freshly ground black pepper
+	15 oz great northern beans or chickpeas
+	>=1 cup kale or collard greens
+	1 tsp lemon juice
+	optional freshly grated parmesan
+
+	1. warm oil until shimmer
+	   onion, carrot, celery, veggies, pinch of salt until onion softened + turning translucent, ~6-8 mins
+	2. garlic and thyme until fragrent, ~1 minute
+	   tomatoes for a few more minutes
+	3. quinoa & liquids + 1 tsp slt, 2 bay leaves, red pepper flakes pinch, generous black pepper
+	   boil then simmer
+	4. 25 minutes, then beans and greens as desired, ~>=5 minutes
+	   i like to cook the beans more, and the greens less
+	   can also do 8 hours on low heat, or in slow cooker
+	5. remove from heat & remove bay leaves
+	   taste & pepper, up to 1/2 tsp salt, until flavors sing
+	   divide into bowls, optionally top with grated parmesan
+
+
+# CRUFT TO SORT UP
+
+## every shift 10 minutes:
+- [ ] interpersonal notes
+	^-- what did I mean by interpersonal here?  judging by surrounding items, I might be working with existing objects that I have ... or I might be practivcing taking them
+- [ ] papers and planning
+	-- note this was separate from interpersonal notes ...
+ ====>		there might be clues in the history, e.g. my 'daily tasks' goal of my morning routne.  these were likely separate tasks
+
+
+
+
+
+## doable task ideas
+set up internet
+ Make a project for working on these organization systems.
+ work on EE lab report for 6 hours total
+ make door for trailer
+ build simple trailer (1 alu layer)
+ hire tech-savvy researcher, worker, executive assistant
+ review local resources from activist planner; zine place only opens for events
+ make haven phone work
+ finish backup of old drive data, remember my annex is in there!
+ buy truck
+ update trailer sticker
+ get a new eye doctor
+ visit mill180
+ visit artsy place katie found
+ visit makerspace to the south
+ restaple walls trailer
+ sync inventory list with this repo
+ resume symptom log; staff can help
+ figure out if mt.gox will give me my money or if I am too late
+
+## confusing task ideas
+- [ ] submit job posting, could mention familiarity with linux command line and neuroscience or machine learning
+- [ ] clean laptop using high concentration rubbing alcohol
+- [ ] check bridge st packages
+- [ ] get dermal tops removed
+- [ ] get ears pierced
+- [ ] get more dermals, replace any dermals not working
+- [ ] put bounty on prereq for hyperdb improvement
+- [ ] run bounty updater and keep it running always
+- [ ] put bounty on rest of tasks needed to create dat sensor and video streams, databases, websites, and archives that are timestamped on blockchain
+- [ ] put bounties on openbci issues
+- [ ] do my morning routine
+- [ ] get my cbd oil from the car, take it, and mark having took it
+- [ ] put salt water on my piercings
+- [ ] open the mail I got from the eastern mass
+- [ ] open the mail on the table downstairs
+- [ ] do something with my AAA card on the stairs
+- [ ] open the mail I have stored in my possessions
+- [ ] improve the organization of this document and system; include both a list of goals somewhere and a list of next immediate tasks; make it possible to plan a day with a BA when very confused by sourcing items from this list
+- [ ] build & test a small box
+- [ ] Find trailer registration
+- [ ] consolidate possessions
+- [ ] learn about shielded vestibules
+- [ ] learn to weld
+- [ ] find person to build room for me
+- [ ] organize notes for shielding goals somewhere
+- [ ] brass used for knife edge on door; how to connect this to wall?
+    -> probably you could bolt it into threaded holes and seal the joint
+  - [ ] how do existing structures do it?
+  - [ ] what attenuation properties provided by high conductivity of brass?
+  - [ ] what materials will work for 200dB walls?
+- [ ] follow up neurologist dartmouth hitchcock; include question re white matter
+      note: katie found local neurologist
+- [ ] remember + consolidate in writing importance of shielding using common or scavanged materials (e.g. say i can't receive mail or cannot phone or email or have no money)
+- [ ] Finish EE lab report
+- [ ] Add items for tasks not on this list
+- [ ] figure out junk in passat
+
+# DONE
+- Content moved to 01-Calendar-Log.txt .
+
+######
+
+# Agreements
+1. agree upon process
+  - discussion proceeds to follow only current topic, which is listed in agenda
+2.  first agenda topic is to brainstorm and agree upon initial agenda topics
+  - each topic has a priority, 1st priority items always are dealt with before lower priorities
+  - 1st priority items are added to agenda with a deadline.  if discussion is incomplete when deadline is hit, item may be readded to agenda for further discussion
+
+= Create Agenda Topics = Priority 1 = Deadlin: 8:20 am
+  Time use: 50%
+    -> we started late and it is INCREDIBLY hard to get anything done
+    -> can we plan our use of tiem better?
+  Effort: 100%
+  Effectiveness: 60%
+    -> there were agenda topics I cared about that were left out
+= When Talking Next = Priority 1? = Deadline 8:25 am
+  TEE: 100% 100% 100%
+= Make Major Tasks/Goals Document = Priority 2 = Deadline 8:40
+  TEE: 40% 200% 40%
+    -> I spent a lot of time confused during this
+      Jim seemed to also be confused
+    -> I had strong chest contractions and it was very hard to do this
+= Make List of Where to Look for Concerns to Integrate = Priority 2 = Deadline 8:50
+  TEE: 70% 80% 100%
+    -> I feel this was more successful than planned
+    -> maybe could have made it more complex? set goals higher? or used less time?
+= CANCELED Brainstorm Agenda for Tomorrow? = Deadline 9:00
+= Checking Out at the End = 9:00 - 9:10 =
+  TEE: 100% 200% 50%
+    -> I struggled here and couldn't meet my mental goals
+    -> I left out things I wanted to address
+    -> I couldn't hear Jim's expressions well
+
+    -> TEE improvement:
+      - rate each timespan something was done during for Time Use, Difficulty, and Effectiveness
+      - we want things to have good use of time, low effort engaged, and high effectiveness
+      - second half of check-in: celebrate items with good ratios, discuss items with poor ratios
+    -> Further thoughts:
+      - general check-outs usually just have each person give a general sense of what went well and what went poorly and suggestions for next time, or some variant
+      - Karl is often in a state of mind where he can't really generalize or combine information in his mind, so the TEE detail approach is helpful for him, but it is not a good use of time overall
+      - Ideas:
+      - could check in with Karl, and try TEE approach or try things generally
+      - could take some space to calm down, see if Karl's ability to generalize opens up after engaging in some 'therepeutic' behavior like exchanging how we are doing and talking briefly about day
+      - Karl also has an issue where his mind goes all wonky when he thinks about certain things among a group of things.  TEE is rote enough that he can try to apply it to all things and keep using it if they make him all wonky.
+
+    TEE: rate time use, difficulty, effectiveness
+         missing: wellness of participants
+    Jim: what went well, what went poorly, suggestions for improvement
+
+
+Other Concerns?
+
+  Jim TEE:
+    - agenda process, brainstorming, assigning priority, having deadlines means you are using time effectively. we did that. 100% time
+    - addressed effort: impressed with me pushing through. feels we were on task 100% effort
+    - effectiveness: stumbled a little when we created document, not that effective due to missing on box 50% effectiveness
+  Karl feels unsatisfied with regard to including necessary concerns in the process.
+  Jim's concerned that we mostly behaved in a rote manner, didn't really integrate meaning of information
+
+Satisfaction regarding: Time Spent, Difficulty-Effort, Effectiveness
+
+
+= CONCERNS / GOALS =
+  - Jim knowing K's day-to-day status
+  - Daily routine strategies
+  - Truck off Diane's land
+  - Concerns listed elsewhere
+
+  - Financial
+    - Overdraws
+    - Tax liability
+  - Medical
+    - Cancer followup
+    - Other
+  - Upcoming obligations
+  - Daily life ease
+    - meals
+    - not being disgusting or unwieldy
+  - Possessions
+  - Documents / information
+  - Education
+  - Personal work
+    - shielding
+    - information security, community collaboration, targeted individuals
+  - Working with others with similar goals
+  - Broaden social community
+  - Connecting with telescope
+  - Connection with family
+  - ease of use and interoperability of this document
+
+-> NIC PLANNING is in
+	Projects/01-Autonomy/01-Nicotine/05-dispenser.txt
+	in section == PLANNING ==
+= MAJOR TASKS / ACTIVITIES =
+
+ ::WORKING ON MERGING WITH Routine/01-Tasks_Shielded_Space # Goals
+ 	with intent of getting ttrack script working
+
+  - LIFE?: TLC's, daily life ease, activities of happiness, meeting the needs of others
+				EARTH
+  - MONEY: Managing financial wellness
+  - RESPONS: Completing responsibilities
+  	- BODY: Managing physical / medical wellness
+
+  - SAFE: Personal work - shielding, etc.
+				SUST
+				REC
+				DEMO
+				PUB
+				MVF?
+
+  BACKEND
+  	- EDU: School and Career behavior
+
+  TASKORG
+          - Finding / processing more concerns, obligations, goals, tasks
+          - Personalizing daily routine/ strategies / time management
+          - Major and medium-term life planning
+            - Delegation
+  	- Handling possessions + documents (truck)
+
+	BLOCKED
+	SLEEP
+
+	Nowadays:
+				- CONFUSED (could be BLOCKED) <--
+				- DOWNTIME
+				- SLEEP
+				- GWYN (could be SOCIAL or TLCs) <--
+				- ROUTINES <--
+				- EVENTS <--
+				- PRIMARY PROJECT
+				- MAINTENANCE
+				- AUX PROJECTS
+
+Places to find concerns, tasks, goals:
+  - For Everything
+    - Stuff I haven't looked at yet
+    - Stuff i've looked but haven't dealt with yet
+    - Stuff I meant to deal with but have not successfully done so
+      - notably my memory is decreasing so i may have assumed i'd remember something but completely forgot it
+  - Physical
+    - things other people know or think of
+    - => physical mail
+    - phone system
+      - frontier voicemail
+      - google voicemail
+      - google texts
+      - mobile phone texts
+    - nearby notebooks
+    - papers file
+    - subscriptions / utilities i may need to maintain
+    - boxes that may contain documents similar to this or related
+    - hard-to-find notes that are nearby e.g. in a backpack
+  - Digital
+    - github/fuzzyTew/todo repo
+      - 00-Organizer file
+      - 'UPCOMING' section
+      - 'present concerns' section which is unfortunately unlabeled
+      - other sections
+    - other documents in this repo
+  - other files on my computer
+  - files in storage or recoverable
+  - e-mail
+    - => e-mail i haven't read
+    - old starred e-mails i've dropped
+    - e-mails i've sent myself to remind myself of things and ignored
+    - just plain old e-mail
+  - facebook interactions
+  - stuff not thought of
+
+
+# 2018-11-19 08:12 AM Jim Taggart Meeting
+
+08:15
+- [X] talking with Jim
+08:16
+- [X] to 08:21 Agenda
+      update to 08:26
+      update to 08:45
+- [X] to 09:00 merging last document
+  -> let's schedule followup
+- [X] to 09:10 Jim's concern with truck
+- [X] to 09:20 scheduling future calls; jeremy?
+- [ ] to 09:30 discuss TEE
+  -> ran out of time, realized kate call 9:30
+- [ ] to 09:40 checkout
+
+Karl:
+  TDE not addressed enough.
+    I really want to start adjusting things to improve in the face of my difficulty getting senses of stuff.  The only way we began to address this was by moving the old doc into this one -- nothing was actually done with it.
+  Success: got through rough spot at beginning! jim took over agenda tracking to my satisfaction which was really freeing!
+  suggestion: maybe we could have two meetigns, one to work on _process_ and another to get things _done_ ?
+
+Jim:
+  Stuck between 'process' and 'getting things done'.
+  Appreciates suggestion above.
+
+
+concerns:
+- merging last document
+  subconcerns:
+      - document will be lost unless enters todo repository; karl's memory is not a place to keep things
+      - jim not on board with regard to using this time to make file that unifies concerns in todo repository
+      - other item i forgot
+- scheduling future calls; jeremy?
+- TEE use
+- plan next green bank visit nov 28th/29th
+  OR address Jim's concern around trunk staying so long
+
+- finances, with specific goal
+- physical/medical scheduling (CCIL?)
+- voicemail
+- beginning enumerating concerns from sources
+- plan truck
+- new pressing concerns:
+  - dad's email, car registration
+
+# Next meeting:
+- discuss two meetings, one for process and organization tools, another for getting work don
+
+# 2018-11-20 08:14 Jim Taggart mtg
+
+Jim Taggart must wrap up prior to 9:30a.
+
+- [ ] Agree to Process
+	- meeting follows agenda with hard deadlins
+	- first agenda item is to agree on agenda
+  - meeting ediquete call-out practice?
+  - label items whether coming from Jim or Karl
+- [X] to 08:30 or earlier Agenda
+
+- [X] to 08:45 or earlier: Prior 1: plan for separating process from work
+
+			- any decisions / goals regarding check-out / check-in / other meeting norms
+
+			-> propose 2 meetings per day, process meeting and work meeting
+				-> perhaps 3rd post-portem meeting is one with jeremy or kate
+
+
+- [X] to 09:10 or earlier: Prior 1: time / priority management
+	- philosophy of time management
+    K: "I'd like to be aware of the things I want to do and need to do, and I'd like to feel like I'm getting them done."
+
+	- integrating goals / tasks
+    -> let's move towards merging UPCOMING list with Present Concerns list
+  - TDE concept
+
+      -> Shielding Project
+      -> Responsibilities
+        -> other things that are also good to do
+        -> nicotine: can make goals that are unpleasant pleasant, goals that are impossible, doable
+      -> Nicotine Dispenser
+      -> Meetings with Jim focused on timely effectiveness
+
+- [X] to 09:20 or earlier: Prior 2: current events updates
+			- truck / ccil
+			- kate / jeremy involvement
+
+- check-out:
+
+
+# 2018-11-20 12:32 Jim Taggart mtg
+Must end by 1:30
+
+Jim has had sophisticated jobs where productivity is really important, and he's had to design his own
+personal systems.  What he's trying to do is help me develop my own productivity system.  Both of us
+are not feeling good about the process.  Yesterday Karl yelled at him.  Karl wants to include other
+people in the process ... he wants people who are smrter or can type faster; Karl's throwing all these
+collaborative interfaces at him and expecting him to use them within five minutes of looking.
+Jim's sensing that we're not connecting on how to move forward on this system.
+Jim's suggesting that we find on the market a personal productivity system, that is sophisticated,
+for me and him to look at it together and see if that might be a better fit than what we're trying
+to customize together.
+
+K: It sounds like you're feeling frustrated because this is difficult.  Is that correct?
+J: I'm very patient, and I'm not frustrated, but I did wake up last night, concerned about this meeting.
+Whatever's happening re personal coaching system, there's tension and anxiety and there's a gap in
+communication.  Jim's availed himself a couple of times a day now for a process meeting and a work meeting.
+
+K: It sounds like you're feeling a lot of tension and anxiety around a need for us to communicate and work
+more effectively.  Is that right?
+
+J: What would be helpful for me is that at the end of our meetings, that we create an agenda for the next
+meeting.  Instead of starting the day with having to create an agenda, we have an agenda from the previous
+day for working on the next day.  Do you think we could spend a few minutes trying to create an agenda
+for tomorrow morning?
+
+K: <got blocked around typing>
+
+
+# 2018-11-21 08:14 Work Mtg to 9:15
+
+- [X] Agenda
+	-> "personal productivity system"
+- [ ] to 9:15 Consolidating Lists
+
+	-> Jim expresses again desire for task priorities:
+			1. Next
+			2. Later
+			3. Extra
+
+
+
+	-> Way to associate it with time: schedule, day week month, quarterly?
+
+
+Next Process Mtg:
+- any decisions / goals regarding check-out / check-in / other meeting norms
+  => address any decisions or goals regarding the meeting process
+    (karl had things he wanted to talk about, change, or stress, or check-in regarding)
+- TDE concept (meeting use and goal use)
+
+
+Next Either Mtg:
+- integrating goals / tasks
+  -> let's move towards merging UPCOMING list with Present Concerns list
+
+# 2018-12-01 09:18 meeting again to 10:00a
+-> concerns:
+	- getting back to regular meetings, such that other stuff doesn't get in the way
+		-> no deadline, as much as needed, and then reportback if extra
+	- reportback
+		-> nvc counseling/mediation/friendwork
+		-> trip to mass
+		-> riley
+		-> hiring an organizer?
+
+	- goalwork
+		- adding people to the team without clear roles
+			- dr mooney's role?
+			- nvc counselor
+			- kate & jeremy
+			- (riley/organizer/gwyn?)
+	- what is the purpose?
+
+Jim is a little under the gun and has less time than he may have before, I believe.
+
+Jim feels uncomfortable.  He says that it may cost my father more dollars to meet with both Jeremy and Jim.
+Jim is not uncomfortable.  He feels he's not authorized to be paid by my father to join a meeting Jeremy is also paid for.
+Jim is going to ask my father about it.  I'd like to also express to him that I feel I gain more from time spent with both
+Jeremy and Jim at the same time, than individually, and request that this be authorized.
+
+AGENDA EXAMPLE
+- 11:41 - brainstorm concerns
+	- time for checkout
+	- karl connecting with jim
+	- goal management work
+	- finding a way to manage my time with high effectiveness
+		and a sense of URGENCY since I have to handle every next day
+	- lack of time to tackle these things
+	- acknowledgement that these things are very important
+	- meeting with dr mooney
+	- skipped the check-ins
+- 11:43 - pick prioritized agenda items with time limits
+- 11:48 - appointment this afternoon
+- 11:50 - check-out
+
+2018-12-03 4:06p Dr Mooney & Jim
+Concerns:
+	- mooney & kar not connecting
+		- karl & celia telescope volunteer
+		- mooney & karl approach / focus
+	- designing an organizational/time management/personal productivity system
+		could dr mooney be helpful with his background in working with karl?
+	- karl's day/shower
+	- karl update
+Agenda:
+	- 4:17 Mooney & Karl connection
+		Dr Mooney did not have 304 number before.
+		He has been calling 207 518 8256.
+		He tried skype when numbers didn't work.
+		Celia will contact on Tue.
+	- 4:42 Designing a System
+		-> purpose of productivity system is kind of to hold lists as unpacked
+
+	- 4:... dr mooney & karl focus moving forward
+
+	-  Post-Meeting, Jim elps Karl resume dy
+
+2018-12-05 10:35a
+	10:40a work concerns
+		- jim followup
+			5-10 items
+		- karl weary
+		- some work?
+	unk prioritize, set deadlines, ensure consensus
+
+	truck, second antibiotics
+
+	-> jim will call Elkins Truck & Wrecker Service
+
+2018-12-06 10:03a Work Mtg
+- organizing goals
+- reportbacks
+10:12 - done agenda
+10:34 - Methods
+	Jim wants to list methods he's observed.
+	- Next, Later, Extra
+	- Backlog Todo, Doing, Done
+	- Doing the things that are most difficult when you have the most power to do them
+		(mark twain: in the morning)
+	- Fixing tools for the job: undoing blocks w n2?, repairing equipment
+	- Projects:
+		- Action Steps / Backburner
+		  ie Next, (Later), Extra
+		- Reference Materials
+	- Time Boxing:
+		Categories of Activity go in Blocks of Time
+	Propose for Projects:
+		- Next
+		- Resources
+		- Extra / Backburner
+			-> this is a place to put the cool ideas that churn up but aren't atm worth the time
+			-> even ones that don't belong in this project, perhaps
+ - List Processing
+
+2018-12-07 10:11a Jim & Kate Mtg
+- concerns:
+				- organization share:
+								- learning from kate regarding experience working with me to get organized
+								- status share re: organization
+				- keeping up in future
+								- schedule
+				- jim out of country from 14th through 29th
+				  karl traveling home 23rd to 29th, Newton Mass
+					14th - 23rd: contact for Karl
+- agenda:
+								both kate and jim were up with a client last night
+								karl also had some up at night
+								but it's friday, says jim =)
+				10:25
+								- jim out of country
+												Kate, abstractly, is happy to be point person.  But needs to check in with Windhorse.
+												Likely okay for short term while Jim is traveling.
+												Jim will check in with Bill; have not specifically discussed this yet.  (May be added expense.)
+												Jim will report back to Karl and Kate on Monday.
+																Another client will be transitioning out of Windhorse during that timeframe.  It is the only reason there could be a hiccup.
+								- schedule next mtg
+												Tue 10a
+
+				10:35
+								- organization share
+								Jim feels we are making progress at becoming aware of Karl's life things.
+								Next step: getting things done
+								Some progress both fronts.
+								Kind of limping re: improving organizational system.  Goal: Karl's self sufficiency.
+								Some categories, lists of things, concerns.
+								When in person, able to move forward on some responsibilities.  (medical, financial, possession-management)
+								Still much work left.
+								Impressed with Karl's perseverance.  wants to be more organized, more aware, more productive.
+								Jim also has much perseverance.
+								Feels better about some of these issues, but system has not really improved to the point of having a groove.
+												Karl expresses search for groove that is the search for the groove: an ongoing journey of improving system.
+								Jim reports excitement of Karl for things like doing lab reports for degree.
+
+								Day-to-day struggles eat up so much time that it is hard to make serious progress on the things that excite Karl.
+
+								We're talking about methods / strategies, to carve out time for these things.
+
+								Jim would like to get in a groove on making progress on these things.
+
+								re: groove.  Jim likes achievement.  He starts things and puts his whole being into them.  He's not going to give up on Karl.
+								He's up for the challenge.  But it can be frustrating at times.
+								Good to acknowledge enormity of it.
+
+								Breakthrough yesterday.
+								Jim's an achiever.  Building his patience.
+
+								- ideas/open loops:
+												- hiring organizer for possessions
+												- ttrack system
+
+												- celebrating buildable achievements
+												- karl kind of pushed achievement-celebration on jim withotu listening strongly to his place
+																-> very inspiring to know jim shares this value for accomplishment
+																   ==> perhaps more dialogue around our search for it <==
+				10:55
+								- check-out
+				11:00
+
+2018-12-07 12:02p Jim Process Mtg
+
+2018-
+	Jeremy, at 11:27a
+		I was going to make an attempt to summarize what I heard Jim say was his perception of part of what might be going on.
+		Then I was going to check in with Jim to see if that's accurate.
+		Then I was also inviting any part of Karl as best he can to also listen, as best as possible, and an opportunity to reflect
+		back to see if it's accurate.
+		If Karl doesn't have the capacity to reflect now, he may have this later, and can discuss with Jim.
+
+		What I think I heard from you, Jim, was a thought that because Karl has been in more distress lately, Gwyn has a tendency to
+		linger lonegr, and have more difficulty leaving.  Wondering if perhaps this has been actually increasing Karl's distress,
+		rather than relieving it.
+			Jim: Yes
+		Karl, were you able to hear that and maybe reflet back f any part seems accurate to you?
+			K: There's some truth to that; I see Gwyn a lot and it can be harder to settle into my own groove of the day.
+			   I don't feel it would be fair to blame my current behavior on seeing her so much during these previous days.
+			   My guess at why I'm struggling right now would partly be because I have intensely struggled in this environment before.
+			   I've noticed that when I have intense experiences, I tend to re-experience them in a prolonged manner when I stay in the environment
+			   I had them in.
+			   I'm pretty scared around blaming Gwyn for anything when I don't feel my mind is functioning very well, because there are a lot of small
+			   things I've been irritated about around hr the past couple days, and I could create a problem due to a confusion in my own mind becoming
+			   weirdly large or something.
+		...
+		While there does, I heard you saying, while there is some truth to having some difficulty with Gwyn staying longer, you feel scared of blaming her,
+		and you feel scared that given your current state of mind, some irritations you have might become or seem bigger.  Is that right?
+
+		I wonder if there is a way to try to work with the parts of you that feel scared y this topic ... and if this topic is less scary, maybe it will be
+		less triggering to the parts fo you that don't want to talk about anytihng scary.
+
+2018-12-12 11:03a Jim & Kate
+	check-in
+			Kate just had wonderful -- and meditation for half-hour and -- about -- subjectivity that she really found enriching.
+			Jim rolled into driveway at 3am and was up at seven with tasklist of things to accomplish
+					... signing car over to sun so ... stop at bank .. loans, title
+					running a little ragged [rushed to meeting]
+					has until 11:45a, has to pick up client at 12:30p in killington, takes 40-45 min
+					expresses thanks
+	concerns / thoughts:
+		it is 11:22a, i introduced a lot of pause not engaging
+		- schedule next mtg
+		- Kate's role while Jim is in Africa
+		- plan/around karl's behavior interrelates task planning and goals
+	to 11:27 - schedule next mtg
+		Fri Jan 4, 10a
+	to 11:35 - discuss Kate's role
+		Jim in Rwanda on 2018-12-14.  Returns on 2018-12-30, and works on the 31st.
+		Karl in Boston 2018-12-23 to 2018-12-29.
+		Kate on meditation retreat 2018-12-28 to 2019-01-03.
+		Bill authorized any additional billing and agrees Kate is logical person to step in as "point person".
+		Jim depicts Kate as doing her regular 2/wk meeting but also being available for any serious matters that came up.
+		Kate can do this and has been approved by WH.  Will not produce an additional bill unless time is used.
+		Kate calls it crisis coverage.
+		Kate says feel free to reach out with logistical issues, such as paying medical bills, too.
+		If 10 is crisis, feel free to reach out at 8.
+	to 11:40 - addressing karl's behavior situation
+	to 11:45 - recap & potential next items
+		Jim: feels great to work together all 3, have Kate as a backup
+		     appreciates Karl's humor [?]
+		Kate: feels sense of connection with both of us.  appreciated call and what we were able to relate to.
+			   hopes Jim has wonderful vacation
+				 looks forward to stepping into role in Karl's team
+				 next mtg with Karl 12/14 10a
+
+2018-12-12 12:04 Dr Mooney
+	items:
+		- organization
+
+		- goals
+
+2019-01-03 10:02 Dr Mooney
+	items:
+		- finding pen
+		- update
+			- jim hire organizer
+			- organization system
+			- shielding project?
+			- karl's post to mailing list
+		- check-in to see recent behavior
+		- wrapup to see how the meeting went
+
+	10:05
+	check-in:
+		started new year, two weeks since talked to dr mooney
+		- visited parents for xmas, also kate
+		- set up brushing/routine
+			- visited parents and froze up, it threw in the works and i've been somewhat struggling
+		- my laptop broke so my systems are slightly confused
+		- my parents gave me a new laptop for birthday, but it's not set up with floobits
+		10:10
+		- came up with plan for building working shielding space, lots of excitement around which has inhibited progress
+		- parents are planning to buy a house with me; jim and i are visiting a candidate today
+		- gettign better at nvc; i've used it successfully in one or two situations
+		- planning to attend a caving meeting with jim
+		- attending multiple nvc groups
+		- dropped some e-mail conversations i had
+		- my parents support me in pursuing an internship at the telescope but it is very hard to make progress on
+		- struggled to make progress with volunteership at telescope; missed celia's last call
+				-> should really schedule regular calls with celia
+		10:13
+			buyung house explanation: I asked my parents to co-sign a mortgage on a $40k house nearby, which jim had brought to my awarenes
+			would make it affordable for me.  they saw there was no pluming and it was very rundown, and make a counter-proposal the next day
+			that I buy a larger house with much better attributes, and they would make a large downpayment on it to give it a comparable mortgage
+		- jim took the truck tot he mechanic
+		- my parents gave me a brithday present of paying for the transmission
+		-> I want to call the mechanic and review the situation and bring some additional issues to their attention like broken AC and lift gate,
+		   but I keep forgetting to do this
+		10:15
+		gwyn is still visiting twice/day sometimes more
+			she often offers to work more than I am interested, speaking with the assumption that i want her to
+			i want to give her work but often am not looking for more things done
+	two best times for celia calls:
+			9:30a-5:00p m-f
+			- any time monday afternoon (1230 - 5)
+			- any time wednesday EXCEPT for the 9th when I have a cancer appt an hour away
+			- any time thursday _other_ than my talk with dr mooney (which apparently is mischeduled)
+					some weeks I am unavaialble Thu afternoon this happens 1/mo
+			- any time friday afternoon
+		10:21
+	email i posted to mailing list:
+		https://lists.cpunks.org/pipermail/cypherpunks/2019-January/044280.html
+		10:37
+	hiring an organizer with jim:
+	floobits with celia?
+	wrapup:
+		10:51 karl thinks things went okay !
+		  dr mooney is worried he took me somewhere that was too frightening
+			karl tries to clarify he was responsible for going there, and was trying to bring things there
+			dr mooney says karl is brave for sharing this with him today
+
+2019-01-04 Kate & Jim
+	10:13a
+	concerns:
+			- relay my new routine script
+			- discuss/plan/inform jim's work combining some of the organization concepts
+	10:14a
+			- J: when jim visits every other week, it's nice [to use the same structure]... usually come midday wednesday and then here for half the day, sometimes thursday ...
+			  if we use the same process, and i think we kind of do ... then we engage and have some sort of checkout ...
+				just being aware that we're using the same kind of process or organizational things when we're together for a long period of times
+				=> broadening what we're doing in these meetings to the whole time we're together (me and jim)
+		  - time tracking, involvement tracking
+			- Kt: purpose of these calls; to articulate that as well as to determine the frequency of them
+	10:18a
+	Purpose of These Calls
+			Kt - 6-8 wks ago Kr askd if the 3 of us could meet, my understanding it was for
+				1 - sometimes it's helpful to have a group conversation rather than 1-on-1, affects the dynamics
+				2 - related to organization systems, Kt and Kr had worked on that before
+				3 - historically, Kr and I have spent about a year together, or a little more; there could be a passing-on of best
+				    practices for relating
+				4 - Kt wants to show up in whatever way is supportive to you both
+			Jm - re: 1, value of involving many people, occasionally, perhaps more people
+					 re: organization systems, i was trying to start fresh, but after research involve new stuff
+					     early december lots of disorganization for Kr, didn't make much progress
+					 Kr wants to feel more organized and get stuff done in his life, bottom line, and people have experience and that's great
+					 also: getting point of view
+			10:27a
+			Kr - .getting stuck, other struggles
+			    .trouble communicating and collaborating
+			    .Jm, hiring an organizer
+			Jm - Action Method: look at everything in your life as a project.  Imagine a folder.  On the front are action steps
+			     to complete the project.  Inside the folder are the reference materials; things you need to complete the steps.
+				Jm has experience that Karl's routines are complex and interwoven [perhaps that they could even be getting in the way
+				of progress?].  I think he expresses a desire for simplicity, unsure.  Repeats focus on a system of 3 priorities.
+			...
+			10:44a
+			10:47a
+			Kt - breaking tasks up into categories: daily routine, ongoing projects, life-enriching goals
+					if Kr can attend to a bit of each, he might experience more fulfillment
+			Jm - in past we've discussed chunking each week or day into blocks: work, therapeutic lifestyle, social connection
+					Kr was trying to allocate whole days at once to things like this
+					impresed by all Kr has tried, but it doesn't seem anything really sticks and course is stayed
+			...
+			Jm - Karl keeps talking about bringing people in, but I think that complicates things.  We have the formation of a
+      			really interesting team here with Kate, Dr Mooney, Gwyn, Jeremy ...
+						I think the answer is somehow in how we're teaming ... this talk may not be efficient.  There's a lot of
+						possibly wasted effort that could be more efficient and effective.
+			Jm - requests meeting with most parties discussing how we are working together, to make more effective.
+			     prior to that perhaps could synthesize goals and priorities.  team's purpose is to support me to get that
+					 accomplished, and to think creatively about how.
+			Kt - when many ppl are working on similar things, it can be very helpful to have quarterly or monthly meetings.
+
+2019-01-10 11:15a Dr Mooney
+	Agenda?
+		- house
+		- Celia
+		- wrap-up at end
+
+2019-01-23 13:05p Dr Mooney
+	Agenda:
+		- Celia
+		- check-in on Karl and Karl's family and the House purchase
+		- Check-in on Jim and Jim's involvement
+		- How things are going with support staff (Gwyn)
+		- Focus for work with Dr Mooney (brainstorm, check-in)
+					questions for inspiration are: what does dr mooney see his role as? what does karl see his role as?
+
+	Let's go
+		- Celia
+				didn't get call at 12:00p (which is kind of good because I was having a water emergency involving taking up the carpet)
+				Celia does not have the time to consistently meet with Karl.  Doesn't want to promise things she can't follow through on.
+				Dr Mooney is going to pursue this, find somebody else.
+		- check-in on Karl and Karl's family and the House purchase
+				My parents seem okay ... I visited them? over christmas ...
+				I talked with them recently, but I don't remember what about ...
+				but they seem somewhat wellish?
+				Karl has been kind of fluctuating ... some really rough days, some ok days generally marked
+				by high doses of nicotine.  I've been thinking of my experience as being at the nadir of what
+				I call "looping" -- where I stop my productive activity, forget a big chunk of it, and do something
+				else for a while.  It's generally associated with intense suffering prior.
+				So I've been figuring this is the case and playing a lot of video games, which has not really
+				involved suffering at all.
+				I'm trying to get back on the nicotine and associate it with being productive.  Maybe looping can stop.
+				"Has it run its course with regard to functionality?"  [With behavioral plans, some reinforcers can
+				sustain themselves and some cannot without increases.] "With any substance that is addictive, like
+				nicotine, your body is going to demand more to get the same result."
+				The effect decreasing that I'm concerned about is how easy it is to take the nicotine.
+				It seems to be getting harder.
+				House looks like ti will happen fi we are okay with asbestos etc derelict house.
+		- Check-in on Jim and Jim's involvement
+				Jim is helping with the house inspections; he seems to have kind of taken charge of them.
+				I've also asked him to keep tabs on some obligations that I'm having trouble remembering
+				  that came up when I was with him.
+				He visits every two weeks.
+				He's a little taxed and will be staying in the area longer this week in order to attend with me
+				a caving group meeting that I wanted to try next weekish.
+				Jim is also kind of managing Gwyn, orchestrating payment and such.
+				I'm asking Jim to hire an organizer for me; he offered to once.  My things are hard to find
+				and it would be incredible to have an ally in having everything have a place.
+				Jim sometimes tries to task Gwyn with tasks that are not that aligned with my relationship with her;
+				I haven't quite sorted that out.
+		- How things are going with support staff (Gwyn)
+				I generally try to encourage things with Gwyn to mostly be about giving me meds, which is
+				what I was looking for at the start.  I haven't gotten good at communicating with her in
+				depth at this time; so it can be hard to get on the same page about workable strategies
+				for workarounds to my issues.
+		- Focus for work with Dr Mooney (brainstorm, check-in)
+					questions for inspiration are: what does dr mooney see his role as? what does karl see his role as?
+
+					What does Dr Mooney see his role as?
+						(What is Karl's role in relation to that?)
+						"I see, in some ways, looking at the bigger picture and looking from a behavioral point of view,
+						 developing strategies, that sort of thing, asking some of the more difficult questions,
+						 and approaching things from a macro rather than micro point of view."
+
+					- Looking at the bigger picture and approaching things from a macro rather than a micro point of view
+							"looking at more 'what are you doing, what are you able to do' and 'how can we get you there'
+							as opposed to focusing on the day-to-day functioning.  What are your larger goals and how can
+							we set you off in that direction?  You may not reach a certain goal, but you make decisions
+							along the way."
+					- Developing strategies, that sort of thing
+					- Asking some of the more difficult questions
+
+					Has
+					- Experience with working with
+							- autism-spectrum individuals
+							- recoverees from radiation treatment
+							- psychosis diagnosees
+							and the "bowl of spaghetti" such people are in
+
+					What does Karl see Dr Mooney's role as?
+
+					Goal Relevance:
+						Dr Mooney has interest in helping organize my goals and priorities, while keeping in mind my values.
+
+					Strategy Relevance:
+						Dr Mooney has interest in finding workarounds for the obstructions in my daily life and my pursuit of my goals.
+
+					Dr Mooney requests involvement of Jim and Gwyn regarding strategies and "goal-setting".
+						Worries discussions will remain in floobits and not reach the real world.
+
+					Karl texted Jim regarding Dr Mooney's request for meetings involving Jim and Gwyn.
+					Dates and times were suggested.
+
+2019-04-16 18:03p Dr Mooney, Jim Taggart, Gwyn expected.
+	- Concerns / Issues
+		dr mooney, "planning for the future, concerns around organization, and overall planning"
+		karl, "discussion around running away associated with autism spectrum"
+		jim taggart, "insurance supported plan, windhorse phasing out, focusing on billing medicaid"
+	- Prioritizing
+	- Time Assignment
+
+	...
+	jim describes local health situation; he has talkd with alex and shelley, and they are waiting
+		for in-take appointment to be scheduled, to learn about tele-health services from Seneca Health
+		Services, which may be the local dedicated mental health agency.
+			have MD psychiatrist
+			have practicing nurse who also prescribes
+			have in-person therapist
+			have tele-health office
+			have two care coordinators who work as a team to field calls, see people in person, etc
+		also talked with northern west virginia council on independent living, can meet with me in elkins
+	...
+	any staff working with karl need to understand that that is a response they might expect, and try
+	to understand
+	pre-planning with regard to anesthesia or medical procedures in the future
+
+
+
+
+VALUABLE: dialogue around mutual search for a sense of accomplishment/achievement
+				consider occasional sense of conflict could be both of us searching for achievement to happen soon
+
+TIMEKEEPING: consider asking somebody to track how much each person speaks, so we can work on improving efficiency of meetings?
+
+LONGER-TERM CONCERNS:
+		- pressure of practical items going by unresolved and how much time addressing them is eaten up
+		- complexity and number of pieces that need structure, plan, effort to address
+		- intense struggle performing simple tasks, especially if high priority
+
+CONCEPTS / APPROACHES / REFERENCES:
+		-
+
+# MEETING PROCESS PROPOSAL
+Notes / Agenda on https://floobits.com/fuzzyTew/todo in Logistics/00-Organizer.txt
+-> check-in, 90 secs/person (Kate)
+-> at start of meeting, check for consent with all participants before continuing, to both process and agenda (Karl)
+-> concerns become agenda items (Karl)
+-> items are prioritized with deadlines (Karl)
+-> recap, check-out: to connect as human beings (Kate)

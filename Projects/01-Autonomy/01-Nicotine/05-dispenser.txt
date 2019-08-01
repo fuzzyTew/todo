@@ -1,0 +1,99 @@
+goal 1: secure box that cannot be disassembled reasonably and dispenses nicotine
+	only when some computer-verifiable condition has been met
+goal 2: device can control the quantity of nicotine precisely
+
+further goals:
+	- prevent removal of substance from body?
+	- control quantity of nicotine precisely
+	- concocts nicotine mixture automatically
+
+== goal 0.1 ==
+2018-10-28
+I set up a soap dispenser and measured it.
+I found it took 15 of the largest squirts to fill my canning jar to the 100 mL mark.
+I found it took 17 of the largest squirts to reach the next 200 mL mark.
+I'm assuming my canning jar has the first mark too low due to the round shape at the bottom.
+This would make each squirt at most about 100/17 mL or around 5.88 mL.
+I don't want to take more than 1mg of nicotine at a time, so I'll want to put 32 mg in a solution
+that fills my canning jar to the 200 mL line.  That's 16 2mg lozenges, or 8 4mg lozenges.
+2018-10-30
+Most of the fluid went off my toothbrush.  Trying lower does.
+At smallest does,
+It took 37 squirts to reach a different jar's 100 mL mark.
+It took 39 more squires to reach its next 200 mL mark.
+It still mostly runs off the toothbrush!
+Maybe I can use actual toothpate, or increase the thickness somehow.
+1 mg / squirt: 37 mg to 100 mL.  Try 38.
+2018-11-06
+Dispenser got clogged when viscosity was high enough to stay on brush.
+Options: - increase viscosity after dispensing, by e.g. mixing with toothpaste
+	 - pursue drill bit inside powder approach, to push powder out of box in controlled manner
+	 => mix with thickening powder after dispensing to increase viscosity for brushing
+
+Got my soap dispenser in mail.  Has a large circuit board that powers pump, controlled by button.
+
+Attempt number one will be to wire an arduino to the power for the device, and to control the button.
+The button controls volume.  Toggling it affects quantity and power.
+2018-11-25
+Setting up dispenser again with thickening plan.  I have graduated cylinders to measure volume correctly.
+I found that the volume dispensed depends on the volume loaded, with the amount decreasing as the pressure decreases.
+2018-11-26
+Data for smallest dispensing unit is in dispensertests.txt .
+I measured dispensing with the body filled amounts ranging from 30 mL to 140 mL.
+I found the dispensed amount to range from 0.3 mL to 1.2 mL.
+It dispenses almost nothing when first starting up.  I imagine it needs to fill the tube.
+The dispensed amount appears to be roughly proportional to the amount filled.
+(Average Small Dispense) = 0.597035 mL + 0.00164173 * (Volume Filled)
+but it can vary widely.
+
+I'm thinking I'll assume an average dispensed amount of 0.7612 mL, which is the approximate average amount when filled to 100 mL.
+
+I guess I'll want a concentration of 1 mg at 0.7612 mL.
+That's about
+262.74 mg in 200 mL
+131.37 mg in 100 mL
+65.685 mg in  50 mL
+
+Maybe I'll try putting 64 mg in 50 mL, giving a goal dosage of 0.974336 mL / dispense.
+
+Okay, I'm planning to write a program to track the dispensing.
+Likely use ROOT & TFile.  I'll need to store how much volume is in the dispenser, and update it when dispensing happens.
+Then it can predict the size of the dose, and later control how many doses etc.
+
+== goal 1 ==
+probably a cage or metal box with an opening for power & networking, and a door.
+door must be openable from inside by powered device
+device is likely a single board computer, raspberry pi
+
+raspberry pi will run off of power, plug into network (similar to camera project)
+and dispense N2.
+
+: monologue 1
+	How will device dispense n2?  opening a door is reasonable ... will need
+some engineering to design dispensing.
+Could have a hopper with a shutter on it.  How determine that n2 dispensed by
+hopper in proper amount?
+	-> could guess it based on shutter timing =/
+	-> this could work with powder too; clumping could be an issue, but could
+	   have a dessicant that's replaceable
+There's a great answer to this question at https://robotics.stackexchange.com/questions/1259/how-to-measure-and-dispense-a-finite-amount-of-powder-or-liquid/1261#1261
+which has a short url of https://robotics.stackexchange.com/a/1261
+
+I'm thinking a box with a round hole at the bottom, with an augur bit that pushes things through the hole ...
+Actually, after reading how much more precise liquid dosing can be, I'm thinking
+hacking up a soap dispenser would be the way to go.  This is cheap and simple.
+Will probably want a pipe to feed liquid into dispenser, with a valve on it to
+keep it from drying out.
+Sounds simple and doable.
+
+== PLANNING ==
+
+METRICS:
+	- IMPORTANCE of habit
+	- DEVELOPMENT of habit, whether I am at my goal with regard to doing it
+
+I'll need a metric to rank the VALUE of DEVELOPING and MAINTAINING different habits
+I'll also need a metric to judge the EFFECTIVENESS of different approaches to development and maintainence
+Propose adding numbers to different current habits, and possible new habits
+	some of these numbers could relate to the goal the habits pursue, and their effectiveness in pursuit of that goal
+

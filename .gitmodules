@@ -1,9 +1,0 @@
-[submodule "wiki"]
-	path = Work in Progress/To Be Organized/wiki
-	url = https://github.com/fuzzyTew/todo.wiki.git
-[submodule "openemissions"]
-	path = Projects/01-Shielding/openemissions
-	url = /home/olpc/src/openemissions
-[submodule "Projects/01-Shielding/openemissions"]
-	path = Projects/01-Shielding/openemissions
-	url = /home/olpc/src/openemissions
