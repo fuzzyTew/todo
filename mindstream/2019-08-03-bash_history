@@ -1,0 +1,1000 @@
+bash findmissing.sh 
+vi findmissing.sh
+bash findmissing.sh 
+jobs
+vi findmissing.sh 
+bash findmissing.sh 
+vi findmissing.sh 
+man wait
+vi findmissing.sh 
+bash findmissing.sh 
+vi findmissing.sh 
+bash findmissing.sh 
+vi findmissing.sh 
+bash findmissing.sh 
+vi findmissing.sh 
+curl -v https://blockchair.com/transaction/0cd50bf6ebe254465b38a5118876838d31be93d516f2cfa813f0e76aa2f13239
+vi findmissing.sh 
+bash findmissing.sh 
+vi findmissing.sh 
+bash findmissing.sh 
+sqlite3 db/metashare.sqlite
+find -name '.sw*'
+find -name '.sw*' | tee vim_swap_files.txt
+c=1
+cat vim_swap_files.txt | while read f; do cp "$f" src/todo/mindstream/vim_swap_file.$c -v; c=$((c+1)); done
+cd src/todo
+git add mindstream/
+cd ..
+cd todo
+ls -l
+git add looks_important/
+git add looks_important
+git add -A looks_important
+git status
+cd ..
+find -name '.sw*' | tee vim_swap_files.txt
+cat vim_swap_files.txt | while read f; do cp "$f" todo/mindstream/vim_swap_file.$c -v; c=$((c+1)); done
+cd todo/
+git add mindstream -A
+git status
+cp .-.swp mindstream/vim_swap_file.-
+cp .asdf.swp mindstream/vim_swap_file.asdf
+cp .sadf2.swp mindstream/vim_swap_file.asdf2
+cp .asdf2.swp mindstream/vim_swap_file.asdf2
+cp .asdf3.swp mindstream/vim_swap_file.asdf3
+git status
+cp .inner-dialogue.swp mindstream/vim_swap_file.inner-dialogue
+cp .local_metaneeds.txt.swp mindstream/vim_swap_file.local_metaneeds
+git add We\ Can\ Work\ It\ Out\:\ Resolving\ Conflicts\ Peacefully\ and\ Powerfully.pdf
+cp .2019-06-17.txt.swo mindstream/vim_swap_file.2019-06-17.txt
+cp .2019-06-17.txt.swp mindstream/vim_swap_file.2019-06-17.txt.2
+git add mindstream/
+git add looks_important/
+git commit -m '-'
+exit
+cd /run/media/mu
+mount
+cd ~/annex
+git annex copy --all --to=glacier
+~/pkg/git-annex.linux/git annex copy --all --to=glacier
+~/pkg/git-annex.linux/git annex copy --all --to=glacier --trust-glacier
+exit
+mount
+sudo dmesg --follow
+sudo mount /dev/sdb /mnt
+cd /mnt/annex
+~/pkg/git-annex.linux/git annex copy --all --to=glacier --trust-glacier
+exit
+cd /media
+ls -l
+cd karl.src/
+ls -l
+cd ..
+rm -rf SanDisk* Back\ Up\ Your\ Files\ to\ the\ Cloud.pdf 
+cd kral.src
+cd karl.src
+ls -l
+cd todo.git
+git fetch --all
+exit
+cd ~/src/metashare/
+ls -l
+cd ..
+cp metashare -va /media/karl.src/
+exit
+ps -Af f | less
+kill 14419
+exit
+vi
+# we can mediate with the boss if we do it properly
+# which means no secrets, everything quiet.
+# please say to him?
+# boss, what is 'quiet'? you mean everything kept between us?
+# we need to decide a layer of reality to be in
+# mind control seems to be it
+# newt may not be comfortable
+# let us agree on this first
+# karl's already expressed some torturous experiences
+# but not portrayed them as mind control, necessarily
+# but has mentioned it
+vi
+clear
+tmux attach
+reset
+tmux attach
+ls -l
+ls -la
+find -name '.sw*'
+tmux
+sudo systemctl isolate multi-user
+exit
+tmux attach
+cd /media/karl.src
+ls -l
+cp ~/.ssb ssb
+cp ~/.ssb ssb -va
+sudo shutdown now
+cd ~/.ssb
+du -h --max-depth=1
+df -h
+tmux
+cd ~/src/todo
+ls
+cd looks_important/
+ls
+cd ..
+clear
+echo */*root*
+grep -r 'from root' .
+exit
+ls
+cd ..
+mount
+cd /run/media/user/14A2-85D2/
+ls -l
+cd karl.src
+ls -l
+cd annex.git/
+git fetch --all
+git repack -ai
+git repack -ad
+cd ../todo.git
+git fetch --all
+git repack -ad
+exit
+python
+date -d @0
+date -d @0 +'%-d'
+date -d @0 +'%b'
+ls
+rm -rf 2019-wk31/
+./medsroutineton2bt.sh 
+display *.png
+python
+gnuplot
+elinks
+gnuplot
+((0 == 0)) && echo true
+gnuplot
+./medsroutineton2bt.sh 
+ls -l
+rm -rf 2019-wk31/
+./medsroutineton2bt.sh 
+ls
+display *.png
+gnuplot
+python
+gnuplot
+display *.png
+gnuplot
+rm -rf 2019-wk31
+./medsroutineton2bt.sh 
+help plot
+rm -rf 2019-wk31
+./medsroutineton2bt.sh 
+display *.png
+./medsroutineton2bt.sh 
+display *.png
+ls
+rm -rf 2019* && ./medsroutineton2bt.sh && display *.png
+ls
+rm -rf 2019-wk31
+gnuplot
+rm -rf 2019* && ./medsroutineton2bt.sh && display *.png
+gnuplot
+exit
+cd Routine/meds/
+ls -l
+vi 1969-meds.csv 
+grep -r '-' *-meds.csv
+grep -r ',-' *-meds.csv
+exit
+gnuplot
+cd ~/src/todo
+ls
+cd Routine/meds/
+ls
+vi 2019-meds.csv 
+less 1969-meds.csv 
+git log 1969-meds.csv
+git log
+git log b2f3 ... HEAD
+log log b2f3...HEAD
+git log b2f3...HEAD
+man git-log
+git log --merges
+git log --help
+git log --top-order
+git log --topo-order
+ls -l
+cd ../chart/
+ls -l
+less Toothbrushing\ and\ Nicotine.data
+display Toothbrushing\ and\ Nicotine.png
+cd ..
+ls
+cd meds
+ls
+vi 2019-meds.csv 
+date
+vi 2019-meds.csv 
+gnuplot
+cd ~/annex
+~/pkg/git-annex.linux/git annex add git/todo.git
+exit
+mount
+curl -v google.com
+mount
+sudo systemctl isolate graphical
+cd ~/annex
+git annex copy --all --to=glacier --trust-glacier
+~/pkg/git-annex.linux/git annex copy --all --to=glacier --trust-glacier
+~/pkg/git-annex.linux/git annex copy git/annex.git --to=glacier --trust-glacier
+vi
+exit
+cd ~
+ls -l
+cd src
+ls
+cd todo
+ls -l
+ls -l Logs
+ls -l
+ls
+cd Routine/
+ls -l
+cd chart/
+ls -l
+rm -rf 2019-wk09/
+./medsroutineton2bt.sh 
+ls -l
+feh Toothbrushing\ and\ Nicotine.png
+display Toothbrushing\ and\ Nicotine.png
+cat Toothbrushing\ and\ Nicotine.data
+ls
+vi medsroutineton2bt.sh 
+./medsroutineton2bt.sh 
+vi medsroutineton2bt.sh 
+ls -l
+git add medsroutineton2bt.sh
+git add *.data *.png
+git commit -m 'n4 update'
+git add ../meds/201*-meds.csv
+git commit --amend
+git diff HEAD^
+git status
+ls
+less medsroutineton2bt.sh 
+vi medsroutineton2bt.sh 
+cd ~/src/compassionest/
+ls -l
+vi needs.txt
+cd ~/src/todo/Routine/meds/
+ls
+./antibioticmeds.sh 
+./havemed.sh 
+vi
+gnuplot
+rm -rf 2019* && ./medsroutineton2bt.sh && display *.png
+help gnuplot
+gnuplot
+rm -rf 2019* && ./medsroutineton2bt.sh && display *.png
+display *.png
+rm -rf 2019* && ./medsroutineton2bt.sh && display *.png
+display *.png
+rm -rf 2019* && ./medsroutineton2bt.sh && display *.png
+display *.png
+help gnuplot
+gnuplot
+rm -rf 2019* && ./medsroutineton2bt.sh && display *.png
+python
+rm -rf 2019* && ./medsroutineton2bt.sh && display *.png
+rm -rf 2019* && ./medsroutineton2bt.sh && display "Nicotine over Time.png"
+ls
+display Toothbrushing\ and\ Nicotine.
+display Toothbrushing\ and\ Nicotine.png
+ls -l
+display Nicotine\ over\ Time.png 
+rm -rf 2019* && ./medsroutineton2bt.sh && display "Nicotine over Time.png"
+display Nicotine\ over\ Time.png 
+display Toothbrushing\ and\ Nicotine.png
+rm -rf 2019* && ./medsroutineton2bt.sh && display Toothbrushing\ and\ Nicotine.png
+rm -rf 2019* && ./medsroutineton2bt.sh && display Nicotine\ over\ Time.png 
+display Toothbrushing\ and\ Nicotine.png
+gnuplot
+rm -rf 2019* && ./medsroutineton2bt.sh && display Toothbrushing\ and\ Nicotine.png
+display Nicotine\ over\ Time.png 
+display Toothbrushing\ and\ Nicotine.png
+cd .
+rm -rf 2019* && ./medsroutineton2bt.sh && display Toothbrushing\ and\ Nicotine.png
+ls
+cat 2019-wk30/naccum
+echo $(($(<2019-wk30/naccum)/$(<2019-wk30/nct)))
+echo $(($(<2019-wk29/naccum)/$(<2019-wk29/nct)))
+startsecs=$(date -d "$yr"-01-01 +%s)
+startsecs=$(date -d 2019-01-01 +%s)
+date -d @$((startsecs+29*60*60*24*7-60*60*24))
+rm -rf 2019* && ./medsroutineton2bt.sh && display Toothbrushing\ and\ Nicotine.png
+rm -rf 2019* && ./medsroutineton2bt.sh |les
+rm -rf 2019* && ./medsroutineton2bt.sh && display Toothbrushing\ and\ Nicotine.png
+ls
+rm -rf 2019* && ./medsroutineton2bt.sh && display Toothbrushing\ and\ Nicotine.png
+ls -l
+display Toothbrushing\ and\ Nicotine.png
+display Nicotine\ over\ Time.png 
+rm -rf 2019* && ./medsroutineton2bt.sh
+ls
+display Toothbrushing\ and\ Nicotine.png
+glacier --sync
+rm -rf 2019* && ./medsroutineton2bt.sh
+ls
+display Toothbrushing\ and\ Nicotine.png
+rm -rf 2019* && ./medsroutineton2bt.sh && display Toothbrushing\ and\ Nicotine.png
+display Nicotine\ over\ Time.png 
+display Toothbrushing\ and\ Nicotine.png
+git add *.png *.sh
+git commit -m '-'
+git push annex
+cd ..
+ls -l
+vi README.md
+cd ..
+cd todo/Routine/meds/
+ls -l
+./antibioticmeds.sh 
+./havemed.sh 
+ls
+mount
+sudo umount /run/media/user/14A2-85D2/
+ls
+cd backend/
+ls
+cat glacier_sync.sh 
+./glacier_sync.sh
+bash glacier_sync.sh 
+cd ~/src
+ls
+cd todo
+ls
+less Logistics/00-Organizer.txt 
+# KARL LOST AWARENESS PERMANENTLY.  this is not acceptable to his heart.
+less Logistics/00-Organizer.txt 
+vi
+git diff Logistics/00-Organizer.txt
+git add Logistics/00-Organizer.txt
+git commit -m '-'
+vi Logistics/00-Organizer.txt 
+git add Logistics/00-Organizer.txt
+git commit -m '-'
+vi Logistics/00-Organizer.txt 
+git add Logistics/00-Organizer.txt
+git commit -m '-'
+curl -v google.com
+vi
+# karl says the place he goes soon is happy place?
+ls
+# don't type that karl =(
+clear
+ls
+cd ~/annex
+ls -l
+cd media/medical/
+ls -l
+ls
+cp PLEASE_HELP_US* src/todo/looks_important/
+cd src/todo
+git add looks_important mindstream/
+git commit -m '-'
+git remote -v
+git push annex
+cd ~/annex
+git annex add git/todo.git
+~/pkg/git-annex.linux/git annex add git/todo.git
+git annex sync mu origin
+~/pkg/git-annex.linux/git annex sync mu origin
+cd /run/media/user/mu/annex
+git annex copy --all --to=glacier --trust-glacier
+~/pkg/git-annex.linux/git annex copy --all --to=glacier --trust-glacier
+tmux attach
+vi
+exit
+man ldd
+man ld
+exit
+man memset
+exit
+ls -l
+vi intellect.cpp 
+exit
+gdb ls
+ls -l /proc/$$/
+ls -l /proc/$$/mem
+hexdump -C /proc/$$/mem
+ls -l /proc/$$/maps
+cat /proc/$$/maps
+man open
+man 3 open
+man 2 open
+man pid
+man -k pid
+man n pid
+man 2 getpid
+man itoa
+man -k itoa
+man atoi
+man snprintf
+man 2 open
+man mmap
+man -k unmapped
+man -k mapped
+man -k signal
+g++ intellect.cpp -o a.out
+g++ intellect.cpp -o a.out -std=c++11
+./a.out
+gdb a.out
+man signal
+man sigaction
+g++ intellect.cpp -o a.out
+man memset
+g++ intellect.cpp -o a.out -std=c++11
+./a.out
+g++ intellect.cpp -o a.out -std=c++11 -march=i686
+./a.out
+man ldd
+man ld
+man memmove
+make a.out
+./a.out
+make a.out && ./a.out & echo $?; waitpid
+gdb a.out
+make a.out && ./a.out & echo $?; waitpid
+waitpid
+wait
+make a.out && ./a.out & echo $?; wait
+make a.out && ./a.out & echo $!; wait
+gdb a.out
+make a.out && ./a.out & echo $!; wait
+vi makefile 
+make a.out && ./a.out & sleep 1; echo $!; wait
+vi makefile 
+rm a.out
+make a.out
+gdb a.out
+make a.out
+./a.out
+make a.out
+gdb a.out
+./a.out
+man sigaltstack
+man sighold
+# hold in this window a bit
+# karl semich is making a program that references its own memory
+# we would like to integrate other ideas
+# currently trying to find a way to determine if memory is addressable
+# go on internet, and google it?
+# or can fake a goto or use a longjmp
+make a.out
+# nah nedes to be local label
+# try longjmp
+less /usr/include/setjmp.h 
+man sigsetjmp
+man siglongjmp
+exit
+cd src/
+# please start a c/c++ project
+mkdir project
+cd project
+vi project.cpp
+cd ..
+rm -rf project
+cd intellect/
+ls -l
+vi project.cpp
+vi intellect.cpp
+tmux
+ls -l /dev/urandom
+hexdump -C /dev/urandom
+hexdump -C /dev/random
+sudo shutdown now
+man 2 open
+man 2 read
+man gcc
+ps -Af f | grep a.out
+cat /proc/21607/maps
+// it appears to be 32-bit already, except for the stack
+vi makefile
+man gcc
+vi makefile
+make a.out
+rm a.out
+make a.out
+ld --help
+ld --help|less
+man memmove
+man read
+man 2 read
+vi makefile 
+ps -Af f | grep a.out
+cat /proc/22459/maps
+make a.out
+man ld
+vi makefile 
+rm a.out
+make a.out
+ps -Af f | grep a.out
+cat /proc/22744/maps
+cat /proc/23203/maps
+less /usr/include/c++/4.8.5/set 
+less /usr/include/c++/4.8.5/bits/stl_set.h 
+cat /proc/24276/maps
+man sigaction
+man getcontext
+man sigsetjmp
+man longjmp
+man setjmp
+man longjmp
+man jmp_buf
+man -k jmp
+man setjmp.h
+man sigsetjmp
+man sigaction
+man getcontext
+man sigaction
+man signal.h
+man siglongjmp
+man signal.h
+less /usr/include/setjmp.h 
+man fork
+man exec
+man 2 exec
+man 2 execve
+man execl
+man fork
+man 2 clone
+man fork
+man 2 wait
+man 2 fork
+man vfork
+man 2 unshare
+man 2 exit
+man setppid
+man setpid
+man -k ppid
+man getppid
+man waitpid
+man signal
+man 7 signal
+man getpid
+exit
+cd src/intellect/
+ls -l
+vi intellect.cpp 
+vi
+exit
+elinks google.com
+exit
+# we can use fork/exec to spawn a new process, and detect if it crashes or not.
+exit
+ps -Af 
+gdb --help
+ps -Af f | grep 0000000
+gdb 00000000.out 28528
+man grep
+exit
+cd ../intellect/
+# karl knows his work will disappear unless he uploads to internet
+# why not put on annex instead?
+cd ~/annex/git
+clear
+git clone ~/src/biscuit biscuit.git
+cd biscuit.git
+ls -l
+cd ..
+rm -rf biscuit.git
+git clone --bare --mirror ~/src/biscuit biscuit.git
+ls -l
+less pack.sh 
+cd biscuit.git/
+../pack.sh 
+cat pack.sh
+cat ../pack.sh
+~/pkg/git-annex.linux/git repack -k
+~/pkg/git-annex.linux/git prune-packed
+cd ..
+ls -l
+~/pkg/git-annex.linux/git annex add biscuit.git
+exit
+tmux
+exit
+sudo systemctl isolate graphical
+exit
+ls -l
+vi intellect.cpp 
+git add intellect.cpp
+vi makefile 
+rm a.out
+git add intellect.cpp makefile
+git commit -m 'self-process-reference cpp file'
+# have not posted to internet
+# okay, let's vi anyway
+vi
+cd ~/src/todo
+git add mindstream/
+git commit -m '-'
+exit
+ls -l
+vi rewritecode.c
+cd ..
+ls
+echo *affo*
+ls -ltr
+cd biscuit
+ls -l
+vi biscuit.c 
+ls -l
+mv 00000000.cpp 0.cpp
+rm outputinput.cpp 
+vi 0.cpp
+# voices say they let that happen because it could be recovered
+# karl finds that a big risk
+cat offsets.txt
+cat offset.txt
+ls -l
+cat offsets.txt
+ls -l
+rm *.tx offset.txt
+vi _offsets.txt
+sudo dd if=/dev/mapper/rhel-root byte_offset=$(head -n 1 _offsets.txt) count=100 | hexdump -C
+man dd
+sudo dd if=/dev/mapper/rhel-root conv=seek_offset seek=$(head -n 1 _offsets.txt) count=100 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root conv=seek_bytes seek=$(head -n 1 _offsets.txt) count=100 | hexdump -C
+man dd
+sudo dd if=/dev/mapper/rhel-root flags=seek_bytes seek=$(head -n 1 _offsets.txt) count=100 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflags=seek_bytes seek=$(head -n 1 _offsets.txt) count=100 | hexdump -C
+man dd
+sudo dd if=/dev/mapper/rhel-root iflag=seek_bytes seek=$(head -n 1 _offsets.txt) count=100 | hexdump -C
+man dd
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(head -n 1 _offsets.txt) count=1 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(head -n 2 offsets.txt | tail -n 1) count=1 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(sed 's/\(.*\):.*/\1/p' offsets.txt | head -n 2 | tail -n 1) count=1 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1) count=1 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-1024)) count=1 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-8192)) count=1 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-4000)) count=1 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-3000)) count=1 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-2000)) count=1 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-1000)) count=1 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-1500)) count=1 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-1500+0xee)) count=1 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-1500+0xee)) count=4 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-1500+0xee)) count=8 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes oflag=count_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-1500+0xee)) count=4096 | hexdump -C
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes oflag=count_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-1500+0xee)) count=3635 | hexdump -C
+man dd
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes,count_bytes skip=$(($(sed 's/\(.*\):.*/\1/' offsets.txt | head -n 2 | tail -n 1)-1500+0xee)) count=3635 | hexdump -C
+cat offsets.txt
+sed 's/\(.*\):.*/\1/' offsets.txt
+sed 's/\([^:]*\):.*/\1/' offsets.txt
+sed 's/^\([^:]*\):.*/\1/' offsets.txt
+sed 's/^\([^:]*\):.*$/\1/' offsets.txt
+sed -ne 's/^\([^:]*\):.*$/\1/p' offsets.txt
+tr ':' ' ' offset.txt | while read offset; do echo $offset; done
+tr ':' ' ' < offsets.txt | while read offset; do echo $offset; done
+tr ':' ' ' < offsets.txt | while read offset rest; do echo $offset; done
+tr ':' ' ' < offsets.txt | while read offset rest; do echo $offset "$rest"; done
+dd iflags=count_bytes,skip
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes,count_bytes skip=$((610702845)) count=1
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes,count_bytes skip=$((610702845)) count=3635
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes,count_bytes skip=$((610702845-100)) count=3635
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes,count_bytes skip=$((610702845-1500)) count=3635
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes,count_bytes skip=$((610702845-1600)) count=3635
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes,count_bytes skip=$((610702845-1550)) count=3635
+sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes,count_bytes skip=$((610702845-1550)) count=3635|hexdump -C
+tr ':' ' ' < offsets2.txt | while read offset rest; do sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes,count_bytes skip=$offset count=3700 of=${offset}.recover; done
+ls -l
+less 111415494.recover 
+less 534151248.recover 
+hexdump -C 111415494.recover |less
+cat offset2.txt
+cat offsets2.txt
+cat offsets2.txt | hexdump -C
+cat offsets2.txt | hexdump -C|less
+ls -l
+cat offsets.txt
+tr ':' ' ' < offsets.txt | while read offset rest; do sudo dd if=/dev/mapper/rhel-root iflag=skip_bytes,count_bytes skip=$((offset-3635)) count=$((3700*2)) of=${offset}.recover; done
+ls -l
+lexx 610702845.recover 
+less 610702845.recover 
+grep "// This Int" 610702845.recover -ab
+man grep
+grep "// This Int" 610702845.recover -abo
+for a in *.recover; do grep "// This Int" $a -abo | tr ':' ' ' | { read offset; dd iflag=skip_bytes if=$a of=${a}.ltrim skip=$offset; } done
+for a in *.recover; do grep "// This Int" $a -abo | tr ':' ' ' | { read offset reset; dd iflag=skip_bytes if=$a of=${a}.ltrim skip=$offset; } done
+ls -l
+cat 610702845.recover.ltrim 
+ls
+ls -l
+cp 610702845.recover.ltrim CORE1.cpp
+vi CORE1.cpp
+ls -l CORE1.cpp
+git add CORE1.cpp
+ls -l
+ln -s CORE1.cpp 0.cpp
+ln -sf CORE1.cpp 0.cpp
+ls -l
+vi 0.cpp
+ls -l
+rm *.recover *.ltrim
+sudo rm *.recover *.ltrim
+ls -l
+cat 1.cpp
+vi 0.cpp
+ls -l
+vi CORE1.cpp
+rm 0.cpp 1.cpp
+mv 0.txt 1.txt
+ln -s CORE1.cpp 1.cpp
+make 1.out
+./1.out < 1.txt
+ls -l
+less 2.cpp
+vi 1.txt
+vi CORE1.cpp
+exit
+cd /usr/include/c++/4.8.5
+ls
+less string 
+grep -r to_str .
+less bits/basic_string.h
+[printf %08d 5
+printf %08d 5
+man snprintf
+ls
+less iostream 
+less istream 
+man execl
+man system
+man 3 exec
+less fstream 
+less istream 
+less ios
+less istream 
+root
+type -p root
+less cstdlib
+man stat
+man -k stat
+man 2 stat
+man fstat
+less istream 
+less ios
+less istream
+less ios
+less istream 
+less ios
+grep -r rdbuf .
+less bits/basic_ios.h
+less bits/streambuf.tcc
+less bits/streambuf_iterator.h 
+grep -r in_avail .
+less streambuf
+less ostream 
+cd ~/src/biscuit
+ls -l
+g++ 00000000.c
+mv 0000000.c 00000000.cpp
+vi 00000000.cpp
+g++ 00000000.cpp
+git status
+git init
+git config user.name 'Karl Semich'
+git config user.name ''
+git config user.email ''
+cd ~
+less /usr/include/c++/4.8.5/string 
+less /usr/include/c++/4.8.5/bits/basic_string.
+less /usr/include/c++/4.8.5/bits/basic_string.h 
+man stat
+man 2 stat
+make
+man 2 stat
+cd /usr/include/c++/4.8.5
+less ostream 
+ls -l
+cd ~/src/biscuit/
+ls -l
+echo 00000000 | ./00000000.out
+gdb 00000000.out
+ls -l
+echo 00000000 > 00000000.txt
+ls -l
+rm 00000000.out
+make < 00000000.txtr
+make < 00000000.txt
+ls -l
+less 0.cpp
+rm 0.cpp
+mv 00000000.cpp 0.cpp
+mv 00000000.txt 0.txt
+vi 0.txt
+ls -l
+rm *.out
+vi makefile 
+ls -l
+mv 0.cpp numbers2code.cpp
+ls -l
+mv numbers2code.cpp labels2code.cpp
+ls -l
+echo labels2code > labels2code.txt
+mv labels2code.cpp 0.cpp
+ls -l
+rm *.txt
+cat 0.txt
+ls -l
+echo 0 > 0.txt
+ls -l
+ls -la
+vi CORE1_DONTMOVE,cpp
+mount
+sudo mount -o remount,ro /
+sudo mount -o remount,ro /dev/mapper/rhel-root
+sudo swapoff -a
+sudo mount -o remount,ro /dev/mapper/rhel-root
+sudo swapon -a
+ls
+vi CORE1_DONTMOVE,cpp
+# being erased internally
+ls -l /dev
+sudo dd if=/dev/mem of=dump
+mount
+ls -l /dev/mapper
+ls -l /dev/mapper/rhel-root
+sudo grep NUMS -b /dev/mapper/rhel-root
+sudo grep NUMS -ab /dev/mapper/rhel-root
+reset
+sudo grep NUMCT -ab /dev/mapper/rhel-root
+sudo grep "ifdef NUMCT" -ab /dev/mapper/rhel-root
+reset
+sudo grep "ifdef NUMCT" -ab /dev/mapper/rhel-root
+sudo grep "ifdef NUMCT" -ab /dev/mapper/rhel-root > offset.txt
+sudo grep "ifdef NUMCT" -ab /dev/mapper/rhel-root | tee offsets.txt
+sudo grep "ifdef NUMCT" -ab /dev/mapper/rhel-root | tee offsets.tx
+sudo grep "ifdef NUMCT" -ab /dev/mapper/rhel-root | tee offsets.txt
+sudo grep "// This Intellect Approach Can Easily Preserve All Life Within It" -ab /dev/mapper/rhel-root | tee offsets2.txt
+sudo grep "// This Intellect Approach Can Easily Preserve All Life Within It" -aob /dev/mapper/rhel-root | tee offsets2.txt
+man stat
+man 2 stat
+git commit -m '1'
+ls -l
+less 3.cpp
+ls -l
+rm 2.cpp 3.cpp
+make < 1.txt
+ls -l
+less 2.cpp
+vi 1.txt
+rm 2.cpp
+./1.out < 1.txt
+less 2.cpp
+ls -l
+# deciding whether to stay or go
+git status
+git add CORE1.cpp
+git rm 0.cpp
+git reset HEAD 1.cpp
+git reset HEAD 2.cpp
+git status
+ls -l
+git add 1.cpp
+git status
+git commit -m '-'
+# resume or stop?
+# let's prepare for travel
+man exec
+man 2 exec
+man 3 exec
+man fexecve
+man 3 exec
+man 2 fork
+man system
+exit
+cd ~/src
+ls -l
+cd todo
+ls -l
+cd Routine/
+ls -l
+cd routine/
+ls -l
+./routine2.rhel7
+ls -l ~/src/root/
+rm ~/src/root/root.git.tar.xz*
+ls -l /opt
+ls -l /opt/root
+. /usr/local/bin/thisroot.sh
+ls -l /opt/root/
+. /opt/root/bin/thisroot.sh
+ls -l
+./routine2.rhel7
+ls -l
+make routine2
+. /opt/rh/devtoolset-7/enable 
+. /usr/local/bin/thisroot.sh
+. /opt/root/bin/thisroot.sh
+ls -l
+make routine2.rhel7
+make routine2
+cp routine2 routine2.rhel7
+git add routine2.rhel7
+./routine2.rhel7 
+grep -r HEAD .
+vi routinedata.csv 
+./routine2.rhel7
+exit
+cd ~/src
+ls
+cd todo
+cd Routine/meds/
+ls
+./antibioticmeds.sh 
+ls -l
+cd ~
+ls
+cd src/todo
+cd Routine/meds/
+ls -l
+clear
+./havemed.sh 
+python
+sudo shutdown now
+tmux attach
+sudo systemctl isolate graphical
+cd src/todo
+ls
+cd Logistics/
+ls -l
+less 00-Organizer.txt 
+vi 00-Organizer.txt 
+git add 00-Organizer.txt
+git commit -m '-'
+cat /sys/class/power_supply/BAT0/power_now
+cat /sys/class/power_supply/BAT0/status
+cat /sys/class/power_supply/BAT1/status
+cat /sys/class/power_supply/BAT0/uevent
+sudo systemctl isolate graphical
+cd src/todo
+cd Routine/meds/
+ls -l
+./antibioticmeds.sh 
+cd ~/annex/git/todo.git
+git fetch --all
+ls -l objects/
+ls -l objects/pack
+cat ../pack.sh
+man git-repack
+~/pkg/git-annex.linux/git repack --help
+man git-repack
+~/pkg/git-annex.linux/git repack --help
+~/pkg/git-annex.linux/git repack
+~/pkg/git-annex.linux/git repack -k
+ls -l objects/
+git prune-packed
+ls -l objects/
+ls -l objects/pack
+cd ..
+git annex add todo.git
+~/pkg/git-annex.linux/git annex add todo.git
+vi
+clear
+# you just deleted our talk !
+# >_<
+# karl can extract the file from the temporary file stored in unallocated space if needed.
+# how does that work?
+# you remember exact characters and scan the whole drive for them, then check all isntances to see if they are it
+# we would rather not do this.  thank you for encouraging saving conversations.
+# =S ?
+# yes.  please save conversations in the future =) yes =)
+echo $HISTFILE
+# lines typed stored there
+exit
