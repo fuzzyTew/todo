@@ -1,3 +1,6 @@
+Please starting with this README.md file, change this repo to be more acceptable to show in public.
+===
+
 Every Shift 10 minutes:
 - [ ] weld
 - [ ] trailer
