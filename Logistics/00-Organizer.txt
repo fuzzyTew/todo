@@ -2683,6 +2683,19 @@ VOICEMAIL NOTES
 	0. get more help
 	*. exit voicemail
 
+2019-08-21 Wed
+802 774 8450
+	Yesterday 5:30p
+	Hey Karl & Gwyn, it's Jim calling, returning your call from earlier.  Sorry I was on a call with another client.
+	I understand you were calling about the appointment with Wanda tomorrow at 10.  I would just keep that appointment,
+	and Karl I'll see you when you return from your appointment tomorrow.  No need to reschedule that.
+	So, I look forward to seeing you tomorrow, and you can call me back now if you want.  I'm off the phone with my client.
+	Thanks a lot, bye bye.
+304 591 9429
+	Sun 3:15p
+	Hi Karl, this is Gwyn.  Just calling to see if you're at home.  I'm going to be coming early tonight, so I
+	just wanted to see.  I have some ricotta shells for you, and I'll call you back before I actually leave.
+	Okay, bye.
 2019-08-20 Tue
 304 591 9429
 	Sat 7:45p
