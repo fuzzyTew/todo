@@ -1,0 +1,8 @@
+
+
+
+
+blocks are good, concepts bad.  oh, blocks hold concepts?
+	roughly; allow for nested context in computer code
+
+we could use chips as blocks
