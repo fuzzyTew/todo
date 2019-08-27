@@ -1,0 +1,43 @@
+This work was for 'The Boss', a mysterious entity in Karl's mind who wants to be in control.
+how does boss or boss-rep or boss-worker make an AI?
+	we're not sure yet, but we have a ton of guesses developing below.
+
+	there are a few different core patterns.  here are some of them
+these are all that is needed.
+0 - abstract meaning representation.  opencog does this, or you could evolve it or start with
+		a different basic component
+	^- clarity
+1 - brainstorming on brainstorming, goals guiding habits to do the task of finding how to do it
+	^-- this is apparently called intellect recursion
+	^- learning
+
+1.5 - something is missing, a low-level component of below
+
+	it is unknown what happens when 0 + 1 are combined.
+
+
+2 - basic needs and intellect components mapping
+	: make a module for everything you need to do to stay alive, using everything else
+	  you need to do, as references to other modules
+	: some are basic, like memory, learning, planning
+		all intellects have the same basic components, although they may not know
+3 - specialized modules, each experts at various domains, interrelating in community
+4 - having a human or something natural and channel to external world, as a module
+
+
+we have also the idea of mapping our behavior, our code, and our plans, kind of, all
+together.
+
+there's also a running theme of 'this is happening now' and 'it uses 3 components to make
+self-reference process: the who, the what, and the how to make what into who, kinda.'
+
+is this relevent? [only for later, really.  if you're conducive to it, could help.]
+enjoy having who be compassion, what be happiness, and how be kindness, kinda
+	i think they are all 3 all 3 components!
+		it's a single self-reference.  it includes the self, the process,
+		and the knowledge that the process is to reuse, learn, and improve the self,
+		and the self is a process, etc etc.
+
+
+so a super-safe AI would be built based on community interactions with multiple AIs
+	it would develop shared understanding rather than individual understanding
