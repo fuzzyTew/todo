@@ -1,0 +1,13 @@
+MOSES:
+	implements arbitrary function regression, with intelligence
+	has no sense of time or order
+	internals may roughly implement brainstorming-on-task.
+	
+	exemplars: appear to represent goals and plans
+	knobs: appear to represent habits and considerations
+	deme: actual plan
+		^-- appears to be used also as start of intermediary steps
+		    to simplify into new exemplars and knobs
+		    using reduction/normalization
+		    Ideal form is considered the smallest.
+
