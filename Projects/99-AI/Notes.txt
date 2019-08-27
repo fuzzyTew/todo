@@ -1,7 +1,10 @@
 MOSES:
 	implements arbitrary function regression, with intelligence
-	has no sense of time or order
+	this part has no sense of time or order
 	internals may roughly implement brainstorming-on-task.
+
+	it also has support for interactive agents.  this appears poorly documented,
+	and not robust.
 	
 	exemplars: appear to represent goals and plans
 	knobs: appear to represent habits and considerations
