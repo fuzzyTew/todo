@@ -1,0 +1,3 @@
+ContextLink:
+	1st node: ConceptNode context
+	2nd node: EvaluationLink relevent within context
