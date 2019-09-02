@@ -3,6 +3,10 @@ Here's is the optimized self-development kernel:
 		depict tasks as steps towards goals, where each step alters state, and a goal is a final state
 	2. describe in that system its own process, and have it design itself
 	3. guide the system such that it tries many different ways, see below for learning goals
+	4. have the system find similarities in the different ways, so that it may be build patterns
+		relating to what works and what doesn't. (generalization)
+			possibly in opencog, it could be useful to build some blank pattern forms
+			and identify the data matching them (inverse of bindlink, possibly)
 	inside states of selecting how to continue,
 		develop code chunks that can aid making choices that work
 			these chunks judge relevence of information
