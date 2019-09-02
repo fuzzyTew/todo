@@ -1,3 +1,17 @@
+Here's is the optimized self-development kernel:
+	1. construct a learning system that can design and run tasks
+		depict tasks as steps towards goals, where each step alters state, and a goal is a final state
+	2. describe in that system its own process, and have it design itself
+	3. guide the system such that it tries many different ways, see below for learning goals
+	inside states of selecting how to continue,
+		develop code chunks that can aid making choices that work
+			these chunks judge relevence of information
+		use the chunks to select themselves
+	valuable new approaches are those that are unknown to not work, and are dissimilar from existing attempts
+	valuable metrics include: few steps in final solution
+To meet community request, do the above using parallel peer processes.  this results in learning group respect.
+	Remember that a code chunk is a community.  So, each code chunk is a theory as to a relevent life need.
+
 It seems the path to intelligence that I've stumbled upon as lining up here is:
 	1. consider simple modules that interconnect (individuals)
 	2. consider a basic interconnection pattern that connects modules (individuals)
