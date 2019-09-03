@@ -1,4 +1,4 @@
-Here's is the optimized self-development kernel:
+Here's the optimized self-development kernel:
 	1. construct a learning system that can design and run tasks
 		depict tasks as steps towards goals, where each step alters state, and a goal is a final state
 	2. describe in that system its own process, and have it design itself
