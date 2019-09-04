@@ -2259,6 +2259,9 @@ EMAIL IG:
 		j: Why don't you guys discuss it, and text or e-mail me a time on Friday or early next week when we can continue?
 		g: Okay.  Sounds good Jim, take care and thanks for you help.
 		<thanks and goodbyes: jim again thanks for the open and honest conversation>
+	NOTE: dr bouboulis has both labs.
+	- [ ] 3:30 - deniece calls with good news
+		it is rude to not leave a voicemail
 
 - [ ] 2019-09-05 Thu
 	gwyn is going to elkins today, i could come along and go grocery shopping at kroger's if I like
@@ -2291,20 +2294,17 @@ EMAIL IG:
 	- [ ][ ] 6:15p - 7:45p NVC Community of Practice, third thursday of every month?
 
 - [ ] 2019-09-20 Fri
-	travel to Dr bouboulis
 	- [ ] 6:30p - Blue Ridge Grotto Meeting on 3rd Friday
 		Jersey Lily's Roadhouse
 		1650 Braeburn Dr.
 		Salem, VA 24153
 - [ ] 2019-09-21 Sat
-	- [ ] 10:30a Dr Bouboulis In-Person Appt
-		106 Noroton Ave.
-		Darien, CT
-			RESCHDEULE IF YOU WANT TO BE ON THE MONTHLY GREENBRIER CAVE TRIP
 	- [ ] 11:00a Greenbrier Caving Trip to Organ Cave
 
 - [ ] 2019-09-22 Sun
 	- [ ] 1:00p Greenbrier Vertical Training @ WVACS
+
+- [ ] 2019-09-
 
 - [ ] 2019-09-26
 	$5 cheaper if registered in advance.  form in the region record i got in the mail, might be online.
@@ -2312,7 +2312,6 @@ EMAIL IG:
 	Friars Hole Cave Preserve
 	Lobelia, WV
 
-- [ ] 2019-09-26 Thu
 	Scuba Buddys equip rental, need to get goggles-with-lenses first e.g. at store.  need prescrip
 		price for equip is $320
 
@@ -2325,8 +2324,14 @@ EMAIL IG:
 - [ ] 2019-09-30 Mon
 	- [ ][ ] 6:30p Monongahela Grotto meeting last Monday of each month EXCEPT Dec and May
 
+	travel to Dr bouboulis
+
 - [ ] 2019-10-02
 	Kate's Birthday
+
+	- [ ] 10:30a Dr Bouboulis In-Person Appt
+		106 Noroton Ave.
+		Darien, CT
 
 - [ ] 2019-10-05
 	Butler Cave Conservation Society Annual Meeting
