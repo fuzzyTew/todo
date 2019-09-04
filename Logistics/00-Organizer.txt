@@ -2815,6 +2815,20 @@ find-truck-keys, missing.  pay service, get keys.  check money.
 		10:45a missed call from Elkins Trucking, voicemail was left:
 			Hey Karl, it's Amanda from Elkins Truck Service, give me a call when you get this
 			message.
+	2019-09-04 10:39a
+		called after very late missing voicemails from amanda
+		amanda picked up
+		'when we did the diagnostic and put the batteries in, that bill
+		was finally done.  it's $836.63 .' [needs collection]
+		whatever they're doing now:
+		deniece thinking she might be able to turn next work into
+		warranty, don't know specifics.
+		transferred me to deniece
+		'had to send him out to jumpstart a blocking truck; once he
+		 comes back he's back on the truck.  sohuld have good news by
+		 this afternoon.  can call around 3:30, will leave voicemail:
+		 is rude not to leave voicemails.'
+		IT IS RUDE NOT TO LEAVE VOICEMAILS <- this belief helps karl
 		
 	- [X] when do you think it'll be finished?
 				could you call me if you learn there will be a delay, so I can plan around it?
@@ -2864,6 +2878,18 @@ VOICEMAIL NOTES
 	0. get more help
 	*. exit voicemail
 
+2019-09-04 Wed
+844 779 1040
+	Fri, 11:11a
+	[mon power, robert c bold]
+304 636 5357
+	Mon, Aug 26, 11:31a
+	Good morning Karl, it's Amanda at Elkins Truck Service. Give me a call
+	when you get this message.  304 636 5330.
+304 636 5357
+	Fri, Aug 23, 10:45a
+	Hey Karl, this is Amanda at Elkins Truck Service.  Give me a call
+	when you get this message.  304 636 5330.
 2019-08-23 Fri
 304 799 3900
 	Yesterday 6:02p
