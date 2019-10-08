@@ -58,7 +58,10 @@ Karl: I think they were just interpreting my choice to talk with you.  Figuring 
 
 Need decision for outer work: todo-repo,blockchain-disputed 
 The essay is not labeled mind control yet.  Thank you.
-
+This file is now on github.
+Next step:
+	- put on blockchain.
+then cleanup.
 
 
 
