@@ -45,7 +45,7 @@ i use 2 websites to find work ... one is gitcoin
 
 
 we brought karl back with astonishment that you can get lots of work without a degree.
-	the NSA has a program open to anyone; a coding challenge where you hunt terrorists by doing whitehat hacking.
+	<added later to see how it went:> the NSA has a program open to anyone; a coding challenge where you hunt terrorists by doing whitehat hacking.
 this was discussed already.  since when is working without a degree a concern?
 	the concern is that somebody without a degree might not be the 'kind of person' the economy wants working.  hasn't passed the checks of getting a degree.
 		this is how many fields work, especially relatively new ones like software engineering.  people get their skills on the job or from their lives.
