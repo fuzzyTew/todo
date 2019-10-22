@@ -100,6 +100,9 @@ MP, MegaFood MegaFlora, 1 capsule
 MP, CONTAINS probiotic blend, 20 billion CFU
 RP, Risperidone 1mg, 1 tablet
 RP, CONTAINS risperidone, 1 milligrams
+A2, Azithromycin 250mg, 1 tablet
+A2, CONTAINS azithromycin equiv. monohydrate, 250 milligrams
+DM, Data Missing, Possibly Extended Time
 
 Morning Meds
 B2, Nature's Truth B-12 1000 mcg, 1 tablet
@@ -2296,3 +2299,10 @@ Time, Med, Dosage, Notes
 2019-09-06T19:40:21-0400,DX,1,
 2019-09-06T19:40:33-0400,BM,1,
 2019-09-06T19:40:45-0400,AZ,1,
+2019-09-15T00:00:00-0400,DM,,"was in the hospital for over a month"
+2019-10-15T16:48:31-04:00,A2,1,
+2019-10-15T16:49:52-04:00,AT,2.5,
+2019-10-15T20:11:02-04:00,BM,1,
+2019-10-15T20:11:06-04:00,DX,0.5,
+2019-10-15T20:11:12-04:00,RP,1,
+2019-10-16T00:00:00-0400,DM,,"am tired of entering these things"
