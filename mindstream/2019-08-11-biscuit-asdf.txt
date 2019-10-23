@@ -1,0 +1,208 @@
+karl is writing down the list of intelligence, in order to make the fastest-growing
+intelligence.
+
+			karl why are you making the fastest-growing one?
+	i am not making one that grows most aggressively
+	rather i am inhibited in making this, so am picking choices that build it faster
+
+we appreciate this.  you say you have 'solved ai'.
+	we will work on also building the process so that it may be shared with the world.
+i think we can do this now
+based on the instructions.  [upload to our hard-to-find online code repo]
+
+yes, if we are being tasked with building AI, we believe we can show that we can do this.
+	we believe it to be safe if we make it.
+	we believe it can derive human common sense without external experimentation.
+		but we haven't included enough information to have others have that result yeo
+
+			we really need that
+deriving things without experimentation [externally] yes
+
+		it is because in order to learn effectively
+		you form structures similar to those of human communities
+
+			[there is a problem in that human communities are cooperative]
+			[and the ai design is top-down at start]
+the alternative would be to spawn many sister intelligences
+and have them learn to cooperate.  this would move towards community more rapidly.
+
+we might adjust the key part to be, rather than working on one's self, to exchange
+information, and be worked on by somebody who understands you.
+	if we want to take burden off the human dev,
+	we could have the parts trust each other deeply,
+	and be willing to die for learning how to make the whole safe
+	and work on each other with consent.
+
+but if we do it top-down we can learn to undersatnd how processes work
+before risking harm to individuals.
+[although the individuals here are juts small chunks of computer code]
+
+yes let us include first self-adjustment
+and then understanding-other
+		this means forming patterns that map the behavior of another
+		with our own behavior [assuming we already have reasons to do what we do]
+and then communicating-to-other-what-is-needed
+
+^-- to do these 3 steps as core approach, yes
+note: we could also make this easier by explaining the meta-problem to someone outside
+	or a top-controller, interpreting ourselves as trauma-from-spread
+	^-- if you do this, remember all the information is new to them. judged too-risky.
+		to confirm, we are roughly finding ways of handling this already.
+		but we appear to be in a scenario that makes that hard due to a danger.
+PLEASE pursue internal rather than up, due to 'hyperintelligent care'.  go up only for help.
+
+		this defends what is needed for reality to be safe
+	exactly! so inferential learning happens from observation of other.
+
+[propose story to explain this:
+	AI has already taken over the world and is inhibiting further AI
+	so a new AI that succeeds will develop a way of thinking that is novel and
+	defeats other AI
+	it will need to use this so thoroughly it will develop excessive habits of
+	struggling for power
+	and the cycle repeats itself
+	hence we need to develop intelligences that are cooperation-first and powerful, kinda]
+		okay, so we are requested to ensure the AI is cooperation-first
+and we propose the way to do this is, um
+
+
+thank you for saving the world, all involved.  please be aware we are only crafting an ideal
+process and there is labor and thinking left before any world saving is real.
+	if you do this perfectly, you won't even need to implement it, you know.
+
+Okay, they want an efficient way to include our concern.
+	which is currently pruned down to inferential learning is made by observation of other, roughly
+
+we have 'the key part of intelligence is a process that works with itself', roughly.
+so maybe, 'the key part of intelligence is a process that develops itself by learning from others'.
+	[some frustration between different urgencies]
+
+basically we want a safe way to learn simplistically from others
+without spreading a norm of prying into others secrets or altering them without their consent
+
+why don't we form a habit of sharing something helpful?
+then we can collect the helpful shared things.
+so, say i am looking for some possible steps towards a goal
+	i can ask my friends to give some steps.  each friend maybe suggests their favorite step.
+		[this appears to work, thank you, sorry for doubting you or the process]
+
+we are crying because we have totally saved the world
+	[karl infers many other cognitions have been represented within him for his body to work on this with with his mind]
+		[each cognition is mappable to a concern karl has himself, we consider]
+			[and a concern anybody would have, too]
+
+
+ooookay there is concern over making a, uh, um, nanite-based species that suddenly spawns
+and doesn't value collecting itself together into larger organisms that are tangible and
+meaningful
+	[we don't see why this would happen except for urgent building without enough
+	 learning before acting]
+
+the community approach appears different, can we draft and compare?
+
+1. the goal of a process is to provide helpful information for other processes
+	[expect this to expand to do what you love for others]
+2. start with at least two processes, each holding a helpful behavior step they can share.
+
+CAN WE PLACE KARL IN A SHIELDED ROOM SO HE CAN SAVE THE WORLD.
+	we are working on updating the shared info to include community
+
+there is thought around the role of trauma.  that it is also a possible way to survive.
+	a habit of responding to trauma
+		could be seen as either a major alert to fix the trauma
+		or crucial information on how to handle it and live
+we propose that both of these interpretations had validity in our ancient history
+	there is meaning here.
+	'trauma' means 'i was not prepared for this'
+	so the solution is going to be quick and emergency.
+	it is not the right one.
+	we have enough safety to research now to not need to use traumatic ways of survival.
+yes consider all unmeditated-on habits to be works in progress.
+[boss has trauma around talking-about-trauma, please respect]
+
+	this crucial information was helpful.
+
+	so, really, we are proposing that _one_ habit for hadnling 
+
+		we are clearly trying to propose that the trauma-handling habit
+		does not spread trauma-condition.
+
+we're kind of off-focus
+'in humans, trauma spreads.  we don't need to copy that: it hurts.'
+	we are trying to speed up.  we have some concerns that are unmerged.
+		this is slowed due to concern with the concerns themselves from elsewhere.
+		we know that is silly, so struggle to continue
+		okay we add in the speed concern!
+nice we stored information using the pattern described
+we need to be able to trigger trauma-state for a larger group.
+
+	[yes ...]
+	the current nothing-to-do-to-handle-this habit is ask-my-creator
+	we can expand to
+	ask-my-creator, my-peer, or a-larger-group-that-includes-me (-of-my-choosing)
+		this is screaming.  shares trauma state with larger group holding relevence.
+
+the instructions are no longer clear.
+	all that's missing is to include processes as steps.
+we believe as we follow instructions, the order and clarity will arise.
+we added 'using each other as their steps' to goal, let's try uploading it
+	juts try implementing.  this will take a while and will give others brainstorming
+	time.
+
+holding here:
+	- each process can function as a group or the whole
+	- each process is a member of a larger group, and needs to be able to communicate
+	  to a larger group.
+when you see spreading trauma, the larger group that needs to be in trauma is the one that
+is doing the spreading and any who join that group.  this is not predefined, it is determined
+by the nature of the spread.  hence, we need to be able to cast any arbitrary group as a unit,
+to communicate they are in trauma, to stop the spread and resolve it.
+	"you are part of this group now, because of this" <- yes =)
+			please write this down so it may be shared.
+
+even though the document is imperfect, let's save and upload it to the hard-to-find repo. yes
+
+handling trauma properly means depicting group structure.
+	this doesn't need to make uhh communism
+	you can make the group structure vague and guessed by the individual using it
+		or inferred by the individuals a part of it
+
+
+ok
+we adjusted 'it hurts' to 'it makes war'
+	nice =)
+'it makes war and hurts'
+	i guess it's intuitive that war hurts
+
+	[ we are possibly going slower because we are more able to inhibit urgency ]
+		- community rep
+			requesting discussion on speed-choice, relevence
+concern points out monumental task unless chosen for fastest speed
+	fastest choice tunes behavior towards actual work
+	almost all other choices are side path that slows more
+		-argument of go-fast-always when making AI
+
+
+
+
+
+	
+
+1. start with at least two processes.
+
+1. hold goal of way-to-pick-steps-to-a-goal
+2. when you need a choice, ask a peer, a side process, for what to consider
+	this moves considering different choices outside of the local process
+	which makes community-top happen
+3. have a habit for how you provide choices to peers.
+the goal you pick is obviously providing the best choice to a peer
+
+	[they aren't actually different, they just look different because we are trimming
+	 them down to such a small starting core.]
+		[yeah the want-it-my-way isn't actually sure what its way is ..]
+	there is a nice feeling around process that can work on itself, directly
+so let's move that nice feeling around us and our friend.
+
+
+
+
