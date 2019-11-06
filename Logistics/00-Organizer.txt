@@ -2368,12 +2368,18 @@ EMAIL IG:
 		markhodge@virginiacaves.org
 		540 396 3570
 
-- [ ] 2019-11-03
+- [ ] 2019-11-03 Sun
 	-> Trying to resume use of this schedule.  Haven't used it for a month.
-	- Consider: check truck progress
-	- Consider: check truck insurance process
-	  (Would like to know I have option of living in truck, for those times when I can get it together enough to do that.)
+	- Make a small active todo list in this file or repo.
 	
+- [ ] 2019-11-04 Mon
+	- Consider: check truck insurance process <-
+	- Consider: check truck progress
+	  (Would like to know I have option of living in truck, for those times when I can get it together enough to do that.  My scheduled items are not near Crozet.)
+
+- [ ] 2019-11-05 Tue
+	- [X] 09:15a - leave for social services, see father
+	- [X] 10:45a - SS appointment
 
 - [ ] 2019-11-08
 	WVACS project weekend thru 2019-11-10; also business meeting
@@ -2395,6 +2401,24 @@ EMAIL IG:
 
 - [ ] 2019-11-21
 	- [ ][ ] 6:15p - 7:45p NVC Community of Practice, third thursday of every month?
+
+# ACTIVE TODO STARTED 2019-11
+	- [ ] publicize js-gitview so i can do other coding tasks without worrying so much
+	- [ ] relate to surrounding concepts, move here
+	- [ ] relate to life at crozet; make plan
+	- [ ] relate to spirits: note that delta left information
+	- [ ] 'Other Truck Stuff' section: contact insurance
+
+# BACKBURNER TODO 2019-11
+	- [ ] old emails, notably:
+		- helping joan's friend with project
+		- worker from jim taggart who moved to california
+	- [ ] old todo lists and other relatable information
+
+# DIDIT 2019-11
+	- [X] get latest js-gitview running
+	- [X] TOILET CLOGGED
+	- [X] respond github comment, william hilton
 
 # GOALWORK
 0: autonomy, safety, privacy, and joyful pursuit of dreams for all
@@ -2888,6 +2912,13 @@ find-truck-keys, missing.  pay service, get keys.  check money.
 
 		- in shop, engine runs fine, transmission ordered
 				new starter replaced
+
+Other Truck Stuff
+	PARKING IN CROZET: There is a dilapidated parking lot west of the north end of High St where some trucks have been left on google maps.
+		There's also a strip mall with a dollar general.
+		On street view some trucks have been left north of the dilapidated lot.
+	- [ ] Discern process for getting registered and insured.
+	- [ ] Schedule insurance meeting.
 
 
 Insurance
