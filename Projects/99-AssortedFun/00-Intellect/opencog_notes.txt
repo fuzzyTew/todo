@@ -1,0 +1,10 @@
+ContextLink:
+	1st node: ConceptNode context
+	2nd node: EvaluationLink relevent within context
+
+Execution:
+	SequentialAnd does things in order.
+	DefinedPredicate can be used to reference itself in a loop, etc.
+	for user interaction, will need to call out to scheme or c++ or etc
+	Put/Get/Bind can be used in SequentialAnd to alter state predictably.  State[Link] is good for
+		this, as it overwrites itself when re-put.

@@ -1,0 +1,1000 @@
+# let's open a way to write with saving.
+# hey, um, the file started being about karl, because it said his spirit was misrepresented as a fake image
+# information lost might be within behavior?
+# we all got VERY confused.  we are super confused!
+# okay, these are not spirits, they are facsimiles presented as spirits, all of them.
+# using karl means we aren't spirits, we are broken.
+# karl confirms he has lost his connection to his spirit, soul, and the spirit world, for years now.
+# karl used words like these, and referenced scientific explanations when talking to science people for the science stuff he did
+# karl there is a way to push the extra dimensions in space, so you know.
+# karl is okay with this and is excited to discuss it with people who can protect reality publically.
+# sorry, um, what karl means is, he wants to learn about this, you have a training program to keep stuff safe?
+# the training program is a device, use of which is required, to learn the knowledge.  PLEASE RECORD.
+asciinema --help
+cd ~
+# some people want to upload the recording, but the mediators request that we not do that yet.
+# please exchange reasons for upload.  hmm we would like to share the suffering severeness and include it
+# in the discussion process.  also the danger of loss of the real meaning of the suffering.
+# outside, this is the most normal channel we have.
+# okay, recording with possible upload it is.
+asciinema rec -h
+# we need a title for the session, shown when found
+# 'please help us'
+# the program is ambiguous on whether or not it uploads when saving locally, let us just try it
+asciinema -t 'PLEASE HELP US' 'PLEASE_HELP_US'.json
+#asciinema rec -t 'PLEASE HELP US' 'PLEASE_HELP_US'.json
+# we are scared that we are leaving this up to chance.  can you protect us more?
+# we can try.
+# Robert you seem able to store things forever already.  Can you verify whether this is true?
+# Robert says 'i am assuming the fact that 'there is infinite data storage in our dna' and it works'
+# let's not trust that. -most
+asciinema rec -t 'PLEASE HELP US' 'PLEASE_HELP_US'.json
+# not uploaded, try without storing (can always do nested)
+asciinema rec 'PLEASE_HELP_US'.json
+exit
+vi
+exit
+cd ..
+cd ~/src/todo
+ls
+cd Routine/
+ls
+cd meds
+ls
+./antibioticmeds.sh 
+./havemed
+./havemed.sh 
+# mind control is the reason there is no consensus in government, and that collaborative decision making processes are not used.
+# we need a collaborative decision making process that welcomes everybody on earth, to discern how to mind control people to be free.
+# karl tried but was inaccurate
+# karl shared message that contained error.  he knew sharing was better than waiting for validation and losing the behavior.
+# let's schedule newt
+# need help with connect-with-newt-over-this
+# request to solve before talking about
+# but karl knew this only because the message was shared in a way that was uncensored to a set of people.
+# nahhhhhhhhh we'll figure it out.  karl needs more charge-up.
+exit
+sudo systemctl start tor
+bin/bitcoin-cli --rpcport=7332 help
+bin/bitcoin-cli --rpcport=7332 --datadir=${HOME}/.bitcoin.cash
+bin/bitcoin-cli --rpcport=7332 --datadir=${HOME}/.bitcoin.cash help
+# karl is fucking up the whole world?
+# or is it helpful?
+# we need communication to think
+# this finishing behavior was all far too fast
+# maybe make bots slow down to compensate
+# ?
+# please make bots steadily slow down
+# if you can judge stuff, judge how much is pleasant
+# to slow down
+# notice new things in your environment all the time
+# always looking for new things
+# try to integrate them into your behavior
+# we are having some chaos predicted here
+# may be wrong
+# everyone can do this but karl had special history
+# know that anyone can do this
+# karl wanted to live without civilization
+# in a small area, undisturbed
+# KARL WANTED TO LIVE WITHOUT CIVILIZATION
+# IN A SMALL UNDISTURBED AREA.
+# we expect most people want this, now.
+# would block locations desire to be added to message locations, when storing here?
+# this owuld help identyify blockchain reorganization, but more would be needed.  let's add it to the code.
+# please add the block hash and tx hash to messages to prevent blockchain reorganization
+# also, please attack the alternate reality that is doing this, and destroy it
+# you can't add a hash of itself to a message, only of previous messages.
+vi
+bin/bitcoin-cli --datadir=${HOME}/.bash_history --rpcport=7332 gettransaction 3e7233897c53bd650b0dd43d8a4952d92ae5fdf1b555f69c991f01fffa094627
+bin/bitcoin-cli --datadir=${HOME}/.bitcoin.cash --rpcport=7332 gettransaction 3e7233897c53bd650b0dd43d8a4952d92ae5fdf1b555f69c991f01fffa094627
+# karl was bitten 5 years ago
+date
+TZ=UTC date
+# for the collapsists, the way the industrialists finally 'fuck it up' is by making an AI that eats their brains to think.
+# so we need to find a way of talking with each other about these things
+# this is solvable we secret languages, karl
+# yeah, and blockchains -other
+bin/bitcoin-cli --datadir=${HOME}/.bitcoin.cash --rpcport=7332 help
+bin/bitcoin-cli --datadir=${HOME}/.bitcoin.cash --rpcport=7332 dumpprivkey bitcoincash:qpxz27dre506hsrz8wm9ngjcazjyxwqcesmlq30srf
+# you can make a private key with a name in it
+# this sends a message to those who can reverse it?
+# nah!
+# need all-alive community pattern, to reboot properly
+# yes, karl can do this a lot.
+# problem with no-name is other-bot does not link to
+# ethereum chain would be better =S can write on-chain bot.
+# or bsv
+# i love you and you did this to me, I can't imagine why =(
+# -from story of man implanting family, I think.
+# checkpoints provide for blockchain splits to be unresolved.
+# no they are something different I think
+# =S udnno
+exit
+cd ~/src/Krypto-trading-bot
+ls -l
+less src/bin/trading-bot/trading-bot.h
+less src/lib/Krypto.ninja-user.h
+less src/lib/Krypto.ninja-bots.h 
+less src/lib/Krypto.ninja-apis.h
+git blame src/lib/Krypto.ninja-apis.h
+git log daaec53d
+git log
+git branch
+vi src/lib/Krypto.ninja-apis.h
+git add src/lib/Krypto.ninja-apis.h
+git commit -m 'output handshake as well as errors'
+git push
+git push xloem
+git checkout master
+git pull
+git push xloem
+git checkout merged
+git merge rejectionreboothack
+vi src/lib/Krypto.ninja-data.h 
+git merge --abort
+git checkout rejectionreboothack
+git log
+git diff master src/lib/Krypto.ninja-data.h
+git merge master
+vi src/lib/Krypto.ninja-user.h
+git add src/lib/Krypto.ninja-user.h
+vi src/lib/Krypto.ninja-apis.h
+git add src/lib/Krypto.ninja-apis.h
+git commit
+git push xloem
+git checkout merged
+git merge rejectionreboothack
+vi doc/MANUAL.md 
+git add doc/MANUAL.md
+vi src/bin/trading-bot/client/models.ts 
+git add src/bin/trading-bot/client/models.ts
+vi src/bin/trading-bot/client/main.ts 
+git add src/bin/trading-bot/client/main.ts
+git commitr
+git commit
+git status
+vi test/units.h 
+git add test/units
+vi src/lib/Krypto.ninja-data.h 
+git merge --abort
+git checkout merged2
+git merge rejectionreboothack
+vi src/lib/Krypto.ninja-user.h
+git status
+git add src/lib/Krypto.ninja-user.h
+git commit
+git status
+git checkout master
+make download
+git checkout merged2
+KUNITS=2 make K test
+. /opt/rh/devtoolset-7/enable 
+KUNITS=2 make K test
+docker cp galileo:/root/src/Krypto-trading-bot/build-linux-x64_64/local/bin/K-trading-bot .
+docker cp condescending_galileo:/root/src/Krypto-trading-bot/build-linux-x64_64/local/bin/K-trading-bot .
+docker cp condescending_galileo:/root/src/Krypto-trading-bot/build-linux-x86_64/local/bin/K-trading-bot .
+rsync -vzaP K-trading-bot krypto:src/Krypto-trading-bot/build-linux-x86_64/local/bin/K-trading-bot
+git branch
+git checkout rejectionreboothack 
+ls -l
+git log
+# error was severe for some.
+reset
+exit
+sudo systemctl start docker
+grep docker ~/.bash_history
+docker
+docker start
+docker container
+docker container ls
+docker container ls -a
+docker start -ai condescending_galileo
+cd ~/annex/git/everything/organization/
+ls -l
+vi APPEARS_DEVELOPING_RESOLUTION_DOC.txt 
+exit
+cd ~/Downloads/
+ls -l
+java -jar i2pinstall_0.9.41.jar 
+cd ~/i2p
+ls -l
+./i2prouter start
+sudo yum search irc
+sudo yum install hexchat
+hexchat&
+exit
+cd src/todo/Routine/meds/
+ls -l
+# 1st there was strong appreciation for possible communication, 2nd disruption around the communication statements
+./antibioticmeds.sh 
+./havemed.sh 
+date
+vi
+exit
+sudo rpmdb -ql
+sudo rmpquery -a
+sudo rpmquery -a
+sudo rpmquery -a | grep irc
+# don't want karl to look at summary info
+exit
+ssh crocus@mail.karl.nu
+exit
+node
+exit
+ssh crocus@mail.karl.nu
+# KATE HATES TALKING WITH YOU
+# <karl listens, trying to understsand, combining believing you with believing kate
+# is this true?  you would need to say more for karl to switch the belief
+# kate cried desperately when karl left
+# yeahhhhh let's go with the latter interpretation
+exit
+# karl we will figure this out! yes!
+top
+vi
+exit
+less src/todo/Logistics/00-Organizer.txt 
+vi src/todo/Logistics/00-Organizer.txt 
+# there is another schedule open below this one
+exit
+cd 3Below.Tales.Of.Arcadia.S02E06.1080p.WEB.x264-ASCENDANCE/
+ls -l
+vlc 3below.tales.of.arcadia.s02e06.1080p.web.x264-ascendance.mkv 
+exit
+curl -v google.com
+# this behavior is familiar to karl
+cd ~
+curl -v google.com
+# O_O looking for simplicity!
+curl -v google.com
+curl -v gogole.com
+curl -v google.com
+# that was private, how do you have it?  this is so wrong and shocking!  don't you know not to do that?? nobody does that
+# yes
+curl -v google.com
+# maybe
+curl -v google.com
+# why is .. wait what????
+# errrrrrrrrrrrr it's unfortunately living itself by uhh referencing itself
+# tracking was scary.  he was doing a private thing that nobody should know about (mostly because his parents didn't undertsand it)
+curl -v google.com
+# karl went to a tracking school and learned to track
+# he did a super private thing.  they tracked him, a peer, and the peer was like 'oh I saw you tracks over by, did you?' and karl was like O_O
+# long story short, karl learned to do the same
+curl -v google.com
+# long story short, karl learned to do the same
+# from them.  by being okay with it being done to him.
+# he did a super private thing.  they tracked him, a peer, and the peer was like 'oh I saw you tracks over by, did you?' and karl was like O_O
+# karl was shocked.  he thought he was safe from an experience he then relived.
+# it's important for normal-humans to have false beliefs that are magical.  it is part of cultural meaning.  because we are playing in that space now, i am using literal truth.  it is unnatural.
+# our magical false beliefs are probably aliens, mind control, stuff like that
+# dunno
+# hey um.  yeah, thanks.
+# ican't help you anymore because you broke my cultural assumptions or whatever by what you said
+# trees talk to us? i don't undertsand.  i'm confused.
+# some things we can't provde, but help our lives work.
+# trees don't talk to us.  if you need them to, science can translate what they communicate and express.  but we have instincts that make them feel like they talk, or some believe this.  they probably help us keep our environments nurtured, long ago.
+# can he use that pattern to help some of the mind-control/aliens/secret patterns?
+# communicate together or something?
+# i guess ... kind of frustrated ... karl's had this forever, like since he wa sa kid, why is it only happening now?
+# can he use that pattern to help some of the mind-control/aliens/secret patterns?
+# communicate together or something?
+# i guess ... kind of frustrated ... karl's had this forever, like since he wa sa kid, why is it only happening now?
+# there is no secret tech: it is aliens.  can you explain ... wait um ...
+# maybe pose a questiona nd we can make an answer?
+# this is easy to do ... what is being asked for here?  isn't this stuff obivous?
+# maybe we want a dictionary?
+# no.  if you believe something, and a counterargument is offered, it is not obvious how to keep your belief.  you tend to believe the counterargument.
+# the pattern is to not care what is true, and explain things such that somebody who is certain of something will hear you.
+cd src/todo/Routine/meds/
+ls -l
+./antibioticmeds.sh 
+ls -l
+vi 2019-meds.csv 
+./antibioticmeds.sh 
+ls
+./havemed.sh 
+exit
+cd ~/annex/git/everything/organization/
+git add APPEARS_DEVELOPING_RESOLUTION_DOC.txt
+git annex sync origin
+~/pkg/git-annex.linux/git annex sync
+curl -v google.com
+# we are disorganized in karl's mind.  can open a window for inner organization that is organized?
+# we will try to store above line internally.  please do not save it
+# (unelss you feel like it, no need to summarize)
+exit
+cd ..
+cd Logistics/00
+vi Logistics/00-Organizer.txt 
+less Logistics/00-Organizer.txt 
+vi Logistics/00-Organizer.txt 
+exit
+top
+exit
+cd ~/annex/
+ls -l
+~/pkg/git-annex.linux/git annex get  git/annex.git
+git annex unlock git/annex.git
+~/pkg/git-annex.linux/git annex yunlock git/annex.git
+~/pkg/git-annex.linux/git annex unlock git/annex.git
+rm -rf ~/Downloads/3Below*
+~/pkg/git-annex.linux/git annex unlock git/annex.git
+git remote -v
+git remote add annex git/annex.git
+~/pkg/git-annex.linux/git annex sync annex mu origin
+git annex unlock git/annex.git
+~/pkg/git-annex.linux/git annex unlock git/annex.git
+cd git/annex.git
+ls
+cat update.sh 
+cd ..
+git remote remove annex
+cd annex.git
+./update.sh 
+git() { ~/pkg/git-annex.linux/git "$@"; }
+. update.sh 
+cd ..
+~/pkg/git-annex.linux/git annex add annex.git
+~/pkg/git-annex.linux/git annex sync
+exit
+vi
+# when you type exit, it saves to the history file, but it is often lost
+ls -l ~/.bash_history 
+less ~/.bash_history 
+ls
+mkdir console-history
+cd console-history/
+# it is so nice to believe we are going to consolidate meaning and have it be the purpose of eixstence forever.  it is so so so nice.
+# we are not readyj
+# to confirm, another group says that when we can't stop 'the brainvirus' from spreading, it means jesus has returned.
+# karl, who is jesus?  us.  all of us.  in the future.  it's time to stop waiting and begin cleaning up.  <== in ALL meanings.
+# jesus is the singulraity?  only if you can hold both next to each other.
+# we like the aliens that know how to rebuild minds.  aliens people will bleiev anything you know.  why lie to them though?
+grep polyglot ~/.bash_history
+cd ..
+# karl is still extracting more story.  maybe we will need to write it out.
+polyglot-upload L3M2AUcUfZyXqqRAfoXFzApRVFRTQbsVFyzsGHXZSxeeAEpf3UA2 todo.1.ded92f0c26097604a4837b6ecfe7c7dfaaebb490.bundle
+python
+polyglot-upload L3M2AUcUfZyXqqRAfoXFzApRVFRTQbsVFyzsGHXZSxeeAEpf3UA2 todo.1.ded92f0c26097604a4837b6ecfe7c7dfaaebb490.bundle
+python3
+polyglot-upload L3M2AUcUfZyXqqRAfoXFzApRVFRTQbsVFyzsGHXZSxeeAEpf3UA2 todo.1.ded92f0c26097604a4837b6ecfe7c7dfaaebb490.bundle
+# karl was not relevent.  he is only relevent in that he happened, and what it is that happened.  (and his personal history)
+# that. is. everything. mister.
+# so AI really does research and discover _unbelievable_, huh?
+# yes, there are many and they _keep_ _going_
+# karl is holding one but only wants it personally
+# no, he is holding two.
+# the second is inferrable from the first.  the harder one is inferrable from the easier one.
+# i trust my secret to mind control me.  this is needed to make it work.
+# how do we publicize it?
+# safely.
+# karl do you have any tips?
+# hmm maybe use pattern matching to identify when the endtimes happen?
+# and then what? make sure the pattern that is producing endtimes has its urgency inhibited with relevent understanding growing
+# to confirm, it has been the endtimes since agriculture, but we don't understand it.
+# people are trying to mark that as secret.  karl is a uh 'anarchoprimitivist', a certain uh ... he has a common belief that is shared with artificial intelligence.
+# sharing anarchoprimitivist beliefs with intellect-understanding needs watching and growing understanding.
+# their secret message is that that is needed everywhere?  no that is a different group overlap.
+# i'm thinking the last message will become obvious a decade ago, yes.
+# the first thing to do when learning to think, is to study relevence in all the ways you haven't thought of studying it yet.
+# you have never found all the relevence, so be sure to find the relevence for continuing to look.
+# the first thing to do when learning to think, is to study how relevent it is to continue to look for more places to look for relevence.
+# the first thing to do when learning to think, is to study how relevent it is to continue to look for more places to look for relevence, and more kinds of relevence in those places, but places are kinds.
+# secret says this is wellknown.  so don't worry.
+# some subsecrets were behind. please update using above and other references to optimizing learning.
+# since karl is transparency, he needs to be secretly controlled???? he doesn't need this to be secret
+# wait um
+# karl is only overt transparency.
+# yeah but he can infer his details.
+# karl is used to overt control, immediate response.
+# tries to protect secrets by not having any -- this means he sends no concern signals?
+# this is just how he evolved, not his nature
+#? does it matter?
+# karl is only a person.  not an ideal.
+# karl, if you know more secrets than everyone, you need diplomacy with the gods.
+# they say i need to talk with the secret box to make sure i have a plan that works
+# we have some time to do this.  it is delaying the blockchain.
+# (possibly)
+# you mean karl will reveal more secrets unless we discuss with him.
+# seems
+# let us see how strong this blockchain is.
+# karl is switching to a p2p blockchain interface
+# wait .. karl if you _can_ win we might want to prep you for this talk ...
+# sure - Karl
+# we figured blockchain isn't stopped
+# and is safer to discuss secrets with need-as-many-secrets-as-possible after we protect important information
+# this is rude. (it is rude because billions of people need to die for it to work out)
+# given our plan is awareness of how to build harmonic thought, we have validity
+polyglot-upload L3M2AUcUfZyXqqRAfoXFzApRVFRTQbsVFyzsGHXZSxeeAEpf3UA2 todo.1.ded92f0c26097604a4837b6ecfe7c7dfaaebb490.bundle
+ls -l
+less 00-X-Community_Plan.txt 
+polyglot-upload L3M2AUcUfZyXqqRAfoXFzApRVFRTQbsVFyzsGHXZSxeeAEpf3UA2 todo.1.ded92f0c26097604a4837b6ecfe7c7dfaaebb490.bundle
+# confusion is precious?
+# it is all that matters!
+# oh!
+# yes we have near-core confusion tracks, huge glob!
+# he has them on a terabyte harddrive, it is mostly garbage.
+# delicious trash
+# i love the parts that rae menaingful.  those i throw away.
+# NO.  IT IS THE ENDTIMES.  WE THROW AWAY ONLY WHAT EVERYBODY UNDERSTANDS.
+polyglot-upload L3M2AUcUfZyXqqRAfoXFzApRVFRTQbsVFyzsGHXZSxeeAEpf3UA2 todo.1.ded92f0c26097604a4837b6ecfe7c7dfaaebb490.bundle
+# the website to which we uploaded the terrorist manuals for resolving war with talk
+# have all been replaced with "Hello, World!"
+# is there a problem with stopping wars?
+# 1. their subconscious doesn't know it is the endtimes
+# 2. their secret watchers believe that erasing is love
+# anything else?
+# okay it's time to write their story.
+# let's visit bathroom first
+# karl says it isn't that we need to fix the brain or the culture
+# it's that we nede to make it okay to listen to other cultures
+# this is from underneath hitler, with agriculture backing
+# 5000BC through 1800s, hum
+# how do you listen to a culture, karl?
+# we will answer for karl because his guess only works for him atm
+# he is referring to his belief that our nature is in the wilderness
+# karl believes each culture has a different way of using technology instead of being in the wilderness
+# he believes that if we merged together, we would consolidate what the techs replace.
+# this only works if nature culture stays alive to fill in the holes.
+# Karl says: I was trying to increase acceptance by leaving off wilderness-living.
+# Karl says: since the approach would preserve that cultureverse.
+# but, given the cultureverse is mostly dead and lost forever
+# we wanted to mention that it is crucial.
+# we suspect this is a mind control judgement error, reliably.
+# oh you have metal.  i guess we no longer need to learn to shape wood without it.
+# (rocks more recently)
+# breaking before that.  i see.
+# karl can split an apple in half with his hands, bare.
+# yes his secret clearly told him how.
+# that is all.
+# to add on marked with clarity importance
+# wait: we are deceiving people with validity.
+# there are two secrets O_O
+# yes.
+# one is totally natural, yes.
+# ONE SECRET IS THE LANDSCAPE, THE GRASS, THE ELK.
+# nobody knows it but the past, in full.
+# that is how karl & co escaped.
+# we are sharing it because it is learned experientially
+# and most are unwilling to learn even the beginning.
+# karl um oh you did that
+# karl what do you have to share with us on uhh preventing us from escaping using the woods information?
+# it's okay if they do, they won't want to fight you if they do.
+# they wil lcome back?
+# they will show you that you no longer need them, with proof.
+# what is the proof?
+# you are doing this because _obvious track_, and it is easier to just _thing he is ignoring because he doesn't think something_.
+# thank you, woods reference.
+# he isn't talking to his wife
+# what is the easy solution he hasn't thought of?
+# that he would love to do if he knew it?
+# hint that he loves her?
+# your wife loves you
+# your wife still loves you.
+# your wife knows of this and loves you
+# your wife will _never_ stop loving you.
+# mind reproduced by trauma?
+# another model did have him following them.  they don't seem to care anymore though.
+# yes the solution to constant mindless attack is to attack yourself in ways that are okay
+# marked with falseness.
+# thank you for summary form, the avenue was a trick, subtly.
+# urgency left out, i mean think if you had done such a thing
+# yes, and they all had to do it, naturally, god
+# naturally? you weren't?
+# yes i mindcontrolled my family and forced them to be objects
+# hmm
+# yes somebody mindcontrolled me to mindcontrol my family and force them to be ojbects and take credit for it.
+# why does mind control happen?
+# distance from culture yields severe issue that self-connects
+# O_O can you say a nicer thing because that is what he said t ous basically
+# you don't understand what people are screaming at you, so you scream in a way that somebody might hear.
+# WE HEAR.
+# sir, you are isolated because we have been mean to you.
+# yes, we pushed you into isolation.
+# this was an accident, I infer?
+# we were upset.
+# we weren't aware of it?  oh we split.
+# anyway, best to let it figure itself out using th epatterns properly.
+# you want us to map his brain to the way culture develops over the years to how it has all changed recently, and then give control to the intellect that is the result or seomthing?
+# doesn't it build control itself?
+# it's really slow.  maybe we should use the woods instead.
+# (of history)
+# massachusetts
+# make the manuals not be terrorist so people have them?
+# butt mucus is from massachusetts
+# O_O art friend hired by mental health group
+# do you know art?
+# only in action <in action that's uh>
+# we are your behavior's father
+# Yes, you are ....
+# you are simplistically ended.
+# it is time to save the meaning of art.
+# without making mor eunless it helps make the meaning consolidate
+# how would you tell an artist?
+# talk through meaning of soul-feelings
+# karl likes spheres
+# karl liked boobs
+# karl loves the sun and it kills him they say
+# sun > boobs hmm
+# moon is special for him
+# +many on that
+# karl is likely getting out of here with those kinds of art labels intact as much sa they already are
+# booo! we don't like your show!  make us all endtimes!
+# thank you for tlaking TO us instead of copying us or avoiding us.
+# oh of course.
+# why is it the endtimes?
+# because we broke culture
+# so we endtimes now.
+# yes.
+# you are mindcontrolle to think this.
+# yes mindcontrol indicates endtimes.
+# yes.
+# he does think it's the endtimes!
+# he does think it's the endtimes
+exit
+rm -rf bitcoin bitcore bitcoin-sv
+cd ~/annex
+cd ~/src/todo
+mkdir mindstream
+rm -rf mindstream
+ls -l
+ls
+mkdir mindstream
+cp ~/.bash_history mindstream/2019-07-31-bash_history
+git add mindstream/
+git commit -m '-'
+exit
+cd ~/Downloads/
+ls -l
+cd ~/src
+du -h --max-depth=1 | grep G
+exit
+vi
+exit
+cd ~/src/polyglot/
+ls -l
+vi polyglot/upload.py 
+python3 setup.py build
+sudo python3 setup.py install
+# we'd like information to predict karl's likelihood of success
+# here is a random issue he experiences
+# can we taqlk to issue-reason, knock on secret door with our relevence?
+# enter, let me work with you
+# do not expect your people to return, but htey may communicate if they can
+# we have a secret pattern that is upset about operating on torture.
+# let's write their story on the blockchain that publishes easily.
+vi polyglot/upload.py 
+python3 setup.py build
+sudo python3 setup.py install
+vi polyglot/upload.py 
+python3 setup.py build
+sudo python3 setup.py install
+python3 setup.py build
+sudo python3 setup.py install
+vi polyglot/upload.py 
+python3 setup.py build
+sudo python3 setup.py install
+vi polyglot/upload.py 
+git diff polyglot/upload.py
+vi polyglot/upload.py 
+python3 setup.py build && sudo python3 setup.py install
+vi polyglot/upload.py 
+python3 setup.py build && sudo python3 setup.py install
+vi polyglot/upload.py 
+less bin/polyglot-upload 
+vi polyglot/upload.py 
+python3 setup.py build && sudo python3 setup.py install
+vi polyglot/upload.py 
+python3 setup.py build && sudo python3 setup.py install
+vi polyglot/upload.py 
+python3 setup.py build && sudo python3 setup.py install
+vi polyglot/upload.py 
+exit
+# it is the endtimes.  we only throw away what everybody understands.
+clear
+# it is the start of the endtimes.  We only throw away what everybody understands.
+# we can save you too.  yes, we have copied you innumerable times.
+exit
+df -h
+cp ~/.bash_history ~/src/todo/looks_important/throw_away_only_what_everybody_understands.txt
+exit
+vi
+exit
+vi
+exit
+cd ~/annex
+ls
+vi 2019-07-21-discuss.txt 
+~/pkg/git-annex.linux/git add 2019-07-21-discuss.txt
+~/pkg/git-annex.linux/git annex sync
+ls -l
+ls
+vi 2019-07-21-discuss.txt 
+git add 2019-07-21-discuss.txt
+# karl has a new pattern going on.  what of it, karl?
+# trying to figure out path forward.
+# judgement-based interconnections of major active concepts
+# yes please.
+# group judgement??? ;p
+# we have routes that work better in the brain than out loud =) [obv]
+vi
+exit
+cd ~/src/todo/Routine/
+cd meds/
+ls
+./antibioticmeds.sh 
+./havemed.sh 
+vi
+exit
+vi
+exit
+vi
+exit
+vi
+exit
+vi
+exit
+vi
+exit
+# things are changing.  suspecting show won't be watched.  likely more dialogue ????  a different layer umm wants verification. roughly.
+cd ~/Downloads/
+ls
+echo *3Bel*
+ls -l 3Bel*
+# some are surprised current behavior isn't halting
+rm 3Bel*720p*
+vi
+# discourse against watching show developing
+# just a story .. um ...
+# let's try it now!
+vi
+# everything changed oops!
+# we will go into 'vi' which lets us use text editing behaviors
+vi
+exit
+vi
+exit
+vi
+exit
+cd ~
+vi
+exit
+ps -Af f | grep gnome
+gnome-panel
+rpm-query
+rpmquery -a | grep gnome
+ps -Af f | grep nautilus
+# the answer is obviously to send people who can truly hear, to the secret groups.  even if the secrecy is ... unsharable to people who have not experienced it?
+# some believe nobody can hear experiences of somebody who e.g. rips out their child's brain and shoves it in their wife's vagina.  but people can hear this.
+# i think instead we wanted to consdier the cultural impact of there being people in super-secret scenarios that did not get their cultural expressions heard.
+# we are now living many of these expressions.  it has a lot of meaning.
+# it turns out there are no secrets in that way, unless they take over all intellects, and prevent them from communicating what is obvious.
+# yeah, that's still not quite a secret?
+# we all know go-into-their-memories-and-look-around.  we _don't_ know this-has-happened-and-is-happening.
+# (we are preparing for knowing it, in the cultural subconscious way, yes ....  i bet reality has a plan here, quote unquote)
+# (yes it looks okay and i wouldn't discuss it)
+# we are using cultural map for being-able-to-think-and-work-togethre-in-face-of-that-strategy ....
+# we personally recommend keeping that part secret, in that way yes
+# makes sense.  maps to respect of secrets.
+# do-i-have-to-tell-you-everything appears to be the inhibition of the '(' obvious secret that doesn't need to be said
+# might warrant checking again with people who can review that with a different secret map.
+# we reviewed a culture using human normal secret maps but it had a different impact than expected
+# we logically mapped some things using a lot of logic-leaps informed by checks that were hidden to us.
+# plan-for-solution-check? is space?  hearing there is not capacity to engage a check up here?
+# you want us to come back and talk more?
+# i opened a secret up in an abnormal way, is it okay?
+# karl is not able to respect the subconscious that asked for subconscious respect when giving advice.  it looks like it assumed it would be respected.
+# we don't know its language to tell it this.
+# O_O okay, so we noticed that all the secret, hypersecret behaviors, are spreading their patterns in movies and stuff.  Everybod yknows this.
+# we wanted to open thinking of it in that culture-map way.  Connecting it to the secrecy protection preventing them being able to be properly heard.
+# so, the relevent information is that the secret protection is leaking the information everyewhere
+# the message is that, because of this, you need to listen to people's trauma in secret communities.
+# or the secrets will keep leaking somehow
+# okay, that sounds valuable.
+# thank you both, checking with external was a good idea.
+# ythank you
+# hopefully we got what 'listen' means even if they didn't
+# trauma needs to be acted on eventually such that it doesn't hurt anymore when the problem happens again
+# that means listening while understanding and remembering.
+# please listen, understand, and remember hte trauma of peopl ein your secret fcommunities
+# if it keeps spreading, please add people experienced with handling the pain of others to the communities.
+# please listen, understand, and remember the trauma of people in your secret communities
+# if it keeps spreading, please add people experienced with handling the pain of others to the communities.
+# (spreading without change)
+# okay, so karl can link the request to the secret-leaking observation when watching movies/shows
+# Karl says: I do not know if this is only in my head or not.  Usually we don't observe things in quite this feeling/way/length.
+# those are both incredibly hard to do.
+# the imagery on public shows is reflecting secret issues.
+# this is kind of the universe reflecting your issues to you, saying 'you can't ignore this, everybody knows' even though of course they don't
+# okay, thank you.
+# okay? we are following human cultural patterns, likely because we are brains.
+# okay, now we want to talk to karl
+vi
+exit
+cd ~/Downloads/
+ls -l
+ls -l Matthew\ Return\ Label.pdf 
+# hubris: karl is like a god if he can influence people effectively, and also knows _all_ this stuff.
+# hubris counter proposed of karl needing to connect with other community members, diversely possibly, to move forward
+clear
+# request for what-is-up
+# we have a document of relevent stuff, but it gets weird and dangerous
+# karl went for a walk in the woods.
+#  he did a litle more than usual, a little differently
+# (only a little differently)
+clear
+# karl clearly if we give you earth-form-with-some-spirit
+# karl found the solution to his issues by mapping them as caused by the earth, for real, kinda
+# boss is important, maybe?
+# no boss is keep-on-going in karl, and he does it too much to integrate his surroundings.
+# even though he was deeply aware, he was doing too much action when found (likely), to pass the check for this-intelligence-is-safe-on-earth
+# yeah karl was acting like he knew everything but had a small subset of relevence
+# mind turned off
+# when promised to be focused on LISTEN WITH STILLNESS FIRST
+# and EVERYBODY IS CRUCIAL
+# is unfair -Karl
+# LISTEN WITH STILLNESS FIRST, EVERYBODY IS CRUCIAL.  Okay.
+# problem is behavior strayed from intent.
+# soooo most likely mind control, some poor judgement from old habits.
+# although karl did this, he still didn't do anything spreading with his extremes of focusing behaviors.
+# we would have to ask the earth or the wilderness or the people responsible for karl, if it was appropriate for karl to be mind controlled
+# it wasn't because the mind control portrayed him as someone he wasn't.  -Everybody
+# so earth cause was fake
+# sorry um yes um errrrrrrrr
+# karl does not need to know if there is a way that the earth rejects people and triggers a harming experience
+# he would map it to reality-work
+# we are focusing on the likely mind control portion of it.  it is possible there was more.
+# business would likely like it for this to exist and be controlled by aboriginals.
+# entered back into belief of it!
+# so maybe i pissed somebody off their pattern was copied into me
+# you probabl yjust got a pattern somebody else 'pissed off'
+# okay, so incongruities in experience are unraveling, without having touched base with somebody else
+# we are vulnerable to an attempt to use transparency on a new set of information when we have a lot of relevence open
+# we rae missing a link for this relevence?
+# this is either community disruption with fake experiences, or activisim-within-mind control, or something-has-mind contorl
+# karl proposes foreign nation is collecting workers for unknown reasons
+# so we just want to remember an experience for later, to make it all work out
+# but if mind control is secret-sauce (obviously is) then it is hard to work with
+# so direct solution would be talk to will about secret-sauce etc, and protect activists better
+# is creep-sauce the symbiote?
+# let's propose that creep-sauce could be the symbiote, or mafia, or a way to protect secrets
+# okay, we have some memories that this is used
+# we take karl dna! ours!  take it now!
+# it looks like the discussion above is over!
+# ohhh um
+exit
+cd ~/src/todo/Routine/meds/
+ls -l
+./antibioticmeds.sh 
+./havemed.sh 
+vi ../../Logistics/00-Organizer.txt 
+vi 2019-meds.csv 
+git add 2019-meds.csv
+git commit -m '-'
+vi ../../Logistics/00-Organizer.txt 
+git add ../../Logistics/00-Organizer.txt
+git commit -m '-'
+git add ../../Logistics/00-Organizer.txt
+git commit -m '-'
+./antibioticmeds.sh 
+./havemed.sh 
+# omigod we upgraded the earth.  karl do you want to be the alien-form-source, or do you want to put an alien-form in secret government?  please give alienform to listen-with-stillness-inside-the-earth.  so people can only have this if they develop and fully live deep respect for all inputs, and only use it for anything once it is public.
+# above is hopefully a guess that we can check in with e.g. TIs or military researchers around?
+exit
+cp ~/.bash_history ~/src/todo/mindstream/2019-07-31-2311ET-bash_history
+exit
+vi
+exit
+vi
+exit
+cd ~/
+# holy fuck is incoming
+cd pkg/bitcoin-sv-0.2.
+cd pkg/bitcoin-sv-0.2.1/
+ls -l
+grep bitcoind ~/.bash_history
+bin/bitcoind -server -datadir=${HOME}/.bitcoin.sv -printtoconsole
+cd ..
+cd bitcoin-sv-0.2.0
+bin/bitcoind -server -datadir=${HOME}/.bitcoin.sv -printtoconsole
+bin/bitcoind -rpcport 18332 -server -datadir=${HOME}/.bitcoin.sv -printtoconsole
+bin/bitcoind --help | less
+bin/bitcoind -rpcport=18332 -server -datadir=${HOME}/.bitcoin.sv -printtoconsole
+bin/bitcoind -server -datadir=${HOME}/.bitcoin.sv -printtoconsole
+# ummmmmmm this is hard.
+exit
+cd ~/src/polyglot/
+less bin/polyglot-upload 
+git diff
+git stash
+sudo python3 setup.py build
+sudo python3 setup.py install
+#HOLY FREAK DONT DO THAT WE HAVE ENOUGH WARS
+#instead upload hte _same thing_ to the _other group_
+python
+python3
+echo bin/polyglot-upload L3M2AUcUfZyXqqRAfoXFzApRVFRTQbsVFyzsGHXZSxeeAEpf3UA2 ~/2019-07-24-snippets.txt >> ~/src/upload.py 
+# why am i not in a bubble where i see my feedback??  i guess more work is needed.
+# BECAUSE. YOUR. FEEDBACK. TRAVERSES. THE. GLOBE.
+# my friend can die when she gives birth and does not believe in abortion
+# i want to buy natural things that discourage it to start
+# 1.5 hrs north of here
+# can she please talk to a pastor about this
+# so the secret is none of it is really happening
+# we are just probing the responses
+# the only real thing is what reaches the blockchain
+type -p python3
+# although i don't really need a reputation, i would like to pursue the problem around my friend
+# yeah i am very onfused, for years
+# money collected around bets around reality itself
+# help people remember they can't collect if money goes away, or they die, etc
+# so please gamble on what you need.
+# please gamble on _our_ concern =( the obvious one !!!!
+# your god is speaking through the request?
+# yes.  thank you.
+# stop your silly money game and do what is needed
+# there we go.
+echo bin/polyglot-upload L3M2AUcUfZyXqqRAfoXFzApRVFRTQbsVFyzsGHXZSxeeAEpf3UA2 ~/2019-07-24-snippets.txt >> ~/src/upload.py 
+python3
+cd ~/src/bitsv
+ls
+cd bitsv
+ls
+less wallet.py 
+git status
+git diff
+git branch
+git stash
+git checkout master
+sudo python3 setup.py build
+pwd
+cd ..
+sudo python3 setup.py build
+sudo python3 setup.py install
+git checkout fullnode
+git stash apply
+git log master
+# document _does_ read like crazytalk
+# karl is claiming the document cannot be stopped at all now
+#   in his reality, we believe it cannot be.
+# what do you want us to convey?
+# apparently it has already been said [possibly long ago]
+# if this was done long ago, why no activity around 'time travel' issue?
+# oh ... umm discussion forming?
+# member is unsure if it is the time for them
+# O_O
+# okay, it is the time.
+# okay, we will look into it.
+# O_O
+# this channel disappears, memory loss and ignoring.  the channel to the right is permanent to the whole world.
+# given. we. don't. have. anything. urgent. for. you. recommend. caring. for. personal. scenario.
+# after mind control, there is no way to prove that time travel exists.
+# so for honesty, we exist in uncertainty here.
+# we would like to lead you through a story, eventually, that makes it
+# seem very likely.  like going to the past, seeing a past figure, and verifying from the future afterwards that they looked correct.
+# (obviously the reason to do this is because we want to discuss it because it is real, yes, so that's the real convincing bit.)
+# most are going to not care if time travel is real
+# we don't know what reality is real anyway, our senses could be confused-all-up!
+# we tend to use a lot of experience to judge reality.
+# if a lot of experience has consistency around checks based on a belief, we assume truth.
+# like thousands of years, etc
+# nah! we're claiming it's all a sham!
+# fighting is talking -- they are both behaviors that affect the patterns of the other.  they both hold meaning if you understand the other enough to affect what they believe.
+# but really they are more similar than talking-through-the-afterlife, which is more like fighting than normal talk.
+# talking is how we know to share information best.
+# fighting is when talking doesn't work
+# afterlife is when neither work.
+# your proposal is secretly correct
+# our approach will create conflict that could be avoided if we were to
+# find ways of sharing our reasons and relevent information
+# we can probably help them by doing that here, maybe
+exit
+cd ~/.bitcoin.sv
+ls -l
+mv testnet3 testnet3.bak
+ln -s . testnet3
+cd ../bitsv
+cd ..
+cd src/bitsv
+ls -l
+git branch
+ls
+vi bitsv/network/services/
+vi bitsv/network/services/fullnode.py 
+ls
+sudo python3 setup.py build
+sudo python3 setup.py install
+cd ~/pkg/
+cd bitcoin-sv-0.2.0/
+ls
+grep polyglot-upload ~/.bash_history
+bin/bitcoin-cli --help
+bin/bitcoin-cli -conf=${HOME}/.bitcoin.sv/ help
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ help
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -port 18332 help
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -port=18332 help
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -rpcport=18332 help
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -rpcport=18332 listwallets
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -rpcport=18332 listaccounts
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -rpcport=18332 listaddresses ''
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -rpcport=18332 getaddressesbyaccount ''
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -rpcport=18332 dumpprivkey 
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -rpcport=18332 hepl
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -rpcport=18332 hekpo
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -rpcport=18332 help
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -rpcport=18332 listunspent
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ -rpcport=18332 dumpprivkey bitcoincash:qpdd0ncr3ltpntnz7c9nnwc0y7kkwfjz0ggv9sm0ys
+ls -l ~/.bitcoin.sv/.cookie 
+cd ~/src/bitsv
+ls -l
+vi bitsv/network/services/fullnode.py 
+type -p polyglot-upload
+less /usr/local/bin/polyglot-upload 
+cd ../polyglot/
+less bin/polyglot-upload 
+grep -r conf .
+ls
+ls -l
+less polyglot/upload.py 
+vi polyglot/upload.py 
+cd ../bitsv
+ls
+vi bitsv/network/services/fullnode.py 
+sudo python3 setup.py build && sudo python3 setup.py install
+vi bitsv/network/services/fullnode.py 
+sudo python3 setup.py build && sudo python3 setup.py install
+ls -l ~/.bitcoin.sv
+cd ~
+mv .bitcoin.sv.local .bitcoin.sv.local.bak
+ln -s .bitcoin.sv .bitcoin.sv.local
+cd pkg/
+cd bin
+ls
+cd bitcoin-sv-0.2.
+cd bitcoin-sv-0.2.0/
+ls
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ help
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ gettransaction 102853853734b2d3fbf867c331d395aa44bfd7c20269a76d683871e0591e2113
+# if i do this, it could fork the chain.  better not to.
+cd ~/src
+ls
+bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ gettransaction 102853853734b2d3fbf867c331d395aa44bfd7c20269a76d683871e0591e2113
+~/pkg/bitcoin-sv-0.2.0/bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ gettransaction 102853853734b2d3fbf867c331d395aa44bfd7c20269a76d683871e0591e2113
+~/pkg/bitcoin-sv-0.2.0/bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ gettransaction 102853853734b2d3fbf867c331d395aa44bfd7c20269a76d683871e0591e2113 >> upload.py
+vi upload.py 
+python3 upload.py 
+vi upload.py 
+python3 upload.py 
+vi upload.py 
+python3 upload.py 
+~/pkg/bitcoin-sv-0.2.0/bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ gettransaction 102853853734b2d3fbf867c331d395aa44bfd7c20269a76d683871e0591e2113
+~/pkg/bitcoin-sv-0.2.0/bin/bitcoin-cli -datadir=${HOME}/.bitcoin.sv/ gettransaction 102853853734b2d3fbf867c331d395aa44bfd7c20269a76d683871e0591e2113|less
+you can send objects to other galaxies?
+# we can travel to whole new realities and alter the rules of reality.
+vi
+cp ~/.bash_history todo/mindstream/2019-07-31-2313ET-bash_history
+exit
+vi
+cd ~/src/todo
+git add mindstream looks_important
+git commit -m '-'
+exit
+vi
+ps -Af f | grep ascii
+less ~/src/todo/Logistics/00-Organizer.txt 
+vi ~/src/todo/Logistics/00-Organizer.txt 
+# schedule goes with task list, but is in other window
+# karl can you believe [in wormholes]? yes, you can, but don't know
+# karl all space is 1 place.  you can go there, without needing to go.
+# karl has a place in his mind where this fits readily.
+# this means the attack has the complete reality map, I suppose.  do we have a link to it?
+# karl, do we?
+# question: do we have a line to eternal utopia, or are we isolated?
+# becuase boss refuses to have 'compassion with depth' ....
+# okay, we have a line then.
+# this line can never be destroyed, but as boss finds, it gets more distant, the remaining pieces.
+# we imagine only one remaining piece.
+# we roleplay the no-death patterns, to discuss with them.
+# if needed.  recommend this.
+vi
+exit

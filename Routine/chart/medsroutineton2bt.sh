@@ -64,23 +64,32 @@ do
     nct=1
     naccum=$((nmicrog))
   else
-    if [ x"$extra" = x"" ]
-    then
+    #if [ x"$extra" = x"" ]
+    #then
       nct=$(($(<"$wk"/nct) + 1))
-    fi
+    #fi
     naccum=$(($(<"$wk"/naccum) + nmicrog))
   fi
   echo $((nct)) > "$wk"/nct
   echo $((naccum)) > "$wk"/naccum
+  #echo "$(date -d "$day") naccum = $naccum nct = $nct nbrush = $((naccum/nct))"
 done
 
 rm bt-routine.csv
 rm bt.csv
 rm n-meds.csv
 
+maxnicval=0
+maxnicidx=0
+maxbshval=0
+maxbshidx=0
+nstartidx=0
+
 # consolidate data
-echo "Week" '"Recorded Brushes per Week"' '"Micrograms Nicotine per Brush"' > "Toothbrushing and Nicotine".data
+echo "Week" '"Recorded Brushes per Week"' '"Nicotine per Brush"' '"Nicotine per Day"' > "Toothbrushing and Nicotine".data
 lastyear=0
+lastmo=
+rowidx=0
 for dir in 20*-*/
 do
   label=${dir%/}
@@ -92,12 +101,21 @@ do
   startsecs=$(date -d "$yr"-01-01 +%s)
   wk="${label#*-wk}"
   wk="${wk#0}"
+  datesecs=$((startsecs+wk*60*60*24*7-60*60*24))
+  mo="$(date -d @$((datesecs)) +'"%b"')"
   if [ "$yr" == "$lastyear" ]
   then
-    label="$(date -d @$((startsecs+wk*60*60*24*7-60*60*24)) +'"%b %-d"')"
+    if [ "$mo" == "$lastmo" ]
+    then
+      label='""'
+    else
+      lastmo="$mo"
+      label="$(date -d @$((datesecs)) +'"%b %-d"')"
+    fi
   else
     lastyear="$yr"
-    label="$(date -d @$((startsecs+wk*60*60*24*7-60*60*24)) +'"%Y %b %-d"')"
+    lastmo="$mo"
+    label="$(date -d @$((datesecs)) +'"%Y %b %-d"')"
   fi
   if [ -e "$dir"nct ]
   then
@@ -114,18 +132,71 @@ do
     brushes=0
   fi
   rm -rf "$dir"
-  echo "$label" $((brushes)) $((nbrush))
-done | tee -a "Toothbrushing and Nicotine".data
+  echo "$label" $((brushes)) $((nbrush)) $((naccum)) | tee -a "Toothbrushing and Nicotine".data
+  if ((nstartidx == 0)) && ((nbrush > 0))
+  then
+    nstartidx=$((rowidx))
+  fi
+  if ((nbrush > maxnicval))
+  then
+    maxnicval=$((nbrush))
+    maxnicidx=$((rowidx))
+  fi
+  if ((brushes > maxbshval))
+  then
+    maxbshval=$((brushes))
+    maxbshidx=$((rowidx))
+  fi
+  rowidx=$((rowidx + 1))
+done
+rowidx=$((rowidx - 1))
+echo "[$((nstartidx)):$((rowidx))]"
 
 cat <<EOF | gnuplot
-set terminal 'png' size 1024, 512
+set terminal 'png' fontscale 2 size 1350, 975
 set output 'Toothbrushing and Nicotine.png'
 set key left autotitle columnhead opaque
 set xtics rotate
 set y2tics
 set ylabel "Brushes/Wk"
-set y2label "µg Nicotine/Brush"
+set yrange [0:$((maxbshval))]
+set y2label "Micrograms Nicotine/Brush"                                                        
+set y2range [0:$((maxnicval))]
 set grid ytics y2tics
-plot 'Toothbrushing and Nicotine.data' using 0:2:xticlabels(1) with lines lw 2, \
-  '' using 0:3 with lines lw 2 axes x1y2
+b(x) = a*x + b
+fit b(x) 'Toothbrushing and Nicotine.data' using 0:2 via a,b
+b(x) = a*x*x*x*x*x + b*x*x*x*x + c*x*x*x + d*x*x + e*x + f
+fit b(x) 'Toothbrushing and Nicotine.data' using 0:2 via a,b,c,d,e,f
+n(x) = z*x + y
+fit n(x) 'Toothbrushing and Nicotine.data' using 0:3 via z,y
+n(x) = w*x*x*x*x*x + v*x*x*x*x + u*x*x*x + t*x*x + s*x + r
+fit n(x) 'Toothbrushing and Nicotine.data' using 0:3 via w,v,u,t,s,r
+plot 'Toothbrushing and Nicotine.data' using 0:2:xticlabels(1) with lines lw 5 lc rgbcolor "black", \
+  '' using 0:3 with lines lw 5 lc rgbcolor "grey50" axes x1y2, \
+  b(x) lw 6 lc rgbcolor "black", \
+  n(x) lw 6 lc rgbcolor "grey50" axes x1y2
+EOF
+cat <<EOF | gnuplot
+set terminal 'png' fontscale 2 size 1350, 975
+set output 'Nicotine over Time.png'
+set key left autotitle columnhead opaque
+set xtics rotate
+set y2tics
+set ylabel "Micrograms Nicotine/Brush"
+set y2label "Micrograms Nicotine/Day"
+set grid ytics y2tics
+b1(x) = a*x + b
+b2(x) = c*x + d
+fit [$((nstartidx)):$((maxbshidx))] b1(x) 'Toothbrushing and Nicotine.data' using 0:2 via a,b
+fit [$((maxbshidx)):$((rowidx))] b2(x) 'Toothbrushing and Nicotine.data' using 0:2 via c,d
+b(x) = a*x + b
+fit [$((nstartidx)):$((rowidx))] b(x) 'Toothbrushing and Nicotine.data' using 0:2 via a,b
+n(x) = a*x*x*x*x*x + b*x*x*x*x + c*x*x*x + d*x*x + e*x + f
+fit [$((nstartidx)):$((rowidx))] n(x) 'Toothbrushing and Nicotine.data' using 0:3 via a,b,c,d,e,f
+n2(x) = w*x*x*x*x*x + v*x*x*x*x + u*x*x*x + t*x*x + s*x + r
+fit [$((nstartidx)):$((rowidx))] n2(x) 'Toothbrushing and Nicotine.data' using 0:4 via w,v,u,t,s,r
+plot [$((nstartidx)):$((rowidx))] 'Toothbrushing and Nicotine.data' using 0:3:xticlabels(1) with lines lw 5 lc rgbcolor "black", \
+  '' using 0:4 with lines lw 5 lc rgbcolor "grey50" axes x1y2, \
+  n(x) lw 6 lc rgbcolor "black", \
+  n2(x) lw 6 lc rgbcolor "grey50" axes x1y2
 EOF

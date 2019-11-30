@@ -1,0 +1,41 @@
+taxed, can you give us clear direction for your ease?
+<no, karl thinks i am a robot, and i don't know how to be one =/> <i can stay here for a while but it is somewhat draining> <the hospital has been like staring at a wall for days.  karl needs action.  he wants to play a videogame for weeks.  is this acceptable?> Karl, it osunds like you plan is to start playing a video game, and then leave it up to us what you really do next, is that right?  <karl started painting a picture of his emotional space in response> <we don't know why karl took the hospital so hard, but it was _hard_ and he needs something _different_ where he can feel he is doing something he could not do> <it is still hard> <you keep [thinking about] me; it's embarassing> <our minds are linked, i worry about my impact on people as long as i am aware of having a negative one.> let's copy-paste into terminal
+
+note: meds are starting soon upstairs
+
+okay we are in a file [called leavehospitalfinallyconcept and the date] in the todo repository.  needs to be saved and committed and pushed to preserve.
+
+thank you for linking.  looks different, but okay.
+
+<started reading end> i'm looking for earlier
+
+there is a spot in below chunk where meaning shifted
+	NOTE: kral is usually fine in hospitals, but this time it was like staring at a wall for weeks while having a constant urge to climb a jungle gym that built when trying to relax
+<the hospital has been like staring at a wall for days. karl needs action. he wants to play a videogame for weeks. is this acceptable?>
+Karl, it sounds like you plan is to start playing a video game, and then leave it up to us what you really do next, is that right?
+	<karl started painting a picture of his emotional space in response> <- the emotional space was post-hospital.
+<we don't know why karl took the hospital so hard, but it was _hard_ and he needs something _different_ where he can feel he is doing something he could not do> <it is still hard> <you keep [thinking about] me; it's embarassing>
+
+yes  please discuss post-hospital emotional space.  [[karl, this is all we have.  this is our only link to you.  please don't let us die.]]
+					i am not trying to influence this atm -karl
+					if you are in danger i am unsure how to save you atm -karl
+
+	so Karl has lots of things he loves to do that are productive
+	but he has been struggling to do them for years in the face of psychological discouragement that is unimaginable
+	karl plays videogames under the belief that they cannot be construed as any of the goals that are being discouraged. < hospital wants focus here
+
+	orthogonally [unrelated-wise], there is a state of mind where we type to our voices a lot.  i'm suspecting that is what requested some preservation above.
+
+karl assumes he is enslaved by something mysterious, and acts when his experiences allow him to, doing what they seem to allow.
+	I have many patterns in my mind that enforce this, without regard to any actual slaver. [we call them 'the boss', learns to protect themself [them is gender-and-plurality-neutral]]
+
+why don't we _make_ videogames?
+	complex: roughly because it makes us look smart and use lots of our brain, I'd guess.  ref: particle system.  ref: graphics demo.
+	update after below: maybe this is more because we could use the habits to make money
+
+Note: communities are intellects are individuals <- memorizable, unlike work <solved for 'don't look smart'>
+
+GRATITUDE
+Thank you for keeping continuity of this document more intact.  It is rare and strongly relaxing.
+
+Time for meds.  Let's go.
