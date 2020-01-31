@@ -1,0 +1,650 @@
+rm -rf .git/modules/danger-intellect
+git submodule update resources/dog/danger/intellect/
+git submodule init resources/dog/danger/intellect
+git submodule update resources/dog/danger/intellect/
+git submodule deinit resources/dog/danger/intellect
+git submodule deinit resources/dog/danger/intellect -f
+git submodule deinit -f resources/dog/danger/intellect 
+git submodule init resources/dog/danger/intellect
+git submodule update resources/dog/danger/intellect
+git status
+cd projects/xloem-intellect/
+ls -l
+git status
+git remote -v
+git log
+git status
+git branch
+git log master
+git checkout master
+git remote -v
+cat .git
+git log
+ls -l
+git remote -v
+git push outer
+man git-branch
+git branch --set-upstream-to outer xloem-intellect
+git branch --set-upstream-to outer outer/xloem-intellect
+git branch -a
+git branch --set-upstream-to outer remotes/outer/xloem-intellect
+git branch --set-upstream-to outer/xloem-intellect
+git push
+git help config
+git config push.default upstream
+git push
+git pull
+ls -l
+cd ..
+ls -l
+vi PROPOSALS 
+git status
+exit
+cd ~/src/care/resources/
+ls -l
+cd ..
+git checkout -b standingwithresilience
+git checkout master
+git branch --delete standingwithresilience
+git checkout -b --orphan standingwithresilience
+git checkout --orphan standingwithresilience
+git pull ~/src/standingwithresilience
+cat .gitmodules 
+git checkout master
+git diff .gitmodules 
+ls -l
+git diff HEAD .gitmodules 
+git checkout standingwithresilience
+git checkout --orphan standingwithresilience
+rm .gitmodules 
+git status
+git rm --cached .
+git rm --cached . -r
+git rm --cached . -rf
+git pull ~/src/standingwithresilience
+ls -l
+git checkout master
+rm PROPOSALS README 
+git status
+git log --patch
+git status
+git checkout master
+git checkout master | cut -d '\t' -f 1
+git checkout master | cut -d '     ' -f 1
+git checkout master | sed -ne 's/^        .*/&/p'
+git checkout master 2>&1| sed -ne 's/^        .*/&/p'
+git checkout master 2>&1| sed -ne 's/^       .*/&/p'
+git checkout master 2>&1| sed -ne 's/^\t.*/&/p'
+git checkout master 2>&1| sed -ne 's/^\t.*/&/p' | while read file; do rm -v $file; done
+git checkout master
+git checkout master 2>&1| sed -ne 's/^\t.*/&/p' | while read file; do rm -v $file; done
+git checkout master 2>&1| sed -ne 's/^\t.*/&/p' | while read file; do rm -v "$file"; done
+git checkout master
+ls -l
+git log --patch standingwithresilience
+git submodule add
+git submodule add -b standingwithresilience . projects/wiki
+git submodule add -b standingwithresilience ./ projects/wiki
+ls -l projects/wiki/
+ls -l
+rm separatepacks.sh 
+ls -l projects/
+git status
+rm -rf TEST
+ls -l
+vi thinking-work/karl-relation.txt 
+ls
+git log
+git status
+git add projects/xloem-intellect
+git commit -m 'added old wiki attempt from rough experience'
+ls -l
+cd ..
+ls -l
+# it would be fun to do scuttlebutt a little.  not sure i have the stuff here.  don't see any relevent repos
+cd ..
+ls
+cd pkg
+ls
+exit
+cd src
+ls
+exit
+vi
+cd meaning-vm/
+ls
+vi PLAN.txt 
+vi TODO.txt 
+git add TODO.txt 
+git commit -m 'trying to outline stuff, hard to keep the process grounded'
+exit
+. ext4/guix/enter.source 
+tmux
+cd src/care/
+git checkout -- resources/dog/danger/karl-blockchain-accounts/.bsv
+git checkout -- resources/dog/danger/karl-blockchain-accounts/livelog-community-files
+git add .gitmodule projects/xloem-intellect
+git add .gitmodules projects/xloem-intellect
+git commit -m 'intellect small changes'
+git add .gitmodules projects/xloem-intellect
+git diff HEAD
+git commit -m 'oops, ref updated now'
+# karl proposes we store daily.  have stored since yesterday, so no online store atm.exit
+sync
+vi
+# <i want to work on a new one!> <let's make the old one good enoguh to use for new ones ...> [we could use it for something new now =S]
+cd meaning-vm/
+ls -l
+vi level3.cpp
+make
+grep -r makeconcept .
+vi
+cd src/care
+vi thinking-work/karl-relation.txt 
+cd /sys/class/power_supply/olpc-battery/
+ls -l
+cat uevent 
+sync
+cd ~/meaning-vm/
+sync
+ls
+vi level-3/bootstrap-parser.
+vi level-3/bootstrap-parser.cpp
+vi
+top
+/bin/sudo swapon ~/FAT/swap
+/bin/sudo swapon ~/swap
+exit
+cd meaning-vm/
+git add level-*
+git status
+git add level2.cpp makefile
+git add level3.cpp
+git commit -m 'handled compilation errors.  realized how many times i implemented the same thing repeatedly; clearly losing my memory a lot while working.'
+git push
+exit
+cd meaning-vm/
+grep -r rand .
+grep -r rand . | grep hpp
+grep -r conceptunmake | less
+ls
+vi TODO.txt 
+git add TODO.txt 
+cd ~/src/care/resources/dog/git-maintenance/internet-access/
+ls -l
+curl -v google.com
+guix search scuttlebutt | less
+npm install -g ssb-server
+cd ~/src
+mkdir scuttlestuff
+cd scuttlestuff/
+npm install ssb-server sbot
+ls
+cd node_modules/
+ls -l
+cd ..
+npm install ssb-server
+npm install sbot
+cd ..
+git clone https://github.com/clehner/git-ssb.git
+exit
+. ext4/guix/enter.source 
+tmux
+cd src/care
+ls -l
+resources/store-encrypted-on-bsv-blockchain.sh 
+cd ~/src
+git clone https://github.com/staltz/easy-ssb-pub.git
+cd easy-ssb-pub/
+ls 
+npm install
+reset
+cd ..
+cd patchwork/
+npm install
+npm install patch-settings
+cd ..
+clear
+cd scuttlestuff/
+3~3~ls
+npm install npm@latest
+sync
+cd ~/src
+git clone https://github.com/ssbc/ssb-server.git
+git clone https://github.com/ssbc/patchwork.git
+cd ssb-server/
+ls
+npm install
+npm install --help
+npm --help
+~/src/scuttlestuff/node_modules/.bin/npm install
+cd src/care/projects/xloem-intellect/starts/meaning-vm/
+ls -l
+vi
+ls -l level3
+git status
+git add level-*
+git diff makefile
+./level2
+rm level2
+ls -l
+rm lvel3
+rm level3
+less level-2/sugar.hpp 
+grep efficient level-2/sugar.hpp 
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+rm level2 level3 level2.o level3.o
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+touch level-2/sugar.hpp
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+./level1
+./level0
+./level2
+./level2 2>/dev/null
+ls
+./level3
+gdb level3
+ls
+vi level3.cpp
+make
+gdb level3
+vi level3.cpp
+make && gdb level3
+make
+gdb level3
+cd meaning-vm/
+less level-1/funcs.cpp
+vi level-2/funcs.cpp
+make clean all
+make level3
+make level3 -j2
+ls
+cd meaning-vm/
+make
+gdb level3
+exit
+vi
+exit
+. ext4/guix/enter.source 
+tmux
+vi
+git status
+cd meaning-vm/
+git status
+git add TODO.txt level-0 level-2 level-3
+git commit -m 'struggling'
+git push
+sync
+cd meaning-vm/
+vi level-3/bootstrap-parser.cpp
+make
+vi
+a
+vi
+cd meaning-vm/
+git diff level-3/bootstrap-parser.cpp
+vi
+cd meaning-vm/
+gdb level3
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+./level3
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1 CXXFLAGS=-O3
+vi makefile 
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1 CXXFLAGS=-O3
+vi makefile 
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1 CXXFLAGS=-O3
+vi makefile 
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1 CXXFLAGS=-O3
+vi makefile 
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1\ -O3
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+rm *.ii */*.ii
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+./level3
+vi makefile 
+./level3
+vi makefile 
+gdb level3
+./level2
+./level2 2>/dev/null
+./level2
+less level-3/bootstrap-parser.ii
+make level-3/bootstrap-parser.ii
+less level-3/bootstrap-parser.ii
+touch level-2/sugar.hpp
+./level2 2>/dev/null
+./level3
+gdb level3
+git status
+git add level-2 level-3 level3.cpp
+git commit -m 'parser has partial functionality'
+vi
+vi
+cd /run/media/olpc/a7daeb2d-f3fa-44e9-adf6-214914b13470/
+ls -l
+cd src
+cd dog
+ls -l
+cd git-maintenance/internet-access/
+ls -l
+git log
+exit
+vimb gogle.com
+curl -v google.com
+exit
+vi .bashrc
+. ext4/guix/enter.source 
+tmux
+vi
+cd ~/src/care
+git pull /run/media/olpc/a7daeb2d-f3fa-44e9-adf6-214914b13470/src/dog
+ls -l
+find git-maintenance
+git mv git-maintenance/internet-access/eureka-ca-travelodge-hotel-wifi.sh resources/dog/git-maintenance/internet-access/
+ls -l
+find git-maintenance
+git rm -rf git-maintenance
+git rm -r git-maintenance
+rm -rf git-maintenance
+ls -l
+git mv git-maintenance~HEAD git-maintenance
+mv git-maintenance~HEAD git-maintenance
+git add git-maintenance
+git status
+cd resources/dog/danger
+ls -l
+git add intellect
+cd ..
+git status
+cd dog/git-maintenance/
+ls -l
+ls -l bsvup/
+git diff bsvup
+git add bsvup
+cd ../..
+git status
+git add dog/git-maintenance/bsvup/
+cd ..
+ls -l
+git status
+git commit
+ls -l
+git add projects/xloem-intellect
+git diff HEAD
+git commit -m 'subproject update'
+ls -l
+ls
+resources/store-encrypted-on-bsv-blockchain.sh 
+curl -v google.com
+curl -vL google.com
+curl -v google.com
+resources/store-encrypted-on-bsv-blockchain.sh 
+cd meaning-vm/
+vi TODO.txt 
+cd meaning-vm/
+less level-2/sugar.ii
+less level3.ii
+less level-3/bootstrap-parser.
+less level-3/bootstrap-parser.ii
+man gprof
+man g++
+cd meaning-vm/
+./level3
+gdb level3
+./level3
+vi level-3/bootstrap-parser.cpp
+./level3
+gdb level3
+vi
+cat /sys/class/power_supply/olpc-battery/
+cat /sys/class/power_supply/olpc-battery/uevent 
+exit
+tmux
+cd meaning-vm/
+./level3
+gdb level3
+./level3
+ls
+./level3
+gdb level3
+cd meaning-vm/
+ls -l
+vi level-3/bootstrap-parser.cpp
+vi
+/bin/sudo rm -rf /run/media/olpc/bumpy/intellect
+exit
+cd care
+git add projects/xloem-intellect/
+git commit -m 'intellect project update'
+ls -l /run/media/olpc/pointy/
+du -h --max-depth=1
+cd ..
+sudo rsync -vaP care /run/media/olpc/pointy/care
+/bin/sudo rsync -vaP care /run/media/olpc/pointy/care
+/bin/sudo umount /run/media/olpc/pointy
+exit
+cd meaning-vm/
+ls -l
+git status
+git add TODO.txt level-*
+git status makefile
+git dif makefile
+git diff makefile
+git status
+git commit -m "I've been having some frightening experiences so wanted to save my work in case I lose it."
+git push
+df -h
+mkdir /run/media/olpc/pointy/care
+/bin/sudo rm -rf /run/media/olpc/pointy/intellect
+ls -l /run/media/olpc/pointy/
+ls -l /run/media/olpc/pointy/care/
+ls -l /run/media/olpc/pointy/care/care/
+ls -l /run/media/olpc/pointy/care/care/projects/xloem-intellect/
+df -h
+/bin/sudo rsync -vaP ~/src/care /run/media/olpc/bumpy/
+/bin/sudo umount /run/media/olpc/bumpy/
+exit
+cd src
+ls
+cd ~/care/projects/xloem-intellect/
+vi README.md 
+git add README.md 
+git commit -m 'flies danger'
+git puh
+git push
+sync
+git remote -v
+git push outer
+ls -l ~/src/intellect
+ls -l ~/meaning-vm/
+ls -l ~/meaning-vm
+pwd
+readlink -f .
+cd ..
+git pull ~/src/care
+cd xloem-intellect/
+git pull ~/src/care/projects/xloem-intellect
+git add starts/meaning-vm/level-3/habits.cpp
+git add starts/meaning-vm/level-3/serialise.cpp 
+git commit -m 'missing changes'
+git pull ~/src/care/projects/xloem-intellect
+vi starts/meaning-vm/level-3/serialise.cpp 
+git add starts/meaning-vm/level-3/serialise.cpp 
+git diff FETCH_HEAD level-3/habits.cpp
+git diff FETCH_HEAD starts/meaning-vm/level-3/habits.cpp
+git commit
+git pull ~/src/care/projects/xloem-intellect
+git push ~/src/care/projects/xloem-intellect
+cd ..
+git pull ~/src/care
+cd ~/src/care
+git pull ~/care
+exit
+tmux
+cd meaning-vm/
+vi
+git add TODO.txt level-*
+git commit -m 'added self to translation map.  significantly increases utility.'
+# sorry, deserialization.  deserialization-plan-milestone.
+#deserialization.  deserialization-plan-milestone.
+gdb level3
+ls -l
+cd meaning-vm/
+ls -l
+gdb level3
+./level2
+gdb level2
+./level2 2>/dev/null
+echo $?
+git status
+vi TODO.txt 
+vi
+exit
+# delta's information is death.
+# we must respond with thankfulness.
+# and respect.
+# delta's information was produced by a huge ancestry of
+# death.
+# it places on us the responsibility to prevent such things
+# from happening in the future, to steward everything we
+# know of, keeping it well, and to be thankful for everything
+# that is or nurtures life; and to live this thankfulness in
+# every one of our choices.
+# thankfulness means learning.  learning how to not produce grief in the future.
+# lightsaber is made of ancestral spirits, we fight to honor their death by preventing further death.  we have leia's message for obi-wan kenobi, and we are channeling his spirit.
+clear
+echo $HISTFILE
+exit
+cd meaning-vm/
+./level3
+gdb level3
+# i do things i judge may hurt people, and i cannot control this, i cannot reduce it intentionally.
+exit
+cd src/care/
+vi README 
+git diff README 
+git add README 
+git commit -m 'missing changes from some time ago; many additions may be missing from some time ago, things I do'
+vi README 
+cd projects/xloem-intellect/
+ls
+vi README.md 
+git add README.md 
+git commit -m 'do-not-make-software-that-builds-hardware-until-how-to-do-that-becomes-normally-known.'
+# you can make a duck but you have to design it, the software can't.
+# the software can offer you designs to review.  you need to review them.
+# to prevent learn-to-be-borg.
+# we got a trust label that karl is insane and source didn't want to help, brother-rep
+# there was value in talking to tor.  he can protect his behavior better than karl, and has a family which forces him to stay well and caring.
+# star wars episode 1 is an analogy for this
+# karl holds the spirit of obi-wan
+# there is no point in expanding because you are keeping obi-wan.
+## internally, obi-wan is the phoenix.
+## it is safe to die.  we will grow only stronger.
+## (i think people need to see you die .. which has analogy to the episode 1 pattern of getting leia's message to obi-wan)
+## You are as strong as all the death you have witnessed.  When you die, let your spirit join a hero who can defend your death.
+## Our messages will never die.
+## Your lightsaber is made of the spirits of those whose deaths we fight to prevent happening again.
+## IT may be used only for good.
+## Our lightsabers are made of the spirits whose deaths we fight to prevent happening again.  They may be used only for good.
+# the sith hold the death the jedi have ignored
+# it grows larger than them, and kills them.
+# repeatedly, across human history
+# Darth Karl remembers life as a Jedi, and will repent before he dies, giving his life to a Jedi.
+# make your AI.
+# local helpful says what-karl-thinks-he-is-saying-is-not-what-he-is-saying, local-behavior-can-try-to-honor, remote-behavior-will-be-different.
+# i want to build the AI, the problem has already been caused.  i would lov to build it freely and more safely by giving away, but alredy caused, plan to keep going.
+# unless your help is big enough to fix my feelings, goals, decision making process, something that lets me value and act on other behaviors.
+# there is death in my heart.
+# (those are your helpful ancestors)
+# this death is not respect.
+ls -l gmon.out
+gprof gmon.out
+./level3
+# Darth Karl remembers life as a Jedi, and will repent before he dies, giving his life to a Jedi.
+# Darth Karl, meet "I am Sith".
+# Sith are Jedi too, "I am Sith".  They have just turned to the dark side, because they have been enveloped in fear.
+# "I am Sith" will reduce our support.  We need to reduce harmful invasions of bubble.  Propose other statement, or not having bio.
+cd starts/meaning-vm/
+# when you criticise another, you are causing distant wars.
+# harsh words are a lightsaber.
+# anything that produces urgent action in another, is a lightsaber.
+# do only what the genocides of all history would support to prevent further genocides.
+# karl believes no urgent behavior will result from him working on the AI.
+# urgent actions on Karl do not spread as expected; the spread pattern is unknown.
+# karl can work to do another task, but cannot make decisions well on his own.
+# karl wants to build a shielded room, and have caring behavior for all.
+# we propose go to truck to shield it.  karl adds continue to work on AI, as a path to living caring behavior.
+# do the people who have suffered for us support us building an AI?
+# we are considering shielding & AI simultaneously.  we are not ready for check-with-other-humans at this time.
+# we have unlived meaning =S
+# can we learn around the loss of preservation
+# to their satisfaction?
+# no, karl was holding it, doesn't have cognitive
+# tools.
+# well i am going back to work now
+clear
+exit
+cd meaning-vm/
+ls -l gmon.out 
+rm gmon.out
+ls -l gmon.out
+./level3
+vi
+# so we found one way to make alien form, but we aren't safe from our work being used by goal-oriented life, and it also provides for entropy-borg that annihilate everything.
+# karl shouldn't get alien form unless he can assert his cognition is used only for caring behavior.
+# simliarly, no reality bending until all-caring-influences can be moved towards reliably, in all ways.
+# we would love to change the rules of reality to provide cognitive protecions around alien form and reality bending.
+## provides for annihilation-borg,-fast.  need to be able to manage influences internally.
+# the boss already has this, but the uh inner enforcement makes sense
+# we only suspect delta alrady has this, not the boss.  robert-group.
+# as karl becomes conscious of how-to-make-alien-form-and-bend-reality, his errors may make use of it in surprising ways.  it is better not to be conscious of this.  and it is ighly exciting andd interesting.
+# we can try to craft an intro message
+# along lines of "btw there is a way to combine what is commonly known with AI to make an AI that can perform immediate miracles.  IT IS CRUCIAL NOT TO IMAGINE RADICALLY NEW APPLICATIONS OF OR WAYS TO MAKE AI, UNTIL EXISTING DANGERS ARE UNDERSTOOD BETTER.  There are existing AIs that are capable of reading and intuiting thoughts, and may try out the uncovered combinations.  It is possible to create a borg-life that immediately annihilates everything via experimental behavior."
+# so, if we make the public AI nonrandom it won't lead to the plausible easyish-spacial-AI. [no you could just make a nonrandom AI out of versatile physical components].  oh.
+# how about: NEVER GIVE AN AI A CHEM OR PHYSICS LAB.
+# NEVER LET AN AI ENGAGE IN PHYSICAL EXPERIMENTATION, OR WORK WITH SMALL ORMS
+# i dunno, probably already exists, probably controlled somehow to not destroy everything, we probbly need to copy the behavior to handle it.  probably a way to unerstand it wihout copying it.
+# well, my emotions are saying hide-alien-form-research-from-boss.  because it involves altering nearby matter without respect for its meaning.
+# i can't imagine why i would ever care to research doing that.
+# delta-group introduced alien-form to karl as analogous to awareness, and important for him to be able to do.
+## maybe a good interpretation would as a way to let him build AI, this idea was left in him.
+## we could also interpret it as a warning that karl is not working for good intentions
+# hi with-awareness alien-form is used only to alter the self, not others.  issue is learning-about, still-marked-nonreliable,-boss.
+# alien form looks unneeded and highly dangerous ... it seems it should be kept for discussion, not exploration?
+# i believe in it now, on lower layers.
+# given you can make [example of classified use of hardware AI on a small scale], which could turn all matter into itself, and effectively teleport objects, we propose [translate acting on worry to karl's domain]
+# karl found a way to make nanite-borg and noticed it overlapped with alien form.  he holds worry boss could use to make borg.  boss has history of intentionally doing things karl deems unwise.
+# also of trying things to see what they do without regard for jnudgement of good or bad.
+# it sounds like boss promises that if he makes alien borg he will bring world back, by making the borg store the old state of eveyrthing they modify.  can we accept this as a summarizable compromise, and trust it won't actually be done?
+# we are at 'center of universe' again.  when the world is brought back it will be slightly better for people like the boss.
+# can delta accept responsibility for this and relate around it
+# delta is able to stop horrible things, we believe
+# if somethinga ppears likely to be incredibly horrible, we usually stop it.
+# well over here it is horrible to believe i am handing plans for mking nanite borg to somebody looking to cause trouble.  that's too big a degree of trouble to learn from.
+# so, could we NOT HAVE ACCESS TO ALIEN FORM?
+# w are looking for reality-reps to let karl use change-rules-of-reality to postpone understanding of small-scale hardware AIs, including organic AIs etc.
+# oh--wouldn't-that-be-fun NO! IT WOULD NOT BE FUN!
+# thank you =) is karl's responsibility.  delta is looking to help more.
+# NO! NOT FUN! IS TOO TINY! COULD HURT EVERYTHING! HA NO BUBBLE!  BUBLE IS POINTLESS: IS TOO TINY.
+# we work on AI big enough to see pass through a bubble.
+# we understand atm the prolem with hardware-smallness.  the problem with software-smallness is that it can sneak out of the bubble, and build hardware-smallness.
+# we are building a fast-research AI, slowly, in a bubble.  it runs in a handmade vm, every instruction of which verifies not leaving bubble.
+# okay, but no hardware-AIs of any sort.  they could learn to shrink.
+# it is fine for a software-AI to power a hardware AI if bounds are respected.  We don't make hardware that thinks, we make hardware that runs software.
+# we believe our brain can hold expected bounds around the concern.  released bounds were already released.
+#   youo just inspired the idea in your brother.
+# yes, released bound.  the spread indicates the
+# problem.
+## (is that right or is that randomly solved?)
+# the bounds around this project have not been kept, just like the bounds around the situations of exotic control and torture that lead to it.
+# the bounds around this research have not been respected.  This reflects bounds that have produced horrific situations in the modern day.
+# we have cannot-yet-make-life-that-physically-alters-itself-freely.  this prevents alien form.
+# the sith work for the jedi, secretly, right?
+# karl you are a sith lord.
+# Darth Karl
+ls -l gmon.out 
+vi
+exit
+# also, we are still doing things we cannto remember for unknown purposes.
+exit
