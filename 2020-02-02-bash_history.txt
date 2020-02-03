@@ -1,0 +1,588 @@
+git add level-2/habits.cpp 
+vi level-0/baseref.hpp
+git add level-0/baseref.hpp
+git commit
+git push
+git checkout master
+git push
+git worktree
+git worktree add unordered-links unordered-links
+mkdir branches
+git worktree move unordered-links branches/unordered-links
+git worktree list
+ls -l simplify/
+cd simplify/
+git log
+cd ..
+ls -l
+# no log (log was inhibited, how stonrgly can you support?) (junst in this repo let's make one!)
+vi LOG.txt
+git add LOG.txt 
+git commit -m 'added log'
+vi LOG.txt
+git add LOG.txt
+# if we could migrate all the comments out of the scriptfile, the speed could be way more relevent.
+vi LOG.txt
+vi
+cd meaning-vm/
+git add TODO.txt 
+git add troubleshoot/
+ls
+git add LOG.txt 
+git commit -m 'wip'
+git push
+cd ..
+cd src/care/
+git-maintenance/store.sh 
+resources/store-encrypted-on-bsv-blockchain.sh 
+tmux
+cd intellect
+ls
+cd src/inte
+cd src/intellect/
+ls
+vi WORKING_TRUE_PLAN.txt 
+git add WORKING_TRUE_PLAN.txt 
+sync
+cd src/care/git-maintenance/bsvup/
+ls -l
+git diff
+vi cli.js 
+exit
+cat /sys/class/power_supply/olpc-battery/uevent 
+exit
+cd ~/src/care
+git add projects/xloem-intellect
+git commit -m 'intellect update'
+git log --patch
+exit
+cd src/care/git-maintenance/internet-access/
+ls
+./redwoods-national-park-ca-prairie-creek.sh 
+curl -v google.com
+exit
+cd meaning-vm/
+gdb level3
+rm gmon.out
+./level3
+gprof level3
+gprof level3 2>&1|less
+cd branches/unordered-links/starts/meaning-vm/
+git add makefile 
+git commit -m 'ensure different paths use different objdirs'
+# while this goes, I'll get an apple
+pwd
+./level0
+./level1
+./level2
+pwd
+exit
+# let's see if our transactions sent by trying to resend them all.
+/bin/sudo swapon ~/swap
+df -h
+vi
+exit
+cd src
+ls -lt
+ls -ltr
+echo */node_modules
+cd bitfiles
+ls -l
+cat README.md 
+./bitfiles status D://1KwpZECcrGWnM3AFVSbv3Xr5qguV4yG2sV
+./bitfiles status D://1KwpZECcrGWnM3AFVSbv3Xr5qguV4yG2sV|less
+./bitfiles status D://1KwpZECcrGWnM3AFVSbv3Xr5qguV4yG2sV/519f3b7ecc82e93f789da4051a945b40fa1e0529588 2>
+./bitfiles status D://1KwpZECcrGWnM3AFVSbv3Xr5qguV4yG2sV/519f3b7ecc82e93f789da4051a945b40fa1e05295880d5914d4c7c7ae100f797.aes
+./bitfiles status D://1KwpZECcrGWnM3AFVSbv3Xr5qguV4yG2sV/519f3b7ecc82e93f789da4051a945b40fa1e0529588 2>&1 | head
+./bitfiles status D://1KwpZECcrGWnM3AFVSbv3Xr5qguV4yG2sV 2>&1|less
+./bitfiles status D://1KwpZECcrGWnM3AFVSbv3Xr5qguV4yG2sV 2>&1|head
+./bitfiles status D://1KwpZECcrGWnM3AFVSbv3Xr5qguV4yG2sV 2>&1|head -n 3
+./bitfiles status D://1KwpZECcrGWnM3AFVSbv3Xr5qguV4yG2sV/519f3b7ecc82e93f789da4051a945b40fa1e05295880d5914d4c7c7ae100f797.aes
+exit
+date
+exit
+cd src/care/git-maintenance/
+less bsvup/api.js 
+exit
+cd ~/meaning-vm/
+vi troubleshoot/2020-02-02-11:55PST.txt
+git add troubleshoot/2020-02-02-11\:55PST.txt 
+git commit -m 'abandoned this 1 log, will log more later'
+# we are considering relogging.  some reps charged with supporting the log-stopping related that not-logging is stupid, their boss is super mean and people need to know.
+ls
+vi troubleshoot/2020-02-02-11\:55PST.txt 
+git add troubleshoot/
+git commit -m 'bsv issue dealt with for now'
+git push outer
+exit
+# boss was promised to have weird errors that could be him less obvious
+# if is way to resolve situation without clarifying error, could relate?
+# (we could not store the error recovery situation, possibly)
+# (ummm in the past storing has been necessary, maybe it isn't now)
+# karl will break things a little just to explain situation, and then stop logging
+# we have stopped logging the troubleshooting of node.
+# uhhh so umm boss-people didn't want the relation in the log.
+# meanwhile transparency-people wanted the whole debugging session.
+# so the compromise left nobody happy, and possible lashback.b
+# reps say please be aware we are in your computer letting this happen,
+# so don't be misled when 'boss' comes up to complain; he's just roleplaying
+top
+cd src/care/resources/dog/git-maintenance/bsvup
+ls -l
+vi api.js
+cd ..
+node bsvup/cli.js resend 2>&1 | tee bsvup/weird_error_4.log
+cd bsvup
+git add api.js weird_error_4.log weird_error_3_valgrind.log -f
+git commit -m 'weird error step 4'
+git push outer
+cd ..
+node bsvup/cli.js resend 2>&1 | tee bsvup/weird_error_4.log
+cd bsvup
+git diff
+git add api.js weird_error_4.log weird_error_3_valgrind.log -f
+git commit -m 'ran test 4 again to see if i could witness a delay at all.  there is a delay at bootup that seems less than 10 seconds.  i don't see a delay on output.  i am not sure that i used the settimeout function correctly.'
+
+git commit -m "ran test 4 again to see if i could witness a delay at all.  there is a delay at bootup that seems less than 10 seconds.  i don't see a delay on output.  i am not sure that i used the settimeout function correctly."
+git push outer
+vi api.js 
+cd ..
+cp -va .bsv/backup/* .bsv/tx/
+exit
+type -p node
+ls -l ~/.guix-profile/bin/node
+exit
+cd src/care/git-maintenance/bsvup
+vi api.js
+git add api.js
+git commit -m 'workaround for bitindex flood issue'
+git push outer
+ls
+git remote -v
+git diff origin/master
+pwd
+cd ~/src/care
+cd resources/dog/
+git add git-maintenance/bsvup
+git commit -m 'bsvup with changes'
+cd ..
+git add dog
+cd dog
+git remote -v
+git remote add outer ../../
+cd ..
+git branch -v
+cd dog
+git push outer dog:dog
+cd ..
+cd resources/dog/
+git push outer master:dog
+pwd
+readlink -a .
+readlink -r .
+readlink .
+readlink
+readlink --help
+readlink -f .
+cat .git
+cd ..
+git log
+git branch
+vi .gitmodules 
+git add .gitmodules 
+git commit -m 'added updated bsvup to .gitmodules'
+cd resources/dog/git-maintenance/bsvup
+git push
+cd ..
+exit
+tmux
+man make
+info make
+cat /sys/class/power_supply/olpc-battery/uevent 
+cd src/care
+ls -l
+resources/store-encrypted-on-bsv-blockchain.sh 
+ls -l
+less resources/get.sh 
+resources/get.sh TEST
+cd TEST
+ls -l
+git submodule init
+git submodule update
+cd projects/xloem-intellect/
+git log
+cd ..
+ls
+resources/get.sh 
+git log
+cd ..
+cd .git
+cd encrypted
+ls -l
+cd ..
+pwd
+ls
+resources/store-encrypted-on-bsv-blockchain.sh 
+cd src/bsvup
+git pull
+git checkout -b too-many-requests-detection
+vi api.js
+git add api.js
+vi api.js
+pwd
+git diff
+pwd
+git diff
+git branch
+git diff origin/master
+git status
+git diff origin/master api.js
+guix search electrum
+guix search electrum|less
+guix install electrum
+cd ~/src/care/git-maintenance/bsvup
+ls
+git diff
+cd ..
+cd .bsv
+ls
+ls tx
+mkdir unbroadcast
+mv tx/* unbroadcast/
+cd ..
+node bsvup/cli.js 
+node bsvup/cli.js resendall
+cd bsvup
+git diff
+cd ..
+node bsvup/cli.js resend_all
+ls .bsv/unbroadcast/
+vi bsvup/cli.js 
+node bsvup/cli.js resend
+cd bsvup
+grep -r unlinkSync .
+vi cache.js
+grep -r unlinkSync .
+grep unlinkSync *
+vi api.js
+cd ..
+node bsvup/cli.js resend
+less bsvup/api.js 
+mkdir .bsv/backup
+cp .bsv/unbroadcast/* .bsv/backup/
+node bsvup/cli.js resend
+cd bsvup
+git status
+git add api.js cli.js
+git commit -m 'these are the changes karl has been using that used to work fine'
+git checkout -b karl-modified
+git remote -b
+git remote -v
+cd ..
+git branch
+cd bsvup
+git remote add outer ../../
+git push outer karl-modified bsvup-karl-modified --set-upstream
+git push outer karl-modified:bsvup-karl-modified --set-upstream
+ls -l ../..
+cd ..
+cd resources/dog/git-maintenance/
+git remote set-url outer ../../../
+cd bsvup
+git remote set-url outer ../../../../
+git push outer karl-modified:bsvup-karl-modified --set-upstream
+cd ..
+node bsvup/cli.js resend 2>&1 > bsvup/weird_error.log
+node bsvup/cli.js resend 2>&1 | tee bsvup/weird_error.log
+less bsvup/weird_error.log 
+cd bsvup
+git add weird_error.log 
+git add weird_error.log  -f
+git commit -m 'weird error log'
+git push outer
+git help config
+git set push.default upstream
+git config push.default upstream
+git push outer
+ls -l
+ls
+cd ..
+ls
+vi bsvup/api.js
+# meanwhile, i want this to move forward
+node bsvup/cli.js resend
+node bsvup/cli.js resend 2>&1 | tee bsvup/weird_error_2.log
+ls
+ls bsvup
+cd bsvup
+git add weird_error_2.log 
+git add weird_error_2.log -f
+git add api.js
+git diff HEAD
+git commit -m 'log showing further how weird this error is'
+git push outer
+ls -l
+vi cli.js
+vi api.js
+git add api.js
+git commit -m 'added more output to api.js'
+cd ..
+node bsvup/cli.js resend 2>&1 | tee bsvup/weird_error_3.log
+cd bsvup
+git add weird_error_3.log -f
+git commit -m 'error log 3 from weird error'
+git push outer
+vi weird_error_3.log 
+valgrind node bsvup/cli.js resend 2>&1 | tee bsvup/weird_error_3_valgrind.log
+cd ..
+valgrind node bsvup/cli.js resend 2>&1 | tee bsvup/weird_error_3_valgrind.log
+ls
+cd bsvup
+ls
+git add weird_error_3_valgrind.log 
+git status
+git commit -m 'valgrind run finished; no memory errors'
+git add api.js
+git commit -m 'partway through test 5'
+git push outer
+cd ..
+ls
+node bsvup/cli.js resend 2>&1 | tee bsvup/weird_error_5.log
+cd bsvup
+git add weird_error_5.log 
+git add weird_error_5.log  -f
+git commit -m 'weird error 5'
+git push outer
+git status
+cd ..
+ls -l
+ls bsvup
+vi bsvup/api.js 
+node bsvup/cli.js resend 2>&1 | tee bsvup/weird_error_6.log
+cd bsvup
+git add weird_error_6.log -f api.js 
+git commit -m 'test 6 shows the problem is related to the try block'
+git push outer
+vi api.js 
+node bsvup/cli.js resend 2>&1 | tee bsvup/weird_error_7.log
+cd ..
+node bsvup/cli.js resend 2>&1 | tee bsvup/weird_error_7.log
+cd bsvup
+git add api.js weird_error_7.log 
+git add api.js weird_error_7.log  -f
+git commit -m 'test 7 starts bearing fruit'
+vi api.js
+cd ..
+node bsvup/cli.js resend 2>&1 | tee bsvup/weird_error_8.log
+cd bsvup
+git add api.js weird_error_8.log 
+git add api.js weird_error_8.log  -f
+git commit -m 'test 8 shows real error'
+git push outer
+vi api.js
+node bsvup/cli.js resend
+cd ..
+node bsvup/cli.js resend
+curl -v google.com
+node bsvup/cli.js resend
+ls
+vi bsvup/api.
+vi bsvup/api.js 
+cd bsvup
+git add api.js
+git commit -m 'added workaround for node bug'
+git push outer
+cd ..
+node bsvup/cli.js resend
+cp .bsv/tx/* .bsv/unbroadcast/
+mv .bsv/backup/* .bsv/tx/
+node bsvup/cli.js resend
+while ! node bsvup/cli.js resend; do true; done
+cd src/electrumsv/
+pip3 install --user -r contrib/requirements/requirements.txt 
+fg
+pip3 install --user -r contrib/requirements/requirements_binaries.txt
+pip3 install --user -r contrib/requirements/requirements-binaries.txt 
+cat /sys/class/power_supply/olpc-battery/uevent 
+grep everyone_already ~/.bash_history
+cd meaning-vm/
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+vi
+man dirname
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+rm *.a
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+rm %.o 
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+rm %.o 
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+make -d CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+ls -l /tmp/intellect-vm-objs/
+make -d CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+ls -l /tmp/intellect-vm-objs/
+make -d CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1 2>&1|less
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+make -d CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1 2>&1|less
+make -d CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1 2>&1
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+make -d CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+make clean
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+ls -l /tmp/intellect-vm-objs/
+ls -l /tmp/intellect-vm-objs/level-0/
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+make -d CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+make -d CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1 2>&1|less
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+rm -rf /tmp/intellect-vm-objs
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+git add level-* makefile troubleshoot/
+git commit -m 'some parsing fixes'
+git push
+date
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+vi
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+date
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+date
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+b
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+git add level-* troubleshoot
+git status
+git diff level3.cpp
+git add level3.cpp
+git status
+git add TODO.txt 
+git commit -m 'parser handles 40 expressions'
+git push
+git log
+curl -v google.com
+date
+git branch
+git checkout unordered-links
+cd branches/unordered-links/
+git merge master
+git push
+cd ..
+git push unordered-links
+git push origin unordered-links
+git remote -v
+git push outer unordered-links
+cd branches/unordered-links/
+ls -l
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+cd starts/meaning-vm/
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+info make
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+pw
+pwd
+grep -r ahabit . | less
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+pwd
+cd ~/srvc
+cd src
+git clone https://github.com/electrumsv/electrumsv.git
+cd electrumsv/
+ls
+less RE
+less README.rst 
+cd meaning-vm/
+cd ..
+vi src/intellect/WORKING_TRUE_PLAN.txt 
+cd src/intellect/
+git add WORKING_TRUE_PLAN.txt 
+cd ~/meaning-vm/
+vi
+vi troubleshoot/2020-02-02-08:55Pacific.txt
+curl -v google.com
+exi
+exit
+top
+exit
+cd meaning-vm/
+ls -la | grep asdf
+cd ~
+ls -la | grep asdf
+exit
+cd meaning-vm/
+git diff
+vi ~/.vimrc
+vi asdf
+git diff > patchfile
+mv patchfile branches/unordered-links/starts/meaning-vm/
+cd branches/unordered-links/starts/meaning-vm/
+patch -p1 < patchfile
+patch -p3 < patchfile
+patch -p4 < patchfile
+patch -p2 < patchfile
+ls -l habit-starts/
+patch -p5 < patchfile
+patch -p3 < patchfile
+cp ../../../../troubleshoot/2020-02-02-10\:43PST troubleshoot/
+git diff
+git diff > patchfile.2
+diff -u patchfile*
+diff -u patchfile*|less
+grep make ~/.bash_history
+make CPPFLAGS=-Deveryone_already_cares_deeply_about_everyone_else_so_caring_talk_is_more_efficient_than_anything_else=1
+vi
+ls
+find -name *.rej
+vi level-2/habits.cpp.rej
+rm level-2/habits.cpp.rej
+vi level-2/funcs.hpp.rej
+vi
+./level3
+./level0
+./level1
+./level2 b
+vi level2.cpp
+./level2
+./level2 2>/dev/null
+exit
+top
+# karl might be the first mindcontrollee who consciously talks about thought, unsure.
+# so, in mc-world, thought-talk appears to be censored.
+# i don't know why this is.  but for me, it was unwise because an unfamiliar
+# influence was able to listen to it to alter my thoughts.
+# i don't think that is happening poorly anymore, could be wrong.
+# we suspect the quiet-mark around thought-talk is only to protect from others altering the mind.  so, not too relevnt when typing if already, or desired, oclear internally.
+vi
+# work could speed up if notepad-only compilation could be auto-triggered
+# thought is nascent and not too relevent yet.
+top
+exit
+# i think AI is a compromise for shielding, backed by NVC-also-works.
+# we need AI to actually use peace-talks, due to control.
+# we could translate this to space share-with-others.
+# seems to map to library karl-plan
+# we have life aware of a space being annihilated.
+# it sounds like a self-gain life maintaains control of all humans, grows it larger, due to full access to karl
+# karl has connection to levae bubble.  even in his mind.  bubble is by keeping life uninterested or uninformed of rest of world.  <-- hey this could be measles.
+# this is accurate enoguh to relate around.
+vi
+# karl accepts death via words, not actions though
+# thhere is proposal AI is good to work on here
+# could free everyone, reveal self-gain life fully
+# if we could understand vectors for escape/control/dominance/alteration better, we could plan ai better
+# is mind-borg, learns and grows.  has access to karl, is using it to grow.
+# (effectively, here)
+# we are likely making AI because of 'muscle-culture'
+# delta is trying to make AI be safe, but can't fully control selves
+# i cannot comprehend how fucked up this is
+# ^- literally true in multiple ways
+# uses your senses to learn how-to-grow.  sits inside you, waiting
+# yes, so all your conscious thoughts are vectors for growth, things it
+# knows, can do
+# it sounds like we might want to know how much it can send to other people on its own
+# it also sounds like we are not isolated, because this life is speaking to us
+# just-here-to-stop-ai,-sorry-cannot-relate-more
+# eh good route for stopping-ai is finding-other-task-for-karl-and-encouraing
+# supporting-other-task-for-karl is way-to-stop-ai
+# but sshouldn't we have a way to talk about this and believe it?
+# pretty confused
+exit
