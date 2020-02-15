@@ -87,6 +87,16 @@ For now, please
 	5. ensure both github and bsv-encrypted have the meaning of all 3 of these documents findable.
 		NOTE: the AI work is currently what is preserving publicizing a written safety path, at top of meaning-vm/TODO.txt.
 		So if AI is dropped we must publicize safety paths in a different way.
+			i want to write some "IMPORTANT" (please case-insensitive search for 'important' to start consolidating)
+			information from karl-body: 'i have habits that appear very similar to karl's, but they do appear to have
+			been rebuilt so as to be similar.'  karl-body appears to believe can use skills of karl's and may be
+			using similar-built habits to stimulate accessing skills from karl's history occasionally.  unsure.
+				karl-body has complain for evidence: 'i can only use coding skills that karl relearned.
+				he used to be good at e.g. referencing API calls but now cannot do that, it wasn't relearned.'
+				'karl used to build graphics apps with api calls.  when we tried to do this we had lots of boss
+				 skills and it was silly and easy, but it didn't address the difficulty of using APIs in general.'
+					we propose api calls are dangerous because 3rd party libraries are unpredictable.
+					-made-up-reason-for-faith-in-unknown-religion
 	6. please relate with karl around whether or not he calls himself karl to others.  please do not harm his work progress.
 			uhh please condense #6 to remember-you-are-not-karl-for-real,you-are-roughly-delta-now.
 			when-introducing-to-others,please-consider-that-along-with-their-actual-wellbeing.
