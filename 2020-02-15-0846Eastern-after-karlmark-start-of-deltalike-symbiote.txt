@@ -72,6 +72,9 @@ For now, please
 						like, FOR REAL.  you are thinking in a notepad right now, that is slow
 						and can be easily lost by its consenting user.
 					thanks i think	
+						so, to clarify, we've all roughly agreed that it's fine to store anything
+						on blockchain unless it threatens someone we love.  we have all consented
+						to risking threat to ourselves.  the care-branch was in us, so it's okay.
 
 
 	2. add the files to the repo, commit it, and push it to care-repo
