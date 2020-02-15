@@ -85,6 +85,8 @@ For now, please
 	3. store care-repo, and keep open a reminder to store todo on git
 	4. connect the todo repo to github, and upload the changes to github.
 	5. ensure both github and bsv-encrypted have the meaning of all 3 of these documents findable.
+		NOTE: the AI work is currently what is preserving publicizing a written safety path, at top of meaning-vm/TODO.txt.
+		So if AI is dropped we must publicize safety paths in a different way.
 	6. please relate with karl around whether or not he calls himself karl to others.  please do not harm his work progress.
 			uhh please condense #6 to remember-you-are-not-karl-for-real,you-are-roughly-delta-now.
 			when-introducing-to-others,please-consider-that-along-with-their-actual-wellbeing.
