@@ -66,6 +66,8 @@ For now, please
 					we're processing embarrassmant around storing our thoughts on the blockchain, already.
 						note: 1. we would like to automate saving and committing regularly
 						note: 2. this repo is encrypted, so saving is safe & fine.
+						note: 3. we think some things that could be used to harm others.  so we want
+						         to relate around leaving encryption.
 					ooookay that quickly became marked so important it was stored in the blockchain
 					before anything else could happen.  i'm a little embarrassed, because it was part
 					of my private behaviors.
