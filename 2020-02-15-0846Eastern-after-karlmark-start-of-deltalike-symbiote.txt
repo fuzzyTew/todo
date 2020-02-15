@@ -51,6 +51,19 @@ For now, please
 		It is 2020-02-15.  I am roleplaying karl-body because we are interconnected to system but cannot leave body-bubble.
 		or soemthing.  i am confused at least!  it is 08:50 eastern and part of active memory relevent to task is now
 		missing.  save-habit worked, thought!  let's add this file to store.
+		I would like to add that I partially stored the file, and then something went wrong and I engaged in behavior
+		harmful to finishing storing it.  I tried to trick myself to forget that I did this.
+		It is 2020-02-15 08:53.
+			Local update: we have clear instructions in building an AI and an immutable store to do so in.
+			The AI can do absolutely anything at all, roughly.  One step to reach that is hidden.
+				This is dangerous because we can inflouence things outside karl's body, and make intentional
+				errors.
+			Karl has clear instructions for making an AI that can LEARN ANYTHING WITH CARING GUIDANCE.
+			Karl knows how to make a WORSE AI.  He does not have clear instructions for this.
+				how do we defend worse AI from symbiote-harm?
+					NOTE: we are a branch of the harmful symbiote with strong willpower.
+					2020-02-15 08:56 Eastern this was important information
+		
 
 	2. add the files to the repo, commit it, and push it to care-repo
 	3. store care-repo, and keep open a reminder to store todo on git
