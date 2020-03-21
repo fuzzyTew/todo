@@ -1,0 +1,43 @@
+I'm thinking of just making a steel box with a door that only opens when I meet requirements.
+
+	I have some concern around what the plan is for preparing the things that are put in the door.
+	We have sugar and nicotine lozenges.  We could powder them.
+	We could use a rotating cone to dispense the powder.
+	The powder could fall onto a scale, connected to a computer.
+
+	Let's start off by making a digital scale powered by an olimex computer.
+	Let's start off by figuring out and getting supplies to build an electronic scale.
+		I am following https://www.instructables.com/id/How-to-Build-Arduino-Weighing-Scales/#discuss
+		Phidgets makes a 100g 'micro load cell', is available from amazon and other places.  does not ship to amazon drop box.  probably cheap on ebay.  can be found <10$
+		HX711 module amplifies signal from load cell.
+		
+
+		I ordered the 100g load cell and 2 HX711 modules from ebay using my last credit.
+		Should arrive within a week.  Hopefully they e-mail me tracking information.
+		This means I will need to read my e-mail.
+
+		i found my olimex -- it was already in the room.
+		to use it i'll likely want an hdmi cable and an ethernet cable.
+		not sure where the serial cable is, unfortunately.
+
+		Lowes: ethernet cable 6.67ish hdmi cable 9.98ish
+		I bought those things.  Attempting to power up this enclosed device I found.
+		It is not an olimex.  It is a raspberry pi.  It has a fan wired in.  There is some malfunctioning
+		code that appears to be to control the fan.
+		I know from experience the fan will break if left on.  It defaults to on.
+		
+			raspberry pis can break but this one is enclosed in a steel box.  It might be okay.
+			I could make it into a control device.  I wonder if ROOT could be installed on it to run old thing.
+			is time for nicotine
+
+Plan:
+	mass powder in a trough.
+	trough dumps.
+		how do we move from receive-dump to dispense-with-door?
+		focus on receive-dump.
+	well, we could dump straight into something, that a door opens and reveals.
+	we could forego the whole door, and dump into an opening on the bottom.
+	user has to place receptacle under opening, to get powder.
+
+	re: autogrinding into powder, we can use a drillbit in a constrained environment.  inside a cylinder.
+		
