@@ -2,6 +2,7 @@ BT40	Eye lubricant {VALUE: 2; REASON: severe dry eye; GOAL: 6/d; strat_paoe: pri
 BT2Z	Finalize pct, Brush Teeth, Measure & dose {VALUE: 1; REASON: needed for strategy; GOAL: 6/d}
 BT32	Verify did not lose track of items while brushing {VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w}
 BT10	Toothpaste / Flossing / Fluoride attempt correct{VALUE: 2; REASON: simple, quick behavior to verify use of tool; GOAL: 14/w; strat_paoe: learned}
+BT19B	Dispenser work: 30 min{VALUE: 3; REASON: supports-sustaining-this-goal; GOAL: 6h/d}
 BT18	Have started current routine or no current routine {VALUE: 0.9; REASON: life maintenance; GOAL: 14/w}
 BTX5	Academic & Career Work: 30 min {VALUE: 0.6; REASON: credentials, contacts, experience; GOAL: 7/w}
 BTX4	Logistics & Obligations: 30 min {VALUE: 0.4; REASON: life maintenance; GOAL: 7/w}
@@ -9,7 +10,6 @@ BT19AB	If time, work towards exercise routine & finish if not yet today{VALUE: 0
 BT-5	Verify finished last run of routine{VALUE: 0; REASON: ; GOAL: 100%}
 BT00	Information task: 1 min{VALUE: 0; REASON: ; GOAL: 100%}
 BT13	Address 1 responsibility; at least communicate with other parties involved (or 2 min EEG if Aux){VALUE: 0; REASON: ; GOAL: 100%}
-BT19B	Dispenser work: 5 min{VALUE: 0; REASON: ; GOAL: 100%}
 BT25	Review list and concept of present concerns (include ref to old concerns){VALUE: 0; REASON: ; GOAL: 100%}
 BT30	Verify Toothpaste / Flossing / Fluoride attempt correct{VALUE: 0; REASON: ; GOAL: 100%}
 BT31	Verify lozenge percent correct{VALUE: 0; REASON: ; GOAL: 100%}
