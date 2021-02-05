@@ -1,0 +1,3 @@
+Testing standards:
+    - MIL-STD-461
+    - there are many other standards.  it was hard to find that one so i pasted it in.  add others.
