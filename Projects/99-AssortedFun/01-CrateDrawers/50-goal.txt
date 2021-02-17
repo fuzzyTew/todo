@@ -1,0 +1,10 @@
+goal:
+    make organisers in a way that it is reasonable to increase their features later.
+    make them generalisable and re-usable.
+
+    use-cases:
+        - increase size
+        - add compartments
+        - add drawers, locks, ways of affixing to other things
+        - change system for snapping togehter
+        - make interfaces for combining different existing organisers in one stack
