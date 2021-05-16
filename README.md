@@ -2,9 +2,10 @@ If I do not update this todo list, it is because I am suffering from flashbacks 
 
 I post the above paragraph because resisting the brainwashing is the only way I can do anything successfully.  I had an experience where I could engage some behavior while doing it straight in the middle of suffering.  I am seeing if I can repeat that for other valued goals.  I experience sudden changes to my behavior that are difficult to handle, but by magnifying the experiences and making them more brazen, they may change from simple behavior difficulties to severe suffering, flashbacks, and cognitive difficulties, and deep among those lies an eye of the infinite storm.
 
-- [ ] Use this todo list for 1 week, updating it at least daily.
+- [ ] Use this todo list for 1 week, updating it at least daily. {started sunday 5/16}
 - [ ] work on openemissions for public security
 - [ ] work on fuse++ for personal development
+- [ ] reopen my calendar file and resume using it
 - [ ] integrate other todo items together
 
 Purchase:
