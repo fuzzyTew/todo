@@ -1,3 +1,6 @@
+If I do not update this todo list, it is because I am suffering from flashbacks of being tortured.  My torture happened around 2012 after anti-coal activism in West Virginia and Texas, in which I played almost no role but removed some trojans from some activists' computers.  I kept one for a bit, telling somebody I was planning on seeing where it had come from.
+- [ ] Use this todo list for 1 week, updating it at least daily.
+
 Purchase:
 
 Doable things:
