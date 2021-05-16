@@ -4,7 +4,7 @@ I post the above paragraph because resisting the brainwashing is the only way I 
 
 - [ ] Use this todo list for 1 week, updating it at least daily. {started sunday 5/16}
 - [ ] work on openemissions for public security
-  - [ ] make a toolkit that others might be able to work off of to test the EM-wave bounds of an information-secure environment
+  - [ ] make a toolkit that others might be able to work off of to construst and test an information-secure environment
     - [ ] make or find a signal generator usable with arbitrary software defined radios
 - [ ] work on fuse++ for personal development
 - [ ] reopen my calendar file and resume using it
