@@ -5,7 +5,7 @@ I post the above paragraph because resisting the brainwashing is the only way I 
 - [ ] Use this todo list for 1 week, updating it at least daily. {started sunday 5/16}
 - [ ] work on openemissions for public security
   - [ ] make a toolkit that others might be able to work off of to construst and test an information-secure environment
-    I needed a secure environment to escape the trojan victimisation I experienced, which intercepted websites I visited, deleted some of my emails, crashed programs and systems when I tried to use them, and monitored me, targeting new devices I purchased.  I could not find a secure environment, so I decided to dedicate myself to making it easier for people to find one.
+    - I needed a secure environment to escape the trojan victimisation I experienced, which intercepted websites I visited, deleted some of my emails, crashed programs and systems when I tried to use them, and monitored me, targeting new devices I purchased.  I could not find a secure environment, so I decided to dedicate myself to making it easier for people to find one.
     - [ ] make or find a signal generator usable with arbitrary software defined radios
 - [ ] work on fuse++ for personal development
 - [ ] reopen my calendar file and resume using it
