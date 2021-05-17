@@ -7,6 +7,7 @@ I post the above paragraph because resisting the brainwashing, which includes no
   - [ ] make a toolkit that others might be able to work off of to construst and test an information-secure environment
     - I needed a secure environment to escape the trojan victimisation I experienced, which intercepted websites I visited, deleted some of my emails, crashed programs and systems when I tried to use them, and monitored me, targeting new devices I purchased.  I could not find a secure environment, so I decided to dedicate myself to making it easier for people to find one.
     - [ ] make or find a software signal generator usable with arbitrary software defined radios, to test the walls of potential shielded enclosures
+      - [ ] bring together a transmitting radio, a receiving radio, and a cable capable of the connecting the two together, to test with
       - [X] set up external drive 3 to build boost-archive
 - [ ] set up/use a timelogging system to allocat time to todo items
 - [ ] work on fuse++ for personal development
