@@ -4,6 +4,7 @@ I post the above paragraph because resisting the brainwashing, which includes no
 
 - [ ] Use this todo list for 1 week, updating it at least daily. {started sunday 5/16, continued thru 5/17}
 - [ ] regain access to my work by setting up a new operating system that is more stable.  hash the filesystem and bootloader before using them.  this text is cruft my phone is making it hard to delete: e os before using it.
+  - [ ] back up my old drive contents.  Set up a second raid in case I destroy my first.
 - [ ] work on openemissions for public security
   - [ ] make a toolkit that others might be able to work off of to construst and test an information-secure environment
     - I needed a secure environment to escape the trojan victimisation I experienced, which intercepted websites I visited, deleted some of my emails, crashed programs and systems when I tried to use them, and monitored me, targeting new devices I purchased.  I could not find a secure environment, so I decided to dedicate myself to making it easier for people to find one.
