@@ -10,6 +10,9 @@ I post the above paragraph because resisting the brainwashing, which includes no
 - [ ] work on fuse++ for personal development
   - [ ] port a test from libfuse
 - [ ] reopen my calendar file and resume using it
+- [ ] get personal logging going
+  - [ ] verify videos play from current surveillance system
+  - [ ] set up another system in truck
 - [ ] integrate other todo items together
 - [ ] potential friend requests we switch our culture to use AI so as to stay relevant, likely a good idea
 
