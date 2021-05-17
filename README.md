@@ -20,6 +20,9 @@ I post the above paragraph because resisting the brainwashing, which includes no
 - [ ] integrate other todo items together
 - [ ] potential friend requests we switch our culture to use AI so as to stay relevant, likely a good idea
 
+Issue log:
+  - 2021-05-17 My networked dev machine has stopped booting.  It says "libgcc_s.so.1: cannot open shared object file" for every one of my 3 kernel and initramfs pairs.  It's hard to judge how to engage it due to brainwashing against some of the normal approaches, which makes them much harder to consider and pursue.  I think it would be best to back the system up and install a fresh system.
+
 Purchase:
 
 Doable things:
