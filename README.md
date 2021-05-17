@@ -8,7 +8,9 @@ I post the above paragraph because resisting the brainwashing, which includes no
     - I needed a secure environment to escape the trojan victimisation I experienced, which intercepted websites I visited, deleted some of my emails, crashed programs and systems when I tried to use them, and monitored me, targeting new devices I purchased.  I could not find a secure environment, so I decided to dedicate myself to making it easier for people to find one.
     - [ ] make or find a software signal generator usable with arbitrary software defined radios, to test the walls of potential shielded enclosures
       - [X] set up external drive 3 to build boost-archive
+- [ ] set up/use a timelogging system to allocat time to todo items
 - [ ] work on fuse++ for personal development
+  - [ ] port forward to fuse3 so that can test on system running fuse3
   - [ ] port a test from libfuse
 - [ ] reopen my calendar file and resume using it
 - [ ] get personal logging going
