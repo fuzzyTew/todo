@@ -11,6 +11,7 @@ I post the above paragraph because resisting the brainwashing, which includes no
   - [ ] port a test from libfuse
 - [ ] reopen my calendar file and resume using it
 - [ ] integrate other todo items together
+- [ ] potential friend requests we switch our culture to use AI so as to stay relevant, likely a good idea
 
 Purchase:
 
