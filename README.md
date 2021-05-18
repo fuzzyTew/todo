@@ -2,15 +2,20 @@ If I do not update this todo list, it is because I am suffering from flashbacks 
 
 I post the above paragraph because resisting the brainwashing, which includes not talking about the experience and rather covering it up completely, is the only way I can do anything at all successfully.  I had an experience where I could engage some behavior while doing it straight in the middle of suffering.  I am seeing if I can repeat that for other valued goals.  I experience sudden changes to my behavior that are difficult to handle, but by magnifying the experiences and making them more brazen, they may change from simple behavior difficulties to severe suffering, flashbacks, and cognitive difficulties, and deep among those lies an eye of the infinite storm.
 
-- [ ] Use this todo list for 1 week, updating it at least daily. {started sunday 5/16, continued thru 5/17}
-- [ ] regain access to my work by setting up a new operating system that is more stable.  hash the filesystem and bootloader before using them.  this text is cruft my phone is making it hard to delete: e os before using it.
-  - [ ] back up my old drive contents.  Set up a second raid in case I destroy my first.
+- [ ] Use this todo list for 1 week, updating it at least daily. {started sunday 5/16, continued thru 5/18}
+- [X] I ended up fixing the busted system
+- [ ] merge this branch onto the fuzzytew upstream repo, maybe cherrypick or rebase could help
 - [ ] work on openemissions for public security
   - [ ] make a toolkit that others might be able to work off of to construst and test an information-secure environment
     - I needed a secure environment to escape the trojan victimisation I experienced, which intercepted websites I visited, deleted some of my emails, crashed programs and systems when I tried to use them, and monitored me, targeting new devices I purchased.  I could not find a secure environment, so I decided to dedicate myself to making it easier for people to find one.
     - [ ] make or find a software signal generator usable with arbitrary software defined radios, to test the walls of potential shielded enclosures
       - [ ] bring together a transmitting radio, a receiving radio, and a cable capable of the connecting the two together, to test with
-      - [X] set up external drive 3 to build boost-archive
+        - [X] turns out I don't have a transmitting sdr that I know where is.  I have a high quality radio that needs a transmitting expansion, but purchasing that is a poor investment for me this month
+        - [X] I outlined a gnuradio sink to transmit from a raspberry pi gpio pin.  This would let me unify the approach with my 'noiscillate' experiment.  committed outline to my openemissions repo.
+        - [ ] finish the almost-done pigpio gnuradio sink
+        - [ ] and/or order a cheaper transmitting radio like the hackrf
+        - [ ] and/or set up with a low-freq audio antenna
+        - [ ] and/or find another sdr I've misplaced that may transmit
 - [ ] set up/use a timelogging system to allocat time to todo items
 - [ ] work on fuse++ for personal development
   - [ ] port forward to fuse3 so that can test on system running fuse3
