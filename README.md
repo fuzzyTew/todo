@@ -29,7 +29,7 @@ I post the above paragraph because resisting the brainwashing, which includes no
 
 Issue log:
   - 2021-05-17 My networked dev machine has stopped booting.  It says "libgcc_s.so.1: cannot open shared object file" for every one of my 3 kernel and initramfs pairs.  It's hard to judge how to engage it due to brainwashing against some of the normal approaches, which makes them much harder to consider and pursue.  I think it would be best to back the system up and install a fresh system.  Additionally, coinbase-pro on my phone is not accepting UI input, which makes it hard to access more funds.
-    - I spent that entire day working on that and resolved it.  There were multiple issues combining on the laptop.  The phone let me use codebase after some reboots and time.  By that time I had changed my mind on withdrawing money, as my last btc purchases were above the current price.
+    - I spent that entire day working on that and resolved it.  There were multiple issues combining on the laptop.  The phone let me use coinbase after some reboots and time.  By that time I had changed my mind on withdrawing money, as my last btc purchases were above the current price.
 
 Purchase:
 
