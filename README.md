@@ -3,7 +3,8 @@ If I do not update this todo list, it is because I am suffering from flashbacks 
 I post the above paragraph because resisting the brainwashing, which includes not talking about the experience and rather covering it up completely, is the only way I can do anything at all successfully.  I had an experience where I could engage some behavior while doing it straight in the middle of suffering.  I am seeing if I can repeat that for other valued goals.  I experience sudden changes to my behavior that are difficult to handle, but by magnifying the experiences and making them more brazen, they may change from simple behavior difficulties to severe suffering, flashbacks, and cognitive difficulties, and deep among those lies an eye of the infinite storm.
 
 - [ ] Use this todo list for 1 week, updating it at least daily. {started sunday 5/16, continued thru 5/18}
-- [X] I ended up fixing the busted system
+- [ ] set up/use a timelogging system to allocate time to todo items
+      - keep this casual but keep it around.  once we have a sense of concern around how much time spent on something, it can be used to integrate decisions, time, and todo together.  all it needs to do is give us a way to spread our time among worries, when dissociated.  the worry needs to suggest an increasingly valid use of time.
 - [ ] merge this branch onto the fuzzytew upstream repo, maybe cherrypick or rebase could help
 - [ ] work on openemissions for public security
   - [ ] make a toolkit that others might be able to work off of to construst and test an information-secure environment
@@ -12,11 +13,9 @@ I post the above paragraph because resisting the brainwashing, which includes no
       - [ ] bring together a transmitting radio, a receiving radio, and a cable capable of the connecting the two together, to test with
         - [X] turns out I don't have a transmitting sdr that I know where is.  I have a high quality radio that needs a transmitting expansion, but purchasing that is a poor investment for me this month
         - [X] I outlined a gnuradio sink to transmit from a raspberry pi gpio pin.  This would let me unify the approach with my 'noiscillate' experiment.  committed outline to my openemissions repo.
-        - [ ] finish the almost-done pigpio gnuradio sink
-        - [ ] and/or order a cheaper transmitting radio like the hackrf
-        - [ ] and/or set up with a low-freq audio antenna
+        - [ ] convert the pigpio gnuradio sink to 'char' to easily fix a compile issue.  alternative is a slight refactoring to handle the templates.
+        - [ ] read briefly about using an audio antenna with gnuradio (for _transmitting_ and _receiving_, both ends) -> can we use a level shifter to send/receive E-waves with this?
         - [ ] and/or find another sdr I've misplaced that may transmit
-- [ ] set up/use a timelogging system to allocat time to todo items
 - [ ] work on fuse++ for personal development
   - [ ] port forward to fuse3 so that can test on system running fuse3
   - [ ] port a test from libfuse
