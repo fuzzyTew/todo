@@ -2,7 +2,8 @@ If I do not update this todo list, it is because I am suffering from flashbacks 
 
 I post the above paragraph because resisting the brainwashing, which includes not talking about the experience and rather covering it up completely, is the only way I can do anything at all successfully.  I had an experience where I could engage some behavior while doing it straight in the middle of suffering.  I am seeing if I can repeat that for other valued goals.  I experience sudden changes to my behavior that are difficult to handle, but by magnifying the experiences and making them more brazen, they may change from simple behavior difficulties to severe suffering, flashbacks, and cognitive difficulties, and deep among those lies an eye of the infinite storm.
 
-- [ ] Use this todo list for 1 week, updating it at least daily. {started sunday 5/16, continued thru 5/18}
+- [ ] Change this todo list to be goal-oriented, and dedicate all time to doing that for 2 days straight. [goal set 5/19]
+- [ ] Use this todo list for 1 week, updating it at least daily. {started sunday 5/16, continued thru 5/19 but developed a priority disjunction by 5/19}
 - [ ] set up/use a timelogging system to allocate time to todo items
       - keep this casual but keep it around.  once we have a sense of concern around how much time spent on something, it can be used to integrate decisions, time, and todo together.  all it needs to do is give us a way to spread our time among worries, when dissociated.  the worry needs to suggest an increasingly valid use of time.
 - [ ] merge this branch onto the fuzzytew upstream repo, maybe cherrypick or rebase could help
