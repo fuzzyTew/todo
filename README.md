@@ -1,3 +1,29 @@
+2021-05-25 We are at about 50% with regarding to being able to look at this todo list again.
+The 50% is holding while we heal around cognitive habits that are severely injuring our consciousness, and then we expect to quickly access it better when we remember to do so.
+The healing regarding cognitive injury is making progress, but has hit a temporary setback.
+
+To help around healing cognitive harm, there are two ideas:
+- Metrics of cognitive injury (we have mc around this and it seems medicine is faster than us, but it is likely still helpful)
+- Strength training around protection of reference influences (this is a possible cognitive practice)
+
+                 this means being able to consider things without considering harm.
+                    it's not well-labeled.  karl has a long-running internal habit
+                    of brainstorming how to harm his cognition around everything he
+                    consciously thinks, and then acting on that quickly.  is near joke
+                    and boss-trade.  takes strength to not do this.  with safe-strength
+                    we expect to become a little safer.]
+                    [there is timing involved in this.  after learning a little, give
+                     us time to get used to it as different parts of the mind are
+                     exposed to it in the context of the issue.]
+                        [hypnotherapist might be able to help with that.  unsure.]
+                            [it engages old personal spaces of karl's where he
+                             has conscious-neurons that can influence his undesired
+                             thoughts and schizotypal experiences.  all these neurons
+                             are mind-controlled now, but karl and they both recognise
+                             each other, they are just being doped by huge bad signals.]
+  The above-mentioned bad-signal doping is one of the most important things to us.  We expect it is not hard to identify with brain monitoring research equipment.  We would happily pay a lot of money to see and influence it.  Drugs likely influence it.  We have mc around using the drugs without some kind of measurement that they are helping this cognitive experience, and our reason-network that we use to resist mc values that measurement too.
+  - note to self: if succeedable, mc resistance priority around regaining control of thought influence.  =>one path was found, to retake willpower.  it seems helpful to build safe walls to protect from harm-spread when acting.  expecting: to get more parts and consciousness doing these safe walls.<=
+
 Karl, I'm sorry this todo list re-attempt didn't work out.
 
 Please try to do behaviors that seem like they accomplish something, especially if you are suffering.
