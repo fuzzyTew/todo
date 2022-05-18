@@ -1,5 +1,8 @@
 TODO:
- - [ ]
+ - [ ] combine old todo lists
+ - [ ] make another todo list
+
+
 
 TODO:
  - [ ] old todo stuff
