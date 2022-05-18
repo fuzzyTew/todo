@@ -1,8 +1,5 @@
-todo:
-
-todo:
+TODO:
  - [ ]
- -
 
 TODO:
  - [ ] old todo stuff
