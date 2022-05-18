@@ -8,3 +8,8 @@ TODO:
  - [ ] merge other todo lists
  - [ ] organise goals, values
  - [ ] organise possessions
+
+ - nicbox
+
+
+- [ ] make shopping list
