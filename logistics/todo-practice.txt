@@ -1,4 +1,6 @@
 TODO:
+- [ ] put something on a todo list and do it
+
  - [ ] combine old todo lists
  - [ ] make another todo list
  - [ ] organise items in todo list
@@ -9,6 +11,7 @@ TODO:
  - [ ] merge other todo lists
  - [ ] organise goals, values
  - [ ] organise possessions
+
  - [ ] make/use a schedule for things that are scheduled
 
  - nicbox
