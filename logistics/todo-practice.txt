@@ -20,5 +20,7 @@ TODO:
 
 
 TODO for practice x'ing things:
- - [ ] pick up and place down an object from floor.
+ - [x] pick up and place down an object from floor.
  - [x] move a nearby object
+ - [ ] pick up and place down an object needing organising
+
