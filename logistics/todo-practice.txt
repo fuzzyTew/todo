@@ -1,0 +1,26 @@
+TODO:
+ - [ ] put something on a todo list and do it
+
+ - [ ] combine old todo lists
+ - [ ] make another todo list
+ - [ ] organise items in todo list
+ - [ ] add things from other contexts
+
+
+TODO:
+ - [ ] merge other todo lists
+ - [ ] organise goals, values
+ - [ ] organise possessions
+
+ - [ ] make/use a schedule for things that are scheduled
+
+ - nicbox
+
+ - [ ] make shopping list
+
+
+TODO for practice x'ing things:
+ - [x] pick up and place down an object from floor.
+ - [x] move a nearby object
+ - [ ] pick up and place down an object needing organising
+
