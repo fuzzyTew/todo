@@ -1,6 +1,8 @@
 TODO:
  - [x] put something on a todo list and do it
  - [x] label two items in these lists with two different properties they have, that could be useful for organizing them
+ - [ ] organize the two items in some way using their properties
+
 
  - [ ] combine old todo lists
  	- big-job
