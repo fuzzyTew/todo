@@ -1,5 +1,6 @@
 TODO:
- - [ ] put something on a todo list and do it
+ - [x] put something on a todo list and do it
+ - [ ] label two items in these lists with two different properties they have, that could be useful for organizing them
 
  - [ ] combine old todo lists
  - [ ] make another todo list
