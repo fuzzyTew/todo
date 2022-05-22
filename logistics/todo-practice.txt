@@ -1,15 +1,16 @@
 TODO:
  - [x] put something on a todo list and do it
  - [x] label two items in these lists with two different properties they have, that could be useful for organizing them
- - [ ] organize the two items in some way using their properties
+ - [x] organize the two items in some way using their properties
+ - [ ] specify a hierarchical relationship betw--
 
 Ideas for things to regularly pick some of:
  - [ ] make another todo list
  	- small-practice
 Major goals:
-
  - [ ] combine old todo lists
  	- big-job
+
  - [ ] organise items in todo list
  - [ ] add things from other contexts
 
