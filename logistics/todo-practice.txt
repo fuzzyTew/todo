@@ -2,7 +2,7 @@ TODO:
  - [x] put something on a todo list and do it
  - [x] label two items in these lists with two different properties they have, that could be useful for organizing them
  - [x] organize the two items in some way using their properties
- - [ ] specify a hierarchical relationship betw--
+ - [ ] specify a hierarchical relationship between two properties, adding one or two new ones if helpful
 
 Ideas for things to regularly pick some of:
  - [ ] make another todo list
