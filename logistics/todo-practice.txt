@@ -3,11 +3,13 @@ TODO:
  - [x] label two items in these lists with two different properties they have, that could be useful for organizing them
  - [ ] organize the two items in some way using their properties
 
+Ideas for things to regularly pick some of:
+ - [ ] make another todo list
+ 	- small-practice
+Major goals:
 
  - [ ] combine old todo lists
  	- big-job
- - [ ] make another todo list
- 	- small-practice
  - [ ] organise items in todo list
  - [ ] add things from other contexts
 
