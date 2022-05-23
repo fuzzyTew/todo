@@ -8,8 +8,9 @@ Ideas for things to regularly pick some of:
  - [ ] make another todo list
  	- small-practice
 Major goals:
- - [ ] combine old todo lists
+ - [ ] combine old todo list
  	- big-job
+	- long-term
 
  - [ ] organise items in todo list
  - [ ] add things from other contexts
