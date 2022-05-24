@@ -3,6 +3,7 @@ TODO:
  - [x] label two items in these lists with two different properties they have, that could be useful for organizing them
  - [x] organize the two items in some way using their properties
  - [ ] specify a hierarchical relationship between two properties, adding one or two new ones if helpful
+ 	- [ ] if this is hard, one idea is adding a few more properties to things
 
 Ideas for things to regularly pick some of:
  - [ ] make another todo list
