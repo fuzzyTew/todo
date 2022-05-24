@@ -8,7 +8,8 @@ TODO:
 Ideas for things to regularly pick some of:
  - [ ] make another todo list
  	- small-practice
-	- develops high priority skill
+	- * develops high priority skill
+	- * part of current task
 
 Major goals:
  - [ ] combine old todo list
