@@ -17,6 +17,8 @@ Major goals:
  - [ ] combine old todo list
  	- big-job
 	- long-term
+	- * big long term goal
+	- part of larger goal
 
  - [ ] organise items in todo list
  - [ ] add things from other contexts
