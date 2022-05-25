@@ -4,6 +4,8 @@ TODO:
  - [x] organize the two items in some way using their properties
  - [ ] specify a hierarchical relationship between two properties, adding one or two new ones if helpful
  	- [ ] if this is hard, one idea is adding a few more properties to things
+ - [ ] add an item to a list that you actually want or need to do
+ - [ ] do the item you added
 
 Ideas for things to regularly pick some of:
  - [ ] make another todo list
