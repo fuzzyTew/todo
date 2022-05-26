@@ -12,13 +12,14 @@ Ideas for things to regularly pick some of:
  	- small-practice
 	- * develops high priority skill
 	- * part of current task
+    - larger goal: resume-todo-list
 
 Major goals:
  - [ ] combine old todo list
  	- big-job
 	- long-term
 	- * big long term goal
-	- part of larger goal
+	- larger goal: total-todo-list
 
  - [ ] organise items in todo list
  - [ ] add things from other contexts
