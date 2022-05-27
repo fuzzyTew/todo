@@ -1,4 +1,5 @@
 TODO:
+ - let's do 3 todo things in a cycle, to interweave practice with productivity
  - [x] put something on a todo list and do it
  - [x] label two items in these lists with two different properties they have, that could be useful for organizing them
  - [x] organize the two items in some way using their properties
