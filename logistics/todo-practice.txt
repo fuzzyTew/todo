@@ -8,6 +8,11 @@ TODO:
  - [ ] add an item to a list that you actually want or need to do
  - [ ] do the item you added
 
+        cycle
+        -  [ ] practice properties and inclusive todo-organizing
+        -  [ ] ensure i have a calendar, and then make steps to use
+        -
+
 Ideas for things to regularly pick some of:
  - [ ] make another todo list
  	- small-practice
