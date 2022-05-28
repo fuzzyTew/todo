@@ -14,9 +14,10 @@ TODO:
             - [ ] 00-Organizer.txt in this folder has vimswap
         -  [ ] organise my things
 
-    ideas for practicing using just-a-few-seconds:
+    ideas for spending time on:
         - [ ] eeg
         - [ ] dual n-back etc
+        - [ ] data preservation
         - [ ] secure phone / pocket device
         - [ ] awareness/fox-walking
         - [ ] cold outdoors
