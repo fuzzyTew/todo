@@ -14,6 +14,14 @@ TODO:
             - [ ] 00-Organizer.txt in this folder has vimswap
         -  [ ] organise my things
 
+    ideas for practicing using just-a-few-seconds:
+        - [ ] eeg
+        - [ ] dual n-back etc
+        - [ ] secure phone / pocket device
+        - [ ] awareness/fox-walking
+        - [ ] cold outdoors
+        some of these may be overlappable with others. thinking maybe avoid binding specifically with though.
+
 Ideas for things to regularly pick some of:
  - [ ] make another todo list
  	- small-practice
