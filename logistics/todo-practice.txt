@@ -10,8 +10,8 @@ TODO:
 
         cycle
         -  [ ] practice properties and inclusive todo-organizing
-        -  [ ] ensure i have a calendar, and then make steps to use
-        -
+        -* [ ] ensure i have a calendar, and then make steps to use
+        -  [ ] organise my things
 
 Ideas for things to regularly pick some of:
  - [ ] make another todo list
