@@ -10,9 +10,10 @@ TODO:
 
         cycle
         -  [ ] organise this todo list
-        -* [ ] ensure i have a calendar, and then make steps to use
-            - [ ] 00-Organizer.txt in this folder has vimswap
-        -  [ ] organise my things
+        -  [ ] ensure i have a calendar, and then make steps to use
+            - [ ] 00-Organizer.txt in this folder has vimswap. otherwise, it is synced with git.
+        -* [ ] organise my things
+            - [ ] indoor XO computers: let's pick a place to put them
 
     ideas for spending time on:
         - [ ] eeg
