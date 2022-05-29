@@ -18,6 +18,7 @@ TODO:
 
     ideas for spending time on:
         - [ ] eeg
+            - larger goal: [record of crucial cognitive changes]
         - [ ] dual n-back etc
         - [ ] data preservation
         - [ ] secure phone / pocket device
