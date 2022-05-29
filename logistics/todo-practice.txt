@@ -9,8 +9,8 @@ TODO:
  - [ ] do the item you added
 
         cycle
-        -* [ ] organise this todo list
-        -  [ ] ensure i have a calendar, and then make steps to use
+        -  [ ] organise and do this todo list
+        -* [ ] ensure i have a calendar, and then make steps to use
             - [ ] 00-Organizer.txt in this folder has vimswap. otherwise, it is synced with git.
         -  [ ] organise my things
             - [ ] indoor XO computers: let's pick a place to put them
@@ -34,13 +34,13 @@ Ideas for things to regularly pick some of:
     - larger goal: resume-todo-list
 
 Major goals:
- - [ ] combine old todo list
- 	- big-job
-	- long-term
-	- * big long term goal
-	- larger goal: total-todo-list
-
- - [ ] organise items in todo list
+ - [ ] totoal-todo-list
+     - [ ] combine old todo list
+     	- big-job
+    	- long-term
+    	- * big long term goal
+    	- larger goal: total-todo-list
+     - [ ] organise items in todo list [this looks like could merge with previous one]
  - [ ] add things from other contexts
 
 
