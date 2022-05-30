@@ -5,12 +5,15 @@ TODO:
  - [x] organize the two items in some way using their properties
  - [ ] specify a hierarchical relationship between two properties, adding one or two new ones if helpful
  	- [ ] if this is hard, one idea is adding a few more properties to things
+    - note: things are hierarchical when all the properties of the larger one describe
+      the smaller one, but not the other way around. hierarchies include groups, categories,
+      and reasons.
  - [ ] add an item to a list that you actually want or need to do
  - [ ] do the item you added
 
         cycle
-        -* [ ] organise and do this todo list
-        -  [ ] ensure i have a calendar, and then make steps to use
+        -  [ ] organise and do this todo list
+        -* [ ] ensure i have a calendar, and then make steps to use
             - [X] resolved vim swap with 00-Organizer.txt 
         -  [ ] organise my things
             - [ ] indoor XO computers: let's pick a place to put them
