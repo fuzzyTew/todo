@@ -9,14 +9,14 @@ TODO:
  - [ ] do the item you added
 
         cycle
-        -  [ ] organise and do this todo list
+        -* [ ] organise and do this todo list
         -  [ ] ensure i have a calendar, and then make steps to use
             - [X] resolved vim swap with 00-Organizer.txt 
-        -* [ ] organise my things
+        -  [ ] organise my things
             - [ ] indoor XO computers: let's pick a place to put them
                 - -> the XO i saw is already in the laptop box
                 -    there is also an olimex compute with many parts
-                - [ ] let's put a label on a wall that says 'laptops'
+                - [x] let's put a label on a wall that says 'laptops'
 
     ideas for spending time on:
         - [ ] eeg
