@@ -13,11 +13,11 @@ TODO:
 
         cycle
         -  [ ] organise and do this todo list
-        -* [ ] ensure i have a calendar, and then make steps to use
+        -  [ ] ensure i have a calendar, and then make steps to use
             - i get issues when looking at calendar doc (which has 8-width tabbing)
             - let's look at it for other steps too
-            - [ ] set up to look at the calendar doc for other steps, then move to organise
-        -  [ ] organise my things
+            - [x] set up to look at the calendar doc for other steps, then move to organise
+        -* [ ] organise my things
             - [ ] indoor XO computers: let's pick a place to put them
                 - -> the XO i saw is already in the laptop box
                 -    there is also an olimex compute with many parts
