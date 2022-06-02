@@ -4,6 +4,7 @@ TODO:
  - [x] label two items in these lists with two different properties they have, that could be useful for organizing them
  - [x] organize the two items in some way using their properties
  - [ ] specify a hierarchical relationship between two properties, adding one or two new ones if helpful
+            REASON [might want to change item if not helping]: ORGANIZE THIS TODO LIST
  	- [ ] if this is hard, one idea is adding a few more properties to things
     - note: things are hierarchical when all the properties of the larger one describe
       the smaller one, but not the other way around. hierarchies include groups, categories,
@@ -15,8 +16,8 @@ TODO:
  - [ ] do the item you added
 
         cycle
-        -* [ ] organise and do this larger todo list
-        -  [ ] ensure i have a calendar, and then make steps to use
+        -  [ ] organise and do this larger todo list
+        -* [ ] ensure i have a calendar, and then make steps to use
             - [ ] find where in the calendar doc i last did calendaring
         -  [ ] organise my things
             - [ ] put laptops under wall label
