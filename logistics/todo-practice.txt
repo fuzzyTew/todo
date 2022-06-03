@@ -22,9 +22,10 @@ TODO:
                 -> there's a section called CALENDAR. its last entry is 2019-03-26, a tuesday
              yeah !!!! was celebration-reply. erase this line when find.
         -* [ ] organise my things
-            - [ ] put laptops under wall label
             - [ ] put different parts from power supply project into sorted places
                     - [ ] discern if get plastic bags from kitchen
+                            [could we just grab some during some non-todo time?]
+            - [ ] put laptops under wall label
     ideas for spending time on:
         - [ ] eeg
             - larger goal: [record of crucial cognitive changes]
