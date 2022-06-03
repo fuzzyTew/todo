@@ -16,12 +16,13 @@ TODO:
  - [ ] do the item you added
 
         cycle
-        -  [ ] organise and do this larger todo list
+        -* [ ] organise and do this larger todo list
+                    note: this is really hard, and useful, both.
         -  [ ] ensure i have a calendar, and then make steps to use
             - [x] find where in the calendar doc i last did calendaring
                 -> there's a section called CALENDAR. its last entry is 2019-03-26, a tuesday
              yeah !!!! was celebration-reply. erase this line when find.
-        -* [ ] organise my things
+        -  [ ] organise my things
             - [ ] put different parts from power supply project into sorted places
                     - [ ] discern if get plastic bags from kitchen
                             [could we just grab some during some non-todo time?]
