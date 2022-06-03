@@ -18,6 +18,11 @@ TODO:
         cycle
         -* [ ] organise and do this larger todo list
                     note: this is really hard, and useful, both.
+                    an idea was dedicating more than 1/3rd of available time to it.
+                            we want to get good at properties, whether written or used or both
+             halted cycling so as to build/retain-built executive skill here
+
+
         -  [ ] ensure i have a calendar, and then make steps to use
             - [x] find where in the calendar doc i last did calendaring
                 -> there's a section called CALENDAR. its last entry is 2019-03-26, a tuesday
