@@ -1,5 +1,8 @@
+PRACTICE TODO LIST
+
 TODO:
  - let's do 3 todo things in a cycle, to interweave practice with productivity
+            - ongoing
  - [x] put something on a todo list and do it
  - [x] label two items in these lists with two different properties they have, that could be useful for organizing them
  - [x] organize the two items in some way using their properties
@@ -21,6 +24,12 @@ TODO:
                     an idea was dedicating more than 1/3rd of available time to it.
                             we want to get good at properties, whether written or used or both
              halted cycling so as to build/retain-built executive skill here
+                    REASON is big category, propose most important
+                    doesn't need to be perfect.
+                    - one of the reasons organising is challenging is because we
+                      can have experiences of amnesiatic inhibition, where the labels
+                      we use stop making sense, new ones making more sense.
+                      this presently appears to be the reason for writing their details.
 
 
         -  [ ] ensure i have a calendar, and then make steps to use
