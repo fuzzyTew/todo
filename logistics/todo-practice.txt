@@ -1,12 +1,16 @@
 PRACTICE TODO LIST
 
-TODO:
+NORM: [considering split: stays same vs checks off, or ongoing vs completable]
  - let's do 3 todo things in a cycle, to interweave practice with productivity
             - ongoing
+
+TODO:
  - [x] put something on a todo list and do it
  - [x] label two items in these lists with two different properties they have, that could be useful for organizing them
  - [x] organize the two items in some way using their properties
+
  - [ ] specify a hierarchical relationship between two properties, adding one or two new ones if helpful
+                detail
             REASON [might want to change item if not helping]: ORGANIZE THIS TODO LIST
  	- [ ] if this is hard, one idea is adding a few more properties to things
     - note: things are hierarchical when all the properties of the larger one describe
@@ -20,6 +24,7 @@ TODO:
 
         cycle
         -* [ ] organise and do this larger todo list
+                - [ ] let's try to simplify/consolidate something
                     note: this is really hard, and useful, both.
                     an idea was dedicating more than 1/3rd of available time to it.
                             we want to get good at properties, whether written or used or both
@@ -30,6 +35,7 @@ TODO:
                       can have experiences of amnesiatic inhibition, where the labels
                       we use stop making sense, new ones making more sense.
                       this presently appears to be the reason for writing their details.
+                    simplicity, clarity, topicality
 
 
         -  [ ] ensure i have a calendar, and then make steps to use
