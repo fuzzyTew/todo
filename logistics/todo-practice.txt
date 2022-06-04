@@ -26,6 +26,8 @@ TODO:
         -* [ ] organise and do this larger todo list
                 - [ ] let's try to simplify/consolidate something
                     note: this is really hard, and useful, both.
+                       ---> ?   it might be helpful to do just a little, then move on, each
+                                time
                     an idea was dedicating more than 1/3rd of available time to it.
                             we want to get good at properties, whether written or used or both
              halted cycling so as to build/retain-built executive skill here
