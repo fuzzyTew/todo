@@ -24,8 +24,6 @@ TODO:
 
         cycle
         -* [ ] organise and do this larger todo list
-              - [ ] first: let's make a plan to start with this each time
-
                 - [ ] let's try to simplify/consolidate something
                     note: this is really hard, and useful, both.
 
