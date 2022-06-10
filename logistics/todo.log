@@ -53,5 +53,5 @@
 55 2022-06-05 1344: [x] 53 seconds
 56 2022-06-06 1526: [ ] 53 seconds next: split the time into todo-organisation, and todo-doing
                                             20 seconds todo-organisation, then doing.
-57 2022-06-10 1228: [ ] 20 seconds todo-doc, 33 seconds todo-items
+57 2022-06-10 1228: [x] 20 seconds todo-doc, 33 seconds todo-items
 before clock, keep 00-Organizer.txt open in a vim pane. note: 00-Organizer.txt was trying to be a todo list.
