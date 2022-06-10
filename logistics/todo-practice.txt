@@ -9,6 +9,11 @@ TODO:
  - [x] label two items in these lists with two different properties they have, that could be useful for organizing them
  - [x] organize the two items in some way using their properties
 
+ - [ ] write a summary of the contents of this todo list
+        - [ ] set aside a section for the summary
+        - [ ] summarise the first 4 items into it
+        - [ ] summarise the remaining items
+
  - [ ] specify a hierarchical relationship between two properties, adding one or two new ones if helpful
                 detail
             REASON [might want to change item if not helping]: ORGANIZE THIS TODO LIST
