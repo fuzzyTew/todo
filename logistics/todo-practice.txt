@@ -4,13 +4,16 @@ NORM: [considering split: stays same vs checks off, or ongoing vs completable]
  - let's do 3 todo things in a cycle, to interweave practice with productivity
             - ongoing
 
+SUMMARY:
+    
+
 TODO:
  - [x] put something on a todo list and do it
  - [x] label two items in these lists with two different properties they have, that could be useful for organizing them
  - [x] organize the two items in some way using their properties
 
  - [ ] write a summary of the contents of this todo list
-        - [ ] set aside a section for the summary
+        - [x] set aside a section for the summary
         - [ ] summarise the first 4 items into it
         - [ ] summarise the remaining items
 
@@ -55,6 +58,8 @@ TODO:
                 - [ ] make a section at top of calendar, and start current calendar there.
         - * [ ] organise my things
             - [ ] put different parts from power supply project into sorted places
+                    GUESSING THAT MOST OF THIS CAN GO IN A NEW PLACED BOX THAT CAN BE LABELED "WIRING"
+                    CAN WE GET SOME PLASTIC BAGS FROM KITCHEN?
                     - [ ] discern if get plastic bags from kitchen
                             [could we just grab some during some non-todo time?]
             - [ ] put laptops under wall label
